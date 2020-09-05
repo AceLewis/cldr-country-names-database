@@ -1,0 +1,888 @@
+{
+    "001": {
+        "name": "Agb\u00e1y\u00e9"
+    },
+    "002": {
+        "name": "\u00c1f\u00edr\u00edk\u00e0"
+    },
+    "003": {
+        "name": "\u00c0r\u00edw\u00e1 Am\u025b\u0301r\u00edk\u00e0"
+    },
+    "005": {
+        "name": "G\u00fa\u00fash\u00f9 Am\u025b\u0301r\u00edk\u00e0"
+    },
+    "009": {
+        "name": "Oceania"
+    },
+    "011": {
+        "name": "\u00ccw\u0254\u0300 oor\u00f9n Af\u00edr\u00edk\u00e0"
+    },
+    "013": {
+        "name": "\u00c0\u00e0rin Gb\u00f9gb\u00f9n \u00c0m\u025b\u0301r\u00edk\u00e0"
+    },
+    "014": {
+        "name": "\u00ccl\u00e0 Oor\u00f9n \u00c1f\u00edr\u00edk\u00e0"
+    },
+    "015": {
+        "name": "Northern Africa"
+    },
+    "017": {
+        "name": "\u00c0\u00e0r\u00edn gb\u00f9ngb\u00f9n Af\u00edr\u00edk\u00e0"
+    },
+    "018": {
+        "name": "Ap\u00e1g\u00fa\u00fas\u00f9 \u00c1f\u00edr\u00edk\u00e0"
+    },
+    "019": {
+        "name": "Am\u025b\u0301r\u00edk\u00e0"
+    },
+    "021": {
+        "name": "Ap\u00e1\u00e0r\u00edw\u00e1 Am\u025b\u0301r\u00edk\u00e0"
+    },
+    "029": {
+        "name": "K\u00e1r\u00edb\u00ed\u00e0n\u00f9"
+    },
+    "030": {
+        "name": "\u00ccl\u00e0 \u00d2\u00f2r\u00f9n Esh\u00ed\u00e0"
+    },
+    "034": {
+        "name": "G\u00fa\u00fash\u00f9 Esh\u00ed\u00e0"
+    },
+    "035": {
+        "name": "G\u00fa\u00fash\u00f9 \u00ecl\u00e0 \u00f2\u00f2r\u00f9n \u00c9sh\u00ed\u00e0"
+    },
+    "039": {
+        "name": "G\u00fa\u00fash\u00f9 Y\u00far\u00f3\u00f2p\u00f9"
+    },
+    "053": {
+        "name": "\u0186shir\u00e9lash\u00ed\u00e0"
+    },
+    "054": {
+        "name": "M\u025blan\u00e9sh\u00ed\u00e0"
+    },
+    "057": {
+        "name": "Agb\u00e8gb\u00e8 Maikiron\u00e9sh\u00ed\u00e0"
+    },
+    "061": {
+        "name": "Polinesh\u00ed\u00e0"
+    },
+    "142": {
+        "name": "Asia"
+    },
+    "143": {
+        "name": "\u00c0\u00e0rin Gb\u00f9ngb\u00f9n \u00c9sh\u00ed\u00e0"
+    },
+    "145": {
+        "name": "\u00ccw\u0254\u0300 \u00d2\u00f2r\u00f9n Esh\u00ed\u00e0"
+    },
+    "150": {
+        "name": "Europe"
+    },
+    "151": {
+        "name": "\u00ccl\u00e0 \u00d2r\u00f9n Y\u00far\u00f3p\u00f9"
+    },
+    "154": {
+        "name": "Northern Europe"
+    },
+    "155": {
+        "name": "\u00ccw\u0254\u0300 \u00d2\u00f2r\u00f9n Y\u00far\u00f3p\u00f9"
+    },
+    "202": {
+        "name": "S\u00e0h\u00e1r\u00e0 \u00c1f\u00edr\u00edk\u00e0"
+    },
+    "419": {
+        "name": "L\u00e1t\u00edn Am\u025b\u0301r\u00edk\u00e0"
+    },
+    "AC": {
+        "name": "Er\u00e9k\u00f9s\u00f9 Ascension"
+    },
+    "AD": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c0\u00e0nd\u00f3r\u00e0"
+    },
+    "AE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u0190mirate ti Aw\u0254n Arabu"
+    },
+    "AF": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c0f\u00f9g\u00e0n\u00edst\u00e1n\u00ec"
+    },
+    "AG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c0\u00e0nt\u00edg\u00fa\u00e0 \u00e0ti B\u00e1r\u00edb\u00fad\u00e0"
+    },
+    "AI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c0\u00e0ng\u00fal\u00edl\u00e0"
+    },
+    "AL": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c0l\u00f9b\u00e0n\u00ed\u00e1n\u00ec"
+    },
+    "AM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Am\u00e9n\u00ed\u00e0"
+    },
+    "AO": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c0\u00e0ng\u00f3l\u00e0"
+    },
+    "AQ": {
+        "name": "Antak\u00edt\u00edk\u00e0"
+    },
+    "AR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Agent\u00edn\u00e0"
+    },
+    "AS": {
+        "name": "S\u00e1m\u00f3\u00e1n\u00ec ti Or\u00edl\u025b\u0301\u00e8de \u00c0m\u00e9r\u00edk\u00e0"
+    },
+    "AT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de As\u00edt\u00edr\u00ed\u00e0"
+    },
+    "AU": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c1str\u00e0l\u00ec\u00e1"
+    },
+    "AW": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c1r\u00fab\u00e0"
+    },
+    "AX": {
+        "name": "\u00c0w\u0254n Er\u00e9k\u00f9s\u00f9 ti \u00c5land"
+    },
+    "AZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de As\u025b\u0301b\u00e1j\u00e1n\u00ec"
+    },
+    "BA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u0254\u0300s\u00edn\u00ed\u00e0 \u00e0ti \u0190tis\u025bg\u00f3f\u00edn\u00e0"
+    },
+    "BB": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00e1b\u00e1d\u00f3s\u00ec"
+    },
+    "BD": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00e1ng\u00e1l\u00e1d\u00e9s\u00ec"
+    },
+    "BE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00e9g\u00ed\u0254\u0301m\u00f9"
+    },
+    "BF": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00f9\u00f9k\u00edn\u00e1 Fas\u00f2"
+    },
+    "BG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00f9\u00f9g\u00e1r\u00ed\u00e0"
+    },
+    "BH": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00e1r\u00e1n\u00ec"
+    },
+    "BI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00f9\u00f9r\u00fand\u00ec"
+    },
+    "BJ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u025b\u0300n\u025b\u0300"
+    },
+    "BL": {
+        "name": "St. Barth\u00e9lemy"
+    },
+    "BM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00e9m\u00fad\u00e0"
+    },
+    "BN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00far\u00fan\u025b\u0301l\u00ec"
+    },
+    "BO": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u0254\u0300l\u00edf\u00edy\u00e0"
+    },
+    "BQ": {
+        "name": "Caribbean Netherlands"
+    },
+    "BR": {
+        "name": "Oril\u025b\u0300-\u00e8d\u00e8 B\u00e0r\u00e0s\u00edl\u00ec"
+    },
+    "BS": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00e0h\u00e1m\u00e1s\u00ec"
+    },
+    "BT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00fat\u00e1n\u00ec"
+    },
+    "BV": {
+        "name": "Er\u00e9k\u00f9s\u00f9 Bouvet"
+    },
+    "BW": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u0254\u0300t\u00ecs\u00faw\u00e1n\u00e0"
+    },
+    "BY": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00e9l\u00e1r\u00fas\u00ec"
+    },
+    "BZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de B\u00e8l\u00eds\u025b\u0300"
+    },
+    "CA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de K\u00e1n\u00e1d\u00e0"
+    },
+    "CC": {
+        "name": "Er\u00e9k\u00f9s\u00f9 Cocos (Keeling)"
+    },
+    "CD": {
+        "name": "Oril\u025b\u0301\u00e8de K\u00f3ng\u00f2"
+    },
+    "CF": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c0rin g\u00f9ngun \u00c1f\u00edr\u00edk\u00e0"
+    },
+    "CG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de K\u00f3ng\u00f2"
+    },
+    "CH": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de switishilandi"
+    },
+    "CI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de K\u00f3\u00fat\u00e8 for\u00e0"
+    },
+    "CK": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Et\u00edokun K\u00f9\u00fak\u00f9"
+    },
+    "CL": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de sh\u00edl\u00e8"
+    },
+    "CM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kamer\u00fa\u00fan\u00ec"
+    },
+    "CN": {
+        "name": "Oril\u025b\u0300-\u00e8d\u00e8 Sh\u00e1\u00edn\u00e0"
+    },
+    "CO": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de K\u00f2l\u00f3m\u00edb\u00eca"
+    },
+    "CP": {
+        "name": "Er\u00e9k\u00f9s\u00f9 Clipperston"
+    },
+    "CR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kuusita R\u00edk\u00e0"
+    },
+    "CU": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de K\u00fab\u00e0"
+    },
+    "CV": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Et\u00edokun K\u00e1p\u00e9 f\u00e9nd\u00e8"
+    },
+    "CW": {
+        "name": "Cura\u00e7ao"
+    },
+    "CX": {
+        "name": "Er\u00e9k\u00f9s\u00f9 Christmas"
+    },
+    "CY": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de K\u00far\u00fas\u00ec"
+    },
+    "CZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de sh\u025b\u0301\u025b\u0301k\u00ec"
+    },
+    "DE": {
+        "name": "Or\u00edl\u025b\u00e8d\u00e8 J\u00e1m\u00e1n\u00ec"
+    },
+    "DG": {
+        "name": "Diego Gashia"
+    },
+    "DJ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de D\u00edb\u0254\u0301\u00f3t\u00ec"
+    },
+    "DK": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de D\u025b\u0301m\u00e1k\u00ec"
+    },
+    "DM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de D\u00f2m\u00edn\u00edk\u00e0"
+    },
+    "DO": {
+        "name": "Oril\u025b\u0301\u00e8de D\u00f2m\u00edn\u00edk\u00e1n\u00ec"
+    },
+    "DZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c0l\u00f9g\u00e8r\u00ed\u00e1n\u00ec"
+    },
+    "EA": {
+        "name": "Seuta \u00e0ti Melilla"
+    },
+    "EC": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Eku\u00e1d\u00f2"
+    },
+    "EE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Esitonia"
+    },
+    "EG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00c9g\u00edp\u00edt\u00ec"
+    },
+    "EH": {
+        "name": "\u00ccw\u0254\u0300\u00f2\u00f2r\u00f9n S\u00e0h\u00e1r\u00e0"
+    },
+    "ER": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Eritira"
+    },
+    "ES": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Sipani"
+    },
+    "ET": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Etopia"
+    },
+    "EU": {
+        "name": "\u00ccsh\u0254\u0300kan Y\u00far\u00f2p\u00f9"
+    },
+    "EZ": {
+        "name": "Agb\u00e8gb\u00e8 Euro"
+    },
+    "FI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Filandi"
+    },
+    "FJ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Fiji"
+    },
+    "FK": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Etikun Fakalandi"
+    },
+    "FM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Makoronesia"
+    },
+    "FO": {
+        "name": "\u00c0w\u0254n Er\u00e9k\u00f9s\u00f9 ti Faroe"
+    },
+    "FR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Faranse"
+    },
+    "GA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Gabon"
+    },
+    "GB": {
+        "name": "Or\u00edl\u025b\u0301\u00e8d\u00e8 G\u025b\u0300\u025b\u0301s\u00ec"
+    },
+    "GD": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Genada"
+    },
+    "GE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de G\u0254gia"
+    },
+    "GF": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Firenshi Guana"
+    },
+    "GG": {
+        "name": "Guernsey"
+    },
+    "GH": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Gana"
+    },
+    "GI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Gibaratara"
+    },
+    "GL": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Gerelandi"
+    },
+    "GM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Gambia"
+    },
+    "GN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Gene"
+    },
+    "GP": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Gadelope"
+    },
+    "GQ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Ekutoria Gini"
+    },
+    "GR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Geriisi"
+    },
+    "GS": {
+        "name": "G\u00fa\u00fas\u00f9 Georgia \u00e0ti G\u00fa\u00fas\u00f9 \u00c0w\u0254n Er\u00e9k\u00f9s\u00f9 Sandwich"
+    },
+    "GT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Guatemala"
+    },
+    "GU": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Guamu"
+    },
+    "GW": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Gene-Busau"
+    },
+    "GY": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Guyana"
+    },
+    "HK": {
+        "name": "Hong Kong SAR ti Sh\u00e1\u00ecn\u00e0"
+    },
+    "HM": {
+        "name": "Er\u00e9k\u00f9s\u00f9 Heard \u00e0ti Er\u00e9k\u00f9s\u00f9 McDonald"
+    },
+    "HN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Hondurasi"
+    },
+    "HR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de K\u00f2r\u00f3\u00e1t\u00ed\u00e0"
+    },
+    "HT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Haati"
+    },
+    "HU": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Hungari"
+    },
+    "IC": {
+        "name": "\u0190r\u00e9k\u00f9s\u00f9 K\u00e1n\u00e1r\u00ec"
+    },
+    "ID": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Indonesia"
+    },
+    "IE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Ailandi"
+    },
+    "IL": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Iser\u025bli"
+    },
+    "IM": {
+        "name": "Isle of Man"
+    },
+    "IN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de India"
+    },
+    "IO": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Et\u00edkun \u00cdnd\u00ed\u00e1n\u00ec ti \u00ccl\u00fa B\u00edr\u00edt\u00eds\u00ec"
+    },
+    "IQ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Iraki"
+    },
+    "IR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Irani"
+    },
+    "IS": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Ashilandi"
+    },
+    "IT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de It\u00e1li"
+    },
+    "JE": {
+        "name": "Jersey"
+    },
+    "JM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Jamaika"
+    },
+    "JO": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de J\u0254dani"
+    },
+    "JP": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Japani"
+    },
+    "KE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kenya"
+    },
+    "KG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kurishisitani"
+    },
+    "KH": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de K\u00e0m\u00f9b\u00f3d\u00ed\u00e0"
+    },
+    "KI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kiribati"
+    },
+    "KM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de K\u00f2m\u00f2r\u00f3s\u00ec"
+    },
+    "KN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kiiti ati Neefi"
+    },
+    "KP": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Guusu K\u0254ria"
+    },
+    "KR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Ariwa K\u0254ria"
+    },
+    "KW": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kuweti"
+    },
+    "KY": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Et\u00edokun K\u00e1m\u00e1n\u00ec"
+    },
+    "KZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kashashatani"
+    },
+    "LA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Laosi"
+    },
+    "LB": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Lebanoni"
+    },
+    "LC": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Lushia"
+    },
+    "LI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de L\u025bshit\u025bnisiteni"
+    },
+    "LK": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Siri Lanka"
+    },
+    "LR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Laberia"
+    },
+    "LS": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Lesoto"
+    },
+    "LT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Lituania"
+    },
+    "LU": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Lusemogi"
+    },
+    "LV": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Latifia"
+    },
+    "LY": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Libiya"
+    },
+    "MA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Moroko"
+    },
+    "MC": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Monako"
+    },
+    "MD": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Modofia"
+    },
+    "ME": {
+        "name": "Montenegro"
+    },
+    "MF": {
+        "name": "St. Martin"
+    },
+    "MG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Madasika"
+    },
+    "MH": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Etikun M\u00e1shali"
+    },
+    "MK": {
+        "name": "\u00c0r\u00edw\u00e1 Macedonia"
+    },
+    "ML": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Mali"
+    },
+    "MM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Manamari"
+    },
+    "MN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Mogolia"
+    },
+    "MO": {
+        "name": "Macao SAR ti Sh\u00e1\u00ecn\u00e0",
+        "short": "M\u00e0k\u00e1\u00f2"
+    },
+    "MP": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Etikun Guusu Mariana"
+    },
+    "MQ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Matinikuwi"
+    },
+    "MR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Maritania"
+    },
+    "MS": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Motserati"
+    },
+    "MT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Malata"
+    },
+    "MU": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Maritiusi"
+    },
+    "MV": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Maladifi"
+    },
+    "MW": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Malawi"
+    },
+    "MX": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Mesiko"
+    },
+    "MY": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Malasia"
+    },
+    "MZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Moshamibiku"
+    },
+    "NA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Namibia"
+    },
+    "NC": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kaledonia Titun"
+    },
+    "NE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de N\u00e0\u00ecj\u00e1"
+    },
+    "NF": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Etikun N\u0254\u0301\u00faf\u00f3k\u00ec"
+    },
+    "NG": {
+        "name": "Oril\u025b\u0300-\u00e8d\u00e8 N\u00e0\u00ecj\u00edr\u00ed\u00e0"
+    },
+    "NI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de NIkaragua"
+    },
+    "NL": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Nedalandi"
+    },
+    "NO": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de N\u0254\u0254wii"
+    },
+    "NP": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Nepa"
+    },
+    "NR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Nauru"
+    },
+    "NU": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Niue"
+    },
+    "NZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de shilandi Titun"
+    },
+    "OM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u0186\u0254ma"
+    },
+    "PA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Panama"
+    },
+    "PE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Peru"
+    },
+    "PF": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Firenshi Polinesia"
+    },
+    "PG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Paapu ti Giini"
+    },
+    "PH": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de filipini"
+    },
+    "PK": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Pakisitan"
+    },
+    "PL": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Polandi"
+    },
+    "PM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de P\u025b\u025bri ati mikuloni"
+    },
+    "PN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Pikarini"
+    },
+    "PR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de P\u0254to Riko"
+    },
+    "PS": {
+        "name": "Agb\u00e8gb\u00e8 Pal\u025bs\u00edt\u00ed\u00e0n\u00f9",
+        "short": "Pal\u025bsit\u00edn"
+    },
+    "PT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de P\u0254\u0301t\u00fag\u00e0"
+    },
+    "PW": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Paalu"
+    },
+    "PY": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Paraguye"
+    },
+    "QA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Kota"
+    },
+    "QO": {
+        "name": "Agb\u00e8gb\u00e8 Oceania"
+    },
+    "RE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Riuniyan"
+    },
+    "RO": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Romaniya"
+    },
+    "RS": {
+        "name": "Serbia"
+    },
+    "RU": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de R\u0254shia"
+    },
+    "RW": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Ruwanda"
+    },
+    "SA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Saudi Arabia"
+    },
+    "SB": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Etikun Solomoni"
+    },
+    "SC": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de sesh\u025bl\u025bsi"
+    },
+    "SD": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Sudani"
+    },
+    "SE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Swidini"
+    },
+    "SG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Singapo"
+    },
+    "SH": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de H\u025blena"
+    },
+    "SI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Silofania"
+    },
+    "SJ": {
+        "name": "Svalbard & Jan Mayen"
+    },
+    "SK": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Silofakia"
+    },
+    "SL": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Siria looni"
+    },
+    "SM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Sani Marino"
+    },
+    "SN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de S\u025bn\u025bga"
+    },
+    "SO": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Somalia"
+    },
+    "SR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Surinami"
+    },
+    "SS": {
+        "name": "G\u00fa\u00fas\u00f9 Sudan"
+    },
+    "ST": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Sao tomi ati piriishipi"
+    },
+    "SV": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u0190\u025bs\u00e1f\u00e1d\u00f2"
+    },
+    "SX": {
+        "name": "Sint Maarten"
+    },
+    "SY": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Siria"
+    },
+    "SZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Sashiland",
+        "variant": "S\u00edw\u00e1s\u00ecland\u00ec"
+    },
+    "TA": {
+        "name": "Tristan da Kunha"
+    },
+    "TC": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de T\u0254\u0254ki ati Etikun Kak\u0254si"
+    },
+    "TD": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de sh\u00e0\u00e0d\u00ec"
+    },
+    "TF": {
+        "name": "Agb\u00e8gb\u00e8 G\u00fa\u00fas\u00f9 Faransh\u00e9"
+    },
+    "TG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Togo"
+    },
+    "TH": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Tailandi"
+    },
+    "TJ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Takisitani"
+    },
+    "TK": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Tokelau"
+    },
+    "TL": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de \u00ccl\u00e0O\u00f2r\u00f9n T\u00edm\u0254\u0300",
+        "variant": "\u00ccl\u00e0 \u00d2\u00f2r\u00f9n T\u00edm\u0254\u0300"
+    },
+    "TM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de T\u0254\u0254kimenisita"
+    },
+    "TN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Tunishia"
+    },
+    "TO": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Tonga"
+    },
+    "TR": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de T\u0254\u0254ki"
+    },
+    "TT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Tirinida ati Tobaga"
+    },
+    "TV": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Tufalu"
+    },
+    "TW": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Taiwani"
+    },
+    "TZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de T\u00e0\u01f9s\u00e1n\u00ed\u00e0"
+    },
+    "UA": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Ukarini"
+    },
+    "UG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Uganda"
+    },
+    "UM": {
+        "name": "\u00c0w\u0254n Er\u00e9k\u00f9s\u00f9 K\u00e9k\u00e8k\u00e9 Agb\u00e8gb\u00e8 US"
+    },
+    "UN": {
+        "name": "\u00ccsh\u0254\u0300kan \u00e0gb\u00e1y\u00e9"
+    },
+    "US": {
+        "name": "Or\u00edl\u025b\u0300-\u00e8d\u00e8 Am\u025brik\u00e0"
+    },
+    "UY": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Nruguayi"
+    },
+    "UZ": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Nshib\u025bkisitani"
+    },
+    "VA": {
+        "name": "\u00ccl\u00fa Vatican"
+    },
+    "VC": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Fis\u025bnnti ati Genadina"
+    },
+    "VE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de F\u025bn\u025bshu\u025bla"
+    },
+    "VG": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Et\u00edkun F\u00e1g\u00edn\u00ec ti \u00ecl\u00fa B\u00edr\u00edt\u00eds\u00ec"
+    },
+    "VI": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Etikun Fagini ti Am\u025brika"
+    },
+    "VN": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de F\u025btinami"
+    },
+    "VU": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Faniatu"
+    },
+    "WF": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Wali ati futuna"
+    },
+    "WS": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Sam\u0254"
+    },
+    "XA": {
+        "name": "Pseudo-Accents"
+    },
+    "XB": {
+        "name": "Pseudo-Bidi"
+    },
+    "XK": {
+        "name": "K\u00f2s\u00f3f\u00f2"
+    },
+    "YE": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de yemeni"
+    },
+    "YT": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de Mayote"
+    },
+    "ZA": {
+        "name": "G\u00fa\u00fash\u00f9 \u00c1f\u00edr\u00edk\u00e0"
+    },
+    "ZM": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de shamibia"
+    },
+    "ZW": {
+        "name": "Or\u00edl\u025b\u0301\u00e8de shimibabe"
+    },
+    "ZZ": {
+        "name": "\u00c0gb\u00e8gb\u00e8 \u00e0\u00ecm\u0254\u0300"
+    }
+}

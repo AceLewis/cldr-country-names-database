@@ -1,0 +1,53 @@
+{
+    "BR": {
+        "name": "Brasil\u00e4n"
+    },
+    "CN": {
+        "name": "Tsyin\u00e4n"
+    },
+    "DE": {
+        "name": "Deut\u00e4n"
+    },
+    "ES": {
+        "name": "Spany\u00e4n"
+    },
+    "FR": {
+        "name": "Frans\u00e4n"
+    },
+    "GB": {
+        "name": "Reg\u00e4n Pebal\u00f6l"
+    },
+    "GE": {
+        "name": "Grusiy\u00e4n"
+    },
+    "GR": {
+        "name": "Grik\u00e4n"
+    },
+    "IN": {
+        "name": "Lind\u00e4n"
+    },
+    "IT": {
+        "name": "Litaliy\u00e4n"
+    },
+    "JP": {
+        "name": "Yap\u00e4n"
+    },
+    "MX": {
+        "name": "M\u00e4xik\u00e4n"
+    },
+    "NR": {
+        "name": "Naure\u00e4n"
+    },
+    "PT": {
+        "name": "Portug\u00e4n"
+    },
+    "PW": {
+        "name": "Palau\u00e4ns"
+    },
+    "RU": {
+        "name": "Rus\u00e4n"
+    },
+    "US": {
+        "name": "Lamerik\u00e4n"
+    }
+}

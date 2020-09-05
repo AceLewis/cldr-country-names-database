@@ -1,0 +1,35 @@
+{
+    "BR": {
+        "name": "\u1c75\u1c68\u1c5f\u1c61\u1c64\u1c5e"
+    },
+    "CN": {
+        "name": "\u1c6a\u1c64\u1c71"
+    },
+    "DE": {
+        "name": "\u1c61\u1c5f\u1c68\u1c62\u1c5f\u1c71\u1c64"
+    },
+    "FR": {
+        "name": "\u1c6f\u1c77\u1c68\u1c5f\u1c71\u1c65"
+    },
+    "GB": {
+        "name": "\u1c6d\u1c69\u1c71\u1c64\u1c6d\u1c74\u1c6e\u1c70 \u1c60\u1c64\u1c5d\u1c70\u1c5a\u1c62"
+    },
+    "IN": {
+        "name": "\u1c64\u1c71\u1c70\u1c64\u1c6d\u1c5f"
+    },
+    "IT": {
+        "name": "\u1c64\u1c74\u1c5e\u1c64"
+    },
+    "JP": {
+        "name": "\u1c61\u1c5f\u1c6f\u1c5f\u1c71"
+    },
+    "RU": {
+        "name": "\u1c68\u1c69\u1c65"
+    },
+    "US": {
+        "name": "\u1c6d\u1c69\u1c71\u1c5f\u1c6d\u1c74\u1c6e\u1c70 \u1c6e\u1c65\u1c74\u1c6e\u1c74"
+    },
+    "ZZ": {
+        "name": "\u1c75\u1c5f\u1c5d\u1c69\u1c68\u1c69\u1c62 \u1c74\u1c5a\u1c74\u1c77\u1c5f"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "001": {
+        "name": "An Bys"
+    },
+    "002": {
+        "name": "Afrika"
+    },
+    "003": {
+        "name": "Amerika Gledh"
+    },
+    "019": {
+        "name": "An Amerikas"
+    },
+    "142": {
+        "name": "Asi"
+    },
+    "150": {
+        "name": "Europa"
+    },
+    "BR": {
+        "name": "Brasil"
+    },
+    "CN": {
+        "name": "China"
+    },
+    "DE": {
+        "name": "Almayn"
+    },
+    "EU": {
+        "name": "Unyans Europek"
+    },
+    "FR": {
+        "name": "Pow Frenk"
+    },
+    "GB": {
+        "name": "Rywvaneth Unys"
+    },
+    "IN": {
+        "name": "Eynda"
+    },
+    "IT": {
+        "name": "Itali"
+    },
+    "JP": {
+        "name": "Japan"
+    },
+    "RU": {
+        "name": "Russi"
+    },
+    "UN": {
+        "name": "Kenedhlow Unys"
+    },
+    "US": {
+        "name": "Statys Unys"
+    }
+}

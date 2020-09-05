@@ -1,0 +1,876 @@
+{
+    "001": {
+        "name": "Dinja"
+    },
+    "002": {
+        "name": "Affrika"
+    },
+    "003": {
+        "name": "Amerika ta\u2019 Fuq"
+    },
+    "005": {
+        "name": "Amerika t\u2019Isfel"
+    },
+    "009": {
+        "name": "O\u010bejanja"
+    },
+    "011": {
+        "name": "Affrika tal-Punent"
+    },
+    "013": {
+        "name": "Amerika \u010aentrali"
+    },
+    "014": {
+        "name": "Affrika tal-Lvant"
+    },
+    "015": {
+        "name": "Affrika ta\u2019 Fuq"
+    },
+    "017": {
+        "name": "Affrika Nofsani"
+    },
+    "018": {
+        "name": "Affrika t\u2019Isfel"
+    },
+    "019": {
+        "name": "Amerika"
+    },
+    "021": {
+        "name": "Amerika N\u00f2rdiku"
+    },
+    "029": {
+        "name": "Karibew"
+    },
+    "030": {
+        "name": "Asja tal-Lvant"
+    },
+    "034": {
+        "name": "Asja t\u2019Isfel \u010aentrali"
+    },
+    "035": {
+        "name": "Asja tax-Xlokk"
+    },
+    "039": {
+        "name": "Ewropa t\u2019Isfel"
+    },
+    "053": {
+        "name": "Awstralja u New Zealand"
+    },
+    "054": {
+        "name": "Melanesja"
+    },
+    "057": {
+        "name": "Re\u0121jun ta\u2019 Mikrone\u017cja"
+    },
+    "061": {
+        "name": "Polinesja"
+    },
+    "142": {
+        "name": "Asja"
+    },
+    "143": {
+        "name": "Asja \u010aentrali"
+    },
+    "145": {
+        "name": "Asja tal-Punent"
+    },
+    "150": {
+        "name": "Ewropa"
+    },
+    "151": {
+        "name": "Ewropa tal-Lvant"
+    },
+    "154": {
+        "name": "Ewropa ta\u2019 Fuq"
+    },
+    "155": {
+        "name": "Ewropa tal-Punent"
+    },
+    "419": {
+        "name": "Amerika Latina"
+    },
+    "AC": {
+        "name": "Ascension Island"
+    },
+    "AD": {
+        "name": "Andorra"
+    },
+    "AE": {
+        "name": "l-Emirati G\u0127arab Mag\u0127quda"
+    },
+    "AF": {
+        "name": "l-Afganistan"
+    },
+    "AG": {
+        "name": "Antigua u Barbuda"
+    },
+    "AI": {
+        "name": "Anguilla"
+    },
+    "AL": {
+        "name": "l-Albanija"
+    },
+    "AM": {
+        "name": "l-Armenja"
+    },
+    "AO": {
+        "name": "l-Angola"
+    },
+    "AQ": {
+        "name": "l-Antartika"
+    },
+    "AR": {
+        "name": "l-Ar\u0121entina"
+    },
+    "AS": {
+        "name": "is-Samoa Amerikana"
+    },
+    "AT": {
+        "name": "l-Awstrija"
+    },
+    "AU": {
+        "name": "l-Awstralja"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "il-G\u017cejjer Aland"
+    },
+    "AZ": {
+        "name": "l-A\u017cerbaj\u0121an"
+    },
+    "BA": {
+        "name": "il-Bo\u017cnija-\u0126erzegovina"
+    },
+    "BB": {
+        "name": "Barbados"
+    },
+    "BD": {
+        "name": "il-Bangladesh"
+    },
+    "BE": {
+        "name": "il-Bel\u0121ju"
+    },
+    "BF": {
+        "name": "il-Burkina Faso"
+    },
+    "BG": {
+        "name": "il-Bulgarija"
+    },
+    "BH": {
+        "name": "il-Bahrain"
+    },
+    "BI": {
+        "name": "il-Burundi"
+    },
+    "BJ": {
+        "name": "il-Benin"
+    },
+    "BL": {
+        "name": "Saint Barth\u00e9lemy"
+    },
+    "BM": {
+        "name": "Bermuda"
+    },
+    "BN": {
+        "name": "il-Brunei"
+    },
+    "BO": {
+        "name": "il-Bolivja"
+    },
+    "BQ": {
+        "name": "in-Netherlands tal-Karibew"
+    },
+    "BR": {
+        "name": "Il-Bra\u017cil"
+    },
+    "BS": {
+        "name": "il-Bahamas"
+    },
+    "BT": {
+        "name": "il-Bhutan"
+    },
+    "BV": {
+        "name": "G\u017cira Bouvet"
+    },
+    "BW": {
+        "name": "il-Botswana"
+    },
+    "BY": {
+        "name": "il-Belarussja"
+    },
+    "BZ": {
+        "name": "il-Belize"
+    },
+    "CA": {
+        "name": "il-Kanada"
+    },
+    "CC": {
+        "name": "G\u017cejjer Cocos (Keeling)"
+    },
+    "CD": {
+        "name": "ir-Repubblika Demokratika tal-Kongo",
+        "variant": "Kongo (RDK)"
+    },
+    "CF": {
+        "name": "ir-Repubblika \u010aentru-Afrikana"
+    },
+    "CG": {
+        "name": "il-Kongo - Brazzaville",
+        "variant": "ir-Repubblika tal-Kongo"
+    },
+    "CH": {
+        "name": "l-I\u017cvizzera"
+    },
+    "CI": {
+        "name": "il-Kosta tal-Avorju"
+    },
+    "CK": {
+        "name": "G\u017cejjer Cook"
+    },
+    "CL": {
+        "name": "i\u010b-\u010aili"
+    },
+    "CM": {
+        "name": "il-Kamerun"
+    },
+    "CN": {
+        "name": "i\u010b-\u010aina"
+    },
+    "CO": {
+        "name": "il-Kolombja"
+    },
+    "CP": {
+        "name": "il-G\u017cira Clipperton"
+    },
+    "CR": {
+        "name": "il-Costa Rica"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "Cape Verde"
+    },
+    "CW": {
+        "name": "Cura\u00e7ao"
+    },
+    "CX": {
+        "name": "il-G\u017cira Christmas"
+    },
+    "CY": {
+        "name": "\u010aipru"
+    },
+    "CZ": {
+        "name": "ir-Repubblika \u010aeka",
+        "variant": "Ir-Repubblika \u010aeka"
+    },
+    "DE": {
+        "name": "il-\u0120ermanja"
+    },
+    "DG": {
+        "name": "Diego Garcia"
+    },
+    "DJ": {
+        "name": "il-Djibouti"
+    },
+    "DK": {
+        "name": "id-Danimarka"
+    },
+    "DM": {
+        "name": "Dominica"
+    },
+    "DO": {
+        "name": "ir-Repubblika Dominicana"
+    },
+    "DZ": {
+        "name": "l-Al\u0121erija"
+    },
+    "EA": {
+        "name": "Ceuta u Melilla"
+    },
+    "EC": {
+        "name": "l-Ekwador"
+    },
+    "EE": {
+        "name": "l-Estonja"
+    },
+    "EG": {
+        "name": "l-E\u0121ittu"
+    },
+    "EH": {
+        "name": "is-Sa\u0127ara tal-Punent"
+    },
+    "ER": {
+        "name": "l-Eritrea"
+    },
+    "ES": {
+        "name": "Spanja"
+    },
+    "ET": {
+        "name": "l-Etjopja"
+    },
+    "EU": {
+        "name": "Unjoni Ewropea"
+    },
+    "FI": {
+        "name": "il-Finlandja"
+    },
+    "FJ": {
+        "name": "Fi\u0121i"
+    },
+    "FK": {
+        "name": "il-G\u017cejjer Falkland",
+        "variant": "Il-G\u017cejjer Falkland (il-G\u017cejjer Malvinas)"
+    },
+    "FM": {
+        "name": "Mikrone\u017cja"
+    },
+    "FO": {
+        "name": "il-G\u017cejjer Faeroe"
+    },
+    "FR": {
+        "name": "Franza"
+    },
+    "GA": {
+        "name": "il-Gabon"
+    },
+    "GB": {
+        "name": "ir-Renju Unit",
+        "short": "UK"
+    },
+    "GD": {
+        "name": "Grenada"
+    },
+    "GE": {
+        "name": "il-Georgia"
+    },
+    "GF": {
+        "name": "il-Guyana Fran\u010bi\u017ca"
+    },
+    "GG": {
+        "name": "Guernsey"
+    },
+    "GH": {
+        "name": "il-Ghana"
+    },
+    "GI": {
+        "name": "\u0120ibilt\u00e0"
+    },
+    "GL": {
+        "name": "Greenland"
+    },
+    "GM": {
+        "name": "il-Gambja"
+    },
+    "GN": {
+        "name": "il-Guinea"
+    },
+    "GP": {
+        "name": "Guadeloupe"
+    },
+    "GQ": {
+        "name": "il-Guinea Ekwatorjali"
+    },
+    "GR": {
+        "name": "il-Gre\u010bja"
+    },
+    "GS": {
+        "name": "il-Georgia tan-Nofsinhar u l-G\u017cejjer Sandwich tan-Nofsinhar"
+    },
+    "GT": {
+        "name": "il-Gwatemala"
+    },
+    "GU": {
+        "name": "Guam"
+    },
+    "GW": {
+        "name": "il-Guinea-Bissau"
+    },
+    "GY": {
+        "name": "il-Guyana"
+    },
+    "HK": {
+        "name": "ir-Re\u0121jun Amministrattiv Spe\u010bjali ta\u2019 Hong Kong tar-Repubblika tal-Poplu ta\u010b-\u010aina",
+        "short": "Hong Kong"
+    },
+    "HM": {
+        "name": "il-G\u017cejjer Heard u l-G\u017cejjer McDonald"
+    },
+    "HN": {
+        "name": "il-Honduras"
+    },
+    "HR": {
+        "name": "il-Kroazja"
+    },
+    "HT": {
+        "name": "il-Haiti"
+    },
+    "HU": {
+        "name": "l-Ungerija"
+    },
+    "IC": {
+        "name": "il-G\u017cejjer Canary"
+    },
+    "ID": {
+        "name": "l-Indone\u017cja"
+    },
+    "IE": {
+        "name": "l-Irlanda"
+    },
+    "IL": {
+        "name": "I\u017crael"
+    },
+    "IM": {
+        "name": "Isle of Man"
+    },
+    "IN": {
+        "name": "l-Indja"
+    },
+    "IO": {
+        "name": "Territorju Brittaniku tal-O\u010bean Indjan"
+    },
+    "IQ": {
+        "name": "l-Iraq"
+    },
+    "IR": {
+        "name": "l-Iran"
+    },
+    "IS": {
+        "name": "l-i\u017clanda"
+    },
+    "IT": {
+        "name": "l-Italja"
+    },
+    "JE": {
+        "name": "Jersey"
+    },
+    "JM": {
+        "name": "il-\u0120amajka"
+    },
+    "JO": {
+        "name": "il-\u0120ordan"
+    },
+    "JP": {
+        "name": "il-\u0120appun"
+    },
+    "KE": {
+        "name": "il-Kenja"
+    },
+    "KG": {
+        "name": "il-Kirgi\u017cistan"
+    },
+    "KH": {
+        "name": "il-Kambodja"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Comoros"
+    },
+    "KN": {
+        "name": "Saint Kitts u Nevis"
+    },
+    "KP": {
+        "name": "il-Korea ta\u2019 Fuq"
+    },
+    "KR": {
+        "name": "il-Korea t\u2019Isfel"
+    },
+    "KW": {
+        "name": "il-Kuwajt"
+    },
+    "KY": {
+        "name": "il-G\u017cejjer Cayman"
+    },
+    "KZ": {
+        "name": "il-Ka\u017cakistan"
+    },
+    "LA": {
+        "name": "il-Laos"
+    },
+    "LB": {
+        "name": "il-Libanu"
+    },
+    "LC": {
+        "name": "Saint Lucia"
+    },
+    "LI": {
+        "name": "il-Liechtenstein"
+    },
+    "LK": {
+        "name": "is-Sri Lanka"
+    },
+    "LR": {
+        "name": "il-Liberja"
+    },
+    "LS": {
+        "name": "il-Lesoto"
+    },
+    "LT": {
+        "name": "il-Litwanja"
+    },
+    "LU": {
+        "name": "il-Lussemburgu"
+    },
+    "LV": {
+        "name": "il-Latvja"
+    },
+    "LY": {
+        "name": "il-Libja"
+    },
+    "MA": {
+        "name": "il-Marokk"
+    },
+    "MC": {
+        "name": "Monaco"
+    },
+    "MD": {
+        "name": "il-Moldova"
+    },
+    "ME": {
+        "name": "il-Montenegro"
+    },
+    "MF": {
+        "name": "Saint Martin"
+    },
+    "MG": {
+        "name": "Madagascar"
+    },
+    "MH": {
+        "name": "G\u017cejjer Marshall"
+    },
+    "MK": {
+        "name": "il-Ma\u010bedonja ta\u2019 Fuq"
+    },
+    "ML": {
+        "name": "il-Mali"
+    },
+    "MM": {
+        "name": "il-Myanmar/Burma"
+    },
+    "MN": {
+        "name": "il-Mongolja"
+    },
+    "MO": {
+        "name": "ir-Re\u0121jun Amministrattiv Spe\u010bjali tal-Macao tar-Repubblika tal-Poplu ta\u010b-\u010aina",
+        "short": "il-Macao"
+    },
+    "MP": {
+        "name": "\u0120\u017cejjer Mariana tat-Tramuntana"
+    },
+    "MQ": {
+        "name": "Martinique"
+    },
+    "MR": {
+        "name": "il-Mauritania"
+    },
+    "MS": {
+        "name": "Montserrat"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Mauritius"
+    },
+    "MV": {
+        "name": "il-Maldivi"
+    },
+    "MW": {
+        "name": "il-Malawi"
+    },
+    "MX": {
+        "name": "il-Messiku"
+    },
+    "MY": {
+        "name": "il-Malasja"
+    },
+    "MZ": {
+        "name": "il-Mozambique"
+    },
+    "NA": {
+        "name": "in-Namibja"
+    },
+    "NC": {
+        "name": "New Caledonia"
+    },
+    "NE": {
+        "name": "in-Ni\u0121er"
+    },
+    "NF": {
+        "name": "G\u017cira Norfolk"
+    },
+    "NG": {
+        "name": "in-Ni\u0121erja"
+    },
+    "NI": {
+        "name": "in-Nikaragwa"
+    },
+    "NL": {
+        "name": "in-Netherlands"
+    },
+    "NO": {
+        "name": "in-Norve\u0121ja"
+    },
+    "NP": {
+        "name": "in-Nepal"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "New Zealand"
+    },
+    "OM": {
+        "name": "l-Oman"
+    },
+    "PA": {
+        "name": "il-Panama"
+    },
+    "PE": {
+        "name": "il-Per\u00f9"
+    },
+    "PF": {
+        "name": "Poline\u017cja Fran\u010bi\u017ca"
+    },
+    "PG": {
+        "name": "Papua New Guinea"
+    },
+    "PH": {
+        "name": "il-Filippini"
+    },
+    "PK": {
+        "name": "il-Pakistan"
+    },
+    "PL": {
+        "name": "il-Polonja"
+    },
+    "PM": {
+        "name": "Saint Pierre u Miquelon"
+    },
+    "PN": {
+        "name": "G\u017cejjer Pitcairn"
+    },
+    "PR": {
+        "name": "Puerto Rico"
+    },
+    "PS": {
+        "name": "it-Territorji Palestinjani",
+        "short": "il-Palestina"
+    },
+    "PT": {
+        "name": "il-Portugall"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "il-Paragwaj"
+    },
+    "QA": {
+        "name": "il-Qatar"
+    },
+    "RE": {
+        "name": "R\u00e9union"
+    },
+    "RO": {
+        "name": "ir-Rumanija"
+    },
+    "RS": {
+        "name": "is-Serbja"
+    },
+    "RU": {
+        "name": "ir-Russja"
+    },
+    "RW": {
+        "name": "ir-Rwanda"
+    },
+    "SA": {
+        "name": "l-Arabia Sawdija"
+    },
+    "SB": {
+        "name": "il-G\u017cejjer Solomon"
+    },
+    "SC": {
+        "name": "is-Seychelles"
+    },
+    "SD": {
+        "name": "is-Sudan"
+    },
+    "SE": {
+        "name": "l-I\u017cvezja"
+    },
+    "SG": {
+        "name": "Singapore"
+    },
+    "SH": {
+        "name": "Saint Helena"
+    },
+    "SI": {
+        "name": "is-Slovenja"
+    },
+    "SJ": {
+        "name": "Svalbard u Jan Mayen"
+    },
+    "SK": {
+        "name": "is-Slovakkja"
+    },
+    "SL": {
+        "name": "Sierra Leone"
+    },
+    "SM": {
+        "name": "San Marino"
+    },
+    "SN": {
+        "name": "is-Senegal"
+    },
+    "SO": {
+        "name": "is-Somalja"
+    },
+    "SR": {
+        "name": "is-Suriname"
+    },
+    "SS": {
+        "name": "is-Sudan t\u2019Isfel"
+    },
+    "ST": {
+        "name": "S\u00e3o Tom\u00e9 u Pr\u00edncipe"
+    },
+    "SV": {
+        "name": "El Salvador"
+    },
+    "SX": {
+        "name": "Sint Maarten"
+    },
+    "SY": {
+        "name": "is-Sirja"
+    },
+    "SZ": {
+        "name": "is-Swaziland"
+    },
+    "TA": {
+        "name": "Tristan da Cunha"
+    },
+    "TC": {
+        "name": "il-G\u017cejjer Turks u Caicos"
+    },
+    "TD": {
+        "name": "i\u010b-Chad"
+    },
+    "TF": {
+        "name": "It-Territorji Fran\u010bi\u017ci tan-Nofsinhar"
+    },
+    "TG": {
+        "name": "it-Togo"
+    },
+    "TH": {
+        "name": "it-Tajlandja"
+    },
+    "TJ": {
+        "name": "it-Ta\u0121ikistan"
+    },
+    "TK": {
+        "name": "it-Tokelau"
+    },
+    "TL": {
+        "name": "Timor Leste",
+        "variant": "Timor tal-Lvant"
+    },
+    "TM": {
+        "name": "it-Turkmenistan"
+    },
+    "TN": {
+        "name": "it-Tune\u017cija"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "it-Turkija"
+    },
+    "TT": {
+        "name": "Trinidad u Tobago"
+    },
+    "TV": {
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "name": "it-Tajwan"
+    },
+    "TZ": {
+        "name": "it-Tanzanija"
+    },
+    "UA": {
+        "name": "l-Ukrajna"
+    },
+    "UG": {
+        "name": "l-Uganda"
+    },
+    "UM": {
+        "name": "Il-G\u017cejjer Minuri Mbieg\u0127da tal-Istati Uniti"
+    },
+    "US": {
+        "name": "l-Istati Uniti",
+        "short": "US"
+    },
+    "UY": {
+        "name": "l-Urugwaj"
+    },
+    "UZ": {
+        "name": "l-U\u017cbekistan"
+    },
+    "VA": {
+        "name": "l-Istat tal-Belt tal-Vatikan"
+    },
+    "VC": {
+        "name": "Saint Vincent u l-Grenadini"
+    },
+    "VE": {
+        "name": "il-Venezwela"
+    },
+    "VG": {
+        "name": "il-G\u017cejjer Ver\u0121ni Brittani\u010bi"
+    },
+    "VI": {
+        "name": "il-G\u017cejjer Ver\u0121ni tal-Istati Uniti"
+    },
+    "VN": {
+        "name": "il-Vjetnam"
+    },
+    "VU": {
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "name": "Wallis u Futuna"
+    },
+    "WS": {
+        "name": "Samoa"
+    },
+    "XK": {
+        "name": "il-Kosovo"
+    },
+    "YE": {
+        "name": "il-Jemen"
+    },
+    "YT": {
+        "name": "Mayotte"
+    },
+    "ZA": {
+        "name": "l-Afrika t\u2019Isfel"
+    },
+    "ZM": {
+        "name": "i\u017c-\u017bambja"
+    },
+    "ZW": {
+        "name": "i\u017c-\u017bimbabwe"
+    },
+    "ZZ": {
+        "name": "Re\u0121jun Mhux Mag\u0127ruf"
+    }
+}

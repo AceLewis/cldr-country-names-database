@@ -1,0 +1,897 @@
+{
+    "001": {
+        "name": "\u4e16\u754c"
+    },
+    "002": {
+        "name": "\u30a2\u30d5\u30ea\u30ab"
+    },
+    "003": {
+        "name": "\u5317\u30a2\u30e1\u30ea\u30ab\u5927\u9678"
+    },
+    "005": {
+        "name": "\u5357\u30a2\u30e1\u30ea\u30ab"
+    },
+    "009": {
+        "name": "\u30aa\u30bb\u30a2\u30cb\u30a2"
+    },
+    "011": {
+        "name": "\u897f\u30a2\u30d5\u30ea\u30ab"
+    },
+    "013": {
+        "name": "\u4e2d\u592e\u30a2\u30e1\u30ea\u30ab"
+    },
+    "014": {
+        "name": "\u6771\u30a2\u30d5\u30ea\u30ab"
+    },
+    "015": {
+        "name": "\u5317\u30a2\u30d5\u30ea\u30ab"
+    },
+    "017": {
+        "name": "\u4e2d\u90e8\u30a2\u30d5\u30ea\u30ab"
+    },
+    "018": {
+        "name": "\u5357\u90e8\u30a2\u30d5\u30ea\u30ab"
+    },
+    "019": {
+        "name": "\u30a2\u30e1\u30ea\u30ab\u5927\u9678"
+    },
+    "021": {
+        "name": "\u5317\u30a2\u30e1\u30ea\u30ab"
+    },
+    "029": {
+        "name": "\u30ab\u30ea\u30d6"
+    },
+    "030": {
+        "name": "\u6771\u30a2\u30b8\u30a2"
+    },
+    "034": {
+        "name": "\u5357\u30a2\u30b8\u30a2"
+    },
+    "035": {
+        "name": "\u6771\u5357\u30a2\u30b8\u30a2"
+    },
+    "039": {
+        "name": "\u5357\u30e8\u30fc\u30ed\u30c3\u30d1"
+    },
+    "053": {
+        "name": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30e9\u30b7\u30a2"
+    },
+    "054": {
+        "name": "\u30e1\u30e9\u30cd\u30b7\u30a2"
+    },
+    "057": {
+        "name": "\u30df\u30af\u30ed\u30cd\u30b7\u30a2"
+    },
+    "061": {
+        "name": "\u30dd\u30ea\u30cd\u30b7\u30a2"
+    },
+    "142": {
+        "name": "\u30a2\u30b8\u30a2"
+    },
+    "143": {
+        "name": "\u4e2d\u592e\u30a2\u30b8\u30a2"
+    },
+    "145": {
+        "name": "\u897f\u30a2\u30b8\u30a2"
+    },
+    "150": {
+        "name": "\u30e8\u30fc\u30ed\u30c3\u30d1"
+    },
+    "151": {
+        "name": "\u6771\u30e8\u30fc\u30ed\u30c3\u30d1"
+    },
+    "154": {
+        "name": "\u5317\u30e8\u30fc\u30ed\u30c3\u30d1"
+    },
+    "155": {
+        "name": "\u897f\u30e8\u30fc\u30ed\u30c3\u30d1"
+    },
+    "202": {
+        "name": "\u30b5\u30d6\u30b5\u30cf\u30e9\u30a2\u30d5\u30ea\u30ab"
+    },
+    "419": {
+        "name": "\u30e9\u30c6\u30f3\u30a2\u30e1\u30ea\u30ab"
+    },
+    "AC": {
+        "name": "\u30a2\u30bb\u30f3\u30b7\u30e7\u30f3\u5cf6"
+    },
+    "AD": {
+        "name": "\u30a2\u30f3\u30c9\u30e9"
+    },
+    "AE": {
+        "name": "\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6"
+    },
+    "AF": {
+        "name": "\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3"
+    },
+    "AG": {
+        "name": "\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2\u30fb\u30d0\u30fc\u30d6\u30fc\u30c0"
+    },
+    "AI": {
+        "name": "\u30a2\u30f3\u30ae\u30e9"
+    },
+    "AL": {
+        "name": "\u30a2\u30eb\u30d0\u30cb\u30a2"
+    },
+    "AM": {
+        "name": "\u30a2\u30eb\u30e1\u30cb\u30a2"
+    },
+    "AO": {
+        "name": "\u30a2\u30f3\u30b4\u30e9"
+    },
+    "AQ": {
+        "name": "\u5357\u6975"
+    },
+    "AR": {
+        "name": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3"
+    },
+    "AS": {
+        "name": "\u7c73\u9818\u30b5\u30e2\u30a2"
+    },
+    "AT": {
+        "name": "\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2"
+    },
+    "AU": {
+        "name": "\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2"
+    },
+    "AW": {
+        "name": "\u30a2\u30eb\u30d0"
+    },
+    "AX": {
+        "name": "\u30aa\u30fc\u30e9\u30f3\u30c9\u8af8\u5cf6"
+    },
+    "AZ": {
+        "name": "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3"
+    },
+    "BA": {
+        "name": "\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca"
+    },
+    "BB": {
+        "name": "\u30d0\u30eb\u30d0\u30c9\u30b9"
+    },
+    "BD": {
+        "name": "\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5"
+    },
+    "BE": {
+        "name": "\u30d9\u30eb\u30ae\u30fc"
+    },
+    "BF": {
+        "name": "\u30d6\u30eb\u30ad\u30ca\u30d5\u30a1\u30bd"
+    },
+    "BG": {
+        "name": "\u30d6\u30eb\u30ac\u30ea\u30a2"
+    },
+    "BH": {
+        "name": "\u30d0\u30fc\u30ec\u30fc\u30f3"
+    },
+    "BI": {
+        "name": "\u30d6\u30eb\u30f3\u30b8"
+    },
+    "BJ": {
+        "name": "\u30d9\u30ca\u30f3"
+    },
+    "BL": {
+        "name": "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc"
+    },
+    "BM": {
+        "name": "\u30d0\u30df\u30e5\u30fc\u30c0"
+    },
+    "BN": {
+        "name": "\u30d6\u30eb\u30cd\u30a4"
+    },
+    "BO": {
+        "name": "\u30dc\u30ea\u30d3\u30a2"
+    },
+    "BQ": {
+        "name": "\u30aa\u30e9\u30f3\u30c0\u9818\u30ab\u30ea\u30d6"
+    },
+    "BR": {
+        "name": "\u30d6\u30e9\u30b8\u30eb"
+    },
+    "BS": {
+        "name": "\u30d0\u30cf\u30de"
+    },
+    "BT": {
+        "name": "\u30d6\u30fc\u30bf\u30f3"
+    },
+    "BV": {
+        "name": "\u30d6\u30fc\u30d9\u5cf6"
+    },
+    "BW": {
+        "name": "\u30dc\u30c4\u30ef\u30ca"
+    },
+    "BY": {
+        "name": "\u30d9\u30e9\u30eb\u30fc\u30b7"
+    },
+    "BZ": {
+        "name": "\u30d9\u30ea\u30fc\u30ba"
+    },
+    "CA": {
+        "name": "\u30ab\u30ca\u30c0"
+    },
+    "CC": {
+        "name": "\u30b3\u30b3\u30b9(\u30ad\u30fc\u30ea\u30f3\u30b0)\u8af8\u5cf6"
+    },
+    "CD": {
+        "name": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd(\u30ad\u30f3\u30b7\u30e3\u30b5)",
+        "variant": "\u30b3\u30f3\u30b4\u6c11\u4e3b\u5171\u548c\u56fd"
+    },
+    "CF": {
+        "name": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd"
+    },
+    "CG": {
+        "name": "\u30b3\u30f3\u30b4\u5171\u548c\u56fd(\u30d6\u30e9\u30b6\u30d3\u30eb)",
+        "variant": "\u30b3\u30f3\u30b4\u5171\u548c\u56fd"
+    },
+    "CH": {
+        "name": "\u30b9\u30a4\u30b9"
+    },
+    "CI": {
+        "name": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb",
+        "variant": "\u8c61\u7259\u6d77\u5cb8"
+    },
+    "CK": {
+        "name": "\u30af\u30c3\u30af\u8af8\u5cf6"
+    },
+    "CL": {
+        "name": "\u30c1\u30ea"
+    },
+    "CM": {
+        "name": "\u30ab\u30e1\u30eb\u30fc\u30f3"
+    },
+    "CN": {
+        "name": "\u4e2d\u56fd"
+    },
+    "CO": {
+        "name": "\u30b3\u30ed\u30f3\u30d3\u30a2"
+    },
+    "CP": {
+        "name": "\u30af\u30ea\u30c3\u30d1\u30fc\u30c8\u30f3\u5cf6"
+    },
+    "CR": {
+        "name": "\u30b3\u30b9\u30bf\u30ea\u30ab"
+    },
+    "CU": {
+        "name": "\u30ad\u30e5\u30fc\u30d0"
+    },
+    "CV": {
+        "name": "\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7"
+    },
+    "CW": {
+        "name": "\u30ad\u30e5\u30e9\u30bd\u30fc"
+    },
+    "CX": {
+        "name": "\u30af\u30ea\u30b9\u30de\u30b9\u5cf6"
+    },
+    "CY": {
+        "name": "\u30ad\u30d7\u30ed\u30b9"
+    },
+    "CZ": {
+        "name": "\u30c1\u30a7\u30b3",
+        "variant": "\u30c1\u30a7\u30b3\u5171\u548c\u56fd"
+    },
+    "DE": {
+        "name": "\u30c9\u30a4\u30c4"
+    },
+    "DG": {
+        "name": "\u30c7\u30a3\u30a8\u30b4\u30ac\u30eb\u30b7\u30a2\u5cf6"
+    },
+    "DJ": {
+        "name": "\u30b8\u30d6\u30c1"
+    },
+    "DK": {
+        "name": "\u30c7\u30f3\u30de\u30fc\u30af"
+    },
+    "DM": {
+        "name": "\u30c9\u30df\u30cb\u30ab\u56fd"
+    },
+    "DO": {
+        "name": "\u30c9\u30df\u30cb\u30ab\u5171\u548c\u56fd"
+    },
+    "DZ": {
+        "name": "\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2"
+    },
+    "EA": {
+        "name": "\u30bb\u30a6\u30bf\u30fb\u30e1\u30ea\u30ea\u30e3"
+    },
+    "EC": {
+        "name": "\u30a8\u30af\u30a2\u30c9\u30eb"
+    },
+    "EE": {
+        "name": "\u30a8\u30b9\u30c8\u30cb\u30a2"
+    },
+    "EG": {
+        "name": "\u30a8\u30b8\u30d7\u30c8"
+    },
+    "EH": {
+        "name": "\u897f\u30b5\u30cf\u30e9"
+    },
+    "ER": {
+        "name": "\u30a8\u30ea\u30c8\u30ea\u30a2"
+    },
+    "ES": {
+        "name": "\u30b9\u30da\u30a4\u30f3"
+    },
+    "ET": {
+        "name": "\u30a8\u30c1\u30aa\u30d4\u30a2"
+    },
+    "EU": {
+        "name": "\u6b27\u5dde\u9023\u5408"
+    },
+    "EZ": {
+        "name": "\u30e6\u30fc\u30ed\u570f"
+    },
+    "FI": {
+        "name": "\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9"
+    },
+    "FJ": {
+        "name": "\u30d5\u30a3\u30b8\u30fc"
+    },
+    "FK": {
+        "name": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6",
+        "variant": "\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6 (\u30de\u30eb\u30d3\u30fc\u30ca\u30b9\u8af8\u5cf6)"
+    },
+    "FM": {
+        "name": "\u30df\u30af\u30ed\u30cd\u30b7\u30a2\u9023\u90a6"
+    },
+    "FO": {
+        "name": "\u30d5\u30a7\u30ed\u30fc\u8af8\u5cf6"
+    },
+    "FR": {
+        "name": "\u30d5\u30e9\u30f3\u30b9"
+    },
+    "GA": {
+        "name": "\u30ac\u30dc\u30f3"
+    },
+    "GB": {
+        "name": "\u30a4\u30ae\u30ea\u30b9",
+        "short": "\u82f1\u56fd"
+    },
+    "GD": {
+        "name": "\u30b0\u30ec\u30ca\u30c0"
+    },
+    "GE": {
+        "name": "\u30b8\u30e7\u30fc\u30b8\u30a2"
+    },
+    "GF": {
+        "name": "\u4ecf\u9818\u30ae\u30a2\u30ca"
+    },
+    "GG": {
+        "name": "\u30ac\u30fc\u30f3\u30b8\u30fc"
+    },
+    "GH": {
+        "name": "\u30ac\u30fc\u30ca"
+    },
+    "GI": {
+        "name": "\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb"
+    },
+    "GL": {
+        "name": "\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9"
+    },
+    "GM": {
+        "name": "\u30ac\u30f3\u30d3\u30a2"
+    },
+    "GN": {
+        "name": "\u30ae\u30cb\u30a2"
+    },
+    "GP": {
+        "name": "\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7"
+    },
+    "GQ": {
+        "name": "\u8d64\u9053\u30ae\u30cb\u30a2"
+    },
+    "GR": {
+        "name": "\u30ae\u30ea\u30b7\u30e3"
+    },
+    "GS": {
+        "name": "\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u30fb\u30b5\u30a6\u30b9\u30b5\u30f3\u30c9\u30a6\u30a3\u30c3\u30c1\u8af8\u5cf6"
+    },
+    "GT": {
+        "name": "\u30b0\u30a2\u30c6\u30de\u30e9"
+    },
+    "GU": {
+        "name": "\u30b0\u30a2\u30e0"
+    },
+    "GW": {
+        "name": "\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6"
+    },
+    "GY": {
+        "name": "\u30ac\u30a4\u30a2\u30ca"
+    },
+    "HK": {
+        "name": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u9999\u6e2f\u7279\u5225\u884c\u653f\u533a",
+        "short": "\u9999\u6e2f"
+    },
+    "HM": {
+        "name": "\u30cf\u30fc\u30c9\u5cf6\u30fb\u30de\u30af\u30c9\u30ca\u30eb\u30c9\u8af8\u5cf6"
+    },
+    "HN": {
+        "name": "\u30db\u30f3\u30b8\u30e5\u30e9\u30b9"
+    },
+    "HR": {
+        "name": "\u30af\u30ed\u30a2\u30c1\u30a2"
+    },
+    "HT": {
+        "name": "\u30cf\u30a4\u30c1"
+    },
+    "HU": {
+        "name": "\u30cf\u30f3\u30ac\u30ea\u30fc"
+    },
+    "IC": {
+        "name": "\u30ab\u30ca\u30ea\u30a2\u8af8\u5cf6"
+    },
+    "ID": {
+        "name": "\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2"
+    },
+    "IE": {
+        "name": "\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9"
+    },
+    "IL": {
+        "name": "\u30a4\u30b9\u30e9\u30a8\u30eb"
+    },
+    "IM": {
+        "name": "\u30de\u30f3\u5cf6"
+    },
+    "IN": {
+        "name": "\u30a4\u30f3\u30c9"
+    },
+    "IO": {
+        "name": "\u82f1\u9818\u30a4\u30f3\u30c9\u6d0b\u5730\u57df"
+    },
+    "IQ": {
+        "name": "\u30a4\u30e9\u30af"
+    },
+    "IR": {
+        "name": "\u30a4\u30e9\u30f3"
+    },
+    "IS": {
+        "name": "\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9"
+    },
+    "IT": {
+        "name": "\u30a4\u30bf\u30ea\u30a2"
+    },
+    "JE": {
+        "name": "\u30b8\u30e3\u30fc\u30b8\u30fc"
+    },
+    "JM": {
+        "name": "\u30b8\u30e3\u30de\u30a4\u30ab"
+    },
+    "JO": {
+        "name": "\u30e8\u30eb\u30c0\u30f3"
+    },
+    "JP": {
+        "name": "\u65e5\u672c"
+    },
+    "KE": {
+        "name": "\u30b1\u30cb\u30a2"
+    },
+    "KG": {
+        "name": "\u30ad\u30eb\u30ae\u30b9"
+    },
+    "KH": {
+        "name": "\u30ab\u30f3\u30dc\u30b8\u30a2"
+    },
+    "KI": {
+        "name": "\u30ad\u30ea\u30d0\u30b9"
+    },
+    "KM": {
+        "name": "\u30b3\u30e2\u30ed"
+    },
+    "KN": {
+        "name": "\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc\u30fb\u30cd\u30fc\u30f4\u30a3\u30b9"
+    },
+    "KP": {
+        "name": "\u5317\u671d\u9bae"
+    },
+    "KR": {
+        "name": "\u97d3\u56fd"
+    },
+    "KW": {
+        "name": "\u30af\u30a6\u30a7\u30fc\u30c8"
+    },
+    "KY": {
+        "name": "\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6"
+    },
+    "KZ": {
+        "name": "\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3"
+    },
+    "LA": {
+        "name": "\u30e9\u30aa\u30b9"
+    },
+    "LB": {
+        "name": "\u30ec\u30d0\u30ce\u30f3"
+    },
+    "LC": {
+        "name": "\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2"
+    },
+    "LI": {
+        "name": "\u30ea\u30d2\u30c6\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3"
+    },
+    "LK": {
+        "name": "\u30b9\u30ea\u30e9\u30f3\u30ab"
+    },
+    "LR": {
+        "name": "\u30ea\u30d9\u30ea\u30a2"
+    },
+    "LS": {
+        "name": "\u30ec\u30bd\u30c8"
+    },
+    "LT": {
+        "name": "\u30ea\u30c8\u30a2\u30cb\u30a2"
+    },
+    "LU": {
+        "name": "\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af"
+    },
+    "LV": {
+        "name": "\u30e9\u30c8\u30d3\u30a2"
+    },
+    "LY": {
+        "name": "\u30ea\u30d3\u30a2"
+    },
+    "MA": {
+        "name": "\u30e2\u30ed\u30c3\u30b3"
+    },
+    "MC": {
+        "name": "\u30e2\u30ca\u30b3"
+    },
+    "MD": {
+        "name": "\u30e2\u30eb\u30c9\u30d0"
+    },
+    "ME": {
+        "name": "\u30e2\u30f3\u30c6\u30cd\u30b0\u30ed"
+    },
+    "MF": {
+        "name": "\u30b5\u30f3\u30fb\u30de\u30eb\u30bf\u30f3"
+    },
+    "MG": {
+        "name": "\u30de\u30c0\u30ac\u30b9\u30ab\u30eb"
+    },
+    "MH": {
+        "name": "\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6"
+    },
+    "MK": {
+        "name": "\u5317\u30de\u30b1\u30c9\u30cb\u30a2"
+    },
+    "ML": {
+        "name": "\u30de\u30ea"
+    },
+    "MM": {
+        "name": "\u30df\u30e3\u30f3\u30de\u30fc (\u30d3\u30eb\u30de)"
+    },
+    "MN": {
+        "name": "\u30e2\u30f3\u30b4\u30eb"
+    },
+    "MO": {
+        "name": "\u4e2d\u83ef\u4eba\u6c11\u5171\u548c\u56fd\u30de\u30ab\u30aa\u7279\u5225\u884c\u653f\u533a",
+        "short": "\u30de\u30ab\u30aa"
+    },
+    "MP": {
+        "name": "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6"
+    },
+    "MQ": {
+        "name": "\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af"
+    },
+    "MR": {
+        "name": "\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2"
+    },
+    "MS": {
+        "name": "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8"
+    },
+    "MT": {
+        "name": "\u30de\u30eb\u30bf"
+    },
+    "MU": {
+        "name": "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9"
+    },
+    "MV": {
+        "name": "\u30e2\u30eb\u30c7\u30a3\u30d6"
+    },
+    "MW": {
+        "name": "\u30de\u30e9\u30a6\u30a4"
+    },
+    "MX": {
+        "name": "\u30e1\u30ad\u30b7\u30b3"
+    },
+    "MY": {
+        "name": "\u30de\u30ec\u30fc\u30b7\u30a2"
+    },
+    "MZ": {
+        "name": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af"
+    },
+    "NA": {
+        "name": "\u30ca\u30df\u30d3\u30a2"
+    },
+    "NC": {
+        "name": "\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2"
+    },
+    "NE": {
+        "name": "\u30cb\u30b8\u30a7\u30fc\u30eb"
+    },
+    "NF": {
+        "name": "\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6"
+    },
+    "NG": {
+        "name": "\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2"
+    },
+    "NI": {
+        "name": "\u30cb\u30ab\u30e9\u30b0\u30a2"
+    },
+    "NL": {
+        "name": "\u30aa\u30e9\u30f3\u30c0"
+    },
+    "NO": {
+        "name": "\u30ce\u30eb\u30a6\u30a7\u30fc"
+    },
+    "NP": {
+        "name": "\u30cd\u30d1\u30fc\u30eb"
+    },
+    "NR": {
+        "name": "\u30ca\u30a6\u30eb"
+    },
+    "NU": {
+        "name": "\u30cb\u30a6\u30a8"
+    },
+    "NZ": {
+        "name": "\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9"
+    },
+    "OM": {
+        "name": "\u30aa\u30de\u30fc\u30f3"
+    },
+    "PA": {
+        "name": "\u30d1\u30ca\u30de"
+    },
+    "PE": {
+        "name": "\u30da\u30eb\u30fc"
+    },
+    "PF": {
+        "name": "\u4ecf\u9818\u30dd\u30ea\u30cd\u30b7\u30a2"
+    },
+    "PG": {
+        "name": "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2"
+    },
+    "PH": {
+        "name": "\u30d5\u30a3\u30ea\u30d4\u30f3"
+    },
+    "PK": {
+        "name": "\u30d1\u30ad\u30b9\u30bf\u30f3"
+    },
+    "PL": {
+        "name": "\u30dd\u30fc\u30e9\u30f3\u30c9"
+    },
+    "PM": {
+        "name": "\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6"
+    },
+    "PN": {
+        "name": "\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6"
+    },
+    "PR": {
+        "name": "\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"
+    },
+    "PS": {
+        "name": "\u30d1\u30ec\u30b9\u30c1\u30ca\u81ea\u6cbb\u533a",
+        "short": "\u30d1\u30ec\u30b9\u30c1\u30ca"
+    },
+    "PT": {
+        "name": "\u30dd\u30eb\u30c8\u30ac\u30eb"
+    },
+    "PW": {
+        "name": "\u30d1\u30e9\u30aa"
+    },
+    "PY": {
+        "name": "\u30d1\u30e9\u30b0\u30a2\u30a4"
+    },
+    "QA": {
+        "name": "\u30ab\u30bf\u30fc\u30eb"
+    },
+    "QO": {
+        "name": "\u30aa\u30bb\u30a2\u30cb\u30a2\u5468\u8fba\u5730\u57df"
+    },
+    "RE": {
+        "name": "\u30ec\u30e6\u30cb\u30aa\u30f3"
+    },
+    "RO": {
+        "name": "\u30eb\u30fc\u30de\u30cb\u30a2"
+    },
+    "RS": {
+        "name": "\u30bb\u30eb\u30d3\u30a2"
+    },
+    "RU": {
+        "name": "\u30ed\u30b7\u30a2"
+    },
+    "RW": {
+        "name": "\u30eb\u30ef\u30f3\u30c0"
+    },
+    "SA": {
+        "name": "\u30b5\u30a6\u30b8\u30a2\u30e9\u30d3\u30a2"
+    },
+    "SB": {
+        "name": "\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6"
+    },
+    "SC": {
+        "name": "\u30bb\u30fc\u30b7\u30a7\u30eb"
+    },
+    "SD": {
+        "name": "\u30b9\u30fc\u30c0\u30f3"
+    },
+    "SE": {
+        "name": "\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3"
+    },
+    "SG": {
+        "name": "\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb"
+    },
+    "SH": {
+        "name": "\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca"
+    },
+    "SI": {
+        "name": "\u30b9\u30ed\u30d9\u30cb\u30a2"
+    },
+    "SJ": {
+        "name": "\u30b9\u30d0\u30fc\u30eb\u30d0\u30eb\u8af8\u5cf6\u30fb\u30e4\u30f3\u30de\u30a4\u30a8\u30f3\u5cf6"
+    },
+    "SK": {
+        "name": "\u30b9\u30ed\u30d0\u30ad\u30a2"
+    },
+    "SL": {
+        "name": "\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd"
+    },
+    "SM": {
+        "name": "\u30b5\u30f3\u30de\u30ea\u30ce"
+    },
+    "SN": {
+        "name": "\u30bb\u30cd\u30ac\u30eb"
+    },
+    "SO": {
+        "name": "\u30bd\u30de\u30ea\u30a2"
+    },
+    "SR": {
+        "name": "\u30b9\u30ea\u30ca\u30e0"
+    },
+    "SS": {
+        "name": "\u5357\u30b9\u30fc\u30c0\u30f3"
+    },
+    "ST": {
+        "name": "\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da"
+    },
+    "SV": {
+        "name": "\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb"
+    },
+    "SX": {
+        "name": "\u30b7\u30f3\u30c8\u30fb\u30de\u30fc\u30eb\u30c6\u30f3"
+    },
+    "SY": {
+        "name": "\u30b7\u30ea\u30a2"
+    },
+    "SZ": {
+        "name": "\u30a8\u30b9\u30ef\u30c6\u30a3\u30cb",
+        "variant": "\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9"
+    },
+    "TA": {
+        "name": "\u30c8\u30ea\u30b9\u30bf\u30f3\u30fb\u30c0\u30fb\u30af\u30fc\u30cb\u30e3"
+    },
+    "TC": {
+        "name": "\u30bf\u30fc\u30af\u30b9\u30fb\u30ab\u30a4\u30b3\u30b9\u8af8\u5cf6"
+    },
+    "TD": {
+        "name": "\u30c1\u30e3\u30c9"
+    },
+    "TF": {
+        "name": "\u4ecf\u9818\u6975\u5357\u8af8\u5cf6"
+    },
+    "TG": {
+        "name": "\u30c8\u30fc\u30b4"
+    },
+    "TH": {
+        "name": "\u30bf\u30a4"
+    },
+    "TJ": {
+        "name": "\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3"
+    },
+    "TK": {
+        "name": "\u30c8\u30b1\u30e9\u30a6"
+    },
+    "TL": {
+        "name": "\u6771\u30c6\u30a3\u30e2\u30fc\u30eb",
+        "variant": "\u6771\u30c1\u30e2\u30fc\u30eb"
+    },
+    "TM": {
+        "name": "\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3"
+    },
+    "TN": {
+        "name": "\u30c1\u30e5\u30cb\u30b8\u30a2"
+    },
+    "TO": {
+        "name": "\u30c8\u30f3\u30ac"
+    },
+    "TR": {
+        "name": "\u30c8\u30eb\u30b3"
+    },
+    "TT": {
+        "name": "\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4"
+    },
+    "TV": {
+        "name": "\u30c4\u30d0\u30eb"
+    },
+    "TW": {
+        "name": "\u53f0\u6e7e"
+    },
+    "TZ": {
+        "name": "\u30bf\u30f3\u30b6\u30cb\u30a2"
+    },
+    "UA": {
+        "name": "\u30a6\u30af\u30e9\u30a4\u30ca"
+    },
+    "UG": {
+        "name": "\u30a6\u30ac\u30f3\u30c0"
+    },
+    "UM": {
+        "name": "\u5408\u8846\u56fd\u9818\u6709\u5c0f\u96e2\u5cf6"
+    },
+    "UN": {
+        "name": "\u56fd\u969b\u9023\u5408",
+        "short": "\u56fd\u9023"
+    },
+    "US": {
+        "name": "\u30a2\u30e1\u30ea\u30ab\u5408\u8846\u56fd",
+        "short": "\u30a2\u30e1\u30ea\u30ab"
+    },
+    "UY": {
+        "name": "\u30a6\u30eb\u30b0\u30a2\u30a4"
+    },
+    "UZ": {
+        "name": "\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3"
+    },
+    "VA": {
+        "name": "\u30d0\u30c1\u30ab\u30f3\u5e02\u56fd"
+    },
+    "VC": {
+        "name": "\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8\u53ca\u3073\u30b0\u30ec\u30ca\u30c7\u30a3\u30fc\u30f3\u8af8\u5cf6"
+    },
+    "VE": {
+        "name": "\u30d9\u30cd\u30ba\u30a8\u30e9"
+    },
+    "VG": {
+        "name": "\u82f1\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
+    },
+    "VI": {
+        "name": "\u7c73\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
+    },
+    "VN": {
+        "name": "\u30d9\u30c8\u30ca\u30e0"
+    },
+    "VU": {
+        "name": "\u30d0\u30cc\u30a2\u30c4"
+    },
+    "WF": {
+        "name": "\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca"
+    },
+    "WS": {
+        "name": "\u30b5\u30e2\u30a2"
+    },
+    "XA": {
+        "name": "\u7591\u4f3c\u30a2\u30af\u30bb\u30f3\u30c8"
+    },
+    "XB": {
+        "name": "\u7591\u4f3c BIDI"
+    },
+    "XK": {
+        "name": "\u30b3\u30bd\u30dc"
+    },
+    "YE": {
+        "name": "\u30a4\u30a8\u30e1\u30f3"
+    },
+    "YT": {
+        "name": "\u30de\u30e8\u30c3\u30c8"
+    },
+    "ZA": {
+        "name": "\u5357\u30a2\u30d5\u30ea\u30ab"
+    },
+    "ZM": {
+        "name": "\u30b6\u30f3\u30d3\u30a2"
+    },
+    "ZW": {
+        "name": "\u30b8\u30f3\u30d0\u30d6\u30a8"
+    },
+    "ZZ": {
+        "name": "\u4e0d\u660e\u306a\u5730\u57df"
+    }
+}

@@ -1,0 +1,896 @@
+{
+    "001": {
+        "name": "An Saoghal"
+    },
+    "002": {
+        "name": "Afraga"
+    },
+    "003": {
+        "name": "Aimeireaga a Tuath"
+    },
+    "005": {
+        "name": "Aimeireaga a Deas"
+    },
+    "009": {
+        "name": "Roinn a\u2019 Chuain S\u00e8imh"
+    },
+    "011": {
+        "name": "Afraga an Iar"
+    },
+    "013": {
+        "name": "Meadhan Aimeireaga"
+    },
+    "014": {
+        "name": "Afraga an Ear"
+    },
+    "015": {
+        "name": "Afraga a Tuath"
+    },
+    "017": {
+        "name": "Meadhan Afraga"
+    },
+    "018": {
+        "name": "Ceann a Deas Afraga"
+    },
+    "019": {
+        "name": "An D\u00e0 Aimeireaga"
+    },
+    "021": {
+        "name": "Ceann a Tuath Aimeireaga"
+    },
+    "029": {
+        "name": "Am Muir Caraibeach"
+    },
+    "030": {
+        "name": "\u00c0isia an Ear"
+    },
+    "034": {
+        "name": "\u00c0isia a Deas"
+    },
+    "035": {
+        "name": "\u00c0isia an Ear-dheas"
+    },
+    "039": {
+        "name": "An Roinn-E\u00f2rpa a Deas"
+    },
+    "053": {
+        "name": "Astr\u00e0ilia is Sealainn Nuadh"
+    },
+    "054": {
+        "name": "Na h-Eileanan Dubha"
+    },
+    "057": {
+        "name": "Roinn nam Meanbh-Eileanan"
+    },
+    "061": {
+        "name": "Poilin\u00e8is"
+    },
+    "142": {
+        "name": "\u00c0isia"
+    },
+    "143": {
+        "name": "Meadhan \u00c0isia"
+    },
+    "145": {
+        "name": "\u00c0isia an Iar"
+    },
+    "150": {
+        "name": "An Roinn-E\u00f2rpa"
+    },
+    "151": {
+        "name": "An Roinn-E\u00f2rpa an Ear"
+    },
+    "154": {
+        "name": "An Roinn-E\u00f2rpa a Tuath"
+    },
+    "155": {
+        "name": "An Roinn-E\u00f2rpa an Iar"
+    },
+    "202": {
+        "name": "Afraga Deas air an t-Sathara"
+    },
+    "419": {
+        "name": "Aimeireaga Laidinneach"
+    },
+    "AC": {
+        "name": "Eilean na Deasgabhalach"
+    },
+    "AD": {
+        "name": "Andorra"
+    },
+    "AE": {
+        "name": "Na h-Iomaratan Arabach Aonaichte"
+    },
+    "AF": {
+        "name": "Afghanast\u00e0n"
+    },
+    "AG": {
+        "name": "Aint\u00ecoga is Barbuda"
+    },
+    "AI": {
+        "name": "Anguillia"
+    },
+    "AL": {
+        "name": "Alb\u00e0inia"
+    },
+    "AM": {
+        "name": "Airmeinea"
+    },
+    "AO": {
+        "name": "Ang\u00f2la"
+    },
+    "AQ": {
+        "name": "An Antartaig"
+    },
+    "AR": {
+        "name": "An Argantain"
+    },
+    "AS": {
+        "name": "Samotha na h-Aimeireaga"
+    },
+    "AT": {
+        "name": "An Ostair"
+    },
+    "AU": {
+        "name": "Astr\u00e0ilia"
+    },
+    "AW": {
+        "name": "Ar\u00f9ba"
+    },
+    "AX": {
+        "name": "Na h-Eileanan \u00c5land"
+    },
+    "AZ": {
+        "name": "Asarbaide\u00e0n"
+    },
+    "BA": {
+        "name": "Bosna is Hearsagobhana"
+    },
+    "BB": {
+        "name": "Barbados"
+    },
+    "BD": {
+        "name": "Bangladais"
+    },
+    "BE": {
+        "name": "A\u2019 Bheilg"
+    },
+    "BF": {
+        "name": "Buirciona Faso"
+    },
+    "BG": {
+        "name": "A\u2019 Bhulgair"
+    },
+    "BH": {
+        "name": "Bachrain"
+    },
+    "BI": {
+        "name": "Burundaidh"
+    },
+    "BJ": {
+        "name": "Beinin"
+    },
+    "BL": {
+        "name": "Saint Barth\u00e9lemy"
+    },
+    "BM": {
+        "name": "Bearm\u00f9da"
+    },
+    "BN": {
+        "name": "Br\u00f9naigh"
+    },
+    "BO": {
+        "name": "Boilibhia"
+    },
+    "BQ": {
+        "name": "Na T\u00ecrean \u00ccsle Caraibeach"
+    },
+    "BR": {
+        "name": "Braisil"
+    },
+    "BS": {
+        "name": "Na h-Eileanan Bhathama"
+    },
+    "BT": {
+        "name": "But\u00e0n"
+    },
+    "BV": {
+        "name": "Eilean Bouvet"
+    },
+    "BW": {
+        "name": "Botsuana"
+    },
+    "BY": {
+        "name": "A\u2019 Bhealaruis"
+    },
+    "BZ": {
+        "name": "A\u2019 Bheil\u00ecs"
+    },
+    "CA": {
+        "name": "Canada"
+    },
+    "CC": {
+        "name": "Na h-Eileanan Chocos (Keeling)"
+    },
+    "CD": {
+        "name": "Congo - Kinshasa",
+        "variant": "A\u2019 Chongo (PDC)"
+    },
+    "CF": {
+        "name": "Poblachd Meadhan Afraga"
+    },
+    "CG": {
+        "name": "A\u2019 Chongo - Brazzaville",
+        "variant": "A\u2019 Chongo"
+    },
+    "CH": {
+        "name": "An Eilbheis"
+    },
+    "CI": {
+        "name": "C\u00f4te d\u2019Ivoire",
+        "variant": "An Costa \u00ccbhri"
+    },
+    "CK": {
+        "name": "Eileanan Cook"
+    },
+    "CL": {
+        "name": "An t-Sile"
+    },
+    "CM": {
+        "name": "Camarun"
+    },
+    "CN": {
+        "name": "An t-S\u00ecn"
+    },
+    "CO": {
+        "name": "Coloimbia"
+    },
+    "CP": {
+        "name": "Eilean Clipperton"
+    },
+    "CR": {
+        "name": "Costa R\u00eccea"
+    },
+    "CU": {
+        "name": "C\u00f9ba"
+    },
+    "CV": {
+        "name": "An Ceap Uaine"
+    },
+    "CW": {
+        "name": "Cura\u00e7ao"
+    },
+    "CX": {
+        "name": "Eilean na Nollaig"
+    },
+    "CY": {
+        "name": "C\u00ecopras"
+    },
+    "CZ": {
+        "name": "An t-Seic",
+        "variant": "Poblachd na Seice"
+    },
+    "DE": {
+        "name": "A\u2019 Ghearmailt"
+    },
+    "DG": {
+        "name": "Diego Garcia"
+    },
+    "DJ": {
+        "name": "Diob\u00f9taidh"
+    },
+    "DK": {
+        "name": "An Danmhairg"
+    },
+    "DM": {
+        "name": "Doiminicea"
+    },
+    "DO": {
+        "name": "A\u2019 Phoblachd Dhoiminiceach"
+    },
+    "DZ": {
+        "name": "Aildiria"
+    },
+    "EA": {
+        "name": "Ceuta agus Melilla"
+    },
+    "EC": {
+        "name": "Eacuador"
+    },
+    "EE": {
+        "name": "An Eastoin"
+    },
+    "EG": {
+        "name": "An \u00c8iphit"
+    },
+    "EH": {
+        "name": "Sathara an Iar"
+    },
+    "ER": {
+        "name": "Eartra"
+    },
+    "ES": {
+        "name": "An Sp\u00e0innt"
+    },
+    "ET": {
+        "name": "An Itiop"
+    },
+    "EU": {
+        "name": "An t-Aonadh E\u00f2rpach"
+    },
+    "EZ": {
+        "name": "Raon an E\u00f2ro"
+    },
+    "FI": {
+        "name": "An Fhionnlann"
+    },
+    "FJ": {
+        "name": "F\u00ecdi"
+    },
+    "FK": {
+        "name": "Na h-Eileanan F\u00e0clannach",
+        "variant": "Na h-Eileanan F\u00e0clannach (Islas Malvinas)"
+    },
+    "FM": {
+        "name": "Na Meanbh-eileanan"
+    },
+    "FO": {
+        "name": "Na h-Eileanan F\u00e0ro"
+    },
+    "FR": {
+        "name": "An Fhraing"
+    },
+    "GA": {
+        "name": "Gabon"
+    },
+    "GB": {
+        "name": "An R\u00ecoghachd Aonaichte",
+        "short": "RA"
+    },
+    "GD": {
+        "name": "Grean\u00e0da"
+    },
+    "GE": {
+        "name": "A\u2019 Chairtbheil"
+    },
+    "GF": {
+        "name": "Guidhe\u00e0na na Frainge"
+    },
+    "GG": {
+        "name": "Ge\u00e0rnsaidh"
+    },
+    "GH": {
+        "name": "G\u00e0na"
+    },
+    "GI": {
+        "name": "Diobraltar"
+    },
+    "GL": {
+        "name": "A\u2019 Ghraonlann"
+    },
+    "GM": {
+        "name": "A\u2019 Ghaimbia"
+    },
+    "GN": {
+        "name": "Gini"
+    },
+    "GP": {
+        "name": "Guadalup"
+    },
+    "GQ": {
+        "name": "Gini Mheadhan-Chriosach"
+    },
+    "GR": {
+        "name": "A\u2019 Ghreug"
+    },
+    "GS": {
+        "name": "Se\u00f2irsea a Deas is na h-Eileanan Sandwich a Deas"
+    },
+    "GT": {
+        "name": "Guatamala"
+    },
+    "GU": {
+        "name": "Guam"
+    },
+    "GW": {
+        "name": "Gini-Bioso"
+    },
+    "GY": {
+        "name": "Guidhe\u00e0na"
+    },
+    "HK": {
+        "name": "Hong Kong SAR na S\u00ecne",
+        "short": "Hong Kong"
+    },
+    "HM": {
+        "name": "Eilean Heard is MhicDh\u00f2mhnaill"
+    },
+    "HN": {
+        "name": "Hond\u00f9ras"
+    },
+    "HR": {
+        "name": "A\u2019 Chr\u00f2thais"
+    },
+    "HT": {
+        "name": "Haidhti"
+    },
+    "HU": {
+        "name": "An Ungair"
+    },
+    "IC": {
+        "name": "Na h-Eileanan Can\u00e0rach"
+    },
+    "ID": {
+        "name": "Na h-Innd-innse"
+    },
+    "IE": {
+        "name": "\u00c8irinn"
+    },
+    "IL": {
+        "name": "Iosrael"
+    },
+    "IM": {
+        "name": "Eilean Mhanainn"
+    },
+    "IN": {
+        "name": "Na h-Innseachan"
+    },
+    "IO": {
+        "name": "Ranntair Breatannach Cuan nan Innseachan"
+    },
+    "IQ": {
+        "name": "Ior\u00e0c"
+    },
+    "IR": {
+        "name": "Ior\u00e0n"
+    },
+    "IS": {
+        "name": "Innis T\u00ecle"
+    },
+    "IT": {
+        "name": "An Eadailt"
+    },
+    "JE": {
+        "name": "De\u00e0rsaidh"
+    },
+    "JM": {
+        "name": "Diameuga"
+    },
+    "JO": {
+        "name": "I\u00f2rdan"
+    },
+    "JP": {
+        "name": "An t-Seapan"
+    },
+    "KE": {
+        "name": "Ceinia"
+    },
+    "KG": {
+        "name": "C\u00ecorgastan"
+    },
+    "KH": {
+        "name": "Cambuidea"
+    },
+    "KI": {
+        "name": "Ciribeas"
+    },
+    "KM": {
+        "name": "Comoros"
+    },
+    "KN": {
+        "name": "Naomh Cr\u00ecstean is Nibheis"
+    },
+    "KP": {
+        "name": "Coir\u00e8a a Tuath"
+    },
+    "KR": {
+        "name": "Coir\u00e8a"
+    },
+    "KW": {
+        "name": "Cuibh\u00e8it"
+    },
+    "KY": {
+        "name": "Na h-Eileanan Caimean"
+    },
+    "KZ": {
+        "name": "Casachst\u00e0n"
+    },
+    "LA": {
+        "name": "L\u00e0thos"
+    },
+    "LB": {
+        "name": "Leabanon"
+    },
+    "LC": {
+        "name": "Naomh L\u00f9isea"
+    },
+    "LI": {
+        "name": "Lichtenstein"
+    },
+    "LK": {
+        "name": "Sri Lanca"
+    },
+    "LR": {
+        "name": "Lib\u00e8ir"
+    },
+    "LS": {
+        "name": "Leasoto"
+    },
+    "LT": {
+        "name": "An Liotuain"
+    },
+    "LU": {
+        "name": "Lugsamburg"
+    },
+    "LV": {
+        "name": "An Laitbhe"
+    },
+    "LY": {
+        "name": "Libia"
+    },
+    "MA": {
+        "name": "Moroco"
+    },
+    "MC": {
+        "name": "Monaco"
+    },
+    "MD": {
+        "name": "A\u2019 Mholdobha"
+    },
+    "ME": {
+        "name": "Am Monadh Neagrach"
+    },
+    "MF": {
+        "name": "Naomh M\u00e0rtainn"
+    },
+    "MG": {
+        "name": "Madagasgar"
+    },
+    "MH": {
+        "name": "Eileanan Mharshall"
+    },
+    "MK": {
+        "name": "A\u2019 Mhasadon a Tuath"
+    },
+    "ML": {
+        "name": "M\u00e0ili"
+    },
+    "MM": {
+        "name": "Mi\u00e0nmar"
+    },
+    "MN": {
+        "name": "D\u00f9thaich nam Mongol"
+    },
+    "MO": {
+        "name": "Mac\u00e0thu SAR na S\u00ecne",
+        "short": "Mac\u00e0thu"
+    },
+    "MP": {
+        "name": "Na h-Eileanan Mairianach a Tuath"
+    },
+    "MQ": {
+        "name": "Mairtinic"
+    },
+    "MR": {
+        "name": "Morat\u00e0inea"
+    },
+    "MS": {
+        "name": "Montsarat"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Na h-Eileanan Mhoiriseas"
+    },
+    "MV": {
+        "name": "Na h-Eileanan Mhaladaibh"
+    },
+    "MW": {
+        "name": "Malabhaidh"
+    },
+    "MX": {
+        "name": "Meagsago"
+    },
+    "MY": {
+        "name": "Malaidhsea"
+    },
+    "MZ": {
+        "name": "M\u00f2saimbic"
+    },
+    "NA": {
+        "name": "An Namaib"
+    },
+    "NC": {
+        "name": "Cailleann Nuadh"
+    },
+    "NE": {
+        "name": "N\u00ecgeir"
+    },
+    "NF": {
+        "name": "Eilean Norfolk"
+    },
+    "NG": {
+        "name": "Nig\u00e8iria"
+    },
+    "NI": {
+        "name": "Niocaragua"
+    },
+    "NL": {
+        "name": "Na T\u00ecrean \u00ccsle"
+    },
+    "NO": {
+        "name": "Nirribhidh"
+    },
+    "NP": {
+        "name": "Neap\u00e0l"
+    },
+    "NR": {
+        "name": "Nabhru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "Sealainn Nuadh"
+    },
+    "OM": {
+        "name": "Om\u00e0n"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Pear\u00f9"
+    },
+    "PF": {
+        "name": "Poilin\u00e8is na Frainge"
+    },
+    "PG": {
+        "name": "Gini Nuadh Phaputhach"
+    },
+    "PH": {
+        "name": "Na h-Eileanan Filipineach"
+    },
+    "PK": {
+        "name": "Pagast\u00e0n"
+    },
+    "PL": {
+        "name": "A\u2019 Ph\u00f2lainn"
+    },
+    "PM": {
+        "name": "Saint Pierre agus Miquelon"
+    },
+    "PN": {
+        "name": "Eileanan Pheit a\u2019 Ch\u00e0irn"
+    },
+    "PR": {
+        "name": "Porto R\u00ecceo"
+    },
+    "PS": {
+        "name": "\u00d9ghdarras nam Palastaineach",
+        "short": "Palastain"
+    },
+    "PT": {
+        "name": "A\u2019 Phortagail"
+    },
+    "PW": {
+        "name": "Palabh"
+    },
+    "PY": {
+        "name": "Paraguaidh"
+    },
+    "QA": {
+        "name": "Catar"
+    },
+    "QO": {
+        "name": "Roinn Iomallach a\u2019 Chuain S\u00e8imh"
+    },
+    "RE": {
+        "name": "R\u00e9union"
+    },
+    "RO": {
+        "name": "Rom\u00e0inia"
+    },
+    "RS": {
+        "name": "An t-S\u00e8irb"
+    },
+    "RU": {
+        "name": "An Ruis"
+    },
+    "RW": {
+        "name": "Rubhanda"
+    },
+    "SA": {
+        "name": "Ar\u00e0ibia nan Sabhd"
+    },
+    "SB": {
+        "name": "Eileanan Sholaimh"
+    },
+    "SC": {
+        "name": "Na h-Eileanan Sheiseall"
+    },
+    "SD": {
+        "name": "Sud\u00e0n"
+    },
+    "SE": {
+        "name": "An t-Suain"
+    },
+    "SG": {
+        "name": "Singeap\u00f2r"
+    },
+    "SH": {
+        "name": "Eilean Naomh Eilidh"
+    },
+    "SI": {
+        "name": "An t-Sl\u00f2bhain"
+    },
+    "SJ": {
+        "name": "Svalbard agus Jan Mayen"
+    },
+    "SK": {
+        "name": "An t-Sl\u00f2bhac"
+    },
+    "SL": {
+        "name": "Siarra Le\u00f2mhann"
+    },
+    "SM": {
+        "name": "San Marino"
+    },
+    "SN": {
+        "name": "Seanagal"
+    },
+    "SO": {
+        "name": "Som\u00e0ilia"
+    },
+    "SR": {
+        "name": "Suranam"
+    },
+    "SS": {
+        "name": "Sud\u00e0n a Deas"
+    },
+    "ST": {
+        "name": "S\u00e3o Tom\u00e9 agus Pr\u00edncipe"
+    },
+    "SV": {
+        "name": "An Salbhador"
+    },
+    "SX": {
+        "name": "Sint Maarten"
+    },
+    "SY": {
+        "name": "Siridhea"
+    },
+    "SZ": {
+        "name": "eSwatini",
+        "variant": "D\u00f9thaich nan Suasaidh"
+    },
+    "TA": {
+        "name": "Tristan da Cunha"
+    },
+    "TC": {
+        "name": "Na h-Eileanan Turcach is Caiceo"
+    },
+    "TD": {
+        "name": "An t-Se\u00e0d"
+    },
+    "TF": {
+        "name": "Ranntairean a Deas na Frainge"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "D\u00f9thaich nan T\u00e0idh"
+    },
+    "TJ": {
+        "name": "Taidigeast\u00e0n"
+    },
+    "TK": {
+        "name": "Tokelau"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "variant": "T\u00ecomor an Ear"
+    },
+    "TM": {
+        "name": "Turcmanast\u00e0n"
+    },
+    "TN": {
+        "name": "Tuinisea"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "An Tuirc"
+    },
+    "TT": {
+        "name": "Trianaid agus Tobago"
+    },
+    "TV": {
+        "name": "Tubhalu"
+    },
+    "TW": {
+        "name": "Taidh-Bh\u00e0n"
+    },
+    "TZ": {
+        "name": "An Tansan"
+    },
+    "UA": {
+        "name": "An Ucr\u00e0in"
+    },
+    "UG": {
+        "name": "Uganda"
+    },
+    "UM": {
+        "name": "Meanbh-Eileanan Iomallach nan SA"
+    },
+    "UN": {
+        "name": "Na D\u00f9thchannan Aonaichte"
+    },
+    "US": {
+        "name": "Na St\u00e0itean Aonaichte",
+        "short": "SA"
+    },
+    "UY": {
+        "name": "Uruguaidh"
+    },
+    "UZ": {
+        "name": "Usbagast\u00e0n"
+    },
+    "VA": {
+        "name": "Cathair na Bhatacain"
+    },
+    "VC": {
+        "name": "Naomh Bhionsant agus Eileanan Greanadach"
+    },
+    "VE": {
+        "name": "A\u2019 Bheiniseala"
+    },
+    "VG": {
+        "name": "Eileanan Breatannach na Maighdinn"
+    },
+    "VI": {
+        "name": "Eileanan na Maighdinn aig na SA"
+    },
+    "VN": {
+        "name": "Bhiet-Nam"
+    },
+    "VU": {
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "name": "Uallas agus Futuna"
+    },
+    "WS": {
+        "name": "Samotha"
+    },
+    "XA": {
+        "name": "Sr\u00e0can fuadain"
+    },
+    "XB": {
+        "name": "D\u00e0-chomhaireach fuadain"
+    },
+    "XK": {
+        "name": "A\u2019 Chosobho"
+    },
+    "YE": {
+        "name": "An Eaman"
+    },
+    "YT": {
+        "name": "Mayotte"
+    },
+    "ZA": {
+        "name": "Afraga a Deas"
+    },
+    "ZM": {
+        "name": "S\u00e0imbia"
+    },
+    "ZW": {
+        "name": "An t-S\u00ecombab"
+    },
+    "ZZ": {
+        "name": "Roinn-d\u00f9thcha neo-aithnichte"
+    }
+}

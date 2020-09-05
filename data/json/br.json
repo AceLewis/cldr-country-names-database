@@ -1,0 +1,896 @@
+{
+    "001": {
+        "name": "Bed"
+    },
+    "002": {
+        "name": "Afrika"
+    },
+    "003": {
+        "name": "Norzhamerika"
+    },
+    "005": {
+        "name": "Suamerika"
+    },
+    "009": {
+        "name": "Oseania"
+    },
+    "011": {
+        "name": "Afrika ar C\u02bchorn\u00f4g"
+    },
+    "013": {
+        "name": "Kreizamerika"
+    },
+    "014": {
+        "name": "Afrika ar Reter"
+    },
+    "015": {
+        "name": "Afrika an Norzh"
+    },
+    "017": {
+        "name": "Afrika ar C\u02bchreiz"
+    },
+    "018": {
+        "name": "Afrika ar Su"
+    },
+    "019": {
+        "name": "Amerikao\u00f9"
+    },
+    "021": {
+        "name": "Amerika an Norzh"
+    },
+    "029": {
+        "name": "Karib"
+    },
+    "030": {
+        "name": "Azia ar Reter"
+    },
+    "034": {
+        "name": "Azia ar Su"
+    },
+    "035": {
+        "name": "Azia ar Gevred"
+    },
+    "039": {
+        "name": "Europa ar Su"
+    },
+    "053": {
+        "name": "Aostralazia"
+    },
+    "054": {
+        "name": "Melanezia"
+    },
+    "057": {
+        "name": "Rannved Mikronezia"
+    },
+    "061": {
+        "name": "Polinezia"
+    },
+    "142": {
+        "name": "Azia"
+    },
+    "143": {
+        "name": "Azia ar C\u02bchreiz"
+    },
+    "145": {
+        "name": "Azia ar C\u02bchorn\u00f4g"
+    },
+    "150": {
+        "name": "Europa"
+    },
+    "151": {
+        "name": "Europa ar Reter"
+    },
+    "154": {
+        "name": "Europa an Norzh"
+    },
+    "155": {
+        "name": "Europa ar C\u02bchorn\u00f4g"
+    },
+    "202": {
+        "name": "Afrika issaharat"
+    },
+    "419": {
+        "name": "Amerika Latin"
+    },
+    "AC": {
+        "name": "Enez Ascension"
+    },
+    "AD": {
+        "name": "Andorra"
+    },
+    "AE": {
+        "name": "Emirelezhio\u00f9 Arab Unanet"
+    },
+    "AF": {
+        "name": "Afghanistan"
+    },
+    "AG": {
+        "name": "Antigua ha Barbuda"
+    },
+    "AI": {
+        "name": "Anguilla"
+    },
+    "AL": {
+        "name": "Albania"
+    },
+    "AM": {
+        "name": "Armenia"
+    },
+    "AO": {
+        "name": "Angola"
+    },
+    "AQ": {
+        "name": "Antarktika"
+    },
+    "AR": {
+        "name": "Arc\u02bchantina"
+    },
+    "AS": {
+        "name": "Samoa Amerikan"
+    },
+    "AT": {
+        "name": "Aostria"
+    },
+    "AU": {
+        "name": "Aostralia"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Inizi \u00c5land"
+    },
+    "AZ": {
+        "name": "Azerbaidjan"
+    },
+    "BA": {
+        "name": "Bosnia ha Herzegovina"
+    },
+    "BB": {
+        "name": "Barbados"
+    },
+    "BD": {
+        "name": "Bangladesh"
+    },
+    "BE": {
+        "name": "Belgia"
+    },
+    "BF": {
+        "name": "Burkina Faso"
+    },
+    "BG": {
+        "name": "Bulgaria"
+    },
+    "BH": {
+        "name": "Bahrein"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "Benin"
+    },
+    "BL": {
+        "name": "Saint Barth\u00e9lemy"
+    },
+    "BM": {
+        "name": "Bermuda"
+    },
+    "BN": {
+        "name": "Brunei"
+    },
+    "BO": {
+        "name": "Bolivia"
+    },
+    "BQ": {
+        "name": "Karib Nederlandat"
+    },
+    "BR": {
+        "name": "Brazil"
+    },
+    "BS": {
+        "name": "Bahamas"
+    },
+    "BT": {
+        "name": "Bhoutan"
+    },
+    "BV": {
+        "name": "Enez Bouvet"
+    },
+    "BW": {
+        "name": "Botswana"
+    },
+    "BY": {
+        "name": "Belarus"
+    },
+    "BZ": {
+        "name": "Belize"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CC": {
+        "name": "Inizi Kokoz"
+    },
+    "CD": {
+        "name": "Kongo - Kinshasa",
+        "variant": "Kongo (RDK)"
+    },
+    "CF": {
+        "name": "Republik Kreizafrikan"
+    },
+    "CG": {
+        "name": "Kongo - Brazzaville",
+        "variant": "Kongo (Republik)"
+    },
+    "CH": {
+        "name": "Suis"
+    },
+    "CI": {
+        "name": "Aod an Olifant",
+        "variant": "Aod Olifant"
+    },
+    "CK": {
+        "name": "Inizi Cook"
+    },
+    "CL": {
+        "name": "Chile"
+    },
+    "CM": {
+        "name": "Kameroun"
+    },
+    "CN": {
+        "name": "Sina"
+    },
+    "CO": {
+        "name": "Kolombia"
+    },
+    "CP": {
+        "name": "Enez Clipperton"
+    },
+    "CR": {
+        "name": "Costa Rica"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "Kab-Glas"
+    },
+    "CW": {
+        "name": "Cura\u00e7ao"
+    },
+    "CX": {
+        "name": "Enez Christmas"
+    },
+    "CY": {
+        "name": "Kiprenez"
+    },
+    "CZ": {
+        "name": "Tchekia",
+        "variant": "Republik Tchek"
+    },
+    "DE": {
+        "name": "Alamagn"
+    },
+    "DG": {
+        "name": "Diego Garcia"
+    },
+    "DJ": {
+        "name": "Djibouti"
+    },
+    "DK": {
+        "name": "Danmark"
+    },
+    "DM": {
+        "name": "Dominica"
+    },
+    "DO": {
+        "name": "Republik Dominikan"
+    },
+    "DZ": {
+        "name": "Aljeria"
+    },
+    "EA": {
+        "name": "Ceuta ha Melilla"
+    },
+    "EC": {
+        "name": "Ecuador"
+    },
+    "EE": {
+        "name": "Estonia"
+    },
+    "EG": {
+        "name": "Egipt"
+    },
+    "EH": {
+        "name": "Sahara ar C\u02bchorn\u00f4g"
+    },
+    "ER": {
+        "name": "Eritrea"
+    },
+    "ES": {
+        "name": "Spagn"
+    },
+    "ET": {
+        "name": "Etiopia"
+    },
+    "EU": {
+        "name": "Unaniezh Europa"
+    },
+    "EZ": {
+        "name": "takad an euro"
+    },
+    "FI": {
+        "name": "Finland"
+    },
+    "FJ": {
+        "name": "Fidji"
+    },
+    "FK": {
+        "name": "Inizi Falkland",
+        "variant": "Inizi Falkland (Inizi Malo\u00f9)"
+    },
+    "FM": {
+        "name": "Mikronezia"
+    },
+    "FO": {
+        "name": "Inizi Faero"
+    },
+    "FR": {
+        "name": "Fra\u00f1s"
+    },
+    "GA": {
+        "name": "Gabon"
+    },
+    "GB": {
+        "name": "Rouantelezh-Unanet",
+        "short": "RU"
+    },
+    "GD": {
+        "name": "Grenada"
+    },
+    "GE": {
+        "name": "Jorjia"
+    },
+    "GF": {
+        "name": "Gwiana c\u02bchall"
+    },
+    "GG": {
+        "name": "Gwernenez"
+    },
+    "GH": {
+        "name": "Ghana"
+    },
+    "GI": {
+        "name": "Jibraltar"
+    },
+    "GL": {
+        "name": "Greunland"
+    },
+    "GM": {
+        "name": "Gambia"
+    },
+    "GN": {
+        "name": "Ginea"
+    },
+    "GP": {
+        "name": "Gwadeloup"
+    },
+    "GQ": {
+        "name": "Ginea ar C\u02bcheheder"
+    },
+    "GR": {
+        "name": "Gres"
+    },
+    "GS": {
+        "name": "Inizi Georgia ar Su hag Inizi Sandwich ar Su"
+    },
+    "GT": {
+        "name": "Guatemala"
+    },
+    "GU": {
+        "name": "Guam"
+    },
+    "GW": {
+        "name": "Ginea-Bissau"
+    },
+    "GY": {
+        "name": "Guyana"
+    },
+    "HK": {
+        "name": "Hong Kong RMD Sina",
+        "short": "Hong Kong"
+    },
+    "HM": {
+        "name": "Inizi Heard ha McDonald"
+    },
+    "HN": {
+        "name": "Honduras"
+    },
+    "HR": {
+        "name": "Kroatia"
+    },
+    "HT": {
+        "name": "Haiti"
+    },
+    "HU": {
+        "name": "Hungaria"
+    },
+    "IC": {
+        "name": "Inizi Kanariez"
+    },
+    "ID": {
+        "name": "Indonezia"
+    },
+    "IE": {
+        "name": "Iwerzhon"
+    },
+    "IL": {
+        "name": "Israel"
+    },
+    "IM": {
+        "name": "Enez Vanav"
+    },
+    "IN": {
+        "name": "India"
+    },
+    "IO": {
+        "name": "Tiriad breizhveurat Meurvor Indez"
+    },
+    "IQ": {
+        "name": "Iraq"
+    },
+    "IR": {
+        "name": "Iran"
+    },
+    "IS": {
+        "name": "Island"
+    },
+    "IT": {
+        "name": "Italia"
+    },
+    "JE": {
+        "name": "Jerzenez"
+    },
+    "JM": {
+        "name": "Jamaika"
+    },
+    "JO": {
+        "name": "Jordania"
+    },
+    "JP": {
+        "name": "Japan"
+    },
+    "KE": {
+        "name": "Kenya"
+    },
+    "KG": {
+        "name": "Kyrgyzstan"
+    },
+    "KH": {
+        "name": "Kambodja"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Komorez"
+    },
+    "KN": {
+        "name": "Saint Kitts ha Nevis"
+    },
+    "KP": {
+        "name": "Korea an Norzh"
+    },
+    "KR": {
+        "name": "Korea ar Su"
+    },
+    "KW": {
+        "name": "Koweit"
+    },
+    "KY": {
+        "name": "Inizi Cayman"
+    },
+    "KZ": {
+        "name": "Kazakstan"
+    },
+    "LA": {
+        "name": "Laos"
+    },
+    "LB": {
+        "name": "Liban"
+    },
+    "LC": {
+        "name": "Saint Lucia"
+    },
+    "LI": {
+        "name": "Liechtenstein"
+    },
+    "LK": {
+        "name": "Sri Lanka"
+    },
+    "LR": {
+        "name": "Liberia"
+    },
+    "LS": {
+        "name": "Lesotho"
+    },
+    "LT": {
+        "name": "Lituania"
+    },
+    "LU": {
+        "name": "Luksembourg"
+    },
+    "LV": {
+        "name": "Latvia"
+    },
+    "LY": {
+        "name": "Libia"
+    },
+    "MA": {
+        "name": "Maroko"
+    },
+    "MC": {
+        "name": "Monaco"
+    },
+    "MD": {
+        "name": "Moldova"
+    },
+    "ME": {
+        "name": "Montenegro"
+    },
+    "MF": {
+        "name": "Saint Martin"
+    },
+    "MG": {
+        "name": "Madagaskar"
+    },
+    "MH": {
+        "name": "Inizi Marshall"
+    },
+    "MK": {
+        "name": "Makedonia an Norzh"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Myanmar (Birmania)"
+    },
+    "MN": {
+        "name": "Mongolia"
+    },
+    "MO": {
+        "name": "Macau RMD Sina",
+        "short": "Macau"
+    },
+    "MP": {
+        "name": "Inizi Mariana an Norzh"
+    },
+    "MQ": {
+        "name": "Martinik"
+    },
+    "MR": {
+        "name": "Maouritania"
+    },
+    "MS": {
+        "name": "Montserrat"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Moris"
+    },
+    "MV": {
+        "name": "Maldivez"
+    },
+    "MW": {
+        "name": "Malawi"
+    },
+    "MX": {
+        "name": "Mec\u02bchiko"
+    },
+    "MY": {
+        "name": "Malaysia"
+    },
+    "MZ": {
+        "name": "Mozambik"
+    },
+    "NA": {
+        "name": "Namibia"
+    },
+    "NC": {
+        "name": "Kaledonia Nevez"
+    },
+    "NE": {
+        "name": "Niger"
+    },
+    "NF": {
+        "name": "Enez Norfolk"
+    },
+    "NG": {
+        "name": "Nigeria"
+    },
+    "NI": {
+        "name": "Nicaragua"
+    },
+    "NL": {
+        "name": "Izelvroio\u00f9"
+    },
+    "NO": {
+        "name": "Norvegia"
+    },
+    "NP": {
+        "name": "Nepal"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "Zeland-Nevez"
+    },
+    "OM": {
+        "name": "Oman"
+    },
+    "PA": {
+        "name": "Panam\u00e1"
+    },
+    "PE": {
+        "name": "Perou"
+    },
+    "PF": {
+        "name": "Polinezia C\u02bchall"
+    },
+    "PG": {
+        "name": "Papoua Ginea-Nevez"
+    },
+    "PH": {
+        "name": "Filipinez"
+    },
+    "PK": {
+        "name": "Pakistan"
+    },
+    "PL": {
+        "name": "Polonia"
+    },
+    "PM": {
+        "name": "Sant-P\u00ear-ha-Mikelon"
+    },
+    "PN": {
+        "name": "Enez Pitcairn"
+    },
+    "PR": {
+        "name": "Puerto Rico"
+    },
+    "PS": {
+        "name": "Tiriado\u00f9 Palestina",
+        "short": "Palestina"
+    },
+    "PT": {
+        "name": "Portugal"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "Paraguay"
+    },
+    "QA": {
+        "name": "Qatar"
+    },
+    "QO": {
+        "name": "Oseania diabell"
+    },
+    "RE": {
+        "name": "Ar Re\u00fcnion"
+    },
+    "RO": {
+        "name": "Roumania"
+    },
+    "RS": {
+        "name": "Serbia"
+    },
+    "RU": {
+        "name": "Rusia"
+    },
+    "RW": {
+        "name": "Rwanda"
+    },
+    "SA": {
+        "name": "Arabia Saoudat"
+    },
+    "SB": {
+        "name": "Inizi Salomon"
+    },
+    "SC": {
+        "name": "Sechelez"
+    },
+    "SD": {
+        "name": "Soudan"
+    },
+    "SE": {
+        "name": "Sveden"
+    },
+    "SG": {
+        "name": "Singapour"
+    },
+    "SH": {
+        "name": "Saint-Helena"
+    },
+    "SI": {
+        "name": "Slovenia"
+    },
+    "SJ": {
+        "name": "Svalbard"
+    },
+    "SK": {
+        "name": "Slovakia"
+    },
+    "SL": {
+        "name": "Sierra Leone"
+    },
+    "SM": {
+        "name": "San Marino"
+    },
+    "SN": {
+        "name": "Senegal"
+    },
+    "SO": {
+        "name": "Somalia"
+    },
+    "SR": {
+        "name": "Surinam"
+    },
+    "SS": {
+        "name": "Susoudan"
+    },
+    "ST": {
+        "name": "S\u00e3o Tom\u00e9 ha Pr\u00edncipe"
+    },
+    "SV": {
+        "name": "Salvador"
+    },
+    "SX": {
+        "name": "Sint Maarten"
+    },
+    "SY": {
+        "name": "Siria"
+    },
+    "SZ": {
+        "name": "Eswatini",
+        "variant": "Swaziland"
+    },
+    "TA": {
+        "name": "Tristan da Cunha"
+    },
+    "TC": {
+        "name": "Inizi Turks ha Caicos"
+    },
+    "TD": {
+        "name": "Tchad"
+    },
+    "TF": {
+        "name": "Douaro\u00f9 aostral Fra\u00f1s"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "Thailand"
+    },
+    "TJ": {
+        "name": "Tadjikistan"
+    },
+    "TK": {
+        "name": "Tokelau"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "variant": "Timor ar Reter"
+    },
+    "TM": {
+        "name": "Turkmenistan"
+    },
+    "TN": {
+        "name": "Tunizia"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Turkia"
+    },
+    "TT": {
+        "name": "Trinidad ha Tobago"
+    },
+    "TV": {
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "name": "Taiwan"
+    },
+    "TZ": {
+        "name": "Tanzania"
+    },
+    "UA": {
+        "name": "Ukraina"
+    },
+    "UG": {
+        "name": "Ouganda"
+    },
+    "UM": {
+        "name": "Inizi diabell ar Stado\u00f9-Unanet"
+    },
+    "UN": {
+        "name": "Broado\u00f9 unanet"
+    },
+    "US": {
+        "name": "Stado\u00f9-Unanet",
+        "short": "SU"
+    },
+    "UY": {
+        "name": "Uruguay"
+    },
+    "UZ": {
+        "name": "Ouzbekistan"
+    },
+    "VA": {
+        "name": "Vatikan"
+    },
+    "VC": {
+        "name": "Sant Visant hag ar Grenadinez"
+    },
+    "VE": {
+        "name": "Venezuela"
+    },
+    "VG": {
+        "name": "Inizi Gwerc\u02bch Breizh-Veur"
+    },
+    "VI": {
+        "name": "Inizi Gwerc\u02bch ar Stado\u00f9-Unanet"
+    },
+    "VN": {
+        "name": "Vi\u00eat Nam"
+    },
+    "VU": {
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "name": "Wallis ha Futuna"
+    },
+    "WS": {
+        "name": "Samoa"
+    },
+    "XA": {
+        "name": "pouez-mouezh gaou"
+    },
+    "XB": {
+        "name": "BiDi gaou"
+    },
+    "XK": {
+        "name": "Kosovo"
+    },
+    "YE": {
+        "name": "Yemen"
+    },
+    "YT": {
+        "name": "Mayotte"
+    },
+    "ZA": {
+        "name": "Suafrika"
+    },
+    "ZM": {
+        "name": "Zambia"
+    },
+    "ZW": {
+        "name": "Zimbabwe"
+    },
+    "ZZ": {
+        "name": "Rannved dianav"
+    }
+}

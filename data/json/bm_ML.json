@@ -1,0 +1,671 @@
+{
+    "AD": {
+        "name": "And\u0254r"
+    },
+    "AE": {
+        "name": "Arabu mara kafoli"
+    },
+    "AF": {
+        "name": "Afiganista\u014b"
+    },
+    "AG": {
+        "name": "Antiga-ni-Barbuda"
+    },
+    "AI": {
+        "name": "Angiya"
+    },
+    "AL": {
+        "name": "Alibani"
+    },
+    "AM": {
+        "name": "Arimeni"
+    },
+    "AO": {
+        "name": "Angola"
+    },
+    "AR": {
+        "name": "Arizantin"
+    },
+    "AS": {
+        "name": "Samowa amerikani"
+    },
+    "AT": {
+        "name": "Otirisi"
+    },
+    "AU": {
+        "name": "Ositirali"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AZ": {
+        "name": "Az\u025brbayja\u014b"
+    },
+    "BA": {
+        "name": "Bozni-\u0190rizigovini"
+    },
+    "BB": {
+        "name": "Barbadi"
+    },
+    "BD": {
+        "name": "B\u025bngilad\u025bsi"
+    },
+    "BE": {
+        "name": "B\u025bliziki"
+    },
+    "BF": {
+        "name": "Burukina Faso"
+    },
+    "BG": {
+        "name": "Buligari"
+    },
+    "BH": {
+        "name": "Bareyini"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "Ben\u025bn"
+    },
+    "BM": {
+        "name": "Bermudi"
+    },
+    "BN": {
+        "name": "Burin\u025byi"
+    },
+    "BO": {
+        "name": "Bolivi"
+    },
+    "BR": {
+        "name": "Berezili"
+    },
+    "BS": {
+        "name": "Bahamasi"
+    },
+    "BT": {
+        "name": "Buta\u014b"
+    },
+    "BW": {
+        "name": "B\u0254tisiwana"
+    },
+    "BY": {
+        "name": "Belarusi"
+    },
+    "BZ": {
+        "name": "Belizi"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CD": {
+        "name": "Kongo ka republiki dem\u0254kratiki"
+    },
+    "CF": {
+        "name": "Santarafiriki"
+    },
+    "CG": {
+        "name": "Kongo"
+    },
+    "CH": {
+        "name": "Suwisi"
+    },
+    "CI": {
+        "name": "Kodiwari"
+    },
+    "CK": {
+        "name": "Kuki Gun"
+    },
+    "CL": {
+        "name": "Sili"
+    },
+    "CM": {
+        "name": "Kameruni"
+    },
+    "CN": {
+        "name": "Siniwajamana"
+    },
+    "CO": {
+        "name": "Kolombi"
+    },
+    "CR": {
+        "name": "K\u0254sitarika"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "Capiv\u025brdi"
+    },
+    "CY": {
+        "name": "Cipri"
+    },
+    "CZ": {
+        "name": "Ceki republiki"
+    },
+    "DE": {
+        "name": "Alima\u0272i"
+    },
+    "DJ": {
+        "name": "Jibuti"
+    },
+    "DK": {
+        "name": "Danemarki"
+    },
+    "DM": {
+        "name": "D\u0254miniki"
+    },
+    "DO": {
+        "name": "D\u0254mimiki republiki"
+    },
+    "DZ": {
+        "name": "Alizeri"
+    },
+    "EC": {
+        "name": "Ekwat\u0254r"
+    },
+    "EE": {
+        "name": "Esetoni"
+    },
+    "EG": {
+        "name": "Eziputi"
+    },
+    "ER": {
+        "name": "Eritere"
+    },
+    "ES": {
+        "name": "Esipa\u0272i"
+    },
+    "ET": {
+        "name": "Etiopi"
+    },
+    "FI": {
+        "name": "Finilandi"
+    },
+    "FJ": {
+        "name": "Fiji"
+    },
+    "FK": {
+        "name": "Maluwini Gun"
+    },
+    "FM": {
+        "name": "Mikironesi"
+    },
+    "FR": {
+        "name": "Faransi"
+    },
+    "GA": {
+        "name": "Gab\u0254\u014b"
+    },
+    "GB": {
+        "name": "Angil\u025bt\u025bri"
+    },
+    "GD": {
+        "name": "Granadi"
+    },
+    "GE": {
+        "name": "Zey\u0254rzi"
+    },
+    "GF": {
+        "name": "Faransi ka gwiyani"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "Zibralitari"
+    },
+    "GL": {
+        "name": "G\u0254r\u0254henelandi"
+    },
+    "GM": {
+        "name": "Ganbi"
+    },
+    "GN": {
+        "name": "Gine"
+    },
+    "GP": {
+        "name": "Gwadelup"
+    },
+    "GQ": {
+        "name": "Gine ekwat\u0254ri"
+    },
+    "GR": {
+        "name": "G\u025br\u025bsi"
+    },
+    "GT": {
+        "name": "Gwatemala"
+    },
+    "GU": {
+        "name": "Gwam"
+    },
+    "GW": {
+        "name": "Gine Bisawo"
+    },
+    "GY": {
+        "name": "Gwiyana"
+    },
+    "HN": {
+        "name": "H\u0254ndirasi"
+    },
+    "HR": {
+        "name": "Kroasi"
+    },
+    "HT": {
+        "name": "Ayiti"
+    },
+    "HU": {
+        "name": "H\u0254ngri"
+    },
+    "ID": {
+        "name": "\u0190ndonezi"
+    },
+    "IE": {
+        "name": "Irilandi"
+    },
+    "IL": {
+        "name": "Isirayeli"
+    },
+    "IN": {
+        "name": "\u0190ndujamana"
+    },
+    "IO": {
+        "name": "Angil\u025b ka \u025bndu dugukolo"
+    },
+    "IQ": {
+        "name": "Iraki"
+    },
+    "IR": {
+        "name": "Ira\u014b"
+    },
+    "IS": {
+        "name": "Isilandi"
+    },
+    "IT": {
+        "name": "Itali"
+    },
+    "JM": {
+        "name": "Zamayiki"
+    },
+    "JO": {
+        "name": "Z\u0254rdani"
+    },
+    "JP": {
+        "name": "Zap\u0254n"
+    },
+    "KE": {
+        "name": "Keniya"
+    },
+    "KG": {
+        "name": "Kirigizisita\u014b"
+    },
+    "KH": {
+        "name": "Kamboji"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Kom\u0254ri"
+    },
+    "KN": {
+        "name": "Krist\u0254fo-Senu-ni-\u019dev\u025bs"
+    },
+    "KP": {
+        "name": "K\u025b\u0272\u025bka Kore"
+    },
+    "KR": {
+        "name": "Worodugu Kore"
+    },
+    "KW": {
+        "name": "Kow\u025bti"
+    },
+    "KY": {
+        "name": "Bama Gun"
+    },
+    "KZ": {
+        "name": "Kazakista\u014b"
+    },
+    "LA": {
+        "name": "Layosi"
+    },
+    "LB": {
+        "name": "Liba\u014b"
+    },
+    "LC": {
+        "name": "Lusi-Senu"
+    },
+    "LI": {
+        "name": "Lis\u025bnsitayini"
+    },
+    "LK": {
+        "name": "Sirilanka"
+    },
+    "LR": {
+        "name": "Liberiya"
+    },
+    "LS": {
+        "name": "Lesoto"
+    },
+    "LT": {
+        "name": "Lituyani"
+    },
+    "LU": {
+        "name": "Likisanburu"
+    },
+    "LV": {
+        "name": "Letoni"
+    },
+    "LY": {
+        "name": "Libi"
+    },
+    "MA": {
+        "name": "Mar\u0254ku"
+    },
+    "MC": {
+        "name": "Monako"
+    },
+    "MD": {
+        "name": "Molidavi"
+    },
+    "MG": {
+        "name": "Madagasikari"
+    },
+    "MH": {
+        "name": "Marisali Gun"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Myanimari"
+    },
+    "MN": {
+        "name": "Mo\u014boli"
+    },
+    "MP": {
+        "name": "K\u025b\u0272\u025bka Mariyani Gun"
+    },
+    "MQ": {
+        "name": "Maritiniki"
+    },
+    "MR": {
+        "name": "M\u0254ritani"
+    },
+    "MS": {
+        "name": "Mo\u014bsera"
+    },
+    "MT": {
+        "name": "Malti"
+    },
+    "MU": {
+        "name": "Morisi"
+    },
+    "MV": {
+        "name": "Maldivi"
+    },
+    "MW": {
+        "name": "Malawi"
+    },
+    "MX": {
+        "name": "Meksiki"
+    },
+    "MY": {
+        "name": "Mal\u025bzi"
+    },
+    "MZ": {
+        "name": "Mozanbiki"
+    },
+    "NA": {
+        "name": "Namibi"
+    },
+    "NC": {
+        "name": "Kaledoni Koura"
+    },
+    "NE": {
+        "name": "Niz\u025bri"
+    },
+    "NF": {
+        "name": "N\u0254rofoliki Gun"
+    },
+    "NG": {
+        "name": "Nizeriya"
+    },
+    "NI": {
+        "name": "Nikaragwa"
+    },
+    "NL": {
+        "name": "Peyiba"
+    },
+    "NO": {
+        "name": "N\u0254riw\u025bzi"
+    },
+    "NP": {
+        "name": "Nepali"
+    },
+    "NR": {
+        "name": "Nawuru"
+    },
+    "NU": {
+        "name": "Nyuwe"
+    },
+    "NZ": {
+        "name": "Zelandi Koura"
+    },
+    "OM": {
+        "name": "Oma\u014b"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Peru"
+    },
+    "PF": {
+        "name": "Faransi ka polinezi"
+    },
+    "PG": {
+        "name": "Papuwasi-Gine-Koura"
+    },
+    "PH": {
+        "name": "Filipini"
+    },
+    "PK": {
+        "name": "Pakisita\u014b"
+    },
+    "PL": {
+        "name": "Polo\u0272i"
+    },
+    "PM": {
+        "name": "Piy\u025bri-Senu-ni-Mikel\u0254\u014b"
+    },
+    "PN": {
+        "name": "Pitikarini"
+    },
+    "PR": {
+        "name": "P\u0254rotoriko"
+    },
+    "PS": {
+        "name": "Palesitini"
+    },
+    "PT": {
+        "name": "P\u0254ritigali"
+    },
+    "PW": {
+        "name": "Palawu"
+    },
+    "PY": {
+        "name": "Paraguwayi"
+    },
+    "QA": {
+        "name": "Katari"
+    },
+    "RE": {
+        "name": "Reyu\u0272\u0254\u014b"
+    },
+    "RO": {
+        "name": "Rumani"
+    },
+    "RU": {
+        "name": "Irisi"
+    },
+    "RW": {
+        "name": "Ruwanda"
+    },
+    "SA": {
+        "name": "Arabiya Sawudiya"
+    },
+    "SB": {
+        "name": "Salomo Gun"
+    },
+    "SC": {
+        "name": "Ses\u025bli"
+    },
+    "SD": {
+        "name": "Suda\u014b"
+    },
+    "SE": {
+        "name": "Suw\u025bdi"
+    },
+    "SG": {
+        "name": "S\u025bngapuri"
+    },
+    "SH": {
+        "name": "\u0190l\u025bni Senu"
+    },
+    "SI": {
+        "name": "Sloveni"
+    },
+    "SK": {
+        "name": "Slowaki"
+    },
+    "SL": {
+        "name": "Siyera Lew\u0254ni"
+    },
+    "SM": {
+        "name": "Marini-Senu"
+    },
+    "SN": {
+        "name": "Senegali"
+    },
+    "SO": {
+        "name": "Somali"
+    },
+    "SR": {
+        "name": "Surinami"
+    },
+    "ST": {
+        "name": "Sawo Tome-ni-Prinicipe"
+    },
+    "SV": {
+        "name": "Salivad\u0254r"
+    },
+    "SY": {
+        "name": "Siri"
+    },
+    "SZ": {
+        "name": "Swazilandi"
+    },
+    "TC": {
+        "name": "Turiki Gun ni Kayiki"
+    },
+    "TD": {
+        "name": "Cadi"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "Tayilandi"
+    },
+    "TJ": {
+        "name": "Tajikisitani"
+    },
+    "TK": {
+        "name": "Tokelo"
+    },
+    "TL": {
+        "name": "K\u0254r\u0254n Tim\u0254r"
+    },
+    "TM": {
+        "name": "Turikimenisitani"
+    },
+    "TN": {
+        "name": "Tunizi"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Turiki"
+    },
+    "TT": {
+        "name": "Trinite-ni-Tobago"
+    },
+    "TV": {
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "name": "Tayiwani"
+    },
+    "TZ": {
+        "name": "Tanzani"
+    },
+    "UA": {
+        "name": "Uk\u025br\u025bni"
+    },
+    "UG": {
+        "name": "Uganda"
+    },
+    "US": {
+        "name": "Ameriki"
+    },
+    "UY": {
+        "name": "Urugwayi"
+    },
+    "UZ": {
+        "name": "Uzebekisitani"
+    },
+    "VA": {
+        "name": "Vatika\u014b"
+    },
+    "VC": {
+        "name": "Vinis\u025bn-Senu-ni-Grenadini"
+    },
+    "VE": {
+        "name": "Venezuwela"
+    },
+    "VG": {
+        "name": "Angil\u025b ka Sungurunnin Gun"
+    },
+    "VI": {
+        "name": "Ameriki ka Sungurunnin Gun"
+    },
+    "VN": {
+        "name": "Wiy\u025btinamu"
+    },
+    "VU": {
+        "name": "Vanuwatu"
+    },
+    "WF": {
+        "name": "Walisi-ni-Futuna"
+    },
+    "WS": {
+        "name": "Samowa"
+    },
+    "YE": {
+        "name": "Yem\u025bni"
+    },
+    "YT": {
+        "name": "Mayoti"
+    },
+    "ZA": {
+        "name": "Worodugu Afriki"
+    },
+    "ZM": {
+        "name": "Zanbi"
+    },
+    "ZW": {
+        "name": "Zimbabuwe"
+    }
+}

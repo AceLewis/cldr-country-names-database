@@ -1,0 +1,764 @@
+{
+    "AC": {
+        "name": "\ua5fb\ua5e1 \ua552\ua561\ua54c \ua5cf \ua533\ua60b\ua5e3"
+    },
+    "AD": {
+        "name": "A\u014bd\u00f3ra"
+    },
+    "AE": {
+        "name": "Yunait\u025b Arabhi \u0190mire"
+    },
+    "AF": {
+        "name": "Afig\u00e1ndesita\u014b"
+    },
+    "AG": {
+        "name": "A\u014bt\u00edgwa \u0181ahabhuda"
+    },
+    "AI": {
+        "name": "A\u014bg\u00edla"
+    },
+    "AL": {
+        "name": "Abhaniya"
+    },
+    "AM": {
+        "name": "Am\u00e9niya"
+    },
+    "AO": {
+        "name": "A\u014bg\u00f3la"
+    },
+    "AQ": {
+        "name": "\ua549\ua60b\ua55a\ua533\ua56a"
+    },
+    "AR": {
+        "name": "Aj\u025b\u014bt\u00edna"
+    },
+    "AS": {
+        "name": "Poo Sambowa"
+    },
+    "AT": {
+        "name": "\u0186\u0301situwa"
+    },
+    "AU": {
+        "name": "\u0186situw\u00e9eliya"
+    },
+    "AW": {
+        "name": "Arubha"
+    },
+    "AX": {
+        "name": "\ua549\ua55e\ua53a"
+    },
+    "AZ": {
+        "name": "Azabhaija\u014b"
+    },
+    "BA": {
+        "name": "Bh\u0254siniya"
+    },
+    "BB": {
+        "name": "Bhabhedo"
+    },
+    "BD": {
+        "name": "Bhangilad\u025b\u0300shi"
+    },
+    "BE": {
+        "name": "Bh\u025bgiy\u0254\u014b"
+    },
+    "BF": {
+        "name": "Bhokina F\u00e1so"
+    },
+    "BG": {
+        "name": "Bh\u0254geriya"
+    },
+    "BH": {
+        "name": "Bhar\u025b\u014b"
+    },
+    "BI": {
+        "name": "Bhurundi"
+    },
+    "BJ": {
+        "name": "Bh\u025bni"
+    },
+    "BL": {
+        "name": "\ua56a\ua60b\ua553 \ua5de\ua5e2 \ua552\ua55a\ua55e\ua546"
+    },
+    "BM": {
+        "name": "Bh\u025bmuda"
+    },
+    "BN": {
+        "name": "Bhurun\u025b\u0129"
+    },
+    "BO": {
+        "name": "Bholiviya"
+    },
+    "BQ": {
+        "name": "\ua56a\ua513\ua52c\ua602\ua60b \ua5a8\ua56e \ua5e8\ua5f3\ua5e3"
+    },
+    "BR": {
+        "name": "Bhurazeli"
+    },
+    "BS": {
+        "name": "Bah\u00e1masi"
+    },
+    "BT": {
+        "name": "Bhuta\u014b"
+    },
+    "BV": {
+        "name": "\ua59c\ua50d\ua533 \ua533\ua60b\ua5e3"
+    },
+    "BW": {
+        "name": "Bhosuwana"
+    },
+    "BY": {
+        "name": "Bh\u025blarusi"
+    },
+    "BZ": {
+        "name": "Bheliz"
+    },
+    "CA": {
+        "name": "K\u00e1n\u00e1da"
+    },
+    "CC": {
+        "name": "\ua58f\ua58f\ua53b (\ua51e\ua500\ua537\ua60b) \ua533\ua60b\ua5e3"
+    },
+    "CD": {
+        "name": "Avorekoo"
+    },
+    "CF": {
+        "name": "\u00c1f\u00edr\u00edka Luma\u00e3 T\u025b Boloe"
+    },
+    "CG": {
+        "name": "K\u00f3ngo"
+    },
+    "CH": {
+        "name": "Suweza Luma\u00e3"
+    },
+    "CI": {
+        "name": "K\u00f3div\u00f3wa"
+    },
+    "CK": {
+        "name": "K\u00f3ki Ti\u014b\u014b\u025b"
+    },
+    "CL": {
+        "name": "Ch\u00e9li"
+    },
+    "CM": {
+        "name": "Kameru\u014b"
+    },
+    "CN": {
+        "name": "Ch\u00e1\u00edna"
+    },
+    "CO": {
+        "name": "K\u0254l\u0254mbiya"
+    },
+    "CP": {
+        "name": "\ua543\ua512\ua550\ua5cb\ua60b \ua533\ua60b\ua5e3"
+    },
+    "CR": {
+        "name": "K\u00f3s\u00edta R\u00edko"
+    },
+    "CU": {
+        "name": "Kiyubha"
+    },
+    "CV": {
+        "name": "Kepi V\u025bdi Ti\u014b\u014b\u025b"
+    },
+    "CW": {
+        "name": "\ua5b4\ua55f\ua587\ua571"
+    },
+    "CX": {
+        "name": "\ua51e\ua53b\ua56e\ua53b \ua533\ua60b\ua5e3"
+    },
+    "CY": {
+        "name": "Sa\u025bpur\u0254"
+    },
+    "CZ": {
+        "name": "Ch\u025bki Boloe"
+    },
+    "DE": {
+        "name": "Jam\u00e1\u0129"
+    },
+    "DG": {
+        "name": "\ua535\ua500\ua591 \ua533\ua60b\ua5e3"
+    },
+    "DJ": {
+        "name": "Jibhuti"
+    },
+    "DK": {
+        "name": "Danimaha"
+    },
+    "DM": {
+        "name": "Dom\u00edin\u00edka"
+    },
+    "DO": {
+        "name": "Dom\u00edin\u00edka \u0181oloe"
+    },
+    "DZ": {
+        "name": "Agiriya"
+    },
+    "EA": {
+        "name": "\ua5fb\ua55a \ua5ea \ua521\ua537\ua55e"
+    },
+    "EC": {
+        "name": "\u0190\u0301k\u00faw\u00e9d\u0254"
+    },
+    "EE": {
+        "name": "\u0190sit\u00f3ninya"
+    },
+    "EG": {
+        "name": "M\u00eds\u00e9la"
+    },
+    "EH": {
+        "name": "\ua562\ua54c\ua55f \ua50e\ua512 \ua540\ua524"
+    },
+    "ER": {
+        "name": "\u0190ritera"
+    },
+    "ES": {
+        "name": "Pany\u025b\u0129"
+    },
+    "ET": {
+        "name": "\u00cdtiy\u00f3piya"
+    },
+    "FI": {
+        "name": "Fi\u014bl\u025b\u014b"
+    },
+    "FJ": {
+        "name": "F\u00edji"
+    },
+    "FK": {
+        "name": "F\u00e1h\u00e1ki Luma Ti\u014b\u014b\u025b"
+    },
+    "FM": {
+        "name": "Mikonisiya"
+    },
+    "FO": {
+        "name": "\ua558\ua584 \ua533\ua60b\ua5e3"
+    },
+    "FR": {
+        "name": "F\u025b\u014bsi"
+    },
+    "GA": {
+        "name": "Gabh\u0254\u014b"
+    },
+    "GB": {
+        "name": "Yunait\u025b K\u00ed\u014bd\u0254\u014b"
+    },
+    "GD": {
+        "name": "Gurin\u00e9da"
+    },
+    "GE": {
+        "name": "J\u0254\u0254jiya"
+    },
+    "GF": {
+        "name": "F\u025b\u014bsi Giwana"
+    },
+    "GG": {
+        "name": "\ua5b6\ua5e6\ua60b\ua53b"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "Jibhurata"
+    },
+    "GL": {
+        "name": "Jamba Kuwa Luma\u00e3"
+    },
+    "GM": {
+        "name": "Gambiya"
+    },
+    "GN": {
+        "name": "Gini"
+    },
+    "GP": {
+        "name": "Guwadelupe"
+    },
+    "GQ": {
+        "name": "D\u00fa\u00fany\u00e1 T\u025b Giini"
+    },
+    "GR": {
+        "name": "H\u025bl\u025b\u014b"
+    },
+    "GS": {
+        "name": "\ua5d8\ua5ba\ua540\ua569 \ua5db\ua524 \ua512\ua60b\ua5e3 \ua5cf \ua5ea \ua5c7\ua5a2 \ua533\ua60b\ua5e3 \ua5db\ua524 \ua512\ua60b\ua5e3 \ua5cf"
+    },
+    "GT": {
+        "name": "Guwat\u025bmala"
+    },
+    "GU": {
+        "name": "Guwami"
+    },
+    "GW": {
+        "name": "Gini Bhisawo"
+    },
+    "GY": {
+        "name": "Guyana"
+    },
+    "HM": {
+        "name": "\ua5e5\ua5e1\ua535 \ua5ea \ua56e\ua581\ua56f"
+    },
+    "HN": {
+        "name": "H\u0254ndura"
+    },
+    "HR": {
+        "name": "Koresiya"
+    },
+    "HT": {
+        "name": "H\u00e1iti"
+    },
+    "HU": {
+        "name": "H\u0254\u0301ngare"
+    },
+    "IC": {
+        "name": "\ua5db\ua5ba\ua53b\ua569 \ua533\ua60b\ua5e3"
+    },
+    "ID": {
+        "name": "\u00cdndonisiya"
+    },
+    "IE": {
+        "name": "\u00c1re Luma\u00e3"
+    },
+    "IL": {
+        "name": "Bhan\u00edsil\u00e1ila"
+    },
+    "IM": {
+        "name": "\ua56e\ua60b \ua533\ua60b\ua5e3"
+    },
+    "IN": {
+        "name": "\u00cdndiya"
+    },
+    "IO": {
+        "name": "Jeng\u00e9esi Gbawoe \u00cdndiya K\u0254iy\u025b L\u0254"
+    },
+    "IQ": {
+        "name": "Iraki"
+    },
+    "IR": {
+        "name": "Ira\u014b"
+    },
+    "IS": {
+        "name": "\u00c1isi Luma\u00e3"
+    },
+    "IT": {
+        "name": "\u00cdtali"
+    },
+    "JE": {
+        "name": "\ua600\ua5e1\ua518"
+    },
+    "JM": {
+        "name": "Jamaika"
+    },
+    "JO": {
+        "name": "J\u0254\u0254da\u014b"
+    },
+    "JP": {
+        "name": "Japa\u014b"
+    },
+    "KE": {
+        "name": "K\u00e9nya"
+    },
+    "KG": {
+        "name": "Kigisita\u014b"
+    },
+    "KH": {
+        "name": "Ka\u014bbhodiya"
+    },
+    "KI": {
+        "name": "Kiribhati"
+    },
+    "KM": {
+        "name": "Komorosi"
+    },
+    "KN": {
+        "name": "Si\u014b Kisi \u0253\u025b\u0301 Nevisi"
+    },
+    "KP": {
+        "name": "Koriya K\u0254i Ka\u014bnd\u0254"
+    },
+    "KR": {
+        "name": "Koriya K\u0254i Le\u014b\u014b\u025b L\u0254"
+    },
+    "KW": {
+        "name": "Kuweti"
+    },
+    "KY": {
+        "name": "Keema\u014b Ti\u014b\u014b\u025b"
+    },
+    "KZ": {
+        "name": "Kazasita\u014b"
+    },
+    "LA": {
+        "name": "Lawosi"
+    },
+    "LB": {
+        "name": "Lebhan\u0254"
+    },
+    "LC": {
+        "name": "Si\u014b Lusiya"
+    },
+    "LI": {
+        "name": "\ua537\ua5ff\ua60b\ua53b\ua5f3\ua60b"
+    },
+    "LK": {
+        "name": "Suri La\u014bka"
+    },
+    "LR": {
+        "name": "Laibhiya"
+    },
+    "LS": {
+        "name": "Lis\u00f3to"
+    },
+    "LT": {
+        "name": "Lituweninya"
+    },
+    "LU": {
+        "name": "Lusimb\u0254"
+    },
+    "LV": {
+        "name": "Lativiya"
+    },
+    "LY": {
+        "name": "Lebhiya"
+    },
+    "MA": {
+        "name": "M\u0254roko"
+    },
+    "MC": {
+        "name": "M\u0254nako"
+    },
+    "MD": {
+        "name": "M\u0254lidova"
+    },
+    "ME": {
+        "name": "\ua5de\ua533\ua547\ua5b6\ua584"
+    },
+    "MF": {
+        "name": "\ua56a\ua60b\ua553 \ua5de\ua5e2 \ua56e\ua54a\ua533\ua60b"
+    },
+    "MG": {
+        "name": "Madagasita"
+    },
+    "MH": {
+        "name": "Masha Ti\u014b\u014b\u025b"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Miyamaha"
+    },
+    "MN": {
+        "name": "M\u0254ngoliya"
+    },
+    "MO": {
+        "short": "\ua56e\ua5db\ua5ba"
+    },
+    "MP": {
+        "name": "K\u0254i Ka\u014bnd\u0254 Mariyana Ti\u014b\u014b\u025b"
+    },
+    "MQ": {
+        "name": "Matiniki"
+    },
+    "MR": {
+        "name": "M\u0254retaninya"
+    },
+    "MS": {
+        "name": "M\u0254serati"
+    },
+    "MT": {
+        "name": "Malita"
+    },
+    "MU": {
+        "name": "M\u0254resh\u0254"
+    },
+    "MV": {
+        "name": "Malidavi"
+    },
+    "MW": {
+        "name": "Malawi"
+    },
+    "MX": {
+        "name": "M\u025bs\u00edko"
+    },
+    "MY": {
+        "name": "Malesiya"
+    },
+    "MZ": {
+        "name": "Mozambiki"
+    },
+    "NA": {
+        "name": "Namibiya"
+    },
+    "NC": {
+        "name": "Kalidoninya N\u00e1ma\u00e1"
+    },
+    "NE": {
+        "name": "Na\u0129ja"
+    },
+    "NF": {
+        "name": "N\u0254f\u0254 Ti\u014b\u014b\u025b"
+    },
+    "NG": {
+        "name": "Na\u0129jiriya"
+    },
+    "NI": {
+        "name": "Nikaraguwa"
+    },
+    "NL": {
+        "name": "Nid\u0254l\u025b\u014b"
+    },
+    "NO": {
+        "name": "N\u0254\u0254we"
+    },
+    "NP": {
+        "name": "Nepa"
+    },
+    "NR": {
+        "name": "Noru"
+    },
+    "NU": {
+        "name": "Niwe"
+    },
+    "NZ": {
+        "name": "Zil\u025b\u014b N\u00e1ma\u00e1"
+    },
+    "OM": {
+        "name": "Oma\u014b"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "P\u025bru"
+    },
+    "PF": {
+        "name": "F\u025b\u014bsi Polin\u00edsiya"
+    },
+    "PG": {
+        "name": "Papuwa Gini N\u00e1ma\u00e1"
+    },
+    "PH": {
+        "name": "F\u00e9lepi\u014b"
+    },
+    "PK": {
+        "name": "Pakisita\u014b"
+    },
+    "PL": {
+        "name": "P\u00f3l\u025b\u014b"
+    },
+    "PM": {
+        "name": "Si\u014b Piiy\u025b \u0253\u025b\u0301 Mikel\u0254\u014b"
+    },
+    "PN": {
+        "name": "Pitik\u025b\u014b"
+    },
+    "PR": {
+        "name": "Piyuto Riko"
+    },
+    "PS": {
+        "name": "Palesitininya Tele Jii K\u0254iy\u025b l\u00e1 h\u0129 Gaza"
+    },
+    "PT": {
+        "name": "Potok\u00edi"
+    },
+    "PW": {
+        "name": "Palo"
+    },
+    "PY": {
+        "name": "Parag\u0254e"
+    },
+    "QA": {
+        "name": "Kataha"
+    },
+    "RE": {
+        "name": "Reny\u0254\u0254\u0303"
+    },
+    "RO": {
+        "name": "Romininya"
+    },
+    "RS": {
+        "name": "\ua5fb\ua5e1\ua52c\ua569"
+    },
+    "RU": {
+        "name": "R\u0254shiya"
+    },
+    "RW": {
+        "name": "Rawunda"
+    },
+    "SA": {
+        "name": "Lahabu"
+    },
+    "SB": {
+        "name": "Sulaima\u00e3na Ti\u014b\u014b\u025b"
+    },
+    "SC": {
+        "name": "Sesh\u025b\u025b"
+    },
+    "SD": {
+        "name": "Sud\u025b\u014b"
+    },
+    "SE": {
+        "name": "Suwid\u025b\u014b"
+    },
+    "SG": {
+        "name": "S\u00edingapoo"
+    },
+    "SH": {
+        "name": "Si\u014b H\u025blina"
+    },
+    "SI": {
+        "name": "Suloveninya"
+    },
+    "SJ": {
+        "name": "\ua53b\ua559\ua552\ua535 \ua5ea \ua567\ua60b \ua56e\ua602\ua60b"
+    },
+    "SK": {
+        "name": "Sulovakiya"
+    },
+    "SL": {
+        "name": "Gbeya Bahaw\u0254"
+    },
+    "SM": {
+        "name": "Sa\u014b Marindo"
+    },
+    "SN": {
+        "name": "Sinigaha"
+    },
+    "SO": {
+        "name": "Somaliya"
+    },
+    "SR": {
+        "name": "Surinambe"
+    },
+    "SS": {
+        "name": "\ua5ac\ua55c\ua60b \ua5db\ua524 \ua512\ua60b\ua5e3 \ua5cf"
+    },
+    "ST": {
+        "name": "Sawo Tombe \u0253\u025b a Gbawoe"
+    },
+    "SV": {
+        "name": "\u0190l\u025b S\u00e1v\u00e1d\u0254"
+    },
+    "SX": {
+        "name": "\ua53b\ua60b\ua533 \ua56e\ua54a\ua5f3\ua60b"
+    },
+    "SY": {
+        "name": "S\u00edya\u014b"
+    },
+    "SZ": {
+        "name": "Suwazi Luma\u00e3"
+    },
+    "TA": {
+        "name": "\ua533\ua53b\ua55a\ua60b \ua55c \ua5b4\ua56f"
+    },
+    "TC": {
+        "name": "Tukisi \u0253\u025b\u0300 Kaik\u00f3osi Ti\u014b\u014b\u025b"
+    },
+    "TD": {
+        "name": "Ch\u00e1di"
+    },
+    "TF": {
+        "name": "\ua531\ua5f7\ua60b\ua53b \ua5db\ua524 \ua512\ua60b\ua5e3 \ua5cf \ua578\ua583\ua500 \ua5b8"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "Tai Luma\u00e3"
+    },
+    "TJ": {
+        "name": "Tajikisita\u014b"
+    },
+    "TK": {
+        "name": "Tokelo"
+    },
+    "TL": {
+        "name": "Tele \u0181\u0254\u0301 Tim\u0254\u0254\u0303"
+    },
+    "TM": {
+        "name": "Tukim\u025bnisita\u014b"
+    },
+    "TN": {
+        "name": "Tunisiya"
+    },
+    "TO": {
+        "name": "T\u0254nga"
+    },
+    "TR": {
+        "name": "T\u0254\u0301\u0254\u0301ki"
+    },
+    "TT": {
+        "name": "Turindeda \u0253\u025b\u0301 Tobhego"
+    },
+    "TV": {
+        "name": "Tuv\u00e1lu"
+    },
+    "TW": {
+        "name": "Taiwa\u014b"
+    },
+    "TZ": {
+        "name": "Ta\u014bzaninya"
+    },
+    "UA": {
+        "name": "Yukur\u00e9\u014b"
+    },
+    "UG": {
+        "name": "Yuganda"
+    },
+    "UM": {
+        "name": "\ua576\ua571 \ua56a\ua60b \ua5c5\ua60b \ua533\ua60b\ua5e3 \ua5b8"
+    },
+    "US": {
+        "name": "Poo"
+    },
+    "UY": {
+        "name": "Yuweg\u0254we"
+    },
+    "UZ": {
+        "name": "Yubh\u025bkisita\u014b"
+    },
+    "VA": {
+        "name": "Vatika\u014b \u0181oloe"
+    },
+    "VC": {
+        "name": "Si\u014b Vi\u014bsi"
+    },
+    "VE": {
+        "name": "V\u025bn\u025bzuwela"
+    },
+    "VG": {
+        "name": "Jeng\u00e9esi Bh\u025b\u025b L\u0254 Musu Ti\u014b\u014b\u025b"
+    },
+    "VI": {
+        "name": "Poo Bh\u025b\u025b l\u0254 Musu Ti\u014b\u014b\u025b"
+    },
+    "VN": {
+        "name": "Viyanami"
+    },
+    "VU": {
+        "name": "Vanuw\u00e1tu"
+    },
+    "WF": {
+        "name": "Wal\u00edsi"
+    },
+    "WS": {
+        "name": "Samowa"
+    },
+    "XK": {
+        "name": "\ua58f\ua587\ua57e"
+    },
+    "YE": {
+        "name": "Yem\u025bni"
+    },
+    "YT": {
+        "name": "Mavote"
+    },
+    "ZA": {
+        "name": "Afirika K\u0254i Le\u014b\u014b\u025b L\u0254"
+    },
+    "ZM": {
+        "name": "Zambiya"
+    },
+    "ZW": {
+        "name": "Zimbabhuwe"
+    }
+}

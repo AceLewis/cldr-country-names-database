@@ -1,0 +1,410 @@
+{
+    "AD": {
+        "name": "Uandora"
+    },
+    "AF": {
+        "name": "Ufugustani"
+    },
+    "AL": {
+        "name": "Ualbania"
+    },
+    "AS": {
+        "name": "Usamoa ya Marekani"
+    },
+    "AZ": {
+        "name": "Uazabajani"
+    },
+    "BI": {
+        "name": "Urundi"
+    },
+    "BJ": {
+        "name": "Ubelin"
+    },
+    "CA": {
+        "name": "Ukanada"
+    },
+    "CG": {
+        "name": "Ukongo"
+    },
+    "CH": {
+        "name": "Uswisi"
+    },
+    "CI": {
+        "name": "Ukodiva"
+    },
+    "CL": {
+        "name": "Uchile"
+    },
+    "CN": {
+        "name": "Uchina"
+    },
+    "CO": {
+        "name": "Ukolombia"
+    },
+    "CU": {
+        "name": "Ukuba"
+    },
+    "CY": {
+        "name": "Ukuprosi"
+    },
+    "CZ": {
+        "name": "Ucheki"
+    },
+    "DJ": {
+        "name": "Ujibuti"
+    },
+    "DK": {
+        "name": "Udenimaka"
+    },
+    "DM": {
+        "name": "Udominika"
+    },
+    "DZ": {
+        "name": "Alujeria"
+    },
+    "EG": {
+        "name": "Umisiri"
+    },
+    "ER": {
+        "name": "Uriterea"
+    },
+    "ES": {
+        "name": "Uhispania"
+    },
+    "ET": {
+        "name": "Uhabeshi"
+    },
+    "FI": {
+        "name": "Ufini"
+    },
+    "FJ": {
+        "name": "Ufiji"
+    },
+    "FR": {
+        "name": "Ufaransa"
+    },
+    "GA": {
+        "name": "Ugaboni"
+    },
+    "GD": {
+        "name": "Ugrenada"
+    },
+    "GE": {
+        "name": "Ujojia"
+    },
+    "GF": {
+        "name": "Ufaransa yo Gwaya"
+    },
+    "GH": {
+        "name": "Ugana"
+    },
+    "GI": {
+        "name": "Ujibralta"
+    },
+    "GL": {
+        "name": "Ugrinlandi"
+    },
+    "GM": {
+        "name": "Ugambia"
+    },
+    "GN": {
+        "name": "Ugine"
+    },
+    "GP": {
+        "name": "Ugwadelupe"
+    },
+    "GT": {
+        "name": "Ugwatemala"
+    },
+    "GU": {
+        "name": "Ugwam"
+    },
+    "GW": {
+        "name": "Uginebisau"
+    },
+    "GY": {
+        "name": "Uguyana"
+    },
+    "HN": {
+        "name": "Uhondurasi"
+    },
+    "HR": {
+        "name": "Ukorasia"
+    },
+    "HT": {
+        "name": "Uhaiti"
+    },
+    "HU": {
+        "name": "Uhungaria"
+    },
+    "ID": {
+        "name": "Undonesia"
+    },
+    "IE": {
+        "name": "Uayalandi"
+    },
+    "IL": {
+        "name": "Uisraeli"
+    },
+    "IN": {
+        "name": "Uhindini"
+    },
+    "IQ": {
+        "name": "Wiraki"
+    },
+    "IT": {
+        "name": "Italia"
+    },
+    "JM": {
+        "name": "Ujamaika"
+    },
+    "JO": {
+        "name": "Uyordani"
+    },
+    "JP": {
+        "name": "Ujapani"
+    },
+    "KE": {
+        "name": "Ukenya"
+    },
+    "KH": {
+        "name": "Ukambodia"
+    },
+    "KM": {
+        "name": "Ukomoro"
+    },
+    "KN": {
+        "name": "Usantakitzi na Nevis"
+    },
+    "KP": {
+        "name": "Ukorea Kaskazini"
+    },
+    "KR": {
+        "name": "Ukorea Kusini"
+    },
+    "KZ": {
+        "name": "Ukazakistani"
+    },
+    "LB": {
+        "name": "Ulebanoni"
+    },
+    "LC": {
+        "name": "Usantalusia"
+    },
+    "LI": {
+        "name": "Ushenteni"
+    },
+    "LK": {
+        "name": "Usirilanka"
+    },
+    "LR": {
+        "name": "Uliberia"
+    },
+    "LS": {
+        "name": "Ulesoto"
+    },
+    "LT": {
+        "name": "Utwania"
+    },
+    "LU": {
+        "name": "Usembaji"
+    },
+    "LV": {
+        "name": "Ulativia"
+    },
+    "LY": {
+        "name": "Ulibya"
+    },
+    "ME": {
+        "name": "Umantegro"
+    },
+    "MG": {
+        "name": "Ubukini"
+    },
+    "MW": {
+        "name": "Umalawi"
+    },
+    "MZ": {
+        "name": "Umozambiki"
+    },
+    "NE": {
+        "name": "Unijeri"
+    },
+    "NG": {
+        "name": "Unijeria"
+    },
+    "NO": {
+        "name": "Unorwe"
+    },
+    "OM": {
+        "name": "Uomani"
+    },
+    "PA": {
+        "name": "Upanama"
+    },
+    "PE": {
+        "name": "Uperuu"
+    },
+    "PF": {
+        "name": "Ufaransa yo Potina"
+    },
+    "PG": {
+        "name": "Upapua"
+    },
+    "PH": {
+        "name": "Ufilipino"
+    },
+    "PK": {
+        "name": "Upakistani"
+    },
+    "PL": {
+        "name": "Upolandi"
+    },
+    "PM": {
+        "name": "Usantapieri na Mikeloni"
+    },
+    "PN": {
+        "name": "Upitkairni"
+    },
+    "PR": {
+        "name": "Upwetoriko"
+    },
+    "PY": {
+        "name": "Paragwai"
+    },
+    "QA": {
+        "name": "Ukatari"
+    },
+    "RE": {
+        "name": "Uriyunioni"
+    },
+    "RO": {
+        "name": "Uromania"
+    },
+    "RW": {
+        "name": "Urwanda"
+    },
+    "SA": {
+        "name": "Usaudi"
+    },
+    "SC": {
+        "name": "Ushelisheli"
+    },
+    "SD": {
+        "name": "Usudani"
+    },
+    "SE": {
+        "name": "Uswidi"
+    },
+    "SG": {
+        "name": "Usingapoo"
+    },
+    "SH": {
+        "name": "Usantahelena"
+    },
+    "SI": {
+        "name": "Uslovenia"
+    },
+    "SK": {
+        "name": "Uslovakia"
+    },
+    "SM": {
+        "name": "Usamarino"
+    },
+    "SN": {
+        "name": "Usenegali"
+    },
+    "SO": {
+        "name": "Usomalia"
+    },
+    "SR": {
+        "name": "Usurinamu"
+    },
+    "ST": {
+        "name": "Usao Tome na Principe"
+    },
+    "SV": {
+        "name": "Usalavado"
+    },
+    "SY": {
+        "name": "Usiria"
+    },
+    "SZ": {
+        "name": "Uswazi"
+    },
+    "TD": {
+        "name": "Uchadi"
+    },
+    "TG": {
+        "name": "Utogo"
+    },
+    "TH": {
+        "name": "Utailandi"
+    },
+    "TJ": {
+        "name": "Ujikistani"
+    },
+    "TK": {
+        "name": "Utokelau"
+    },
+    "TL": {
+        "name": "Utimo Mashariki"
+    },
+    "TM": {
+        "name": "Uturukimenistani"
+    },
+    "TN": {
+        "name": "Utunisia"
+    },
+    "TO": {
+        "name": "Utonga"
+    },
+    "TR": {
+        "name": "Utuki"
+    },
+    "TT": {
+        "name": "Utrinidad na Tobago"
+    },
+    "TV": {
+        "name": "Utuvalu"
+    },
+    "TZ": {
+        "name": "Utanzania"
+    },
+    "US": {
+        "name": "Umarekani"
+    },
+    "VA": {
+        "name": "Uvatikani"
+    },
+    "VC": {
+        "name": "Usantavisenti na Grenadini"
+    },
+    "VE": {
+        "name": "Uvenezuela"
+    },
+    "VN": {
+        "name": "Uvietinamu"
+    },
+    "VU": {
+        "name": "Uvanuatu"
+    },
+    "WF": {
+        "name": "Uwalis na Futuna"
+    },
+    "WS": {
+        "name": "Usamoa"
+    },
+    "YE": {
+        "name": "Uyemeni"
+    },
+    "ZA": {
+        "name": "Afrika du Sulu"
+    },
+    "ZM": {
+        "name": "Uzambia"
+    },
+    "ZW": {
+        "name": "Uzimbabwe"
+    }
+}

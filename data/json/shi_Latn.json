@@ -1,0 +1,671 @@
+{
+    "AD": {
+        "name": "andura"
+    },
+    "AE": {
+        "name": "limarat"
+    },
+    "AF": {
+        "name": "af\u0263anistan"
+    },
+    "AG": {
+        "name": "antiga d brbuda"
+    },
+    "AI": {
+        "name": "angila"
+    },
+    "AL": {
+        "name": "albanya"
+    },
+    "AM": {
+        "name": "arminya"
+    },
+    "AO": {
+        "name": "angula"
+    },
+    "AR": {
+        "name": "arjantin"
+    },
+    "AS": {
+        "name": "samwa tamirikanit"
+    },
+    "AT": {
+        "name": "nnmsa"
+    },
+    "AU": {
+        "name": "ustralya"
+    },
+    "AW": {
+        "name": "aruba"
+    },
+    "AZ": {
+        "name": "adrabijan"
+    },
+    "BA": {
+        "name": "busna d hirsik"
+    },
+    "BB": {
+        "name": "barbad"
+    },
+    "BD": {
+        "name": "bangladic"
+    },
+    "BE": {
+        "name": "bljika"
+    },
+    "BF": {
+        "name": "burkina fasu"
+    },
+    "BG": {
+        "name": "bl\u0263ara"
+    },
+    "BH": {
+        "name": "b\u1e25rayn"
+    },
+    "BI": {
+        "name": "burundi"
+    },
+    "BJ": {
+        "name": "binin"
+    },
+    "BM": {
+        "name": "brmuda"
+    },
+    "BN": {
+        "name": "bruni"
+    },
+    "BO": {
+        "name": "bulibya"
+    },
+    "BR": {
+        "name": "brazil"
+    },
+    "BS": {
+        "name": "bahamas"
+    },
+    "BT": {
+        "name": "bhutan"
+    },
+    "BW": {
+        "name": "butswana"
+    },
+    "BY": {
+        "name": "bilarusya"
+    },
+    "BZ": {
+        "name": "biliz"
+    },
+    "CA": {
+        "name": "kanada"
+    },
+    "CD": {
+        "name": "tagdudant tadimukratit n Kongo"
+    },
+    "CF": {
+        "name": "tagdudant tanammast n ifriqya"
+    },
+    "CG": {
+        "name": "kungu"
+    },
+    "CH": {
+        "name": "swisra"
+    },
+    "CI": {
+        "name": "kut difwar"
+    },
+    "CK": {
+        "name": "tigzirin n kuk"
+    },
+    "CL": {
+        "name": "ccili"
+    },
+    "CM": {
+        "name": "kamirun"
+    },
+    "CN": {
+        "name": "ccinwa"
+    },
+    "CO": {
+        "name": "culumbya"
+    },
+    "CR": {
+        "name": "kusta rika"
+    },
+    "CU": {
+        "name": "kuba"
+    },
+    "CV": {
+        "name": "tigzirin n kabbirdi"
+    },
+    "CY": {
+        "name": "qubrus"
+    },
+    "CZ": {
+        "name": "tagdudant tatcikit"
+    },
+    "DE": {
+        "name": "almanya"
+    },
+    "DJ": {
+        "name": "djibuti"
+    },
+    "DK": {
+        "name": "danmark"
+    },
+    "DM": {
+        "name": "duminik"
+    },
+    "DO": {
+        "name": "tagdudant taduminikt"
+    },
+    "DZ": {
+        "name": "dzayr"
+    },
+    "EC": {
+        "name": "ikwadur"
+    },
+    "EE": {
+        "name": "istunya"
+    },
+    "EG": {
+        "name": "mi\u1e63\u1e5b"
+    },
+    "ER": {
+        "name": "iritirya"
+    },
+    "ES": {
+        "name": "sbanya"
+    },
+    "ET": {
+        "name": "ityubya"
+    },
+    "FI": {
+        "name": "fillanda"
+    },
+    "FJ": {
+        "name": "fidji"
+    },
+    "FK": {
+        "name": "tigzirin n malawi"
+    },
+    "FM": {
+        "name": "mikrunizya"
+    },
+    "FR": {
+        "name": "fransa"
+    },
+    "GA": {
+        "name": "gabun"
+    },
+    "GB": {
+        "name": "tagldit imunn"
+    },
+    "GD": {
+        "name": "\u0263rna\u1e6da"
+    },
+    "GE": {
+        "name": "jurjya"
+    },
+    "GF": {
+        "name": "gwiyan tafransist"
+    },
+    "GH": {
+        "name": "\u0263ana"
+    },
+    "GI": {
+        "name": "adrar n \u1e6da\u1e5biq"
+    },
+    "GL": {
+        "name": "griland"
+    },
+    "GM": {
+        "name": "gambya"
+    },
+    "GN": {
+        "name": "\u0263inya"
+    },
+    "GP": {
+        "name": "gwadalub"
+    },
+    "GQ": {
+        "name": "\u0263inya n ikwadur"
+    },
+    "GR": {
+        "name": "lyunan"
+    },
+    "GT": {
+        "name": "gwatimala"
+    },
+    "GU": {
+        "name": "gwam"
+    },
+    "GW": {
+        "name": "\u0263inya bisaw"
+    },
+    "GY": {
+        "name": "gwiyana"
+    },
+    "HN": {
+        "name": "hunduras"
+    },
+    "HR": {
+        "name": "krwatya"
+    },
+    "HT": {
+        "name": "hayti"
+    },
+    "HU": {
+        "name": "hn\u0263arya"
+    },
+    "ID": {
+        "name": "andunisya"
+    },
+    "IE": {
+        "name": "irlanda"
+    },
+    "IL": {
+        "name": "israyil"
+    },
+    "IN": {
+        "name": "lhind"
+    },
+    "IO": {
+        "name": "tamna\u1e0dt tanglizit n ugaru ahindi"
+    },
+    "IQ": {
+        "name": "l\u025biraq"
+    },
+    "IR": {
+        "name": "iran"
+    },
+    "IS": {
+        "name": "island"
+    },
+    "IT": {
+        "name": "i\u1e6dalya"
+    },
+    "JM": {
+        "name": "jamayka"
+    },
+    "JO": {
+        "name": "lurdun"
+    },
+    "JP": {
+        "name": "lyaban"
+    },
+    "KE": {
+        "name": "kinya"
+    },
+    "KG": {
+        "name": "kir\u0263izistan"
+    },
+    "KH": {
+        "name": "kambudya"
+    },
+    "KI": {
+        "name": "kiribati"
+    },
+    "KM": {
+        "name": "cumur"
+    },
+    "KN": {
+        "name": "sankris d nifis"
+    },
+    "KP": {
+        "name": "kurya n i\u1e93\u1e93lm\u1e0d"
+    },
+    "KR": {
+        "name": "kurya n iffus"
+    },
+    "KW": {
+        "name": "lkwit"
+    },
+    "KY": {
+        "name": "tigzirin n kayman"
+    },
+    "KZ": {
+        "name": "kazaxstan"
+    },
+    "LA": {
+        "name": "laws"
+    },
+    "LB": {
+        "name": "lubnan"
+    },
+    "LC": {
+        "name": "santlusi"
+    },
+    "LI": {
+        "name": "likinctayn"
+    },
+    "LK": {
+        "name": "srilanka"
+    },
+    "LR": {
+        "name": "libirya"
+    },
+    "LS": {
+        "name": "li\u1e63u\u1e6du"
+    },
+    "LT": {
+        "name": "litwanya"
+    },
+    "LU": {
+        "name": "luksanburg"
+    },
+    "LV": {
+        "name": "latfya"
+    },
+    "LY": {
+        "name": "libya"
+    },
+    "MA": {
+        "name": "lm\u0263rib"
+    },
+    "MC": {
+        "name": "munaku"
+    },
+    "MD": {
+        "name": "muldufya"
+    },
+    "MG": {
+        "name": "mada\u0263acqar"
+    },
+    "MH": {
+        "name": "tigzirin n marcal"
+    },
+    "ML": {
+        "name": "mali"
+    },
+    "MM": {
+        "name": "myanmar"
+    },
+    "MN": {
+        "name": "mn\u0263ulya"
+    },
+    "MP": {
+        "name": "tigzirin n maryan n i\u1e93\u1e93lm\u1e0d"
+    },
+    "MQ": {
+        "name": "martinik"
+    },
+    "MR": {
+        "name": "mu\u1e5bi\u1e6danya"
+    },
+    "MS": {
+        "name": "munsirat"
+    },
+    "MT": {
+        "name": "mal\u1e6da"
+    },
+    "MU": {
+        "name": "muris"
+    },
+    "MV": {
+        "name": "maldif"
+    },
+    "MW": {
+        "name": "malawi"
+    },
+    "MX": {
+        "name": "miksik"
+    },
+    "MY": {
+        "name": "malizya"
+    },
+    "MZ": {
+        "name": "muznbiq"
+    },
+    "NA": {
+        "name": "namibya"
+    },
+    "NC": {
+        "name": "kalidunya tamaynut"
+    },
+    "NE": {
+        "name": "nnijir"
+    },
+    "NF": {
+        "name": "tigzirin n nurfulk"
+    },
+    "NG": {
+        "name": "nijirya"
+    },
+    "NI": {
+        "name": "nikaragwa"
+    },
+    "NL": {
+        "name": "hulanda"
+    },
+    "NO": {
+        "name": "nnrwij"
+    },
+    "NP": {
+        "name": "nibal"
+    },
+    "NR": {
+        "name": "nawru"
+    },
+    "NU": {
+        "name": "niwi"
+    },
+    "NZ": {
+        "name": "nyuzilanda"
+    },
+    "OM": {
+        "name": "\u025buman"
+    },
+    "PA": {
+        "name": "banama"
+    },
+    "PE": {
+        "name": "biru"
+    },
+    "PF": {
+        "name": "bulinizya tafransist"
+    },
+    "PG": {
+        "name": "babwa \u0263inya tamaynut"
+    },
+    "PH": {
+        "name": "filibbin"
+    },
+    "PK": {
+        "name": "bakistan"
+    },
+    "PL": {
+        "name": "bulunya"
+    },
+    "PM": {
+        "name": "sanbyir d miklun"
+    },
+    "PN": {
+        "name": "bitkayrn"
+    },
+    "PR": {
+        "name": "burtu riku"
+    },
+    "PS": {
+        "name": "agmma\u1e0d n tagut d \u0263zza"
+    },
+    "PT": {
+        "name": "b\u1e5b\u1e6dqiz"
+    },
+    "PW": {
+        "name": "balaw"
+    },
+    "PY": {
+        "name": "baragway"
+    },
+    "QA": {
+        "name": "qatar"
+    },
+    "RE": {
+        "name": "riyunyun"
+    },
+    "RO": {
+        "name": "rumanya"
+    },
+    "RU": {
+        "name": "rusya"
+    },
+    "RW": {
+        "name": "rwanda"
+    },
+    "SA": {
+        "name": "ssa\u025budiya"
+    },
+    "SB": {
+        "name": "tigzirin n saluman"
+    },
+    "SC": {
+        "name": "ssicil"
+    },
+    "SD": {
+        "name": "ssudan"
+    },
+    "SE": {
+        "name": "sswid"
+    },
+    "SG": {
+        "name": "sn\u0263afura"
+    },
+    "SH": {
+        "name": "santilin"
+    },
+    "SI": {
+        "name": "slufinya"
+    },
+    "SK": {
+        "name": "slufakya"
+    },
+    "SL": {
+        "name": "ssiralyun"
+    },
+    "SM": {
+        "name": "sanmarinu"
+    },
+    "SN": {
+        "name": "ssinigal"
+    },
+    "SO": {
+        "name": "\u1e63\u1e63umal"
+    },
+    "SR": {
+        "name": "surinam"
+    },
+    "ST": {
+        "name": "saw\u1e6dumi d bransib"
+    },
+    "SV": {
+        "name": "salfadur"
+    },
+    "SY": {
+        "name": "surya"
+    },
+    "SZ": {
+        "name": "swazilanda"
+    },
+    "TC": {
+        "name": "tigzirin n turkya d kayk"
+    },
+    "TD": {
+        "name": "tcad"
+    },
+    "TG": {
+        "name": "\u1e6dugu"
+    },
+    "TH": {
+        "name": "\u1e6dayland"
+    },
+    "TJ": {
+        "name": "tadjakistan"
+    },
+    "TK": {
+        "name": "\u1e6duklaw"
+    },
+    "TL": {
+        "name": "timur n lqblt"
+    },
+    "TM": {
+        "name": "turkmanstan"
+    },
+    "TN": {
+        "name": "tuns"
+    },
+    "TO": {
+        "name": "\u1e6dunga"
+    },
+    "TR": {
+        "name": "turkya"
+    },
+    "TT": {
+        "name": "trinidad d \u1e6dubagu"
+    },
+    "TV": {
+        "name": "tufalu"
+    },
+    "TW": {
+        "name": "\u1e6daywan"
+    },
+    "TZ": {
+        "name": "\u1e6dan\u1e93anya"
+    },
+    "UA": {
+        "name": "ukranya"
+    },
+    "UG": {
+        "name": "u\u0263anda"
+    },
+    "US": {
+        "name": "iwunak munnin n mirikan"
+    },
+    "UY": {
+        "name": "urugway"
+    },
+    "UZ": {
+        "name": "uzbakistan"
+    },
+    "VA": {
+        "name": "awank n fatikan"
+    },
+    "VC": {
+        "name": "sanfansan d grinadin"
+    },
+    "VE": {
+        "name": "finzwila"
+    },
+    "VG": {
+        "name": "tigzirin timgad n nngliz"
+    },
+    "VI": {
+        "name": "tigzirin timgad n iwunak munnin"
+    },
+    "VN": {
+        "name": "fitnam"
+    },
+    "VU": {
+        "name": "fanwa\u1e6du"
+    },
+    "WF": {
+        "name": "walis d futuna"
+    },
+    "WS": {
+        "name": "samwa"
+    },
+    "YE": {
+        "name": "yaman"
+    },
+    "YT": {
+        "name": "mayu\u1e6d"
+    },
+    "ZA": {
+        "name": "afriqya n iffus"
+    },
+    "ZM": {
+        "name": "zambya"
+    },
+    "ZW": {
+        "name": "zimbabwi"
+    }
+}

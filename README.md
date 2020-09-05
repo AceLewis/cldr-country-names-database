@@ -5,7 +5,7 @@ The CLDR (Unicode **C**ommon **L**ocale **D**ata **R**epository) publishes data 
 This project processes both past and present territory names from the CLDR and puts it into a more usable format for use in other projects. The data is available in a JSON, CSV and SQLite. https://github.com/unicode-cldr/cldr-json does provide the data in JSON format but the release is currently months outdated (version 36 not 37) and this only goes back until version 27 (2015-03-19).
 
 #### Data format
-The data is located in the releases, you can also run [download_and_process_cldr_data.py](download_and_process_cldr_data) to download and process the latest CLDR data to [/data/](./data/) if the releases are outdated.
+The data for the latest version is located in [/data/](./data/), you can also run [download_and_process_cldr_data.py](download_and_process_cldr_data.py) to download and process the CLDR data for any other version or if this is outdated.
 
 * JSON - a file for every language contained in [/data/json](./data/json). If the language has a name/names for the territory then the names available are an object with keys of "name", "short" or "variant".
 * CSV - A large CSV file with rows for all territory codes and columns "cldr_name_{x}", "cldr_short_{x}", "cldr_variant_{x} where x is every language. If there is no name it will be a blank string.
@@ -28,8 +28,8 @@ One assumption you should not make is that if a variant/short name exists then i
 * [download_and_extract_cldr_data.py](download_and_extract_cldr_data.py) - A script to download zipped data from CLDR and extract it
 * [cldr_xml_to_json.py](cldr_xml_to_json.py) - Convert the XML supplied from CLDR into JSON
 * [json_to_csv_and_sqlite.py](json_to_csv_and_sqlite.py) - Convert this JSON to both a CSV file and a SQLite database
-* [download_and_process_cldr_data.py](download_and_process_cldr_data) - Uses the three other scripts to download the data and process it, saving it in JSON, CSV and SQLite.
+* [download_and_process_cldr_data.py](download_and_process_cldr_data.py) - Uses the three other scripts to download the data and process it, saving it in JSON, CSV and SQLite.
 
 #### Previous versions
 
-If you want to build a database for previously released versions of CLDR you need to specify the release number in [download_and_process_cldr_data.py](download_and_process_cldr_data). The strings for these are not consistent e.g v2.0 is "2.0.0" but v21.0 is just "21". Use the folder name from https://unicode.org/Public/cldr/ (Note v1.4 is listed twice as "1.4" and "1.4.0").
+If you want to build a database for previously released versions of CLDR you need to specify the release number in [download_and_process_cldr_data.py](download_and_process_cldr_data.py). The strings for these are not consistent e.g v2.0 is "2.0.0" but v21.0 is just "21". Use the folder name from https://unicode.org/Public/cldr/ (Note v1.4 is listed twice as "1.4" and "1.4.0").

@@ -1,0 +1,671 @@
+{
+    "AD": {
+        "name": "and\u0254r\u01dd"
+    },
+    "AE": {
+        "name": "b\u01ddl\u0254\u014b b\u01dd kaksa b\u025b t\u00e1at\u00e1a\u014bz\u01ddn"
+    },
+    "AF": {
+        "name": "afganist\u00e1\u014b"
+    },
+    "AG": {
+        "name": "antiga ri barb\u00fada"
+    },
+    "AI": {
+        "name": "angiya"
+    },
+    "AL": {
+        "name": "alban\u00ed"
+    },
+    "AM": {
+        "name": "arm\u025bn\u00ed"
+    },
+    "AO": {
+        "name": "ang\u00f3la"
+    },
+    "AR": {
+        "name": "arj\u01ddnt\u00edn"
+    },
+    "AS": {
+        "name": "sam\u0254a a am\u025brika"
+    },
+    "AT": {
+        "name": "otric"
+    },
+    "AU": {
+        "name": "\u0254stral\u00ed"
+    },
+    "AW": {
+        "name": "aruba"
+    },
+    "AZ": {
+        "name": "azabec\u00e1n"
+    },
+    "BA": {
+        "name": "b\u0254sny\u025b ri h\u025brs\u01ddg\u0254v\u00edn"
+    },
+    "BB": {
+        "name": "baabaad\u01dd"
+    },
+    "BD": {
+        "name": "ba\u014blad\u025b\u0301c"
+    },
+    "BE": {
+        "name": "b\u025blj\u00edk"
+    },
+    "BF": {
+        "name": "buk\u00edna f\u01dd\u0301 as\u0254"
+    },
+    "BG": {
+        "name": "bulgar\u00ed"
+    },
+    "BH": {
+        "name": "bar\u01dd\u0301n"
+    },
+    "BI": {
+        "name": "burund\u00ed"
+    },
+    "BJ": {
+        "name": "b\u025bn\u01dd\u0301n"
+    },
+    "BM": {
+        "name": "b\u025b\u025bm\u00fad\u01dd"
+    },
+    "BN": {
+        "name": "brun\u01dd\u0301"
+    },
+    "BO": {
+        "name": "b\u0254\u0254l\u00edv\u00ed"
+    },
+    "BR": {
+        "name": "br\u025bs\u00edl"
+    },
+    "BS": {
+        "name": "baam\u00e1s"
+    },
+    "BT": {
+        "name": "but\u00e1n"
+    },
+    "BW": {
+        "name": "botswana"
+    },
+    "BY": {
+        "name": "b\u025blaris"
+    },
+    "BZ": {
+        "name": "b\u025bliz"
+    },
+    "CA": {
+        "name": "kanada"
+    },
+    "CD": {
+        "name": "k\u0254ng\u00f3 any\u0254\u0301n"
+    },
+    "CF": {
+        "name": "santrafr\u00edk"
+    },
+    "CG": {
+        "name": "k\u0254ng\u00f3"
+    },
+    "CH": {
+        "name": "sw\u00eds"
+    },
+    "CI": {
+        "name": "k\u0254tiwu\u00e1r"
+    },
+    "CK": {
+        "name": "z\u025b i k\u00fak"
+    },
+    "CL": {
+        "name": "c\u00edli"
+    },
+    "CM": {
+        "name": "kam\u025br\u00fan"
+    },
+    "CN": {
+        "name": "c\u00edn"
+    },
+    "CO": {
+        "name": "kol\u0254mb\u00ed"
+    },
+    "CR": {
+        "name": "k\u0254star\u00edka"
+    },
+    "CU": {
+        "name": "kuba"
+    },
+    "CV": {
+        "name": "kapv\u025br"
+    },
+    "CY": {
+        "name": "c\u00edpr\u025b"
+    },
+    "CZ": {
+        "name": "c\u025b\u0301k"
+    },
+    "DE": {
+        "name": "dj\u025brman"
+    },
+    "DJ": {
+        "name": "dyibut\u00ed"
+    },
+    "DK": {
+        "name": "danmak"
+    },
+    "DM": {
+        "name": "d\u0254minik"
+    },
+    "DO": {
+        "name": "d\u0254minik r\u025bpubl\u00edk"
+    },
+    "DZ": {
+        "name": "alj\u025br\u00ed"
+    },
+    "EC": {
+        "name": "\u025bkwat\u025b\u01dd\u0301"
+    },
+    "EE": {
+        "name": "\u025bston\u00ed"
+    },
+    "EG": {
+        "name": "\u025bj\u00edpt"
+    },
+    "ER": {
+        "name": "\u025britr\u025b\u0301"
+    },
+    "ES": {
+        "name": "kpany\u00e1"
+    },
+    "ET": {
+        "name": "\u025bty\u0254p\u00ed"
+    },
+    "FI": {
+        "name": "f\u00ednlan"
+    },
+    "FJ": {
+        "name": "f\u00edji"
+    },
+    "FK": {
+        "name": "z\u01dd maalw\u00edn"
+    },
+    "FM": {
+        "name": "mikron\u025b\u0301si"
+    },
+    "FR": {
+        "name": "p\u025br\u025bs\u01dd\u0301"
+    },
+    "GA": {
+        "name": "gab\u0254\u014b"
+    },
+    "GB": {
+        "name": "k\u01ddl\u0254\u014b k\u01dd k\u01ddt\u00e1at\u00e1a\u014bz\u01ddn"
+    },
+    "GD": {
+        "name": "gr\u025bnad\u01dd"
+    },
+    "GE": {
+        "name": "j\u0254rj\u00ed"
+    },
+    "GF": {
+        "name": "guy\u00e1n i p\u025br\u025bs\u01dd\u0301"
+    },
+    "GH": {
+        "name": "g\u00e1na"
+    },
+    "GI": {
+        "name": "jibralt\u00e1"
+    },
+    "GL": {
+        "name": "gr\u00ednlan"
+    },
+    "GM": {
+        "name": "gamb\u00ed"
+    },
+    "GN": {
+        "name": "gin\u025b\u0301"
+    },
+    "GP": {
+        "name": "gwad\u025bl\u00fap"
+    },
+    "GQ": {
+        "name": "gin\u025b\u0301 \u025bkwat\u0254rial"
+    },
+    "GR": {
+        "name": "gr\u025b\u0301k"
+    },
+    "GT": {
+        "name": "gw\u00e1t\u01ddmala"
+    },
+    "GU": {
+        "name": "gw\u00e1m"
+    },
+    "GW": {
+        "name": "gin\u025b\u0301 bis\u0254\u0301"
+    },
+    "GY": {
+        "name": "guy\u00e1n"
+    },
+    "HN": {
+        "name": "\u0254nduras"
+    },
+    "HR": {
+        "name": "krwas\u00ed"
+    },
+    "HT": {
+        "name": "ayiti"
+    },
+    "HU": {
+        "name": "\u0254ngr\u00ed"
+    },
+    "ID": {
+        "name": "indon\u025bs\u00ed"
+    },
+    "IE": {
+        "name": "il\u00e1n"
+    },
+    "IL": {
+        "name": "isra\u025b\u0301l"
+    },
+    "IN": {
+        "name": "ind\u00ed"
+    },
+    "IO": {
+        "name": "z\u01dd ing\u025br\u00eds nc\u0254\u0301m wa indi"
+    },
+    "IQ": {
+        "name": "ir\u00e1k"
+    },
+    "IR": {
+        "name": "ir\u00e1\u014b"
+    },
+    "IS": {
+        "name": "z\u01dd i gl\u00e1s"
+    },
+    "IT": {
+        "name": "ital\u00ed"
+    },
+    "JM": {
+        "name": "jama\u00edk"
+    },
+    "JO": {
+        "name": "j\u0254rd\u00e1n"
+    },
+    "JP": {
+        "name": "jap\u0254\u0301\u014b"
+    },
+    "KE": {
+        "name": "k\u025bnya"
+    },
+    "KG": {
+        "name": "kigist\u00e1\u014b"
+    },
+    "KH": {
+        "name": "kambodj"
+    },
+    "KI": {
+        "name": "kirib\u00e1ti"
+    },
+    "KM": {
+        "name": "kom\u0254r"
+    },
+    "KN": {
+        "name": "s\u025bnkr\u01ddst\u0254\u0301f ri ny\u025b\u0301v\u01dd"
+    },
+    "KP": {
+        "name": "kor\u025ban\u0254\u0301r"
+    },
+    "KR": {
+        "name": "kor\u025basud"
+    },
+    "KW": {
+        "name": "kuw\u025bit"
+    },
+    "KY": {
+        "name": "z\u01dd i gan"
+    },
+    "KZ": {
+        "name": "kazakst\u00e1\u014b"
+    },
+    "LA": {
+        "name": "la\u0254s"
+    },
+    "LB": {
+        "name": "lib\u00e1\u014b"
+    },
+    "LC": {
+        "name": "s\u025bntl\u00eds\u00ed"
+    },
+    "LI": {
+        "name": "lict\u025bnst\u025b\u0301n"
+    },
+    "LK": {
+        "name": "sr\u00edla\u014bka"
+    },
+    "LR": {
+        "name": "lib\u025brya"
+    },
+    "LS": {
+        "name": "l\u01dds\u00f3to"
+    },
+    "LT": {
+        "name": "litwan\u00ed"
+    },
+    "LU": {
+        "name": "luks\u025bmb\u00far"
+    },
+    "LV": {
+        "name": "l\u025bton\u00ed"
+    },
+    "LY": {
+        "name": "lib\u00ed"
+    },
+    "MA": {
+        "name": "mar\u0254k"
+    },
+    "MC": {
+        "name": "monako"
+    },
+    "MD": {
+        "name": "m\u0254ldav\u00ed"
+    },
+    "MG": {
+        "name": "madagaska"
+    },
+    "MH": {
+        "name": "z\u01dd i marc\u00e1l"
+    },
+    "ML": {
+        "name": "mali"
+    },
+    "MM": {
+        "name": "myanm\u00e1r"
+    },
+    "MN": {
+        "name": "m\u0254\u014bol\u00ed"
+    },
+    "MP": {
+        "name": "z\u01dd mary\u00e1nn\u0254\u0301r"
+    },
+    "MQ": {
+        "name": "matin\u00edk"
+    },
+    "MR": {
+        "name": "mwaritan\u00ed"
+    },
+    "MS": {
+        "name": "m\u0254ns\u025brat"
+    },
+    "MT": {
+        "name": "malt\u01dd"
+    },
+    "MU": {
+        "name": "mwar\u00eds"
+    },
+    "MV": {
+        "name": "maldiv\u01dd"
+    },
+    "MW": {
+        "name": "malawi"
+    },
+    "MX": {
+        "name": "m\u025bks\u00edk"
+    },
+    "MY": {
+        "name": "mal\u025bs\u00ed"
+    },
+    "MZ": {
+        "name": "mosamb\u00edk"
+    },
+    "NA": {
+        "name": "namib\u00ed"
+    },
+    "NC": {
+        "name": "kal\u025bdon\u00ed any\u0254\u0301n"
+    },
+    "NE": {
+        "name": "nij\u025b\u0301r"
+    },
+    "NF": {
+        "name": "z\u025b n\u0254\u0301f\u0254lk"
+    },
+    "NG": {
+        "name": "nij\u025b\u0301rya"
+    },
+    "NI": {
+        "name": "n\u00edkar\u00e1gwa"
+    },
+    "NL": {
+        "name": "k\u01ddl\u0254\u014b k\u01dd \u00e1z\u01dd"
+    },
+    "NO": {
+        "name": "n\u0254rv\u025bj\u01dd"
+    },
+    "NP": {
+        "name": "n\u025bpal"
+    },
+    "NR": {
+        "name": "nwar\u00fa"
+    },
+    "NU": {
+        "name": "niw\u025b\u0301"
+    },
+    "NZ": {
+        "name": "z\u025blan any\u0254\u0301n"
+    },
+    "OM": {
+        "name": "oman"
+    },
+    "PA": {
+        "name": "panama"
+    },
+    "PE": {
+        "name": "p\u025br\u00fa"
+    },
+    "PF": {
+        "name": "p\u0254lin\u025bs\u00ed a p\u025br\u025bs\u01dd\u0301"
+    },
+    "PG": {
+        "name": "papwaz\u00ed gin\u025b\u0301 any\u0254\u0301n"
+    },
+    "PH": {
+        "name": "filip\u01dd\u0301n"
+    },
+    "PK": {
+        "name": "pakist\u00e1\u014b"
+    },
+    "PL": {
+        "name": "pol\u0254\u0301n"
+    },
+    "PM": {
+        "name": "s\u025bnpy\u025br ri mik\u025bl\u0254\u014b"
+    },
+    "PN": {
+        "name": "pitk\u025b\u0301n"
+    },
+    "PR": {
+        "name": "p\u0254tor\u00edko"
+    },
+    "PS": {
+        "name": "z\u01dd pal\u025bst\u00edn\u01dd"
+    },
+    "PT": {
+        "name": "portug\u00e1l"
+    },
+    "PW": {
+        "name": "palwa"
+    },
+    "PY": {
+        "name": "paragw\u025b\u0301"
+    },
+    "QA": {
+        "name": "kat\u00e1"
+    },
+    "RE": {
+        "name": "r\u025buny\u0254\u014b"
+    },
+    "RO": {
+        "name": "r\u0254man\u00ed"
+    },
+    "RU": {
+        "name": "ris\u00ed"
+    },
+    "RW": {
+        "name": "rwanda"
+    },
+    "SA": {
+        "name": "arab\u00ed saod\u00ed"
+    },
+    "SB": {
+        "name": "z\u01dd salom\u0254\u0301n"
+    },
+    "SC": {
+        "name": "s\u025bc\u025bl"
+    },
+    "SD": {
+        "name": "sudan"
+    },
+    "SE": {
+        "name": "sw\u025bd\u01dd"
+    },
+    "SG": {
+        "name": "si\u014bap\u00f3"
+    },
+    "SH": {
+        "name": "s\u025bnt\u025b\u0301len"
+    },
+    "SI": {
+        "name": "slov\u025bn\u00ed"
+    },
+    "SK": {
+        "name": "slovak\u00ed"
+    },
+    "SL": {
+        "name": "sy\u025braleon"
+    },
+    "SM": {
+        "name": "s\u025bnmar\u01ddn"
+    },
+    "SN": {
+        "name": "s\u025bn\u025bgal"
+    },
+    "SO": {
+        "name": "somal\u00ed"
+    },
+    "SR": {
+        "name": "surinam"
+    },
+    "ST": {
+        "name": "saotom\u025b\u0301 ri pri\u014bsib"
+    },
+    "SV": {
+        "name": "salvad\u0254r"
+    },
+    "SY": {
+        "name": "sir\u00ed"
+    },
+    "SZ": {
+        "name": "swazilan"
+    },
+    "TC": {
+        "name": "z\u01dd tirk ri kak\u0254s"
+    },
+    "TD": {
+        "name": "ca\u00e1d"
+    },
+    "TG": {
+        "name": "togo"
+    },
+    "TH": {
+        "name": "t\u025blan"
+    },
+    "TJ": {
+        "name": "tadjikista\u014b"
+    },
+    "TK": {
+        "name": "tok\u01ddlao"
+    },
+    "TL": {
+        "name": "timor an\u01dd \u00e1 \u025bst"
+    },
+    "TM": {
+        "name": "tirkm\u025bnista\u014b"
+    },
+    "TN": {
+        "name": "tun\u025bs\u00ed"
+    },
+    "TO": {
+        "name": "t\u0254\u014ba"
+    },
+    "TR": {
+        "name": "tirk\u00ed"
+    },
+    "TT": {
+        "name": "t\u025brinit\u025b ri tobago"
+    },
+    "TV": {
+        "name": "tuwalu"
+    },
+    "TW": {
+        "name": "t\u025bw\u00e1n"
+    },
+    "TZ": {
+        "name": "tanzan\u00ed"
+    },
+    "UA": {
+        "name": "ukrain"
+    },
+    "UG": {
+        "name": "uganda"
+    },
+    "US": {
+        "name": "am\u025brika"
+    },
+    "UY": {
+        "name": "urugw\u025b\u0301"
+    },
+    "UZ": {
+        "name": "usb\u025bkista\u014b"
+    },
+    "VA": {
+        "name": "watik\u00e1\u014b"
+    },
+    "VC": {
+        "name": "s\u025bnv\u01ddns\u01dd\u014b ri gr\u025bnad\u00edn"
+    },
+    "VE": {
+        "name": "w\u025bn\u01ddzw\u025bla"
+    },
+    "VG": {
+        "name": "z\u01dd b\u025b g\u0254n in\u025b a ing\u025br\u00eds"
+    },
+    "VI": {
+        "name": "z\u01dd b\u025b g\u0254n in\u025b \u00e1 am\u025brika"
+    },
+    "VN": {
+        "name": "wy\u025btn\u00e1m"
+    },
+    "VU": {
+        "name": "wanwatu"
+    },
+    "WF": {
+        "name": "walis ri futuna"
+    },
+    "WS": {
+        "name": "sam\u0254a"
+    },
+    "YE": {
+        "name": "y\u025bm\u025bn"
+    },
+    "YT": {
+        "name": "may\u0254\u0301t"
+    },
+    "ZA": {
+        "name": "afrik an\u01dd a sud"
+    },
+    "ZM": {
+        "name": "zamb\u00ed"
+    },
+    "ZW": {
+        "name": "zimbabw\u025b\u0301"
+    }
+}

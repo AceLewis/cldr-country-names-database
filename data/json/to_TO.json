@@ -1,0 +1,893 @@
+{
+    "001": {
+        "name": "M\u0101mani"
+    },
+    "002": {
+        "name": "\u02bbAfilika"
+    },
+    "003": {
+        "name": "\u02bbAmelika tokelau"
+    },
+    "005": {
+        "name": "\u02bbAmelika tonga"
+    },
+    "009": {
+        "name": "\u02bbOs\u0113nia"
+    },
+    "011": {
+        "name": "\u02bbAfilika fakahihifo"
+    },
+    "013": {
+        "name": "\u02bbAmelika lotoloto"
+    },
+    "014": {
+        "name": "\u02bbAfilika fakahahake"
+    },
+    "015": {
+        "name": "\u02bbAfilika fakatokelau"
+    },
+    "017": {
+        "name": "\u02bbAfilika lotoloto"
+    },
+    "018": {
+        "name": "\u02bbAfilika fakatonga"
+    },
+    "019": {
+        "name": "Ongo \u02bbAmelika"
+    },
+    "021": {
+        "name": "\u02bbAmelika fakatokelau"
+    },
+    "029": {
+        "name": "Kalipiane"
+    },
+    "030": {
+        "name": "\u02bb\u0112sia fakahahake"
+    },
+    "034": {
+        "name": "\u02bb\u0112sia fakatonga"
+    },
+    "035": {
+        "name": "\u02bb\u0112sia fakatongahahake"
+    },
+    "039": {
+        "name": "\u02bbEulope fakatonga"
+    },
+    "053": {
+        "name": "\u02bbAositel\u0113l\u0113sia"
+    },
+    "054": {
+        "name": "Melan\u012bsia"
+    },
+    "057": {
+        "name": "Potu fonua Mikolon\u012bsia"
+    },
+    "061": {
+        "name": "Polin\u012bsia"
+    },
+    "142": {
+        "name": "\u02bb\u0112sia"
+    },
+    "143": {
+        "name": "\u02bb\u0112sia lotoloto"
+    },
+    "145": {
+        "name": "\u02bb\u0112sia fakahihifo"
+    },
+    "150": {
+        "name": "\u02bbEulope"
+    },
+    "151": {
+        "name": "\u02bbEulope fakahahake"
+    },
+    "154": {
+        "name": "\u02bbEulope fakatokelau"
+    },
+    "155": {
+        "name": "\u02bbEulope fakahihifo"
+    },
+    "202": {
+        "name": "\u02bbAfilika fakasahala-tonga"
+    },
+    "419": {
+        "name": "\u02bbAmelika fakalatina"
+    },
+    "AC": {
+        "name": "Motu \u02bbAsenisini"
+    },
+    "AD": {
+        "name": "\u02bbAnitola"
+    },
+    "AE": {
+        "name": "\u02bbAlepea Fakatahataha"
+    },
+    "AF": {
+        "name": "\u02bbAfik\u0101nisitani"
+    },
+    "AG": {
+        "name": "Anitikua mo Palaputa"
+    },
+    "AI": {
+        "name": "Anikuila"
+    },
+    "AL": {
+        "name": "\u02bbAlipania"
+    },
+    "AM": {
+        "name": "\u02bb\u0100menia"
+    },
+    "AO": {
+        "name": "\u02bbAngikola"
+    },
+    "AQ": {
+        "name": "\u02bbAnit\u0101tika"
+    },
+    "AR": {
+        "name": "\u02bbAsenitina"
+    },
+    "AS": {
+        "name": "Ha\u02bbamoa \u02bbAmelika"
+    },
+    "AT": {
+        "name": "\u02bbAositulia"
+    },
+    "AU": {
+        "name": "\u02bbAositel\u0113lia"
+    },
+    "AW": {
+        "name": "\u02bbAlupa"
+    },
+    "AX": {
+        "name": "\u02bbOtumotu \u02bbAlani"
+    },
+    "AZ": {
+        "name": "\u02bbAsapaisani"
+    },
+    "BA": {
+        "name": "Posinia mo Hesik\u014dvina"
+    },
+    "BB": {
+        "name": "P\u0101peitosi"
+    },
+    "BD": {
+        "name": "Pengil\u0101tesi"
+    },
+    "BE": {
+        "name": "Pelesiume"
+    },
+    "BF": {
+        "name": "Pekano Faso"
+    },
+    "BG": {
+        "name": "Pulukalia"
+    },
+    "BH": {
+        "name": "Paleini"
+    },
+    "BI": {
+        "name": "Puluniti"
+    },
+    "BJ": {
+        "name": "Penini"
+    },
+    "BL": {
+        "name": "S\u0101 Pat\u0113lemi"
+    },
+    "BM": {
+        "name": "P\u0113muta"
+    },
+    "BN": {
+        "name": "Pulunei"
+    },
+    "BO": {
+        "name": "Pol\u012bvia"
+    },
+    "BQ": {
+        "name": "Kalipiane fakah\u014dlani"
+    },
+    "BR": {
+        "name": "Pal\u0101sili"
+    },
+    "BS": {
+        "name": "Pahama"
+    },
+    "BT": {
+        "name": "P\u016btani"
+    },
+    "BV": {
+        "name": "Motu Puveti"
+    },
+    "BW": {
+        "name": "Potisiuana"
+    },
+    "BY": {
+        "name": "Pelalusi"
+    },
+    "BZ": {
+        "name": "Pelise"
+    },
+    "CA": {
+        "name": "K\u0101nata"
+    },
+    "CC": {
+        "name": "\u02bbOtumotu Koko"
+    },
+    "CD": {
+        "name": "Kongo - Kinisasa",
+        "variant": "Kongo (LTK)"
+    },
+    "CF": {
+        "name": "Lepupelika \u02bbAfilika Lotoloto"
+    },
+    "CG": {
+        "name": "Kongo - Palasavila",
+        "variant": "Kongo (Lepupelika)"
+    },
+    "CH": {
+        "name": "Suisilani"
+    },
+    "CI": {
+        "name": "Matafonua \u02bbAivol\u012b"
+    },
+    "CK": {
+        "name": "\u02bbOtumotu Kuki"
+    },
+    "CL": {
+        "name": "Sili"
+    },
+    "CM": {
+        "name": "Kameluni"
+    },
+    "CN": {
+        "name": "Siaina"
+    },
+    "CO": {
+        "name": "Kolomipia"
+    },
+    "CP": {
+        "name": "Motu Kilipatoni"
+    },
+    "CR": {
+        "name": "Kosita Lika"
+    },
+    "CU": {
+        "name": "Kiupa"
+    },
+    "CV": {
+        "name": "Mui\u02bbi V\u0113te"
+    },
+    "CW": {
+        "name": "Kulasao"
+    },
+    "CX": {
+        "name": "Motu Kilisimasi"
+    },
+    "CY": {
+        "name": "Saipalesi"
+    },
+    "CZ": {
+        "name": "S\u0113kia",
+        "variant": "Lepupelika Seki"
+    },
+    "DE": {
+        "name": "Siamane"
+    },
+    "DG": {
+        "name": "Tieko K\u0101sia"
+    },
+    "DJ": {
+        "name": "Siputi"
+    },
+    "DK": {
+        "name": "Tenima\u02bbake"
+    },
+    "DM": {
+        "name": "Tominika"
+    },
+    "DO": {
+        "name": "Lepupelika Tominika"
+    },
+    "DZ": {
+        "name": "\u02bbAlisilia"
+    },
+    "EA": {
+        "name": "Siuta mo Melila"
+    },
+    "EC": {
+        "name": "\u02bbEkuetoa"
+    },
+    "EE": {
+        "name": "\u02bbEsit\u014dnia"
+    },
+    "EG": {
+        "name": "\u02bbIsipite"
+    },
+    "EH": {
+        "name": "Sahala fakahihifo"
+    },
+    "ER": {
+        "name": "\u02bbElitulia"
+    },
+    "ES": {
+        "name": "Sipeini"
+    },
+    "ET": {
+        "name": "\u02bb\u012ati\u014dpia"
+    },
+    "EU": {
+        "name": "\u02bbEulope fakatahataha"
+    },
+    "EZ": {
+        "name": "\u02bbEulope fekau\u02bbaki-pa\u02bbanga"
+    },
+    "FI": {
+        "name": "Finilani"
+    },
+    "FJ": {
+        "name": "Fisi"
+    },
+    "FK": {
+        "name": "\u02bbOtumotu Fokulani",
+        "variant": "\u02bbOtumotu Malivina"
+    },
+    "FM": {
+        "name": "Mikolon\u012bsia"
+    },
+    "FO": {
+        "name": "\u02bbOtumotu Faloe"
+    },
+    "FR": {
+        "name": "Falanis\u0113"
+    },
+    "GA": {
+        "name": "Kaponi"
+    },
+    "GB": {
+        "name": "Pilit\u0101nia"
+    },
+    "GD": {
+        "name": "Kelenat\u0101"
+    },
+    "GE": {
+        "name": "Se\u014dsia"
+    },
+    "GF": {
+        "name": "Kuiana fakafalanis\u0113"
+    },
+    "GG": {
+        "name": "Kuenis\u012b"
+    },
+    "GH": {
+        "name": "Kana"
+    },
+    "GI": {
+        "name": "Sipal\u0101lit\u0101"
+    },
+    "GL": {
+        "name": "Kulinilani"
+    },
+    "GM": {
+        "name": "Kamipia"
+    },
+    "GN": {
+        "name": "Kini"
+    },
+    "GP": {
+        "name": "Kuatalupe"
+    },
+    "GQ": {
+        "name": "\u02bbEkueta Kini"
+    },
+    "GR": {
+        "name": "Kalisi"
+    },
+    "GS": {
+        "name": "\u02bbOtumotu Se\u014dsia-tonga mo Saniuisi-tonga"
+    },
+    "GT": {
+        "name": "Kuatamala"
+    },
+    "GU": {
+        "name": "Kuamu"
+    },
+    "GW": {
+        "name": "Kini-Pisau"
+    },
+    "GY": {
+        "name": "Kuiana"
+    },
+    "HK": {
+        "name": "Hongi Kongi SAR Siaina",
+        "short": "Hongi Kongi"
+    },
+    "HM": {
+        "name": "\u02bbOtumotu Heati mo Makitonali"
+    },
+    "HN": {
+        "name": "Honitulasi"
+    },
+    "HR": {
+        "name": "Kuloisia"
+    },
+    "HT": {
+        "name": "Haiti"
+    },
+    "HU": {
+        "name": "Hungakalia"
+    },
+    "IC": {
+        "name": "\u02bbOtumotu Kaneli"
+    },
+    "ID": {
+        "name": "\u02bbIniton\u0113sia"
+    },
+    "IE": {
+        "name": "\u02bbAealani"
+    },
+    "IL": {
+        "name": "\u02bbIsileli"
+    },
+    "IM": {
+        "name": "Motu Mani"
+    },
+    "IN": {
+        "name": "\u02bbInitia"
+    },
+    "IO": {
+        "name": "Potu fonua moana \u02bbInitia fakapilit\u0101nia"
+    },
+    "IQ": {
+        "name": "\u02bbIlaaki"
+    },
+    "IR": {
+        "name": "\u02bbIlaani"
+    },
+    "IS": {
+        "name": "\u02bbAisilani"
+    },
+    "IT": {
+        "name": "\u02bb\u012atali"
+    },
+    "JE": {
+        "name": "Selus\u012b"
+    },
+    "JM": {
+        "name": "Samaika"
+    },
+    "JO": {
+        "name": "Soatane"
+    },
+    "JP": {
+        "name": "Siapani"
+    },
+    "KE": {
+        "name": "Keni\u0101"
+    },
+    "KG": {
+        "name": "K\u012bkisitani"
+    },
+    "KH": {
+        "name": "Kamip\u014dtia"
+    },
+    "KI": {
+        "name": "Kilipasi"
+    },
+    "KM": {
+        "name": "Komolosi"
+    },
+    "KN": {
+        "name": "S\u0101 Kitisi mo Nevisi"
+    },
+    "KP": {
+        "name": "K\u014dlea tokelau"
+    },
+    "KR": {
+        "name": "K\u014dlea tonga"
+    },
+    "KW": {
+        "name": "Kueiti"
+    },
+    "KY": {
+        "name": "\u02bbOtumotu Keimeni"
+    },
+    "KZ": {
+        "name": "Kasakitani"
+    },
+    "LA": {
+        "name": "Lau"
+    },
+    "LB": {
+        "name": "Lepanoni"
+    },
+    "LC": {
+        "name": "S\u0101 L\u016bsia"
+    },
+    "LI": {
+        "name": "Likitenisiteini"
+    },
+    "LK": {
+        "name": "S\u012blangik\u0101"
+    },
+    "LR": {
+        "name": "Laipelia"
+    },
+    "LS": {
+        "name": "Lesoto"
+    },
+    "LT": {
+        "name": "Lituania"
+    },
+    "LU": {
+        "name": "Lakisimipeki"
+    },
+    "LV": {
+        "name": "Lativia"
+    },
+    "LY": {
+        "name": "L\u012bpia"
+    },
+    "MA": {
+        "name": "Moloko"
+    },
+    "MC": {
+        "name": "Monako"
+    },
+    "MD": {
+        "name": "Molotova"
+    },
+    "ME": {
+        "name": "Monitenikalo"
+    },
+    "MF": {
+        "name": "S\u0101 M\u0101tini (fakafalanis\u0113)"
+    },
+    "MG": {
+        "name": "Matakasika"
+    },
+    "MH": {
+        "name": "\u02bbOtumotu M\u0101solo"
+    },
+    "MK": {
+        "name": "Maset\u014dnia fakatokelau"
+    },
+    "ML": {
+        "name": "M\u0101li"
+    },
+    "MM": {
+        "name": "Mianim\u0101 (Pema)"
+    },
+    "MN": {
+        "name": "Mongok\u014dlia"
+    },
+    "MO": {
+        "name": "Makau SAR Siaina",
+        "short": "Makau"
+    },
+    "MP": {
+        "name": "\u02bbOtumotu Maliana tokelau"
+    },
+    "MQ": {
+        "name": "M\u0101tiniki"
+    },
+    "MR": {
+        "name": "Maulitenia"
+    },
+    "MS": {
+        "name": "Mo\u02bbungaselati"
+    },
+    "MT": {
+        "name": "Malita"
+    },
+    "MU": {
+        "name": "Maulitiusi"
+    },
+    "MV": {
+        "name": "Malativisi"
+    },
+    "MW": {
+        "name": "Malaui"
+    },
+    "MX": {
+        "name": "Mekisikou"
+    },
+    "MY": {
+        "name": "Mal\u0113sia"
+    },
+    "MZ": {
+        "name": "Mos\u0113mipiki"
+    },
+    "NA": {
+        "name": "Namipia"
+    },
+    "NC": {
+        "name": "Niu Kalet\u014dnia"
+    },
+    "NE": {
+        "name": "Nisia"
+    },
+    "NF": {
+        "name": "Motu N\u014dfoliki"
+    },
+    "NG": {
+        "name": "Naisilia"
+    },
+    "NI": {
+        "name": "Nikalakua"
+    },
+    "NL": {
+        "name": "H\u014dlani"
+    },
+    "NO": {
+        "name": "Noau\u0113"
+    },
+    "NP": {
+        "name": "Nepali"
+    },
+    "NR": {
+        "name": "Naulu"
+    },
+    "NU": {
+        "name": "Niu\u0113"
+    },
+    "NZ": {
+        "name": "Nu\u02bbusila"
+    },
+    "OM": {
+        "name": "\u02bbOmani"
+    },
+    "PA": {
+        "name": "Panam\u0101"
+    },
+    "PE": {
+        "name": "Pel\u016b"
+    },
+    "PF": {
+        "name": "Polinisia fakafalanis\u0113"
+    },
+    "PG": {
+        "name": "Papuaniukini"
+    },
+    "PH": {
+        "name": "Filipaini"
+    },
+    "PK": {
+        "name": "P\u0101kisitani"
+    },
+    "PL": {
+        "name": "Polani"
+    },
+    "PM": {
+        "name": "S\u0101 Piea mo Mikeloni"
+    },
+    "PN": {
+        "name": "\u02bbOtumotu Pitikeni"
+    },
+    "PR": {
+        "name": "Pu\u0113to Liko"
+    },
+    "PS": {
+        "name": "Potu Palesitaine",
+        "short": "Palesitaine"
+    },
+    "PT": {
+        "name": "Potukali"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "Palakuai"
+    },
+    "QA": {
+        "name": "Kat\u0101"
+    },
+    "QO": {
+        "name": "\u02bbOs\u0113nia mama\u02bbo"
+    },
+    "RE": {
+        "name": "L\u0113unioni"
+    },
+    "RO": {
+        "name": "Lom\u0113nia"
+    },
+    "RS": {
+        "name": "S\u0113pia"
+    },
+    "RU": {
+        "name": "L\u016bsia"
+    },
+    "RW": {
+        "name": "Luanit\u0101"
+    },
+    "SA": {
+        "name": "Saute \u02bbAlepea"
+    },
+    "SB": {
+        "name": "\u02bbOtumotu Solomone"
+    },
+    "SC": {
+        "name": "\u02bbOtumotu Seiseli"
+    },
+    "SD": {
+        "name": "S\u016bteni"
+    },
+    "SE": {
+        "name": "Su\u0113teni"
+    },
+    "SG": {
+        "name": "Singapoa"
+    },
+    "SH": {
+        "name": "S\u0101 Helena"
+    },
+    "SI": {
+        "name": "Sil\u014dvenia"
+    },
+    "SJ": {
+        "name": "Sivolop\u0101ti mo Sani Maieni"
+    },
+    "SK": {
+        "name": "Sil\u014dvakia"
+    },
+    "SL": {
+        "name": "Siela Leone"
+    },
+    "SM": {
+        "name": "S\u0101 Malino"
+    },
+    "SN": {
+        "name": "Senekalo"
+    },
+    "SO": {
+        "name": "S\u014dmalia"
+    },
+    "SR": {
+        "name": "Suliname"
+    },
+    "SS": {
+        "name": "S\u016btani fakatonga"
+    },
+    "ST": {
+        "name": "Sao Tom\u0113 mo Pilinisipe"
+    },
+    "SV": {
+        "name": "\u02bbEle Salavatoa"
+    },
+    "SX": {
+        "name": "S\u0101 M\u0101tini (fakah\u014dlani)"
+    },
+    "SY": {
+        "name": "S\u012blia"
+    },
+    "SZ": {
+        "name": "\u02bbEsuatini",
+        "variant": "Suasilani"
+    },
+    "TA": {
+        "name": "Tulisitani ta Kunuha"
+    },
+    "TC": {
+        "name": "\u02bbOtumotu Tuki mo Kaikosi"
+    },
+    "TD": {
+        "name": "S\u0101ti"
+    },
+    "TF": {
+        "name": "Potu fonua tonga fakafalanis\u0113"
+    },
+    "TG": {
+        "name": "Toko"
+    },
+    "TH": {
+        "name": "Tailani"
+    },
+    "TJ": {
+        "name": "Tasikitani"
+    },
+    "TK": {
+        "name": "Tokelau"
+    },
+    "TL": {
+        "name": "Timoa fakahahake"
+    },
+    "TM": {
+        "name": "T\u016bkimenisitani"
+    },
+    "TN": {
+        "name": "Tun\u012bsia"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Toake"
+    },
+    "TT": {
+        "name": "Tilinitati mo Topako"
+    },
+    "TV": {
+        "name": "T\u016bvalu"
+    },
+    "TW": {
+        "name": "Taiuani"
+    },
+    "TZ": {
+        "name": "Tenis\u0101nia"
+    },
+    "UA": {
+        "name": "\u02bb\u016akala\u02bbine"
+    },
+    "UG": {
+        "name": "\u02bbIukanit\u0101"
+    },
+    "UM": {
+        "name": "\u02bbOtumotu si\u02bbi \u02bbo \u02bbAmelika"
+    },
+    "UN": {
+        "name": "\u02bb\u016a fonua fakatahataha"
+    },
+    "US": {
+        "name": "Pule\u02bbanga fakatahataha \u02bbAmelika",
+        "short": "\u02bbAmelika"
+    },
+    "UY": {
+        "name": "\u02bbUlukuai"
+    },
+    "UZ": {
+        "name": "\u02bbUsipekitani"
+    },
+    "VA": {
+        "name": "Kolo Vatikani"
+    },
+    "VC": {
+        "name": "S\u0101 Viniseni mo Kulenatini"
+    },
+    "VE": {
+        "name": "Venesuela"
+    },
+    "VG": {
+        "name": "\u02bbOtumotu Vilikini fakapilit\u0101nia"
+    },
+    "VI": {
+        "name": "\u02bbOtumotu Vilikini faka\u02bbamelika"
+    },
+    "VN": {
+        "name": "Vietinami"
+    },
+    "VU": {
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "name": "\u02bbUvea mo Futuna"
+    },
+    "WS": {
+        "name": "Ha\u02bbamoa"
+    },
+    "XA": {
+        "name": "fasi\u02bbalea loi"
+    },
+    "XB": {
+        "name": "fua-ua loi"
+    },
+    "XK": {
+        "name": "K\u014dsovo"
+    },
+    "YE": {
+        "name": "Iemeni"
+    },
+    "YT": {
+        "name": "Maiote"
+    },
+    "ZA": {
+        "name": "\u02bbAfilika tonga"
+    },
+    "ZM": {
+        "name": "Semipia"
+    },
+    "ZW": {
+        "name": "Simipapuei"
+    },
+    "ZZ": {
+        "name": "Potu fonua ta\u02bbe\u02bbiloa pe hala"
+    }
+}

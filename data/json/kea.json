@@ -1,0 +1,896 @@
+{
+    "001": {
+        "name": "Mundu"
+    },
+    "002": {
+        "name": "\u00c1frika"
+    },
+    "003": {
+        "name": "Merka di Norti"
+    },
+    "005": {
+        "name": "Merka di Sul"
+    },
+    "009": {
+        "name": "Oseania"
+    },
+    "011": {
+        "name": "\u00c1frika Osidental"
+    },
+    "013": {
+        "name": "Merka Sentral"
+    },
+    "014": {
+        "name": "\u00c1frika Oriental"
+    },
+    "015": {
+        "name": "Norti di \u00c1frika"
+    },
+    "017": {
+        "name": "\u00c1frika Sentral"
+    },
+    "018": {
+        "name": "Sul di \u00c1frika"
+    },
+    "019": {
+        "name": "Merkas"
+    },
+    "021": {
+        "name": "Norti di Merka"
+    },
+    "029": {
+        "name": "Karaibas"
+    },
+    "030": {
+        "name": "\u00c1zia Oriental"
+    },
+    "034": {
+        "name": "Sul di \u00c1zia"
+    },
+    "035": {
+        "name": "Sudesti Azi\u00e1tiku"
+    },
+    "039": {
+        "name": "Europa di Sul"
+    },
+    "053": {
+        "name": "Austral\u00e1zia"
+    },
+    "054": {
+        "name": "Melan\u00e9zia"
+    },
+    "057": {
+        "name": "Rejion di Mikron\u00e9zia"
+    },
+    "061": {
+        "name": "Polin\u00e9zia"
+    },
+    "142": {
+        "name": "\u00c1zia"
+    },
+    "143": {
+        "name": "\u00c1zia Sentral"
+    },
+    "145": {
+        "name": "\u00c1zia Osidental"
+    },
+    "150": {
+        "name": "Europa"
+    },
+    "151": {
+        "name": "Europa Oriental"
+    },
+    "154": {
+        "name": "Europa di Norti"
+    },
+    "155": {
+        "name": "Europa Osidental"
+    },
+    "202": {
+        "name": "\u00c1frika Subisariana"
+    },
+    "419": {
+        "name": "Merka Latinu"
+    },
+    "AC": {
+        "name": "Ilha di Asenson"
+    },
+    "AD": {
+        "name": "Andora"
+    },
+    "AE": {
+        "name": "Emiradus \u00c1rabi Unidu"
+    },
+    "AF": {
+        "name": "Afeganist\u00e3u"
+    },
+    "AG": {
+        "name": "Antigua i Barbuda"
+    },
+    "AI": {
+        "name": "Angila"
+    },
+    "AL": {
+        "name": "Alb\u00e1nia"
+    },
+    "AM": {
+        "name": "Arm\u00e9nia"
+    },
+    "AO": {
+        "name": "Angola"
+    },
+    "AQ": {
+        "name": "Ant\u00e1rtika"
+    },
+    "AR": {
+        "name": "Arjentina"
+    },
+    "AS": {
+        "name": "Samoa Merkanu"
+    },
+    "AT": {
+        "name": "\u00c1ustria"
+    },
+    "AU": {
+        "name": "Austr\u00e1lia"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Ilhas \u00c5land"
+    },
+    "AZ": {
+        "name": "Azerbaidjan"
+    },
+    "BA": {
+        "name": "B\u00f3snia i Erzegovina"
+    },
+    "BB": {
+        "name": "Barbadus"
+    },
+    "BD": {
+        "name": "Bangladexi"
+    },
+    "BE": {
+        "name": "B\u00e9ljika"
+    },
+    "BF": {
+        "name": "Burkina Fasu"
+    },
+    "BG": {
+        "name": "Bulg\u00e1ria"
+    },
+    "BH": {
+        "name": "Barain"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "Benin"
+    },
+    "BL": {
+        "name": "San Bartolomeu"
+    },
+    "BM": {
+        "name": "Bermudas"
+    },
+    "BN": {
+        "name": "Brunei"
+    },
+    "BO": {
+        "name": "Bol\u00edvia"
+    },
+    "BQ": {
+        "name": "Karaibas Olandezas"
+    },
+    "BR": {
+        "name": "Brazil"
+    },
+    "BS": {
+        "name": "Baamas"
+    },
+    "BT": {
+        "name": "Butan"
+    },
+    "BV": {
+        "name": "Ilha Buv\u00ea"
+    },
+    "BW": {
+        "name": "Botsuana"
+    },
+    "BY": {
+        "name": "Belarus"
+    },
+    "BZ": {
+        "name": "Belizi"
+    },
+    "CA": {
+        "name": "Kanad\u00e1"
+    },
+    "CC": {
+        "name": "Ilhas Kokus (Keeling)"
+    },
+    "CD": {
+        "name": "Kongu - Kinxasa",
+        "variant": "Rep\u00fablika Dimokr\u00e1tika di Kongu"
+    },
+    "CF": {
+        "name": "Republika Sentru-Afrikanu"
+    },
+    "CG": {
+        "name": "Kongu - Brazavili",
+        "variant": "Rep\u00fablika di Kongu"
+    },
+    "CH": {
+        "name": "Suisa"
+    },
+    "CI": {
+        "name": "Kosta di Marfin",
+        "variant": "Kosta di Marfin (C\u00f4te d\u2019Ivoire)"
+    },
+    "CK": {
+        "name": "Ilhas Kuk"
+    },
+    "CL": {
+        "name": "Xili"
+    },
+    "CM": {
+        "name": "Kamarons"
+    },
+    "CN": {
+        "name": "Xina"
+    },
+    "CO": {
+        "name": "Kol\u00f4mbia"
+    },
+    "CP": {
+        "name": "Ilha Kliperton"
+    },
+    "CR": {
+        "name": "Kosta Rika"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "Kabu Verdi"
+    },
+    "CW": {
+        "name": "Kurasau"
+    },
+    "CX": {
+        "name": "Ilha di Natal"
+    },
+    "CY": {
+        "name": "Xipri"
+    },
+    "CZ": {
+        "name": "Tx\u00e9kia",
+        "variant": "Rep\u00fablika Txeka"
+    },
+    "DE": {
+        "name": "Alimanha"
+    },
+    "DG": {
+        "name": "Diegu Garsia"
+    },
+    "DJ": {
+        "name": "Djibuti"
+    },
+    "DK": {
+        "name": "Dinamarka"
+    },
+    "DM": {
+        "name": "Dominika"
+    },
+    "DO": {
+        "name": "Rep\u00fablika Dominikana"
+    },
+    "DZ": {
+        "name": "Arj\u00e9lia"
+    },
+    "EA": {
+        "name": "Seuta i Melilha"
+    },
+    "EC": {
+        "name": "Ekuador"
+    },
+    "EE": {
+        "name": "St\u00f3nia"
+    },
+    "EG": {
+        "name": "Ejitu"
+    },
+    "EH": {
+        "name": "Sara Osidental"
+    },
+    "ER": {
+        "name": "Iritreia"
+    },
+    "ES": {
+        "name": "Spanha"
+    },
+    "ET": {
+        "name": "Eti\u00f3pia"
+    },
+    "EU": {
+        "name": "Union Europeia"
+    },
+    "EZ": {
+        "name": "Eurozona"
+    },
+    "FI": {
+        "name": "Finl\u00e1ndia"
+    },
+    "FJ": {
+        "name": "Fidji"
+    },
+    "FK": {
+        "name": "Ilhas Malvinas",
+        "variant": "Ilhas Falkland (Ilhas Malvinas)"
+    },
+    "FM": {
+        "name": "Mikron\u00e9zia"
+    },
+    "FO": {
+        "name": "Ilhas Faroe"
+    },
+    "FR": {
+        "name": "Fransa"
+    },
+    "GA": {
+        "name": "Gabon"
+    },
+    "GB": {
+        "name": "Reinu Unidu",
+        "short": "R.U."
+    },
+    "GD": {
+        "name": "Granada"
+    },
+    "GE": {
+        "name": "Ji\u00f3rjia"
+    },
+    "GF": {
+        "name": "Giana Franseza"
+    },
+    "GG": {
+        "name": "Gernzi"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "Jibraltar"
+    },
+    "GL": {
+        "name": "Gronel\u00e1ndia"
+    },
+    "GM": {
+        "name": "G\u00e1mbia"
+    },
+    "GN": {
+        "name": "Gine"
+    },
+    "GP": {
+        "name": "Guadalupi"
+    },
+    "GQ": {
+        "name": "Gine Ekuatorial"
+    },
+    "GR": {
+        "name": "Gr\u00e9sia"
+    },
+    "GS": {
+        "name": "Ilhas Je\u00f3rjia di Sul i Sanduixi di Sul"
+    },
+    "GT": {
+        "name": "Guatimala"
+    },
+    "GU": {
+        "name": "Guam"
+    },
+    "GW": {
+        "name": "Gine-Bisau"
+    },
+    "GY": {
+        "name": "Giana"
+    },
+    "HK": {
+        "name": "Hong Kong, Rejion Administrativu Spesial di Xina",
+        "short": "Hong Kong"
+    },
+    "HM": {
+        "name": "Ilhas Heard i McDonald"
+    },
+    "HN": {
+        "name": "Onduras"
+    },
+    "HR": {
+        "name": "Kro\u00e1sia"
+    },
+    "HT": {
+        "name": "Ait\u00ed"
+    },
+    "HU": {
+        "name": "Ungria"
+    },
+    "IC": {
+        "name": "Kan\u00e1rias"
+    },
+    "ID": {
+        "name": "Indon\u00e9zia"
+    },
+    "IE": {
+        "name": "Irlanda"
+    },
+    "IL": {
+        "name": "Israel"
+    },
+    "IM": {
+        "name": "Ilha di Man"
+    },
+    "IN": {
+        "name": "\u00cdndia"
+    },
+    "IO": {
+        "name": "Ilhas Brit\u00e1nikas di \u00cdndiku"
+    },
+    "IQ": {
+        "name": "Iraki"
+    },
+    "IR": {
+        "name": "Ir\u00e3u"
+    },
+    "IS": {
+        "name": "Isl\u00e1ndia"
+    },
+    "IT": {
+        "name": "It\u00e1lia"
+    },
+    "JE": {
+        "name": "Jersi"
+    },
+    "JM": {
+        "name": "Jamaika"
+    },
+    "JO": {
+        "name": "Jord\u00e1nia"
+    },
+    "JP": {
+        "name": "Japon"
+    },
+    "KE": {
+        "name": "K\u00e9nia"
+    },
+    "KG": {
+        "name": "Kirgistan"
+    },
+    "KH": {
+        "name": "Kambodja"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Kamoris"
+    },
+    "KN": {
+        "name": "San Kristovan i Nevis"
+    },
+    "KP": {
+        "name": "Koreia di Norti"
+    },
+    "KR": {
+        "name": "Koreia di Sul"
+    },
+    "KW": {
+        "name": "Kueiti"
+    },
+    "KY": {
+        "name": "Ilhas Kaimon"
+    },
+    "KZ": {
+        "name": "Kazakistan"
+    },
+    "LA": {
+        "name": "Laus"
+    },
+    "LB": {
+        "name": "L\u00edbanu"
+    },
+    "LC": {
+        "name": "Santa L\u00fasia"
+    },
+    "LI": {
+        "name": "Lixenstain"
+    },
+    "LK": {
+        "name": "Sri Lanka"
+    },
+    "LR": {
+        "name": "Lib\u00e9ria"
+    },
+    "LS": {
+        "name": "Lezotu"
+    },
+    "LT": {
+        "name": "Litu\u00e1nia"
+    },
+    "LU": {
+        "name": "Luxemburgu"
+    },
+    "LV": {
+        "name": "Let\u00f3nia"
+    },
+    "LY": {
+        "name": "L\u00edbia"
+    },
+    "MA": {
+        "name": "Marokus"
+    },
+    "MC": {
+        "name": "M\u00f3naku"
+    },
+    "MD": {
+        "name": "Mold\u00e1via"
+    },
+    "ME": {
+        "name": "Montenegru"
+    },
+    "MF": {
+        "name": "San Martinhu (Fransa)"
+    },
+    "MG": {
+        "name": "Madagaskar"
+    },
+    "MH": {
+        "name": "Ilhas Marxal"
+    },
+    "MK": {
+        "name": "Masid\u00f3nia di Norti"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Mianmar (Birm\u00e1nia)"
+    },
+    "MN": {
+        "name": "Mong\u00f3lia"
+    },
+    "MO": {
+        "name": "Makau, Rejion Administrativu Spesial di Xina",
+        "short": "Makau"
+    },
+    "MP": {
+        "name": "Ilhas Marianas di Norti"
+    },
+    "MQ": {
+        "name": "Martinika"
+    },
+    "MR": {
+        "name": "Maurit\u00e1nia"
+    },
+    "MS": {
+        "name": "Monserat"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Maur\u00edsia"
+    },
+    "MV": {
+        "name": "Maldivas"
+    },
+    "MW": {
+        "name": "Malaui"
+    },
+    "MX": {
+        "name": "M\u00e9xiku"
+    },
+    "MY": {
+        "name": "Mal\u00e1zia"
+    },
+    "MZ": {
+        "name": "Musambiki"
+    },
+    "NA": {
+        "name": "Nam\u00edbia"
+    },
+    "NC": {
+        "name": "Nova Kalid\u00f3nia"
+    },
+    "NE": {
+        "name": "Nijer"
+    },
+    "NF": {
+        "name": "Ilhas Norfolk"
+    },
+    "NG": {
+        "name": "Nij\u00e9ria"
+    },
+    "NI": {
+        "name": "Nikar\u00e1gua"
+    },
+    "NL": {
+        "name": "Olanda"
+    },
+    "NO": {
+        "name": "Noruega"
+    },
+    "NP": {
+        "name": "Nepal"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "Nova Zil\u00e1ndia"
+    },
+    "OM": {
+        "name": "Oman"
+    },
+    "PA": {
+        "name": "Panam\u00e1"
+    },
+    "PE": {
+        "name": "Peru"
+    },
+    "PF": {
+        "name": "Polin\u00e9zia Franseza"
+    },
+    "PG": {
+        "name": "Papua-Nova Gine"
+    },
+    "PH": {
+        "name": "Filipinas"
+    },
+    "PK": {
+        "name": "Pakistan"
+    },
+    "PL": {
+        "name": "Pul\u00f3nia"
+    },
+    "PM": {
+        "name": "San Piere i Mikelon"
+    },
+    "PN": {
+        "name": "Ilhas Pitkairn"
+    },
+    "PR": {
+        "name": "Portu Riku"
+    },
+    "PS": {
+        "name": "Tirit\u00f3riu palistinianu",
+        "short": "Palistina"
+    },
+    "PT": {
+        "name": "Purtugal"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "Paraguai"
+    },
+    "QA": {
+        "name": "Katar"
+    },
+    "QO": {
+        "name": "Ilhas di Oseania"
+    },
+    "RE": {
+        "name": "Runion"
+    },
+    "RO": {
+        "name": "Rum\u00e9nia"
+    },
+    "RS": {
+        "name": "S\u00e9rvia"
+    },
+    "RU": {
+        "name": "R\u00fasia"
+    },
+    "RW": {
+        "name": "Ruanda"
+    },
+    "SA": {
+        "name": "Ar\u00e1bia Saudita"
+    },
+    "SB": {
+        "name": "Ilhas Salum\u00e3u"
+    },
+    "SC": {
+        "name": "Seixelis"
+    },
+    "SD": {
+        "name": "Sudon"
+    },
+    "SE": {
+        "name": "Su\u00e9sia"
+    },
+    "SG": {
+        "name": "Singapura"
+    },
+    "SH": {
+        "name": "Santa Ilena"
+    },
+    "SI": {
+        "name": "Slov\u00e9nia"
+    },
+    "SJ": {
+        "name": "Svalbard i Jan Maien"
+    },
+    "SK": {
+        "name": "Slov\u00e1kia"
+    },
+    "SL": {
+        "name": "Sera Lioa"
+    },
+    "SM": {
+        "name": "San Marinu"
+    },
+    "SN": {
+        "name": "Senegal"
+    },
+    "SO": {
+        "name": "Sum\u00e1lia"
+    },
+    "SR": {
+        "name": "Surinami"
+    },
+    "SS": {
+        "name": "Sudon di Sul"
+    },
+    "ST": {
+        "name": "San Tume i Pr\u00ednsipi"
+    },
+    "SV": {
+        "name": "El Salvador"
+    },
+    "SX": {
+        "name": "San Martinhu (Olanda)"
+    },
+    "SY": {
+        "name": "S\u00edria"
+    },
+    "SZ": {
+        "name": "Eswatini",
+        "variant": "Suazil\u00e1ndia"
+    },
+    "TA": {
+        "name": "Tristan da Kunha"
+    },
+    "TC": {
+        "name": "Ilhas Turkas i Kaikus"
+    },
+    "TD": {
+        "name": "Txadi"
+    },
+    "TF": {
+        "name": "Terras Franses di Sul"
+    },
+    "TG": {
+        "name": "Togu"
+    },
+    "TH": {
+        "name": "Tail\u00e1ndia"
+    },
+    "TJ": {
+        "name": "Tadjikistan"
+    },
+    "TK": {
+        "name": "Tokelau"
+    },
+    "TL": {
+        "name": "Timor Lesti",
+        "variant": "Timor-Leste"
+    },
+    "TM": {
+        "name": "Turkumenistan"
+    },
+    "TN": {
+        "name": "Tun\u00edzia"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Turkia"
+    },
+    "TT": {
+        "name": "Trinidad i Tobagu"
+    },
+    "TV": {
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "name": "Taiuan"
+    },
+    "TZ": {
+        "name": "Tanz\u00e1nia"
+    },
+    "UA": {
+        "name": "Ukr\u00e1nia"
+    },
+    "UG": {
+        "name": "Uganda"
+    },
+    "UM": {
+        "name": "Ilhas Minoris Distantis de Stadus Unidus"
+    },
+    "UN": {
+        "name": "Nasons Unidas"
+    },
+    "US": {
+        "name": "Stadus Unidos di Merka",
+        "short": "S.U."
+    },
+    "UY": {
+        "name": "Uruguai"
+    },
+    "UZ": {
+        "name": "Uzbekistan"
+    },
+    "VA": {
+        "name": "Vatikanu"
+    },
+    "VC": {
+        "name": "San Bisenti i Granadinas"
+    },
+    "VE": {
+        "name": "Vinizuela"
+    },
+    "VG": {
+        "name": "Ilhas Virjens Brit\u00e1nikas"
+    },
+    "VI": {
+        "name": "Ilhas Virjens Merkanas"
+    },
+    "VN": {
+        "name": "Vietnam"
+    },
+    "VU": {
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "name": "Ualis i Futuna"
+    },
+    "WS": {
+        "name": "Samoa"
+    },
+    "XA": {
+        "name": "Pseudo-sotakis"
+    },
+    "XB": {
+        "name": "Pseudo-bidiresional"
+    },
+    "XK": {
+        "name": "Kozovu"
+    },
+    "YE": {
+        "name": "I\u00e9men"
+    },
+    "YT": {
+        "name": "Maiote"
+    },
+    "ZA": {
+        "name": "\u00c1frika di Sul"
+    },
+    "ZM": {
+        "name": "Z\u00e1mbia"
+    },
+    "ZW": {
+        "name": "Zimb\u00e1bui"
+    },
+    "ZZ": {
+        "name": "Rejion Diskonxedu"
+    }
+}

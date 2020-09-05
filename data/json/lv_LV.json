@@ -1,0 +1,894 @@
+{
+    "001": {
+        "name": "pasaule"
+    },
+    "002": {
+        "name": "\u0100frika"
+    },
+    "003": {
+        "name": "Zieme\u013camerika"
+    },
+    "005": {
+        "name": "Dienvidamerika"
+    },
+    "009": {
+        "name": "Oke\u0101nija"
+    },
+    "011": {
+        "name": "Rietum\u0101frika"
+    },
+    "013": {
+        "name": "Centr\u0101lamerika"
+    },
+    "014": {
+        "name": "Austrum\u0101frika"
+    },
+    "015": {
+        "name": "Zieme\u013c\u0101frika"
+    },
+    "017": {
+        "name": "Vidus\u0101frika"
+    },
+    "018": {
+        "name": "Dienvid\u0101frika"
+    },
+    "019": {
+        "name": "Amerika"
+    },
+    "021": {
+        "name": "Amerikas zieme\u013cu da\u013ca"
+    },
+    "029": {
+        "name": "Kar\u012bbu j\u016bras re\u0123ions"
+    },
+    "030": {
+        "name": "Austrum\u0101zija"
+    },
+    "034": {
+        "name": "Dienvid\u0101zija"
+    },
+    "035": {
+        "name": "Centr\u0101laustrum\u0101zija"
+    },
+    "039": {
+        "name": "Dienvideiropa"
+    },
+    "053": {
+        "name": "Austr\u0101l\u0101zija"
+    },
+    "054": {
+        "name": "Melan\u0113zija"
+    },
+    "057": {
+        "name": "Mikron\u0113zijas re\u0123ions"
+    },
+    "061": {
+        "name": "Polin\u0113zija"
+    },
+    "142": {
+        "name": "\u0100zija"
+    },
+    "143": {
+        "name": "Centr\u0101l\u0101zija"
+    },
+    "145": {
+        "name": "Rietum\u0101zija"
+    },
+    "150": {
+        "name": "Eiropa"
+    },
+    "151": {
+        "name": "Austrumeiropa"
+    },
+    "154": {
+        "name": "Zieme\u013ceiropa"
+    },
+    "155": {
+        "name": "Rietumeiropa"
+    },
+    "202": {
+        "name": "Subsah\u0101ras \u0100frika"
+    },
+    "419": {
+        "name": "Lat\u012b\u0146amerika"
+    },
+    "AC": {
+        "name": "Debesbrauk\u0161anas sala"
+    },
+    "AD": {
+        "name": "Andora"
+    },
+    "AE": {
+        "name": "Apvienotie Ar\u0101bu Emir\u0101ti"
+    },
+    "AF": {
+        "name": "Afganist\u0101na"
+    },
+    "AG": {
+        "name": "Antigva un Barbuda"
+    },
+    "AI": {
+        "name": "Angilja"
+    },
+    "AL": {
+        "name": "Alb\u0101nija"
+    },
+    "AM": {
+        "name": "Arm\u0113nija"
+    },
+    "AO": {
+        "name": "Angola"
+    },
+    "AQ": {
+        "name": "Antarktika"
+    },
+    "AR": {
+        "name": "Argent\u012bna"
+    },
+    "AS": {
+        "name": "ASV Samoa"
+    },
+    "AT": {
+        "name": "Austrija"
+    },
+    "AU": {
+        "name": "Austr\u0101lija"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Olandes salas"
+    },
+    "AZ": {
+        "name": "Azerbaid\u017e\u0101na"
+    },
+    "BA": {
+        "name": "Bosnija un Hercegovina"
+    },
+    "BB": {
+        "name": "Barbadosa"
+    },
+    "BD": {
+        "name": "Banglade\u0161a"
+    },
+    "BE": {
+        "name": "Be\u013c\u0123ija"
+    },
+    "BF": {
+        "name": "Burkinafaso"
+    },
+    "BG": {
+        "name": "Bulg\u0101rija"
+    },
+    "BH": {
+        "name": "Bahreina"
+    },
+    "BI": {
+        "name": "Burundija"
+    },
+    "BJ": {
+        "name": "Benina"
+    },
+    "BL": {
+        "name": "Senbartelm\u012b"
+    },
+    "BM": {
+        "name": "Bermudu salas"
+    },
+    "BN": {
+        "name": "Bruneja"
+    },
+    "BO": {
+        "name": "Bol\u012bvija"
+    },
+    "BQ": {
+        "name": "N\u012bderlandes Kar\u012bbu salas"
+    },
+    "BR": {
+        "name": "Braz\u012blija"
+    },
+    "BS": {
+        "name": "Bahamu salas"
+    },
+    "BT": {
+        "name": "But\u0101na"
+    },
+    "BV": {
+        "name": "Buv\u0113 sala"
+    },
+    "BW": {
+        "name": "Botsv\u0101na"
+    },
+    "BY": {
+        "name": "Baltkrievija"
+    },
+    "BZ": {
+        "name": "Beliza"
+    },
+    "CA": {
+        "name": "Kan\u0101da"
+    },
+    "CC": {
+        "name": "Kokosu (K\u012blinga) salas"
+    },
+    "CD": {
+        "name": "Kongo (Kin\u0161asa)",
+        "variant": "Kongo Demokr\u0101tisk\u0101 Republika"
+    },
+    "CF": {
+        "name": "Centr\u0101l\u0101frikas Republika"
+    },
+    "CG": {
+        "name": "Kongo (Brazavila)",
+        "variant": "Kongo (Republika)"
+    },
+    "CH": {
+        "name": "\u0160veice"
+    },
+    "CI": {
+        "name": "Kotdivu\u0101ra",
+        "variant": "Zilo\u0146kaula krasts"
+    },
+    "CK": {
+        "name": "Kuka salas"
+    },
+    "CL": {
+        "name": "\u010c\u012ble"
+    },
+    "CM": {
+        "name": "Kamer\u016bna"
+    },
+    "CN": {
+        "name": "\u0136\u012bna"
+    },
+    "CO": {
+        "name": "Kolumbija"
+    },
+    "CP": {
+        "name": "Klipertona sala"
+    },
+    "CR": {
+        "name": "Kostarika"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "Kaboverde"
+    },
+    "CW": {
+        "name": "Kirasao"
+    },
+    "CX": {
+        "name": "Ziemsv\u0113tku sala"
+    },
+    "CY": {
+        "name": "Kipra"
+    },
+    "CZ": {
+        "name": "\u010cehija",
+        "variant": "\u010cehijas Republika"
+    },
+    "DE": {
+        "name": "V\u0101cija"
+    },
+    "DG": {
+        "name": "Djego Garsijas atols"
+    },
+    "DJ": {
+        "name": "D\u017eibutija"
+    },
+    "DK": {
+        "name": "D\u0101nija"
+    },
+    "DM": {
+        "name": "Dominika"
+    },
+    "DO": {
+        "name": "Dominik\u0101na"
+    },
+    "DZ": {
+        "name": "Al\u017e\u012brija"
+    },
+    "EA": {
+        "name": "Se\u016bta un Melilja"
+    },
+    "EC": {
+        "name": "Ekvadora"
+    },
+    "EE": {
+        "name": "Igaunija"
+    },
+    "EG": {
+        "name": "\u0112\u0123ipte"
+    },
+    "EH": {
+        "name": "Rietumsah\u0101ra"
+    },
+    "ER": {
+        "name": "Eritreja"
+    },
+    "ES": {
+        "name": "Sp\u0101nija"
+    },
+    "ET": {
+        "name": "Etiopija"
+    },
+    "EU": {
+        "name": "Eiropas Savien\u012bba"
+    },
+    "EZ": {
+        "name": "Eirozona"
+    },
+    "FI": {
+        "name": "Somija"
+    },
+    "FJ": {
+        "name": "Fid\u017ei"
+    },
+    "FK": {
+        "name": "Folklenda salas",
+        "variant": "Folklenda (Malvinu) salas"
+    },
+    "FM": {
+        "name": "Mikron\u0113zija"
+    },
+    "FO": {
+        "name": "F\u0113ru salas"
+    },
+    "FR": {
+        "name": "Francija"
+    },
+    "GA": {
+        "name": "Gabona"
+    },
+    "GB": {
+        "name": "Apvienot\u0101 Karaliste"
+    },
+    "GD": {
+        "name": "Gren\u0101da"
+    },
+    "GE": {
+        "name": "Gruzija"
+    },
+    "GF": {
+        "name": "Francijas Gvi\u0101na"
+    },
+    "GG": {
+        "name": "G\u0113rnsija"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "Gibralt\u0101rs"
+    },
+    "GL": {
+        "name": "Grenlande"
+    },
+    "GM": {
+        "name": "Gambija"
+    },
+    "GN": {
+        "name": "Gvineja"
+    },
+    "GP": {
+        "name": "Gvadelupa"
+    },
+    "GQ": {
+        "name": "Ekvatori\u0101l\u0101 Gvineja"
+    },
+    "GR": {
+        "name": "Grie\u0137ija"
+    },
+    "GS": {
+        "name": "Dienvidd\u017eord\u017eija un Dienvidsendvi\u010du salas"
+    },
+    "GT": {
+        "name": "Gvatemala"
+    },
+    "GU": {
+        "name": "Guama"
+    },
+    "GW": {
+        "name": "Gvineja-Bisava"
+    },
+    "GY": {
+        "name": "Gaj\u0101na"
+    },
+    "HK": {
+        "name": "\u0136\u012bnas \u012bpa\u0161\u0101s p\u0101rvaldes apgabals Honkonga",
+        "short": "Honkonga"
+    },
+    "HM": {
+        "name": "H\u0113rda sala un Makdonalda salas"
+    },
+    "HN": {
+        "name": "Hondurasa"
+    },
+    "HR": {
+        "name": "Horv\u0101tija"
+    },
+    "HT": {
+        "name": "Haiti"
+    },
+    "HU": {
+        "name": "Ung\u0101rija"
+    },
+    "IC": {
+        "name": "Kan\u0101riju salas"
+    },
+    "ID": {
+        "name": "Indon\u0113zija"
+    },
+    "IE": {
+        "name": "\u012arija"
+    },
+    "IL": {
+        "name": "Izra\u0113la"
+    },
+    "IM": {
+        "name": "Mena"
+    },
+    "IN": {
+        "name": "Indija"
+    },
+    "IO": {
+        "name": "Indijas oke\u0101na Britu teritorija"
+    },
+    "IQ": {
+        "name": "Ir\u0101ka"
+    },
+    "IR": {
+        "name": "Ir\u0101na"
+    },
+    "IS": {
+        "name": "Islande"
+    },
+    "IT": {
+        "name": "It\u0101lija"
+    },
+    "JE": {
+        "name": "D\u017e\u0113rsija"
+    },
+    "JM": {
+        "name": "Jamaika"
+    },
+    "JO": {
+        "name": "Jord\u0101nija"
+    },
+    "JP": {
+        "name": "Jap\u0101na"
+    },
+    "KE": {
+        "name": "Kenija"
+    },
+    "KG": {
+        "name": "Kirgizst\u0101na"
+    },
+    "KH": {
+        "name": "Kambod\u017ea"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Komoru salas"
+    },
+    "KN": {
+        "name": "Sentkitsa un Nevisa"
+    },
+    "KP": {
+        "name": "Zieme\u013ckoreja"
+    },
+    "KR": {
+        "name": "Dienvidkoreja"
+    },
+    "KW": {
+        "name": "Kuveita"
+    },
+    "KY": {
+        "name": "Kaimanu salas"
+    },
+    "KZ": {
+        "name": "Kazahst\u0101na"
+    },
+    "LA": {
+        "name": "Laosa"
+    },
+    "LB": {
+        "name": "Lib\u0101na"
+    },
+    "LC": {
+        "name": "Sentl\u016bsija"
+    },
+    "LI": {
+        "name": "Lihten\u0161teina"
+    },
+    "LK": {
+        "name": "\u0160rilanka"
+    },
+    "LR": {
+        "name": "Lib\u0113rija"
+    },
+    "LS": {
+        "name": "Lesoto"
+    },
+    "LT": {
+        "name": "Lietuva"
+    },
+    "LU": {
+        "name": "Luksemburga"
+    },
+    "LV": {
+        "name": "Latvija"
+    },
+    "LY": {
+        "name": "L\u012bbija"
+    },
+    "MA": {
+        "name": "Maroka"
+    },
+    "MC": {
+        "name": "Monako"
+    },
+    "MD": {
+        "name": "Moldova"
+    },
+    "ME": {
+        "name": "Melnkalne"
+    },
+    "MF": {
+        "name": "Senmart\u0113na"
+    },
+    "MG": {
+        "name": "Madagaskara"
+    },
+    "MH": {
+        "name": "M\u0101r\u0161ala salas"
+    },
+    "MK": {
+        "name": "Zieme\u013cma\u0137edonija"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Mjanma (Birma)"
+    },
+    "MN": {
+        "name": "Mongolija"
+    },
+    "MO": {
+        "name": "\u0136TR \u012bpa\u0161ais administrat\u012bvais re\u0123ions Makao",
+        "short": "Makao"
+    },
+    "MP": {
+        "name": "Zieme\u013cu Marianas salas"
+    },
+    "MQ": {
+        "name": "Martinika"
+    },
+    "MR": {
+        "name": "Maurit\u0101nija"
+    },
+    "MS": {
+        "name": "Montserrata"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Maur\u012bcija"
+    },
+    "MV": {
+        "name": "Mald\u012bvija"
+    },
+    "MW": {
+        "name": "Mal\u0101vija"
+    },
+    "MX": {
+        "name": "Meksika"
+    },
+    "MY": {
+        "name": "Malaizija"
+    },
+    "MZ": {
+        "name": "Mozambika"
+    },
+    "NA": {
+        "name": "Nam\u012bbija"
+    },
+    "NC": {
+        "name": "Jaunkaledonija"
+    },
+    "NE": {
+        "name": "Nig\u0113ra"
+    },
+    "NF": {
+        "name": "Norfolkas sala"
+    },
+    "NG": {
+        "name": "Nig\u0113rija"
+    },
+    "NI": {
+        "name": "Nikaragva"
+    },
+    "NL": {
+        "name": "N\u012bderlande"
+    },
+    "NO": {
+        "name": "Norv\u0113\u0123ija"
+    },
+    "NP": {
+        "name": "Nep\u0101la"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "Jaunz\u0113lande"
+    },
+    "OM": {
+        "name": "Om\u0101na"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Peru"
+    },
+    "PF": {
+        "name": "Francijas Polin\u0113zija"
+    },
+    "PG": {
+        "name": "Papua-Jaungvineja"
+    },
+    "PH": {
+        "name": "Filip\u012bnas"
+    },
+    "PK": {
+        "name": "Pakist\u0101na"
+    },
+    "PL": {
+        "name": "Polija"
+    },
+    "PM": {
+        "name": "Senpj\u0113ra un Mikelona"
+    },
+    "PN": {
+        "name": "Pitk\u0113rnas salas"
+    },
+    "PR": {
+        "name": "Puertoriko"
+    },
+    "PS": {
+        "name": "Palest\u012bna"
+    },
+    "PT": {
+        "name": "Portug\u0101le"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "Paragvaja"
+    },
+    "QA": {
+        "name": "Katara"
+    },
+    "QO": {
+        "name": "Oke\u0101nijas att\u0101l\u0101s salas"
+    },
+    "RE": {
+        "name": "Reinjona"
+    },
+    "RO": {
+        "name": "Rum\u0101nija"
+    },
+    "RS": {
+        "name": "Serbija"
+    },
+    "RU": {
+        "name": "Krievija"
+    },
+    "RW": {
+        "name": "Ruanda"
+    },
+    "SA": {
+        "name": "Sa\u016bda Ar\u0101bija"
+    },
+    "SB": {
+        "name": "Z\u0101lamana salas"
+    },
+    "SC": {
+        "name": "Sei\u0161elu salas"
+    },
+    "SD": {
+        "name": "Sud\u0101na"
+    },
+    "SE": {
+        "name": "Zviedrija"
+    },
+    "SG": {
+        "name": "Singap\u016bra"
+    },
+    "SH": {
+        "name": "Sv.Hel\u0113nas sala"
+    },
+    "SI": {
+        "name": "Slov\u0113nija"
+    },
+    "SJ": {
+        "name": "Svalb\u0101ra un Jana Majena sala"
+    },
+    "SK": {
+        "name": "Slov\u0101kija"
+    },
+    "SL": {
+        "name": "Sjerraleone"
+    },
+    "SM": {
+        "name": "Sanmar\u012bno"
+    },
+    "SN": {
+        "name": "Seneg\u0101la"
+    },
+    "SO": {
+        "name": "Som\u0101lija"
+    },
+    "SR": {
+        "name": "Surinama"
+    },
+    "SS": {
+        "name": "Dienvidsud\u0101na"
+    },
+    "ST": {
+        "name": "Santome un Prinsipi"
+    },
+    "SV": {
+        "name": "Salvadora"
+    },
+    "SX": {
+        "name": "Sintm\u0101rtena"
+    },
+    "SY": {
+        "name": "S\u012brija"
+    },
+    "SZ": {
+        "name": "Svatini",
+        "variant": "Svazilenda"
+    },
+    "TA": {
+        "name": "Tristana da Ku\u0146as salas"
+    },
+    "TC": {
+        "name": "T\u0113rksas un Kaikosas salas"
+    },
+    "TD": {
+        "name": "\u010cada"
+    },
+    "TF": {
+        "name": "Francijas Dienvidj\u016bru teritorija"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "Taizeme"
+    },
+    "TJ": {
+        "name": "Tad\u017eikist\u0101na"
+    },
+    "TK": {
+        "name": "Tokelau"
+    },
+    "TL": {
+        "name": "Austrumtimora"
+    },
+    "TM": {
+        "name": "Turkmenist\u0101na"
+    },
+    "TN": {
+        "name": "Tunisija"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Turcija"
+    },
+    "TT": {
+        "name": "Trinid\u0101da un Tob\u0101go"
+    },
+    "TV": {
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "name": "Taiv\u0101na"
+    },
+    "TZ": {
+        "name": "Tanz\u0101nija"
+    },
+    "UA": {
+        "name": "Ukraina"
+    },
+    "UG": {
+        "name": "Uganda"
+    },
+    "UM": {
+        "name": "ASV Maz\u0101s Aizj\u016bras salas"
+    },
+    "UN": {
+        "name": "Apvienoto N\u0101ciju Organiz\u0101cija",
+        "short": "ANO"
+    },
+    "US": {
+        "name": "Amerikas Savienot\u0101s Valstis",
+        "short": "ASV"
+    },
+    "UY": {
+        "name": "Urugvaja"
+    },
+    "UZ": {
+        "name": "Uzbekist\u0101na"
+    },
+    "VA": {
+        "name": "Vatik\u0101ns"
+    },
+    "VC": {
+        "name": "Sentvinsenta un Grenad\u012bnas"
+    },
+    "VE": {
+        "name": "Venecu\u0113la"
+    },
+    "VG": {
+        "name": "Britu Vird\u017e\u012bnas"
+    },
+    "VI": {
+        "name": "ASV Vird\u017e\u012bnas"
+    },
+    "VN": {
+        "name": "Vjetnama"
+    },
+    "VU": {
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "name": "Volisa un Futunas salas"
+    },
+    "WS": {
+        "name": "Samoa"
+    },
+    "XA": {
+        "name": "pseidoakcenti"
+    },
+    "XB": {
+        "name": "pseidodivvirzienu"
+    },
+    "XK": {
+        "name": "Kosova"
+    },
+    "YE": {
+        "name": "Jemena"
+    },
+    "YT": {
+        "name": "Majota"
+    },
+    "ZA": {
+        "name": "Dienvid\u0101frikas Republika"
+    },
+    "ZM": {
+        "name": "Zambija"
+    },
+    "ZW": {
+        "name": "Zimbabve"
+    },
+    "ZZ": {
+        "name": "nezin\u0101ms re\u0123ions"
+    }
+}

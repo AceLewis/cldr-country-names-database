@@ -1,0 +1,743 @@
+{
+    "AD": {
+        "name": "Andoor"
+    },
+    "AE": {
+        "name": "Emira Arab Ini"
+    },
+    "AF": {
+        "name": "Afganista\u014b"
+    },
+    "AG": {
+        "name": "Antiguwa ak Barbuda"
+    },
+    "AI": {
+        "name": "Angiiy"
+    },
+    "AL": {
+        "name": "Albani"
+    },
+    "AM": {
+        "name": "Armeni"
+    },
+    "AO": {
+        "name": "\u00c0ngolaa"
+    },
+    "AQ": {
+        "name": "Antarktik"
+    },
+    "AR": {
+        "name": "Ars\u00e0ntin"
+    },
+    "AS": {
+        "name": "Samowa bu Amerig"
+    },
+    "AT": {
+        "name": "\u00d3tiriis"
+    },
+    "AU": {
+        "name": "Ostarali"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Duni Aal\u00e0nd"
+    },
+    "AZ": {
+        "name": "Aserbayja\u014b"
+    },
+    "BA": {
+        "name": "Bosni Ersegowin"
+    },
+    "BB": {
+        "name": "Barbad"
+    },
+    "BD": {
+        "name": "Bengalades"
+    },
+    "BE": {
+        "name": "Belsig"
+    },
+    "BF": {
+        "name": "Burkina Faaso"
+    },
+    "BG": {
+        "name": "Bilgari"
+    },
+    "BH": {
+        "name": "Bahreyin"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "Benee"
+    },
+    "BL": {
+        "name": "Sa\u014b Bartalemi"
+    },
+    "BM": {
+        "name": "Bermid"
+    },
+    "BN": {
+        "name": "Burney"
+    },
+    "BO": {
+        "name": "Boliwi"
+    },
+    "BR": {
+        "name": "Beresil"
+    },
+    "BS": {
+        "name": "Bahamas"
+    },
+    "BT": {
+        "name": "Buta\u014b"
+    },
+    "BV": {
+        "name": "Dunu Buwet"
+    },
+    "BW": {
+        "name": "Botswana"
+    },
+    "BY": {
+        "name": "Belaris"
+    },
+    "BZ": {
+        "name": "Belis"
+    },
+    "CA": {
+        "name": "Kanadaa"
+    },
+    "CC": {
+        "name": "Duni Koko (Kilin)"
+    },
+    "CD": {
+        "variant": "Kongo (R K D)"
+    },
+    "CF": {
+        "name": "Repiblik S\u00e0ntar Afrik"
+    },
+    "CG": {
+        "variant": "R\u00e9ewum Kongo"
+    },
+    "CH": {
+        "name": "Siwis"
+    },
+    "CI": {
+        "name": "Kodiwaar"
+    },
+    "CK": {
+        "name": "Duni Kuuk"
+    },
+    "CL": {
+        "name": "Sili"
+    },
+    "CM": {
+        "name": "Kamerun"
+    },
+    "CN": {
+        "name": "Siin"
+    },
+    "CO": {
+        "name": "Kolombi"
+    },
+    "CR": {
+        "name": "Kosta Rika"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "Kabo Werde"
+    },
+    "CW": {
+        "name": "Kursawo"
+    },
+    "CX": {
+        "name": "Dunu Kirismas"
+    },
+    "CY": {
+        "name": "Siipar"
+    },
+    "CZ": {
+        "name": "R\u00e9ewum Cek"
+    },
+    "DE": {
+        "name": "Almaa\u00f1"
+    },
+    "DJ": {
+        "name": "Jibuti"
+    },
+    "DK": {
+        "name": "Danm\u00e0rk"
+    },
+    "DM": {
+        "name": "Dominik"
+    },
+    "DO": {
+        "name": "Repiblik Dominiken"
+    },
+    "DZ": {
+        "name": "Alseri"
+    },
+    "EC": {
+        "name": "Ekwaat\u00ebr"
+    },
+    "EE": {
+        "name": "Estoni"
+    },
+    "EG": {
+        "name": "Esipt"
+    },
+    "ER": {
+        "name": "Eritere"
+    },
+    "ES": {
+        "name": "Espa\u00f1"
+    },
+    "ET": {
+        "name": "Ecopi"
+    },
+    "FI": {
+        "name": "Finl\u00e0nd"
+    },
+    "FJ": {
+        "name": "Fijji"
+    },
+    "FK": {
+        "name": "Duni Falkland"
+    },
+    "FM": {
+        "name": "Mikoronesi"
+    },
+    "FO": {
+        "name": "Duni Faro"
+    },
+    "FR": {
+        "name": "Faraans"
+    },
+    "GA": {
+        "name": "Gabo\u014b"
+    },
+    "GB": {
+        "name": "Ruwaayom Ini"
+    },
+    "GD": {
+        "name": "Garanad"
+    },
+    "GE": {
+        "name": "Seworsi"
+    },
+    "GF": {
+        "name": "Guyaan Fara\u00f1se"
+    },
+    "GG": {
+        "name": "Gernase"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "Sibraltaar"
+    },
+    "GL": {
+        "name": "Girinl\u00e0nd"
+    },
+    "GM": {
+        "name": "G\u00e0mbi"
+    },
+    "GN": {
+        "name": "Gine"
+    },
+    "GP": {
+        "name": "Guwaadelup"
+    },
+    "GQ": {
+        "name": "Gine Ekuwatoriyal"
+    },
+    "GR": {
+        "name": "Gerees"
+    },
+    "GS": {
+        "name": "Seworsi di Sid ak Duni S\u00e0ndwiis di Sid"
+    },
+    "GT": {
+        "name": "Guwatemala"
+    },
+    "GU": {
+        "name": "Guwam"
+    },
+    "GW": {
+        "name": "Gine-Bisaaw\u00f3o"
+    },
+    "GY": {
+        "name": "Giyaan"
+    },
+    "HK": {
+        "short": "Oo\u014b Ko\u014b"
+    },
+    "HM": {
+        "name": "Duni H\u00ebrd ak Duni MakDonald"
+    },
+    "HN": {
+        "name": "Onduraas"
+    },
+    "HR": {
+        "name": "Korowasi"
+    },
+    "HT": {
+        "name": "Ayti"
+    },
+    "HU": {
+        "name": "Ongari"
+    },
+    "ID": {
+        "name": "Indonesi"
+    },
+    "IE": {
+        "name": "Irl\u00e0nd"
+    },
+    "IL": {
+        "name": "Israyel"
+    },
+    "IM": {
+        "name": "Dunu Maan"
+    },
+    "IN": {
+        "name": "End"
+    },
+    "IO": {
+        "name": "Terituwaaru Br\u00ebtaa\u00f1 ci Oseyaa Enje\u014b"
+    },
+    "IQ": {
+        "name": "Irag"
+    },
+    "IR": {
+        "name": "Ira\u014b"
+    },
+    "IS": {
+        "name": "Isl\u00e0nd"
+    },
+    "IT": {
+        "name": "Itali"
+    },
+    "JE": {
+        "name": "Serse"
+    },
+    "JM": {
+        "name": "Samayig"
+    },
+    "JO": {
+        "name": "Sordani"
+    },
+    "JP": {
+        "name": "S\u00e0ppo\u014b"
+    },
+    "KE": {
+        "name": "Kee\u00f1a"
+    },
+    "KG": {
+        "name": "Kirgista\u014b"
+    },
+    "KH": {
+        "name": "K\u00e0mboj"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Komoor"
+    },
+    "KN": {
+        "name": "Sa\u014b Kits ak Newis"
+    },
+    "KP": {
+        "name": "Kore Noor"
+    },
+    "KW": {
+        "name": "Kowet"
+    },
+    "KY": {
+        "name": "Duni Kayma\u014b"
+    },
+    "KZ": {
+        "name": "Kasaxsta\u014b"
+    },
+    "LA": {
+        "name": "Lawos"
+    },
+    "LB": {
+        "name": "Libaa"
+    },
+    "LC": {
+        "name": "Sa\u014b Lusi"
+    },
+    "LI": {
+        "name": "Liktensteyin"
+    },
+    "LK": {
+        "name": "Siri L\u00e0nka"
+    },
+    "LR": {
+        "name": "Liberiya"
+    },
+    "LS": {
+        "name": "Lesoto"
+    },
+    "LT": {
+        "name": "Litiyani"
+    },
+    "LU": {
+        "name": "Liks\u00e0mbur"
+    },
+    "LV": {
+        "name": "Letoni"
+    },
+    "LY": {
+        "name": "Libi"
+    },
+    "MA": {
+        "name": "Marog"
+    },
+    "MC": {
+        "name": "Monako"
+    },
+    "MD": {
+        "name": "Moldawi"
+    },
+    "ME": {
+        "name": "Montenegoro"
+    },
+    "MF": {
+        "name": "Sa\u014b Marte\u014b"
+    },
+    "MG": {
+        "name": "Madagaskaar"
+    },
+    "MH": {
+        "name": "Duni Marsaal"
+    },
+    "MK": {
+        "name": "Maseduwaan b\u00ebj G\u00e0nnaar"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Miyanmaar"
+    },
+    "MN": {
+        "name": "Mongoli"
+    },
+    "MO": {
+        "short": "Makaawo"
+    },
+    "MP": {
+        "name": "Duni Mariyaan Noor"
+    },
+    "MQ": {
+        "name": "Martinik"
+    },
+    "MR": {
+        "name": "Mooritani"
+    },
+    "MS": {
+        "name": "Mooseraa"
+    },
+    "MT": {
+        "name": "Malt"
+    },
+    "MU": {
+        "name": "Moriis"
+    },
+    "MV": {
+        "name": "Maldiiw"
+    },
+    "MW": {
+        "name": "Malawi"
+    },
+    "MX": {
+        "name": "Meksiko"
+    },
+    "MY": {
+        "name": "Malesi"
+    },
+    "MZ": {
+        "name": "Mos\u00e0mbig"
+    },
+    "NA": {
+        "name": "Namibi"
+    },
+    "NC": {
+        "name": "Nuwel Kaledoni"
+    },
+    "NE": {
+        "name": "Niiseer"
+    },
+    "NF": {
+        "name": "Dunu Norfolk"
+    },
+    "NG": {
+        "name": "Niseriya"
+    },
+    "NI": {
+        "name": "Nikaraguwa"
+    },
+    "NL": {
+        "name": "Peyi Baa"
+    },
+    "NO": {
+        "name": "Norwees"
+    },
+    "NP": {
+        "name": "Nepaal"
+    },
+    "NR": {
+        "name": "Nawru"
+    },
+    "NU": {
+        "name": "Niw"
+    },
+    "NZ": {
+        "name": "Nuwel Sel\u00e0nd"
+    },
+    "OM": {
+        "name": "Omaan"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Peru"
+    },
+    "PF": {
+        "name": "Polinesi Fara\u00f1se"
+    },
+    "PG": {
+        "name": "Papuwasi Gine Gu Bees"
+    },
+    "PH": {
+        "name": "Filipin"
+    },
+    "PK": {
+        "name": "Pakista\u014b"
+    },
+    "PL": {
+        "name": "Polo\u00f1"
+    },
+    "PM": {
+        "name": "Sa\u014b Peer ak Mikelo\u014b"
+    },
+    "PN": {
+        "name": "Duni Pitkayirn"
+    },
+    "PR": {
+        "name": "Porto Riko"
+    },
+    "PT": {
+        "name": "Portigaal"
+    },
+    "PW": {
+        "name": "Palaw"
+    },
+    "PY": {
+        "name": "Paraguwe"
+    },
+    "QA": {
+        "name": "Kataar"
+    },
+    "RE": {
+        "name": "Ree\u00f1oo"
+    },
+    "RO": {
+        "name": "Rumani"
+    },
+    "RS": {
+        "name": "Serbi"
+    },
+    "RU": {
+        "name": "Risi"
+    },
+    "RW": {
+        "name": "Ruw\u00e0nda"
+    },
+    "SA": {
+        "name": "Arabi Sawudi"
+    },
+    "SB": {
+        "name": "Duni Salmoon"
+    },
+    "SC": {
+        "name": "Seysel"
+    },
+    "SD": {
+        "name": "Suda\u014b"
+    },
+    "SE": {
+        "name": "Suwed"
+    },
+    "SG": {
+        "name": "Singapuur"
+    },
+    "SH": {
+        "name": "Sa\u014b Eleen"
+    },
+    "SI": {
+        "name": "Esloweni"
+    },
+    "SJ": {
+        "name": "Swalbaar ak Jan Mayen"
+    },
+    "SK": {
+        "name": "Eslowaki"
+    },
+    "SL": {
+        "name": "Siyera Lewon"
+    },
+    "SM": {
+        "name": "San Marino"
+    },
+    "SN": {
+        "name": "Senegaal"
+    },
+    "SO": {
+        "name": "Somali"
+    },
+    "SR": {
+        "name": "Sirinam"
+    },
+    "SS": {
+        "name": "Suda\u014b di Sid"
+    },
+    "ST": {
+        "name": "Sawo Tome ak Pirinsipe"
+    },
+    "SV": {
+        "name": "El Salwadoor"
+    },
+    "SX": {
+        "name": "Sin Marten"
+    },
+    "SY": {
+        "name": "Siri"
+    },
+    "SZ": {
+        "name": "Suwasil\u00e0nd"
+    },
+    "TC": {
+        "name": "Duni Tirk ak Kaykos"
+    },
+    "TD": {
+        "name": "C\u00e0dd"
+    },
+    "TF": {
+        "name": "Teer Ostraal gu Fraas"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "Tayl\u00e0nd"
+    },
+    "TJ": {
+        "name": "Tajikista\u014b"
+    },
+    "TK": {
+        "name": "Tokoloo"
+    },
+    "TL": {
+        "name": "Timor Leste"
+    },
+    "TM": {
+        "name": "Tirkmenista\u014b"
+    },
+    "TN": {
+        "name": "Tinisi"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Tirki"
+    },
+    "TT": {
+        "name": "Tirinite ak Tobago"
+    },
+    "TV": {
+        "name": "Tuwalo"
+    },
+    "TW": {
+        "name": "Taywan"
+    },
+    "TZ": {
+        "name": "Ta\u014bsani"
+    },
+    "UA": {
+        "name": "Ikeren"
+    },
+    "UG": {
+        "name": "Ug\u00e0nda"
+    },
+    "UM": {
+        "name": "Duni Amerig Utar meer"
+    },
+    "US": {
+        "name": "Etaa Sini"
+    },
+    "UY": {
+        "name": "Uruge"
+    },
+    "UZ": {
+        "name": "Usbekista\u014b"
+    },
+    "VA": {
+        "name": "Site bu Watikaa"
+    },
+    "VC": {
+        "name": "Sa\u014b Weesaa ak Garanadin"
+    },
+    "VE": {
+        "name": "Wenesiyela"
+    },
+    "VG": {
+        "name": "Duni Wirsin yu Br\u00ebtaa\u00f1"
+    },
+    "VI": {
+        "name": "Duni Wirsin yu Etaa-sini"
+    },
+    "VN": {
+        "name": "Wiyetnam"
+    },
+    "VU": {
+        "name": "Wanuatu"
+    },
+    "WF": {
+        "name": "Walis ak Futuna"
+    },
+    "WS": {
+        "name": "Samowa"
+    },
+    "XK": {
+        "name": "Kosowo"
+    },
+    "YE": {
+        "name": "Yaman"
+    },
+    "YT": {
+        "name": "Mayot"
+    },
+    "ZA": {
+        "name": "Afrik di Sid"
+    },
+    "ZM": {
+        "name": "S\u00e0mbi"
+    },
+    "ZW": {
+        "name": "Simbabwe"
+    },
+    "ZZ": {
+        "name": "Gox bu\u00f1 xamul"
+    }
+}

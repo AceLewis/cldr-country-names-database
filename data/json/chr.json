@@ -1,0 +1,896 @@
+{
+    "001": {
+        "name": "\u13a1\u13b6\u13af"
+    },
+    "002": {
+        "name": "\u13ac\u13bf\u13a8\u13cd\u13db"
+    },
+    "003": {
+        "name": "\u13e7\u13f4\u13e2 \u13a0\u13b9\u13f0\u13df"
+    },
+    "005": {
+        "name": "\u13e7\u13a6\u13c3\u13ee \u13a0\u13ba\u13b5\u13a6"
+    },
+    "009": {
+        "name": "\u13a3\u13cf\u13f0\u13c2\u13a0"
+    },
+    "011": {
+        "name": "\u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13ac\u13bf\u13a8\u13cd\u13db"
+    },
+    "013": {
+        "name": "\u13a0\u13f0\u13df \u13a0\u13b9\u13f0\u13df"
+    },
+    "014": {
+        "name": "\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13ac\u13bf\u13a8\u13cd\u13db"
+    },
+    "015": {
+        "name": "\u13e7\u13f4\u13e2 \u13d7\u13dc \u13ac\u13bf\u13a8\u13cd\u13db"
+    },
+    "017": {
+        "name": "\u13a0\u13f0\u13df \u13ac\u13bf\u13a8\u13cd\u13db"
+    },
+    "018": {
+        "name": "\u13e7\u13a6\u13be\u13ee \u13d7\u13dc \u13ac\u13bf\u13a8\u13cd\u13db"
+    },
+    "019": {
+        "name": "\u13a0\u13ba\u13b5\u13a6\u13a2"
+    },
+    "021": {
+        "name": "\u13e7\u13f4\u13e2 \u13d7\u13dc \u13a0\u13b9\u13f0\u13df"
+    },
+    "029": {
+        "name": "\u13a8\u13c6\u13d9\u13ef"
+    },
+    "030": {
+        "name": "\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13d3\u13b6\u13c2\u13a8\u13cd\u13db"
+    },
+    "034": {
+        "name": "\u13e7\u13a6\u13be\u13ee \u13d7\u13dc \u13d3\u13b6\u13c2\u13a8\u13cd\u13db"
+    },
+    "035": {
+        "name": "\u13e7\u13a6\u13be\u13ee \u13d7\u13a7\u13b8\u13ac \u13d3\u13b6\u13c2\u13a8\u13cd\u13db"
+    },
+    "039": {
+        "name": "\u13e7\u13a6\u13be\u13ee \u13d7\u13dc \u13f3\u13b3\u13db"
+    },
+    "053": {
+        "name": "\u13a0\u13cd\u13d4\u13b4\u13cf\u13a0"
+    },
+    "054": {
+        "name": "\u13ba\u13b3\u13c1\u13cf\u13a0"
+    },
+    "057": {
+        "name": "\u13a0\u13f0\u13df \u13e7\u13be\u13b5\u13aa\u13af \u13be\u13bf \u13b9\u13a2\u13c9\u13c2\u13cf\u13ef \u13a2\u13ac\u13be\u13d5\u13be"
+    },
+    "061": {
+        "name": "\u13c6\u13b5\u13c2\u13cf\u13a0"
+    },
+    "142": {
+        "name": "\u13d3\u13b6\u13be\u13a8\u13cd\u13db"
+    },
+    "143": {
+        "name": "\u13a0\u13f0\u13df \u13d3\u13b6\u13c2\u13a8\u13cd\u13db"
+    },
+    "145": {
+        "name": "\u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13d3\u13b6\u13c2\u13a8\u13cd\u13db"
+    },
+    "150": {
+        "name": "\u13f3\u13b3\u13db"
+    },
+    "151": {
+        "name": "\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13f3\u13b3\u13db"
+    },
+    "154": {
+        "name": "\u13e7\u13f4\u13e2 \u13d7\u13dc \u13f3\u13b3\u13db"
+    },
+    "155": {
+        "name": "\u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13f3\u13b3\u13db"
+    },
+    "202": {
+        "name": "\u13ad\u13eb\u13c2-\u13cc\u13ad\u13e9 \u13ac\u13bf\u13a8\u13cd\u13db"
+    },
+    "419": {
+        "name": "\u13b3\u13d8\u13c2 \u13a0\u13b9\u13f0\u13df"
+    },
+    "AC": {
+        "name": "\u13a4\u13b5\u13cc\u13b3\u13d3\u13c5 \u13a4\u13a6\u13da\u13db\u13a2"
+    },
+    "AD": {
+        "name": "\u13a0\u13c2\u13d9\u13b3"
+    },
+    "AE": {
+        "name": "\u13cc\u13ca \u13a2\u13f3\u13be\u13b5\u13cd\u13d4\u13c5 \u13a1\u13b3\u13c8 \u13a2\u13b9\u13b5\u13d8\u13cf"
+    },
+    "AF": {
+        "name": "\u13a0\u13eb\u13a8\u13c2\u13cd\u13d6\u13c2"
+    },
+    "AG": {
+        "name": "\u13a4\u13ea\u13d8 & \u13c6\u13ca\u13d3"
+    },
+    "AI": {
+        "name": "\u13a0\u13c2\u13a9\u13b3"
+    },
+    "AL": {
+        "name": "\u13a0\u13b5\u13c7\u13c2\u13ef"
+    },
+    "AM": {
+        "name": "\u13a0\u13b5\u13bb\u13c2\u13a0"
+    },
+    "AO": {
+        "name": "\u13a0\u13c2\u13aa\u13b3"
+    },
+    "AQ": {
+        "name": "\u13e7\u13c1\u13cd\u13d3\u13b8"
+    },
+    "AR": {
+        "name": "\u13a0\u13e5\u13c2\u13d8\u13c2\u13a0"
+    },
+    "AS": {
+        "name": "\u13a0\u13ba\u13b5\u13a7 \u13cc\u13bc\u13a0"
+    },
+    "AT": {
+        "name": "\u13a0\u13cd\u13df\u13ef"
+    },
+    "AU": {
+        "name": "\u13a1\u13b3\u13d7\u13dc"
+    },
+    "AW": {
+        "name": "\u13a0\u13b7\u13c6"
+    },
+    "AX": {
+        "name": "\u13a3\u13b4\u13c5\u13d3 \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "AZ": {
+        "name": "\u13a0\u13ce\u13c6\u13e3\u13c2"
+    },
+    "BA": {
+        "name": "\u13c9\u13cf\u13c2\u13a0 & \u13b2\u13e4\u13aa\u13eb\u13be"
+    },
+    "BB": {
+        "name": "\u13c6\u13c7\u13d9\u13cd"
+    },
+    "BD": {
+        "name": "\u13c6\u13c2\u13a6\u13b5\u13d5\u13cd"
+    },
+    "BE": {
+        "name": "\u13c7\u13b5\u13e5\u13a5\u13bb"
+    },
+    "BF": {
+        "name": "\u13cb\u13a9\u13be \u13e9\u13d0"
+    },
+    "BG": {
+        "name": "\u13ca\u13b5\u13a8\u13b5\u13a0"
+    },
+    "BH": {
+        "name": "\u13c6\u13ad\u13b4\u13a2\u13c2"
+    },
+    "BI": {
+        "name": "\u13cb\u13b7\u13c2\u13d7"
+    },
+    "BJ": {
+        "name": "\u13c6\u13c2\u13a2\u13c2"
+    },
+    "BL": {
+        "name": "\u13a4\u13d3\u13c5\u13d8 \u13c6\u13d5\u13b3\u13bb"
+    },
+    "BM": {
+        "name": "\u13c6\u13ca\u13d3"
+    },
+    "BN": {
+        "name": "\u13ca\u13be\u13a2"
+    },
+    "BO": {
+        "name": "\u13c9\u13b5\u13eb\u13a0"
+    },
+    "BQ": {
+        "name": "\u13a7\u13b5\u13c8\u13a2\u13c2\u13af \u13be\u13cd\u13a9\u13c1\u13db\u13b3\u13c2"
+    },
+    "BR": {
+        "name": "\u13c6\u13cf\u13b5"
+    },
+    "BS": {
+        "name": "\u13be\u13cd\u13a9 \u13c6\u13ad\u13b9\u13cd"
+    },
+    "BT": {
+        "name": "\u13ca\u13d4\u13c2"
+    },
+    "BV": {
+        "name": "\u13ca\u13ea \u13a4\u13a6\u13da\u13db\u13a2"
+    },
+    "BW": {
+        "name": "\u13c6\u13e3\u13e9\u13be"
+    },
+    "BY": {
+        "name": "\u13c7\u13b3\u13b7\u13cd"
+    },
+    "BZ": {
+        "name": "\u13c7\u13b5\u13cd"
+    },
+    "CA": {
+        "name": "\u13a8\u13be\u13d3"
+    },
+    "CC": {
+        "name": "\u13aa\u13aa\u13cd (\u13a9\u13b5\u13c2) \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "CD": {
+        "name": "\u13a7\u13c2\u13aa - \u13a8\u13c2\u13dd\u13cc",
+        "variant": "\u13a7\u13c2\u13aa (DRC)"
+    },
+    "CF": {
+        "name": "\u13ac\u13bf\u13a8\u13cd\u13db \u13a0\u13f0\u13df \u13cd\u13a6\u13da\u13a9"
+    },
+    "CG": {
+        "name": "\u13a7\u13c2\u13aa - \u13c6\u13cc\u13e9\u13b5",
+        "variant": "\u13a7\u13c2\u13aa (\u13cd\u13a6\u13da\u13a9)"
+    },
+    "CH": {
+        "name": "\u13cd\u13eb\u13cd"
+    },
+    "CI": {
+        "name": "\u13a2\u13ec\u13b5 \u13be\u13bf \u13a0\u13b9\u13f3\u13b6\u13d7",
+        "variant": "\u13a4\u13c1\u13ac \u13aa\u13b3 \u13a0\u13b9\u13f3\u13b6\u13d7"
+    },
+    "CK": {
+        "name": "\u13a0\u13d3\u13cd\u13d3\u13f4\u13b2\u13cd\u13a9 \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "CL": {
+        "name": "\u13e5\u13b5"
+    },
+    "CM": {
+        "name": "\u13a7\u13b9\u13b7\u13c2"
+    },
+    "CN": {
+        "name": "\u13d3\u13b6\u13c2\u13a8\u13cd\u13db"
+    },
+    "CO": {
+        "name": "\u13aa\u13b8\u13bb\u13c8\u13a2\u13a0"
+    },
+    "CP": {
+        "name": "\u13a6\u13c2\u13f4\u13d4\u13c5\u13a3\u13d3\u13b8 \u13a4\u13a6\u13da\u13db\u13a2"
+    },
+    "CR": {
+        "name": "\u13aa\u13cd\u13d3 \u13b5\u13a7"
+    },
+    "CU": {
+        "name": "\u13ab\u13c6"
+    },
+    "CV": {
+        "name": "\u13a2\u13ac\u13be\u13d5\u13be \u13a2\u13e4\u13f3\u13cd\u13d7"
+    },
+    "CW": {
+        "name": "\u13ab\u13b3\u13a8\u13a3"
+    },
+    "CX": {
+        "name": "\u13d3\u13c2\u13cd\u13d3\u13f2\u13af\u13b2 \u13a4\u13a6\u13da\u13db\u13a2"
+    },
+    "CY": {
+        "name": "\u13cc\u13a2\u13c6\u13cd"
+    },
+    "CZ": {
+        "name": "\u13e4\u13a9\u13a0",
+        "variant": "\u13e4\u13a9 \u13cd\u13a6\u13da\u13a9"
+    },
+    "DE": {
+        "name": "\u13a0\u13c2\u13db\u13e5"
+    },
+    "DG": {
+        "name": "\u13d7\u13f0\u13aa \u13a6\u13cf\u13ef"
+    },
+    "DJ": {
+        "name": "\u13e5\u13ca\u13d7"
+    },
+    "DK": {
+        "name": "\u13d7\u13c2\u13b9\u13a6"
+    },
+    "DM": {
+        "name": "\u13d9\u13bb\u13c2\u13a7"
+    },
+    "DO": {
+        "name": "\u13d9\u13bb\u13c2\u13a7\u13c2 \u13cd\u13a6\u13da\u13a9"
+    },
+    "DZ": {
+        "name": "\u13a0\u13b5\u13e5\u13b5\u13ef"
+    },
+    "EA": {
+        "name": "\u13d1\u13d4 \u13a0\u13b4 \u13ba\u13b5\u13ef"
+    },
+    "EC": {
+        "name": "\u13a1\u13c6\u13d9\u13b5"
+    },
+    "EE": {
+        "name": "\u13a1\u13cd\u13d9\u13c2\u13ef"
+    },
+    "EG": {
+        "name": "\u13a2\u13e5\u13c8\u13a2"
+    },
+    "EH": {
+        "name": "\u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13cc\u13ae\u13b3"
+    },
+    "ER": {
+        "name": "\u13a1\u13b5\u13df\u13ef"
+    },
+    "ES": {
+        "name": "\u13a0\u13c2\u13cd\u13c6\u13c2\u13f1"
+    },
+    "ET": {
+        "name": "\u13a2\u13d7\u13a3\u13c8\u13a0"
+    },
+    "EU": {
+        "name": "\u13f3\u13b3\u13db \u13a0\u13c2\u13a4\u13be\u13d3\u13e1\u13ac"
+    },
+    "EZ": {
+        "name": "\u13f3\u13b6\u13a0\u13cd\u13d3\u13c5\u13c5"
+    },
+    "FI": {
+        "name": "\u13eb\u13c2\u13a6\u13d9\u13af"
+    },
+    "FJ": {
+        "name": "\u13eb\u13e5"
+    },
+    "FK": {
+        "name": "\u13e9\u13a9 \u13da\u13a6\u13da\u13db\u13a2",
+        "variant": "\u13e9\u13a9 \u13da\u13a6\u13da\u13db\u13a2 (\u13a2\u13cd\u13b3\u13cd \u13b9\u13b8\u13eb\u13be\u13cd)"
+    },
+    "FM": {
+        "name": "\u13b9\u13a2\u13c9\u13c2\u13cf\u13ef"
+    },
+    "FO": {
+        "name": "\u13ea\u13b6 \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "FR": {
+        "name": "\u13a6\u13b8\u13e5\u13f1"
+    },
+    "GA": {
+        "name": "\u13a6\u13c9\u13c2"
+    },
+    "GB": {
+        "name": "\u13a9\u13b5\u13cf\u13f2",
+        "short": "UK"
+    },
+    "GD": {
+        "name": "\u13cb\u13be\u13d3"
+    },
+    "GE": {
+        "name": "\u13e3\u13a0\u13e5\u13a2"
+    },
+    "GF": {
+        "name": "\u13a0\u13c2\u13a6\u13b8\u13e5 \u13a9\u13a0"
+    },
+    "GG": {
+        "name": "\u13ac\u13c2\u13cf"
+    },
+    "GH": {
+        "name": "\u13a6\u13a0\u13be"
+    },
+    "GI": {
+        "name": "\u13e5\u13c6\u13b5\u13d3"
+    },
+    "GL": {
+        "name": "\u13a2\u13e4\u13cd\u13db\u13f1"
+    },
+    "GM": {
+        "name": "\u13a6\u13b9\u13c8\u13a2\u13a0"
+    },
+    "GN": {
+        "name": "\u13a9\u13a2\u13c2"
+    },
+    "GP": {
+        "name": "\u13e9\u13d3\u13b7\u13c7"
+    },
+    "GQ": {
+        "name": "\u13a1\u13c6\u13d9\u13b5\u13a0\u13b5 \u13a9\u13a2\u13c2"
+    },
+    "GR": {
+        "name": "\u13aa\u13a2\u13af"
+    },
+    "GS": {
+        "name": "\u13e7\u13a6\u13c3\u13ee \u13e3\u13a0\u13e5\u13a2 \u13a0\u13b4 \u13be\u13cd\u13a9 \u13e7\u13a6\u13c3\u13ee \u13a0\u13cd\u13db\u13ad\u13df \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "GT": {
+        "name": "\u13e9\u13d4\u13b9\u13b3"
+    },
+    "GU": {
+        "name": "\u13c6\u13bb"
+    },
+    "GW": {
+        "name": "\u13a9\u13a2\u13c2-\u13c8\u13cc\u13a4\u13eb"
+    },
+    "GY": {
+        "name": "\u13a6\u13ef\u13be"
+    },
+    "HK": {
+        "name": "\u13b0\u13c2\u13a9 \u13aa\u13c2\u13a9 \u13a4\u13d3\u13e4\u13b5\u13d3 \u13e7\u13c2\u13b8\u13eb\u13cd\u13d3\u13c1\u13d7 \u13a2\u13ac\u13be\u13d5\u13be \u13d3\u13b6\u13c2\u13a8\u13cd\u13db",
+        "short": "\u13b0\u13c2\u13a9 \u13aa\u13c2\u13a9"
+    },
+    "HM": {
+        "name": "\u13b2\u13d7 \u13a4\u13a6\u13da\u13db\u13a2 \u13a0\u13b4 \u13ba\u13a9\u13d3\u13be\u13b5\u13d7 \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "HN": {
+        "name": "\u13ad\u13c2\u13da\u13b3\u13cd"
+    },
+    "HR": {
+        "name": "\u13a7\u13b6\u13a1\u13cf\u13a0"
+    },
+    "HT": {
+        "name": "\u13ae\u13a2\u13d8"
+    },
+    "HU": {
+        "name": "\u13b2\u13c2\u13a6\u13b5"
+    },
+    "IC": {
+        "name": "\u13e5\u13cd\u13c6 \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "ID": {
+        "name": "\u13a2\u13c2\u13d9\u13c2\u13cd\u13ef"
+    },
+    "IE": {
+        "name": "\u13a0\u13f2\u13b3\u13c2"
+    },
+    "IL": {
+        "name": "\u13a2\u13cf\u13b5\u13f1"
+    },
+    "IM": {
+        "name": "\u13a4\u13cd\u13d7 \u13a4\u13a6\u13da\u13db\u13a2 \u13be\u13bf \u13a0\u13cd\u13a6\u13ef"
+    },
+    "IN": {
+        "name": "\u13a2\u13c5\u13d7\u13be"
+    },
+    "IO": {
+        "name": "\u13c8\u13d7\u13cf \u13f4\u13eb\u13ef \u13a0\u13ba\u13c9 \u13a2\u13ac\u13be\u13d5\u13c5"
+    },
+    "IQ": {
+        "name": "\u13a2\u13b3\u13a9"
+    },
+    "IR": {
+        "name": "\u13a2\u13b4\u13c2"
+    },
+    "IS": {
+        "name": "\u13e7\u13c1\u13cd\u13d3\u13b8\u13af"
+    },
+    "IT": {
+        "name": "\u13a2\u13d4\u13b5"
+    },
+    "JE": {
+        "name": "\u13e8\u13b5\u13cf"
+    },
+    "JM": {
+        "name": "\u13e3\u13ba\u13a2\u13a7"
+    },
+    "JO": {
+        "name": "\u13e6\u13d3\u13c2"
+    },
+    "JP": {
+        "name": "\u13e3\u13e9\u13c2\u13cf"
+    },
+    "KE": {
+        "name": "\u13a8\u13c2\u13ef"
+    },
+    "KG": {
+        "name": "\u13a9\u13b5\u13e3\u13a2\u13cd"
+    },
+    "KH": {
+        "name": "\u13a7\u13b9\u13c9\u13d7\u13a0\u13c2"
+    },
+    "KI": {
+        "name": "\u13a7\u13b5\u13c6\u13d8"
+    },
+    "KM": {
+        "name": "\u13aa\u13bc\u13b3\u13cd"
+    },
+    "KN": {
+        "name": "\u13a4\u13d3\u13c5\u13d8 \u13a8\u13d8\u13cf \u13a0\u13b4 \u13c1\u13ea\u13cf"
+    },
+    "KP": {
+        "name": "\u13e7\u13f4\u13e2 \u13aa\u13b5\u13a0"
+    },
+    "KR": {
+        "name": "\u13e7\u13a6\u13c3\u13ee \u13aa\u13b5\u13a0"
+    },
+    "KW": {
+        "name": "\u13ab\u13ea\u13a2\u13d8"
+    },
+    "KY": {
+        "name": "\u13a8\u13a2\u13b9\u13c2 \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "KZ": {
+        "name": "\u13a7\u13ce\u13a7\u13cd\u13d5\u13c2"
+    },
+    "LA": {
+        "name": "\u13b4\u13a3\u13cd"
+    },
+    "LB": {
+        "name": "\u13b4\u13c6\u13be\u13c2"
+    },
+    "LC": {
+        "name": "\u13a4\u13d3\u13c5\u13d8 \u13b7\u13cf\u13ef"
+    },
+    "LI": {
+        "name": "\u13b5\u13a6\u13d7\u13c2\u13cd\u13d3\u13c2"
+    },
+    "LK": {
+        "name": "\u13cd\u13b5 \u13b3\u13c2\u13a7"
+    },
+    "LR": {
+        "name": "\u13b3\u13c8\u13b5\u13ef"
+    },
+    "LS": {
+        "name": "\u13b4\u13d0\u13d9"
+    },
+    "LT": {
+        "name": "\u13b5\u13d7\u13ea\u13c2\u13a0"
+    },
+    "LU": {
+        "name": "\u13b8\u13a7\u13ce\u13cb\u13a9"
+    },
+    "LV": {
+        "name": "\u13b3\u13d8\u13eb\u13a0"
+    },
+    "LY": {
+        "name": "\u13b5\u13c8\u13ef"
+    },
+    "MA": {
+        "name": "\u13bc\u13b6\u13aa"
+    },
+    "MC": {
+        "name": "\u13b9\u13be\u13aa"
+    },
+    "MD": {
+        "name": "\u13b9\u13b5\u13d9\u13eb\u13a0"
+    },
+    "ME": {
+        "name": "\u13bc\u13c2\u13d4\u13c1\u13a6\u13b6"
+    },
+    "MF": {
+        "name": "\u13a4\u13d3\u13c5\u13d8 \u13e1\u13e1"
+    },
+    "MG": {
+        "name": "\u13b9\u13d3\u13a6\u13cd\u13a7\u13b5"
+    },
+    "MH": {
+        "name": "\u13b9\u13cc\u13b5 \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "MK": {
+        "name": "\u13e7\u13f4\u13dc \u13b9\u13ce\u13d9\u13c2\u13ef"
+    },
+    "ML": {
+        "name": "\u13b9\u13b5"
+    },
+    "MM": {
+        "name": "\u13b9\u13ef\u13b9\u13b5 (\u13c7\u13b5\u13b9)"
+    },
+    "MN": {
+        "name": "\u13b9\u13c2\u13aa\u13b5\u13a0"
+    },
+    "MO": {
+        "name": "\u13b9\u13a7\u13a3 (\u13a4\u13d3\u13e4\u13b5\u13d3 \u13e7\u13c2\u13b8\u13eb\u13cd\u13d3\u13c1\u13d7 \u13a2\u13ac\u13be\u13d5\u13be) \u13e3\u13a2",
+        "short": "\u13b9\u13a7\u13a3"
+    },
+    "MP": {
+        "name": "\u13e7\u13f4\u13e2 \u13d7\u13dc \u13b9\u13b5\u13a0\u13be \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "MQ": {
+        "name": "\u13b9\u13d8\u13c2\u13a8"
+    },
+    "MR": {
+        "name": "\u13b9\u13d8\u13a2\u13ef"
+    },
+    "MS": {
+        "name": "\u13b9\u13c2\u13d8\u13cc\u13b3\u13d7"
+    },
+    "MT": {
+        "name": "\u13b9\u13b5\u13d4"
+    },
+    "MU": {
+        "name": "\u13bc\u13b5\u13cf\u13a5\u13cd"
+    },
+    "MV": {
+        "name": "\u13b9\u13b5\u13d7\u13eb\u13cd"
+    },
+    "MW": {
+        "name": "\u13b9\u13b3\u13eb"
+    },
+    "MX": {
+        "name": "\u13a0\u13c2\u13cd\u13c6\u13c2"
+    },
+    "MY": {
+        "name": "\u13b9\u13b4\u13cf\u13a2\u13a0"
+    },
+    "MZ": {
+        "name": "\u13bc\u13ce\u13bb\u13c7\u13a9"
+    },
+    "NA": {
+        "name": "\u13be\u13bb\u13c8\u13a2\u13ef"
+    },
+    "NC": {
+        "name": "\u13a2\u13e4 \u13a7\u13b5\u13d9\u13c2\u13a0\u13c2"
+    },
+    "NE": {
+        "name": "\u13be\u13a2\u13e8"
+    },
+    "NF": {
+        "name": "\u13c3\u13b5\u13ec\u13b5\u13a9 \u13a4\u13a6\u13da\u13db\u13a2"
+    },
+    "NG": {
+        "name": "\u13c2\u13e5\u13b5\u13ef"
+    },
+    "NI": {
+        "name": "\u13c2\u13a7\u13b3\u13c6"
+    },
+    "NL": {
+        "name": "\u13c1\u13db\u13b3\u13c2"
+    },
+    "NO": {
+        "name": "\u13c3\u13ea"
+    },
+    "NP": {
+        "name": "\u13c1\u13c6\u13b5"
+    },
+    "NR": {
+        "name": "\u13c3\u13a4\u13b7"
+    },
+    "NU": {
+        "name": "\u13c2\u13f3"
+    },
+    "NZ": {
+        "name": "\u13a2\u13e4 \u13cf\u13a2\u13b4\u13c2\u13d7"
+    },
+    "OM": {
+        "name": "\u13a3\u13ba\u13c2"
+    },
+    "PA": {
+        "name": "\u13c6\u13be\u13b9"
+    },
+    "PE": {
+        "name": "\u13c7\u13b7"
+    },
+    "PF": {
+        "name": "\u13a0\u13c2\u13a6\u13b8\u13e5 \u13c6\u13b5\u13c2\u13cf\u13a0"
+    },
+    "PG": {
+        "name": "\u13c6\u13c7 \u13a2\u13e4 \u13a9\u13a2\u13c2"
+    },
+    "PH": {
+        "name": "\u13a0\u13c2\u13c8\u13b5\u13a9\u13c3"
+    },
+    "PK": {
+        "name": "\u13c6\u13a9\u13cd\u13d6\u13c2"
+    },
+    "PL": {
+        "name": "\u13c9\u13b3\u13c2"
+    },
+    "PM": {
+        "name": "\u13a4\u13d3\u13c5\u13d8 \u13c8\u13f0 \u13a0\u13b4 \u13bb\u13c7\u13b6\u13c2"
+    },
+    "PN": {
+        "name": "\u13c8\u13a7\u13b5\u13c2 \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "PR": {
+        "name": "\u13c7\u13a1\u13d9 \u13b5\u13a2\u13aa"
+    },
+    "PS": {
+        "name": "\u13c6\u13b4\u13cd\u13d7\u13c2\u13a0\u13c2 \u13c4\u13ac\u13eb\u13f3\u13cc\u13d5\u13a9",
+        "short": "\u13c6\u13b4\u13cd\u13d7\u13c2"
+    },
+    "PT": {
+        "name": "\u13c9\u13e5\u13a6\u13b3"
+    },
+    "PW": {
+        "name": "\u13c6\u13b4\u13a0\u13eb"
+    },
+    "PY": {
+        "name": "\u13c6\u13b3\u13c7\u13a2\u13ef"
+    },
+    "QA": {
+        "name": "\u13a7\u13d4\u13b5"
+    },
+    "QO": {
+        "name": "\u13a0\u13cd\u13db \u13a3\u13cf\u13f0\u13c2\u13a0"
+    },
+    "RE": {
+        "name": "\u13b4\u13f3\u13c2\u13a0\u13c2"
+    },
+    "RO": {
+        "name": "\u13b6\u13b9\u13c2\u13ef"
+    },
+    "RS": {
+        "name": "\u13d2\u13c8\u13ef"
+    },
+    "RU": {
+        "name": "\u13f2\u13c2\u13a2"
+    },
+    "RW": {
+        "name": "\u13b6\u13e9\u13c2\u13d3"
+    },
+    "SA": {
+        "name": "\u13cc\u13a4\u13d7 \u13a1\u13b4\u13c8\u13a0"
+    },
+    "SB": {
+        "name": "\u13d0\u13b6\u13b9\u13c2 \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "SC": {
+        "name": "\u13cf\u13a1\u13e5\u13b5\u13cd"
+    },
+    "SD": {
+        "name": "\u13d1\u13d5\u13c2"
+    },
+    "SE": {
+        "name": "\u13cd\u13eb\u13d5\u13c2"
+    },
+    "SG": {
+        "name": "\u13cf\u13c2\u13a6\u13c9\u13b5"
+    },
+    "SH": {
+        "name": "\u13a4\u13d3\u13c5\u13d8 \u13ae\u13b5\u13be"
+    },
+    "SI": {
+        "name": "\u13cd\u13b6\u13eb\u13c2\u13a0"
+    },
+    "SJ": {
+        "name": "\u13cd\u13e9\u13b5\u13c6\u13b5\u13d7 \u13a0\u13b4 \u13e4\u13c2 \u13b9\u13f0\u13c2"
+    },
+    "SK": {
+        "name": "\u13cd\u13b6\u13e9\u13a9\u13a0"
+    },
+    "SL": {
+        "name": "\u13cf\u13a1\u13b3 \u13b4\u13a3\u13c2"
+    },
+    "SM": {
+        "name": "\u13a4\u13d3\u13c5\u13d8 \u13b9\u13b5\u13a2\u13c3"
+    },
+    "SN": {
+        "name": "\u13cf\u13c2\u13a6\u13b5"
+    },
+    "SO": {
+        "name": "\u13d0\u13b9\u13b5"
+    },
+    "SR": {
+        "name": "\u13d2\u13b5\u13be\u13bb"
+    },
+    "SS": {
+        "name": "\u13e7\u13a6\u13be\u13ee \u13d1\u13d5\u13c2"
+    },
+    "ST": {
+        "name": "\u13cc\u13a3 \u13d9\u13ba \u13a0\u13b4 \u13c8\u13c2\u13cf\u13c7"
+    },
+    "SV": {
+        "name": "\u13a1\u13b5\u13cc\u13b5\u13c6\u13d9\u13b5"
+    },
+    "SX": {
+        "name": "\u13cf\u13c2\u13d8 \u13b9\u13d8\u13c2"
+    },
+    "SY": {
+        "name": "\u13cf\u13b5\u13a0"
+    },
+    "SZ": {
+        "name": "\u13a1\u13cd\u13e9\u13d8\u13c2",
+        "variant": "\u13a0\u13c2\u13cd\u13e9\u13cf\u13a2"
+    },
+    "TA": {
+        "name": "\u13df\u13cd\u13db\u13c2 \u13d3 \u13ab\u13be\u13ad"
+    },
+    "TC": {
+        "name": "\u13a0\u13c2\u13db\u13b5\u13a9 \u13a0\u13b4 \u13a8\u13a2\u13aa \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "TD": {
+        "name": "\u13e3\u13d7"
+    },
+    "TF": {
+        "name": "\u13a0\u13c2\u13a6\u13b8\u13e5 \u13e7\u13a6\u13be\u13ee \u13a6\u13d9\u13af \u13a4\u13b5\u13cd\u13db\u13a2"
+    },
+    "TG": {
+        "name": "\u13d9\u13aa"
+    },
+    "TH": {
+        "name": "\u13d4\u13ef\u13b4\u13c2"
+    },
+    "TJ": {
+        "name": "\u13d4\u13e5\u13a9\u13cd\u13d5\u13c2"
+    },
+    "TK": {
+        "name": "\u13d9\u13a8\u13b3\u13ed"
+    },
+    "TL": {
+        "name": "\u13d8\u13bc\u13b5-\u13b4\u13cd\u13d6",
+        "variant": "\u13d7\u13a7\u13b8\u13ac\u13a2 \u13d8\u13bc\u13b5"
+    },
+    "TM": {
+        "name": "\u13db\u13b5\u13a9\u13ba\u13c2\u13cd\u13d4\u13c2"
+    },
+    "TN": {
+        "name": "\u13da\u13c2\u13cf\u13cd\u13a0"
+    },
+    "TO": {
+        "name": "\u13d9\u13be\u13a6"
+    },
+    "TR": {
+        "name": "\u13ac\u13c3"
+    },
+    "TT": {
+        "name": "\u13df\u13c2\u13d5\u13d7 \u13a0\u13b4 \u13d9\u13c6\u13aa"
+    },
+    "TV": {
+        "name": "\u13da\u13e9\u13b7"
+    },
+    "TW": {
+        "name": "\u13d4\u13a2\u13e9\u13c2"
+    },
+    "TZ": {
+        "name": "\u13d6\u13c2\u13cf\u13c2\u13ef"
+    },
+    "UA": {
+        "name": "\u13f3\u13a7\u13b4\u13c2"
+    },
+    "UG": {
+        "name": "\u13f3\u13a6\u13c2\u13d3"
+    },
+    "UM": {
+        "name": "U.S. \u13a0\u13cd\u13db \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "UN": {
+        "name": "\u13cc\u13ca \u13a2\u13f3\u13be\u13b5\u13cd\u13d4\u13c5 \u13a0\u13f0\u13b5 \u13da\u13be\u13d9\u13e2\u13d2"
+    },
+    "US": {
+        "name": "\u13cc\u13ca \u13a2\u13f3\u13be\u13b5\u13cd\u13d4\u13c5 \u13cd\u13a6\u13da\u13a9",
+        "short": "US"
+    },
+    "UY": {
+        "name": "\u13f3\u13b7\u13c7"
+    },
+    "UZ": {
+        "name": "\u13a4\u13cd\u13c7\u13a9\u13cd\u13d6\u13c2"
+    },
+    "VA": {
+        "name": "\u13a0\u13e5\u13b3\u13c1\u13e0 \u13a6\u13da\u13b2"
+    },
+    "VC": {
+        "name": "\u13a4\u13d3\u13c5\u13d8 \u13eb\u13c2\u13cf\u13c2\u13d7 \u13a0\u13b4 \u13be\u13cd\u13a9 \u13c7\u13be\u13d7\u13c1\u13cd"
+    },
+    "VE": {
+        "name": "\u13ea\u13c1\u13d1\u13ea\u13b3"
+    },
+    "VG": {
+        "name": "\u13c8\u13d7\u13cd \u13a0\u13d2\u13c2\u13b8 \u13c2\u13a8\u13d2\u13be \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "VI": {
+        "name": "U.S. \u13a0\u13d2\u13c2\u13b8 \u13c2\u13a8\u13d2\u13be \u13da\u13a6\u13da\u13db\u13a2"
+    },
+    "VN": {
+        "name": "\u13eb\u13a1\u13d8\u13be\u13bb"
+    },
+    "VU": {
+        "name": "\u13e9\u13c2\u13a4\u13e9\u13da"
+    },
+    "WF": {
+        "name": "\u13e9\u13b5\u13cd \u13a0\u13b4 \u13ca\u13da\u13be"
+    },
+    "WS": {
+        "name": "\u13cc\u13bc\u13a0"
+    },
+    "XA": {
+        "name": "\u13e1\u13d9-\u13c4\u13cd\u13db\u13a2\u13a5\u13a7\u13c1\u13ac\u13a2"
+    },
+    "XB": {
+        "name": "\u13e1\u13d9-\u13c8\u13d7"
+    },
+    "XK": {
+        "name": "\u13aa\u13d0\u13c9"
+    },
+    "YE": {
+        "name": "\u13f0\u13ba\u13c2"
+    },
+    "YT": {
+        "name": "\u13ba\u13ef\u13d6"
+    },
+    "ZA": {
+        "name": "\u13e7\u13a6\u13be\u13ee \u13ac\u13bf\u13a8\u13cd\u13db"
+    },
+    "ZM": {
+        "name": "\u13cc\u13bb\u13c8\u13ef"
+    },
+    "ZW": {
+        "name": "\u13cf\u13bb\u13c6\u13c7"
+    },
+    "ZZ": {
+        "name": "\u13c4\u13ec\u13b5\u13cd\u13db\u13be \u13a4\u13d4\u13c2\u13d7\u13a6\u13d9\u13af"
+    }
+}

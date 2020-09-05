@@ -1,0 +1,896 @@
+{
+    "001": {
+        "name": "Dunyo"
+    },
+    "002": {
+        "name": "Afrika"
+    },
+    "003": {
+        "name": "Shimoliy Amerika"
+    },
+    "005": {
+        "name": "Janubiy Amerika"
+    },
+    "009": {
+        "name": "Okeaniya"
+    },
+    "011": {
+        "name": "G\u2018arbiy Afrika"
+    },
+    "013": {
+        "name": "Markaziy Amerika"
+    },
+    "014": {
+        "name": "Sharqiy Afrika"
+    },
+    "015": {
+        "name": "Shimoliy Afrika"
+    },
+    "017": {
+        "name": "Markaziy Afrika"
+    },
+    "018": {
+        "name": "Janubiy Afrika"
+    },
+    "019": {
+        "name": "Amerika"
+    },
+    "021": {
+        "name": "Shimoliy Amerika \u2013 AQSH va Kanada"
+    },
+    "029": {
+        "name": "Karib havzasi"
+    },
+    "030": {
+        "name": "Sharqiy Osiyo"
+    },
+    "034": {
+        "name": "Janubiy Osiyo"
+    },
+    "035": {
+        "name": "Janubi-sharqiy Osiyo"
+    },
+    "039": {
+        "name": "Janubiy Yevropa"
+    },
+    "053": {
+        "name": "Avstralaziya"
+    },
+    "054": {
+        "name": "Melaneziya"
+    },
+    "057": {
+        "name": "Mikroneziya mintaqasi"
+    },
+    "061": {
+        "name": "Polineziya"
+    },
+    "142": {
+        "name": "Osiyo"
+    },
+    "143": {
+        "name": "Markaziy Osiyo"
+    },
+    "145": {
+        "name": "G\u2018arbiy Osiyo"
+    },
+    "150": {
+        "name": "Yevropa"
+    },
+    "151": {
+        "name": "Sharqiy Yevropa"
+    },
+    "154": {
+        "name": "Shimoliy Yevropa"
+    },
+    "155": {
+        "name": "G\u2018arbiy Yevropa"
+    },
+    "202": {
+        "name": "Sahro janubidagi Afrika"
+    },
+    "419": {
+        "name": "Lotin Amerikasi"
+    },
+    "AC": {
+        "name": "Me\u2019roj oroli"
+    },
+    "AD": {
+        "name": "Andorra"
+    },
+    "AE": {
+        "name": "Birlashgan Arab Amirliklari"
+    },
+    "AF": {
+        "name": "Afg\u02bboniston"
+    },
+    "AG": {
+        "name": "Antigua va Barbuda"
+    },
+    "AI": {
+        "name": "Angilya"
+    },
+    "AL": {
+        "name": "Albaniya"
+    },
+    "AM": {
+        "name": "Armaniston"
+    },
+    "AO": {
+        "name": "Angola"
+    },
+    "AQ": {
+        "name": "Antarktida"
+    },
+    "AR": {
+        "name": "Argentina"
+    },
+    "AS": {
+        "name": "Amerika Samoasi"
+    },
+    "AT": {
+        "name": "Avstriya"
+    },
+    "AU": {
+        "name": "Avstraliya"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Aland orollari"
+    },
+    "AZ": {
+        "name": "Ozarbayjon"
+    },
+    "BA": {
+        "name": "Bosniya va Gertsegovina"
+    },
+    "BB": {
+        "name": "Barbados"
+    },
+    "BD": {
+        "name": "Bangladesh"
+    },
+    "BE": {
+        "name": "Belgiya"
+    },
+    "BF": {
+        "name": "Burkina-Faso"
+    },
+    "BG": {
+        "name": "Bolgariya"
+    },
+    "BH": {
+        "name": "Bahrayn"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "Benin"
+    },
+    "BL": {
+        "name": "Sen-Bartelemi"
+    },
+    "BM": {
+        "name": "Bermuda orollari"
+    },
+    "BN": {
+        "name": "Bruney"
+    },
+    "BO": {
+        "name": "Boliviya"
+    },
+    "BQ": {
+        "name": "Boneyr, Sint-Estatius va Saba"
+    },
+    "BR": {
+        "name": "Braziliya"
+    },
+    "BS": {
+        "name": "Bagama orollari"
+    },
+    "BT": {
+        "name": "Butan"
+    },
+    "BV": {
+        "name": "Buve oroli"
+    },
+    "BW": {
+        "name": "Botsvana"
+    },
+    "BY": {
+        "name": "Belarus"
+    },
+    "BZ": {
+        "name": "Beliz"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CC": {
+        "name": "Kokos (Kiling) orollari"
+    },
+    "CD": {
+        "name": "Kongo \u2013 Kinshasa",
+        "variant": "Kongo (KDR)"
+    },
+    "CF": {
+        "name": "Markaziy Afrika Respublikasi"
+    },
+    "CG": {
+        "name": "Kongo \u2013 Brazzavil",
+        "variant": "Kongo (Respublika)"
+    },
+    "CH": {
+        "name": "Shveytsariya"
+    },
+    "CI": {
+        "name": "Kot-d\u2019Ivuar",
+        "variant": "Fil suyagi qirg\u2018og\u2018i"
+    },
+    "CK": {
+        "name": "Kuk orollari"
+    },
+    "CL": {
+        "name": "Chili"
+    },
+    "CM": {
+        "name": "Kamerun"
+    },
+    "CN": {
+        "name": "Xitoy"
+    },
+    "CO": {
+        "name": "Kolumbiya"
+    },
+    "CP": {
+        "name": "Klipperton oroli"
+    },
+    "CR": {
+        "name": "Kosta-Rika"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "Kabo-Verde"
+    },
+    "CW": {
+        "name": "Kyurasao"
+    },
+    "CX": {
+        "name": "Rojdestvo oroli"
+    },
+    "CY": {
+        "name": "Kipr"
+    },
+    "CZ": {
+        "name": "Chexiya",
+        "variant": "Chexiya Respublikasi"
+    },
+    "DE": {
+        "name": "Germaniya"
+    },
+    "DG": {
+        "name": "Diyego-Garsiya"
+    },
+    "DJ": {
+        "name": "Jibuti"
+    },
+    "DK": {
+        "name": "Daniya"
+    },
+    "DM": {
+        "name": "Dominika"
+    },
+    "DO": {
+        "name": "Dominikan Respublikasi"
+    },
+    "DZ": {
+        "name": "Jazoir"
+    },
+    "EA": {
+        "name": "Seuta va Melilya"
+    },
+    "EC": {
+        "name": "Ekvador"
+    },
+    "EE": {
+        "name": "Estoniya"
+    },
+    "EG": {
+        "name": "Misr"
+    },
+    "EH": {
+        "name": "G\u2018arbiy Sahroi Kabir"
+    },
+    "ER": {
+        "name": "Eritreya"
+    },
+    "ES": {
+        "name": "Ispaniya"
+    },
+    "ET": {
+        "name": "Efiopiya"
+    },
+    "EU": {
+        "name": "Yevropa Ittifoqi"
+    },
+    "EZ": {
+        "name": "yevrozona"
+    },
+    "FI": {
+        "name": "Finlandiya"
+    },
+    "FJ": {
+        "name": "Fiji"
+    },
+    "FK": {
+        "name": "Folklend orollari",
+        "variant": "Folklend (Malvin) orollari"
+    },
+    "FM": {
+        "name": "Mikroneziya"
+    },
+    "FO": {
+        "name": "Farer orollari"
+    },
+    "FR": {
+        "name": "Fransiya"
+    },
+    "GA": {
+        "name": "Gabon"
+    },
+    "GB": {
+        "name": "Buyuk Britaniya",
+        "short": "Britaniya"
+    },
+    "GD": {
+        "name": "Grenada"
+    },
+    "GE": {
+        "name": "Gruziya"
+    },
+    "GF": {
+        "name": "Fransuz Gvianasi"
+    },
+    "GG": {
+        "name": "Gernsi"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "Gibraltar"
+    },
+    "GL": {
+        "name": "Grenlandiya"
+    },
+    "GM": {
+        "name": "Gambiya"
+    },
+    "GN": {
+        "name": "Gvineya"
+    },
+    "GP": {
+        "name": "Gvadelupe"
+    },
+    "GQ": {
+        "name": "Ekvatorial Gvineya"
+    },
+    "GR": {
+        "name": "Gretsiya"
+    },
+    "GS": {
+        "name": "Janubiy Georgiya va Janubiy Sendvich orollari"
+    },
+    "GT": {
+        "name": "Gvatemala"
+    },
+    "GU": {
+        "name": "Guam"
+    },
+    "GW": {
+        "name": "Gvineya-Bisau"
+    },
+    "GY": {
+        "name": "Gayana"
+    },
+    "HK": {
+        "name": "Gonkong (Xitoy MMH)",
+        "short": "Gonkong"
+    },
+    "HM": {
+        "name": "Xerd va Makdonald orollari"
+    },
+    "HN": {
+        "name": "Gonduras"
+    },
+    "HR": {
+        "name": "Xorvatiya"
+    },
+    "HT": {
+        "name": "Gaiti"
+    },
+    "HU": {
+        "name": "Vengriya"
+    },
+    "IC": {
+        "name": "Kanar orollari"
+    },
+    "ID": {
+        "name": "Indoneziya"
+    },
+    "IE": {
+        "name": "Irlandiya"
+    },
+    "IL": {
+        "name": "Isroil"
+    },
+    "IM": {
+        "name": "Men oroli"
+    },
+    "IN": {
+        "name": "Hindiston"
+    },
+    "IO": {
+        "name": "Britaniyaning Hind okeanidagi hududi"
+    },
+    "IQ": {
+        "name": "Iroq"
+    },
+    "IR": {
+        "name": "Eron"
+    },
+    "IS": {
+        "name": "Islandiya"
+    },
+    "IT": {
+        "name": "Italiya"
+    },
+    "JE": {
+        "name": "Jersi"
+    },
+    "JM": {
+        "name": "Yamayka"
+    },
+    "JO": {
+        "name": "Iordaniya"
+    },
+    "JP": {
+        "name": "Yaponiya"
+    },
+    "KE": {
+        "name": "Keniya"
+    },
+    "KG": {
+        "name": "Qirg\u02bbiziston"
+    },
+    "KH": {
+        "name": "Kambodja"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Komor orollari"
+    },
+    "KN": {
+        "name": "Sent-Kits va Nevis"
+    },
+    "KP": {
+        "name": "Shimoliy Koreya"
+    },
+    "KR": {
+        "name": "Janubiy Koreya"
+    },
+    "KW": {
+        "name": "Quvayt"
+    },
+    "KY": {
+        "name": "Kayman orollari"
+    },
+    "KZ": {
+        "name": "Qozog\u02bbiston"
+    },
+    "LA": {
+        "name": "Laos"
+    },
+    "LB": {
+        "name": "Livan"
+    },
+    "LC": {
+        "name": "Sent-Lyusiya"
+    },
+    "LI": {
+        "name": "Lixtenshteyn"
+    },
+    "LK": {
+        "name": "Shri-Lanka"
+    },
+    "LR": {
+        "name": "Liberiya"
+    },
+    "LS": {
+        "name": "Lesoto"
+    },
+    "LT": {
+        "name": "Litva"
+    },
+    "LU": {
+        "name": "Lyuksemburg"
+    },
+    "LV": {
+        "name": "Latviya"
+    },
+    "LY": {
+        "name": "Liviya"
+    },
+    "MA": {
+        "name": "Marokash"
+    },
+    "MC": {
+        "name": "Monako"
+    },
+    "MD": {
+        "name": "Moldova"
+    },
+    "ME": {
+        "name": "Chernogoriya"
+    },
+    "MF": {
+        "name": "Sent-Martin"
+    },
+    "MG": {
+        "name": "Madagaskar"
+    },
+    "MH": {
+        "name": "Marshall orollari"
+    },
+    "MK": {
+        "name": "Shimoliy Makedoniya"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Myanma (Birma)"
+    },
+    "MN": {
+        "name": "Mongoliya"
+    },
+    "MO": {
+        "name": "Makao (Xitoy MMH)",
+        "short": "Makao"
+    },
+    "MP": {
+        "name": "Shimoliy Mariana orollari"
+    },
+    "MQ": {
+        "name": "Martinika"
+    },
+    "MR": {
+        "name": "Mavritaniya"
+    },
+    "MS": {
+        "name": "Montserrat"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Mavrikiy"
+    },
+    "MV": {
+        "name": "Maldiv orollari"
+    },
+    "MW": {
+        "name": "Malavi"
+    },
+    "MX": {
+        "name": "Meksika"
+    },
+    "MY": {
+        "name": "Malayziya"
+    },
+    "MZ": {
+        "name": "Mozambik"
+    },
+    "NA": {
+        "name": "Namibiya"
+    },
+    "NC": {
+        "name": "Yangi Kaledoniya"
+    },
+    "NE": {
+        "name": "Niger"
+    },
+    "NF": {
+        "name": "Norfolk oroli"
+    },
+    "NG": {
+        "name": "Nigeriya"
+    },
+    "NI": {
+        "name": "Nikaragua"
+    },
+    "NL": {
+        "name": "Niderlandiya"
+    },
+    "NO": {
+        "name": "Norvegiya"
+    },
+    "NP": {
+        "name": "Nepal"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "Yangi Zelandiya"
+    },
+    "OM": {
+        "name": "Ummon"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Peru"
+    },
+    "PF": {
+        "name": "Fransuz Polineziyasi"
+    },
+    "PG": {
+        "name": "Papua \u2013 Yangi Gvineya"
+    },
+    "PH": {
+        "name": "Filippin"
+    },
+    "PK": {
+        "name": "Pokiston"
+    },
+    "PL": {
+        "name": "Polsha"
+    },
+    "PM": {
+        "name": "Sen-Pyer va Mikelon"
+    },
+    "PN": {
+        "name": "Pitkern orollari"
+    },
+    "PR": {
+        "name": "Puerto-Riko"
+    },
+    "PS": {
+        "name": "Falastin hududlari",
+        "short": "Falastin"
+    },
+    "PT": {
+        "name": "Portugaliya"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "Paragvay"
+    },
+    "QA": {
+        "name": "Qatar"
+    },
+    "QO": {
+        "name": "Tashqi Okeaniya"
+    },
+    "RE": {
+        "name": "Reyunion"
+    },
+    "RO": {
+        "name": "Ruminiya"
+    },
+    "RS": {
+        "name": "Serbiya"
+    },
+    "RU": {
+        "name": "Rossiya"
+    },
+    "RW": {
+        "name": "Ruanda"
+    },
+    "SA": {
+        "name": "Saudiya Arabistoni"
+    },
+    "SB": {
+        "name": "Solomon orollari"
+    },
+    "SC": {
+        "name": "Seyshel orollari"
+    },
+    "SD": {
+        "name": "Sudan"
+    },
+    "SE": {
+        "name": "Shvetsiya"
+    },
+    "SG": {
+        "name": "Singapur"
+    },
+    "SH": {
+        "name": "Muqaddas Yelena oroli"
+    },
+    "SI": {
+        "name": "Sloveniya"
+    },
+    "SJ": {
+        "name": "Shpitsbergen va Yan-Mayen"
+    },
+    "SK": {
+        "name": "Slovakiya"
+    },
+    "SL": {
+        "name": "Syerra-Leone"
+    },
+    "SM": {
+        "name": "San-Marino"
+    },
+    "SN": {
+        "name": "Senegal"
+    },
+    "SO": {
+        "name": "Somali"
+    },
+    "SR": {
+        "name": "Surinam"
+    },
+    "SS": {
+        "name": "Janubiy Sudan"
+    },
+    "ST": {
+        "name": "San-Tome va Prinsipi"
+    },
+    "SV": {
+        "name": "Salvador"
+    },
+    "SX": {
+        "name": "Sint-Marten"
+    },
+    "SY": {
+        "name": "Suriya"
+    },
+    "SZ": {
+        "name": "Svazilend"
+    },
+    "TA": {
+        "name": "Tristan-da-Kunya"
+    },
+    "TC": {
+        "name": "Turks va Kaykos orollari"
+    },
+    "TD": {
+        "name": "Chad"
+    },
+    "TF": {
+        "name": "Fransuz Janubiy hududlari"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "Tailand"
+    },
+    "TJ": {
+        "name": "Tojikiston"
+    },
+    "TK": {
+        "name": "Tokelau"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "variant": "Sharqiy Timor"
+    },
+    "TM": {
+        "name": "Turkmaniston"
+    },
+    "TN": {
+        "name": "Tunis"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Turkiya"
+    },
+    "TT": {
+        "name": "Trinidad va Tobago"
+    },
+    "TV": {
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "name": "Tayvan"
+    },
+    "TZ": {
+        "name": "Tanzaniya"
+    },
+    "UA": {
+        "name": "Ukraina"
+    },
+    "UG": {
+        "name": "Uganda"
+    },
+    "UM": {
+        "name": "AQSH yondosh orollari"
+    },
+    "UN": {
+        "name": "Birlashgan Millatlar Tashkiloti",
+        "short": "BMT"
+    },
+    "US": {
+        "name": "Amerika Qo\u2018shma Shtatlari",
+        "short": "AQSH"
+    },
+    "UY": {
+        "name": "Urugvay"
+    },
+    "UZ": {
+        "name": "O\u02bbzbekiston"
+    },
+    "VA": {
+        "name": "Vatikan"
+    },
+    "VC": {
+        "name": "Sent-Vinsent va Grenadin"
+    },
+    "VE": {
+        "name": "Venesuela"
+    },
+    "VG": {
+        "name": "Britaniya Virgin orollari"
+    },
+    "VI": {
+        "name": "AQSH Virgin orollari"
+    },
+    "VN": {
+        "name": "Vyetnam"
+    },
+    "VU": {
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "name": "Uollis va Futuna"
+    },
+    "WS": {
+        "name": "Samoa"
+    },
+    "XA": {
+        "name": "Qalbaki urg\u2018u"
+    },
+    "XB": {
+        "name": "Qalbaki Bidi"
+    },
+    "XK": {
+        "name": "Kosovo"
+    },
+    "YE": {
+        "name": "Yaman"
+    },
+    "YT": {
+        "name": "Mayotta"
+    },
+    "ZA": {
+        "name": "Janubiy Afrika Respublikasi"
+    },
+    "ZM": {
+        "name": "Zambiya"
+    },
+    "ZW": {
+        "name": "Zimbabve"
+    },
+    "ZZ": {
+        "name": "Noma\u2019lum mintaqa"
+    }
+}

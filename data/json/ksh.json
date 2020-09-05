@@ -1,0 +1,871 @@
+{
+    "001": {
+        "name": "de \u00c4\u00e4d"
+    },
+    "002": {
+        "name": "Affrika"
+    },
+    "003": {
+        "name": "Nood-Am\u00e4rrika"
+    },
+    "005": {
+        "name": "S\u00f6hd-Am\u00e4rrika"
+    },
+    "009": {
+        "name": "Ozejahneje"
+    },
+    "011": {
+        "name": "W\u00e4\u00df-Affrika"
+    },
+    "013": {
+        "name": "Meddelamm\u00e4rrika"
+    },
+    "014": {
+        "name": "O\u00df-Affrika"
+    },
+    "015": {
+        "name": "Nood-Affrika"
+    },
+    "017": {
+        "name": "Meddel-Affrika"
+    },
+    "018": {
+        "name": "S\u00f6hd-Affrika"
+    },
+    "019": {
+        "name": "Amm\u00e4rrika"
+    },
+    "021": {
+        "name": "der Norde vun Am\u00e4rrika"
+    },
+    "029": {
+        "name": "de Karribik"
+    },
+    "030": {
+        "name": "O\u00df-Aasije"
+    },
+    "034": {
+        "name": "S\u00f6hd-Aasije"
+    },
+    "035": {
+        "name": "S\u00f6hd-O\u00df-Aasije"
+    },
+    "039": {
+        "name": "S\u00f6hd-Europpa"
+    },
+    "053": {
+        "name": "de Rejjohn \u00f6m Austrahlije"
+    },
+    "054": {
+        "name": "Mellanehsije"
+    },
+    "057": {
+        "name": "de Rejohn vun Mikronehseje"
+    },
+    "061": {
+        "name": "Polinehsije"
+    },
+    "142": {
+        "name": "Aasije"
+    },
+    "143": {
+        "name": "Meddelaasije"
+    },
+    "145": {
+        "name": "W\u00e4\u00df-Aasije"
+    },
+    "150": {
+        "name": "Europpa"
+    },
+    "151": {
+        "name": "O\u00df-Europpa"
+    },
+    "154": {
+        "name": "Nood-Europpa"
+    },
+    "155": {
+        "name": "W\u00e4\u00df-Europpa"
+    },
+    "419": {
+        "name": "Lateinam\u00e4rrika"
+    },
+    "AC": {
+        "name": "A\u00dfension"
+    },
+    "AD": {
+        "name": "Andorra"
+    },
+    "AE": {
+        "name": "Vereinschte Arrabesche Emmirate"
+    },
+    "AF": {
+        "name": "Afjaanistahn"
+    },
+    "AG": {
+        "name": "Antigwa un Barbuda"
+    },
+    "AI": {
+        "name": "Anggwilla"
+    },
+    "AL": {
+        "name": "Albaanije"
+    },
+    "AM": {
+        "name": "Arrmeenije"
+    },
+    "AO": {
+        "name": "Angjoola"
+    },
+    "AQ": {
+        "name": "der S\u00f6dpol"
+    },
+    "AR": {
+        "name": "Ajjentiinije"
+    },
+    "AS": {
+        "name": "Ammerikaanesch Sammoha"
+    },
+    "AT": {
+        "name": "\u00d6\u00f6sterisch"
+    },
+    "AU": {
+        "name": "Austraalije"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "de Ohland-Enselle"
+    },
+    "AZ": {
+        "name": "Asserbaidschahn"
+    },
+    "BA": {
+        "name": "Bo\u00dfnije un Herzegovina"
+    },
+    "BB": {
+        "name": "de Ensel Barbados"
+    },
+    "BD": {
+        "name": "Bangladesch"
+    },
+    "BE": {
+        "name": "Bellje"
+    },
+    "BF": {
+        "name": "Bukkinna-Faase"
+    },
+    "BG": {
+        "name": "Bulljaarije"
+    },
+    "BH": {
+        "name": "Bachrain"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "d\u00e4 Benin"
+    },
+    "BL": {
+        "name": "de Zint Batt\u00e4lmi-Enselle"
+    },
+    "BM": {
+        "name": "de Bermudas"
+    },
+    "BN": {
+        "name": "Brunei"
+    },
+    "BO": {
+        "name": "Bolliivije"
+    },
+    "BQ": {
+        "name": "de karribbesche Nederl\u00e4ng"
+    },
+    "BR": {
+        "name": "Brasilije"
+    },
+    "BS": {
+        "name": "de Bahamas"
+    },
+    "BT": {
+        "name": "Buttaan"
+    },
+    "BV": {
+        "name": "de Buvee-Ensel"
+    },
+    "BW": {
+        "name": "Bozwaana"
+    },
+    "BY": {
+        "name": "Wie\u00dfru\u00dfland"
+    },
+    "BZ": {
+        "name": "Belize"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CC": {
+        "name": "de Kokkos-Enselle"
+    },
+    "CD": {
+        "name": "d\u00e4 Konggo (Kinschasa)",
+        "variant": "de Demmokraatesche Republik Konggo"
+    },
+    "CF": {
+        "name": "de Z\u00e4ntraalaffrikaanesche Republik"
+    },
+    "CG": {
+        "name": "d\u00e4 Konggo (Brassavill)",
+        "variant": "de Republik Konggo"
+    },
+    "CH": {
+        "name": "de Schweiz"
+    },
+    "CI": {
+        "name": "\u00c4lfebeijn-K\u00f6\u00df",
+        "variant": "de \u00c4lfebeijnk\u00f6\u00df"
+    },
+    "CK": {
+        "name": "de Kuuk-Enselle"
+    },
+    "CL": {
+        "name": "Schiile"
+    },
+    "CM": {
+        "name": "Kammeruhn"
+    },
+    "CN": {
+        "name": "Schiina"
+    },
+    "CO": {
+        "name": "Kolumbije"
+    },
+    "CP": {
+        "name": "de Klipperton-Ensel"
+    },
+    "CR": {
+        "name": "Kostarika"
+    },
+    "CU": {
+        "name": "Kuhba"
+    },
+    "CV": {
+        "name": "de kapv\u00e4rdesche Enselle"
+    },
+    "CW": {
+        "name": "Cura\u00e7ao"
+    },
+    "CX": {
+        "name": "de Weihnaachs-Ensel"
+    },
+    "CY": {
+        "name": "Z\u00fcppere"
+    },
+    "CZ": {
+        "name": "de Tsch\u00e4schei"
+    },
+    "DE": {
+        "name": "Do\u00fctschland"
+    },
+    "DG": {
+        "name": "de Diego-Garcia-Ensel"
+    },
+    "DJ": {
+        "name": "Dschibutti"
+    },
+    "DK": {
+        "name": "D\u00e4nemark"
+    },
+    "DM": {
+        "name": "Dominnika"
+    },
+    "DO": {
+        "name": "de Dommenekaanesche Reppublik"
+    },
+    "DZ": {
+        "name": "Alljeerije"
+    },
+    "EA": {
+        "name": "Ze\u2019uta un Meliija"
+    },
+    "EC": {
+        "name": "\u00c4kwador"
+    },
+    "EE": {
+        "name": "\u00c4\u00dfland"
+    },
+    "EG": {
+        "name": "\u00c4j\u00fcpte"
+    },
+    "EH": {
+        "name": "W\u00e4\u00df-Sahara"
+    },
+    "ER": {
+        "name": "\u00c4ritreja"
+    },
+    "ES": {
+        "name": "Schpaanije"
+    },
+    "ET": {
+        "name": "\u00c4ttijoopije"
+    },
+    "EU": {
+        "name": "de Europ\u00e4hjesche Unijon"
+    },
+    "FI": {
+        "name": "Finnland"
+    },
+    "FJ": {
+        "name": "de Fidschi-Endelle"
+    },
+    "FK": {
+        "name": "de Falkland-Enselle",
+        "variant": "de malleviinesche Enselle"
+    },
+    "FM": {
+        "name": "Mikroneesije"
+    },
+    "FO": {
+        "name": "de F\u00e4rr\u00f6r-Enselle"
+    },
+    "FR": {
+        "name": "Frankrisch"
+    },
+    "GA": {
+        "name": "Jabuhn"
+    },
+    "GB": {
+        "name": "Jruu\u00dfbrettannije"
+    },
+    "GD": {
+        "name": "Jrenahda"
+    },
+    "GE": {
+        "name": "Jeorrjije"
+    },
+    "GF": {
+        "name": "Franz\u00fc\u00fcsesch Jujaana"
+    },
+    "GG": {
+        "name": "J\u00f6\u00f6nsei"
+    },
+    "GH": {
+        "name": "Jaana"
+    },
+    "GI": {
+        "name": "Jibralltaa"
+    },
+    "GL": {
+        "name": "Jr\u00f6hnland"
+    },
+    "GM": {
+        "name": "Jambija"
+    },
+    "GN": {
+        "name": "Jinneha"
+    },
+    "GP": {
+        "name": "Juadelupp"
+    },
+    "GQ": {
+        "name": "\u00c4quatorial Jineeja"
+    },
+    "GR": {
+        "name": "Jriescheland"
+    },
+    "GS": {
+        "name": "S\u00f6d-Jeorjie un de s\u00f6dlijje Botteramms-Enselle"
+    },
+    "GT": {
+        "name": "Juwatemahla"
+    },
+    "GU": {
+        "name": "Juham"
+    },
+    "GW": {
+        "name": "Jinneha_Bi\u00dfau"
+    },
+    "GY": {
+        "name": "Jujaana"
+    },
+    "HK": {
+        "name": "Hongkong"
+    },
+    "HM": {
+        "name": "de Heart Ensel un de McDonald-Enselle"
+    },
+    "HN": {
+        "name": "Honduras"
+    },
+    "HR": {
+        "name": "Krowazije"
+    },
+    "HT": {
+        "name": "Ha\u2019itti"
+    },
+    "HU": {
+        "name": "Unjann"
+    },
+    "IC": {
+        "name": "de Kannaresche Enselle"
+    },
+    "ID": {
+        "name": "Indoneesije"
+    },
+    "IE": {
+        "name": "Irrland"
+    },
+    "IL": {
+        "name": "I\u00dfra\u00e4l"
+    },
+    "IM": {
+        "name": "de Ensel M\u00e4n"
+    },
+    "IN": {
+        "name": "Indije"
+    },
+    "IO": {
+        "name": "Brettesche Besezunge em indesche Oozejahn"
+    },
+    "IQ": {
+        "name": "Irak"
+    },
+    "IR": {
+        "name": "Persije"
+    },
+    "IS": {
+        "name": "I\u00dfland"
+    },
+    "IT": {
+        "name": "Itaalije"
+    },
+    "JE": {
+        "name": "J\u00f6\u00f6seh"
+    },
+    "JM": {
+        "name": "Jammaika"
+    },
+    "JO": {
+        "name": "Jordaanije"
+    },
+    "JP": {
+        "name": "Japan"
+    },
+    "KE": {
+        "name": "Keenija"
+    },
+    "KG": {
+        "name": "Kirrjiisije"
+    },
+    "KH": {
+        "name": "Kambodscha"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "de Kommoore"
+    },
+    "KN": {
+        "name": "Zint Kitts un Nevis"
+    },
+    "KP": {
+        "name": "Nood-Koreja"
+    },
+    "KR": {
+        "name": "S\u00f6d-Koreja"
+    },
+    "KW": {
+        "name": "Kuweit"
+    },
+    "KY": {
+        "name": "de Kaiman-Enselle"
+    },
+    "KZ": {
+        "name": "Kassakstahn"
+    },
+    "LA": {
+        "name": "La\u2019os"
+    },
+    "LB": {
+        "name": "Lebbannon"
+    },
+    "LC": {
+        "name": "de Ensel Zint-Lutscha"
+    },
+    "LI": {
+        "name": "Lischteschtein"
+    },
+    "LK": {
+        "name": "Sri Lanka"
+    },
+    "LR": {
+        "name": "Libeerija"
+    },
+    "LS": {
+        "name": "Lesooto"
+    },
+    "LT": {
+        "name": "Littaue"
+    },
+    "LU": {
+        "name": "Luxembursch"
+    },
+    "LV": {
+        "name": "L\u00e4tland"
+    },
+    "LY": {
+        "name": "Libbije"
+    },
+    "MA": {
+        "name": "Marokko"
+    },
+    "MC": {
+        "name": "Monakko"
+    },
+    "MD": {
+        "name": "Moldaavije"
+    },
+    "ME": {
+        "name": "et Monteneejro"
+    },
+    "MF": {
+        "name": "de Zint-M\u00e4\u00e4tes-Ensel"
+    },
+    "MG": {
+        "name": "Maddajaska"
+    },
+    "MH": {
+        "name": "de Machschall-Enselle"
+    },
+    "ML": {
+        "name": "Maali"
+    },
+    "MM": {
+        "name": "Birma"
+    },
+    "MN": {
+        "name": "Mongjolei"
+    },
+    "MO": {
+        "name": "Makau"
+    },
+    "MP": {
+        "name": "de n\u00f6\u00f6dlijje Marijanne-Enselle"
+    },
+    "MQ": {
+        "name": "Machtinik"
+    },
+    "MR": {
+        "name": "Mautitaanije"
+    },
+    "MS": {
+        "name": "Mong\u00dferrat"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Maurizijus"
+    },
+    "MV": {
+        "name": "Mallediive"
+    },
+    "MW": {
+        "name": "Malawi"
+    },
+    "MX": {
+        "name": "M\u00e4xiko"
+    },
+    "MY": {
+        "name": "Malaisije"
+    },
+    "MZ": {
+        "name": "Mosambik"
+    },
+    "NA": {
+        "name": "Namiibije"
+    },
+    "NC": {
+        "name": "Neuschottland"
+    },
+    "NE": {
+        "name": "Nijer"
+    },
+    "NF": {
+        "name": "de Noofok-Ensel"
+    },
+    "NG": {
+        "name": "Nikaraagua"
+    },
+    "NI": {
+        "name": "Nikarahguwa"
+    },
+    "NL": {
+        "name": "de Nederl\u00e4ng"
+    },
+    "NO": {
+        "name": "Norrweeje"
+    },
+    "NP": {
+        "name": "Nepall"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "Neuseeland"
+    },
+    "OM": {
+        "name": "Oman"
+    },
+    "PA": {
+        "name": "Pannama"
+    },
+    "PE": {
+        "name": "Perruh"
+    },
+    "PF": {
+        "name": "Franz\u00fc\u00fcsesch Pollineesije"
+    },
+    "PG": {
+        "name": "Papuwa Neujineeja"
+    },
+    "PH": {
+        "name": "Fillipiine"
+    },
+    "PK": {
+        "name": "Pakistahn"
+    },
+    "PL": {
+        "name": "Pole"
+    },
+    "PM": {
+        "name": "Zint Pj\u00e4\u00e4r un Mikelong"
+    },
+    "PN": {
+        "name": "de Pitk\u00e4rn-Ensel"
+    },
+    "PR": {
+        "name": "Pochtoriko"
+    },
+    "PS": {
+        "name": "Pal\u00e4stina"
+    },
+    "PT": {
+        "name": "Pochtojall"
+    },
+    "PW": {
+        "name": "Pallau"
+    },
+    "PY": {
+        "name": "Parraguwai"
+    },
+    "QA": {
+        "name": "Kataa"
+    },
+    "QO": {
+        "name": "Ozejahnije u\u00dferhallef"
+    },
+    "RE": {
+        "name": "Rehunjohn"
+    },
+    "RO": {
+        "name": "Rom\u00e4\u00e4nije"
+    },
+    "RS": {
+        "name": "S\u00e4rbije"
+    },
+    "RU": {
+        "name": "Ru\u00dfland"
+    },
+    "RW": {
+        "name": "Ruanda"
+    },
+    "SA": {
+        "name": "Saudi Arraabije"
+    },
+    "SB": {
+        "name": "de Solomone-Enselle"
+    },
+    "SC": {
+        "name": "de Seisch\u00e4lle"
+    },
+    "SD": {
+        "name": "Noodsudahn"
+    },
+    "SE": {
+        "name": "Schweede"
+    },
+    "SG": {
+        "name": "Singjapuur"
+    },
+    "SH": {
+        "name": "de Ensel Zint Hellena"
+    },
+    "SI": {
+        "name": "\u1e9eloveenije"
+    },
+    "SJ": {
+        "name": "de Enselle Svalbard un Jan Mayen"
+    },
+    "SK": {
+        "name": "\u1e9elovakei"
+    },
+    "SL": {
+        "name": "Sj\u00e4rra Lejone"
+    },
+    "SM": {
+        "name": "San-Marino"
+    },
+    "SN": {
+        "name": "der Sennejall"
+    },
+    "SO": {
+        "name": "Somaalije"
+    },
+    "SR": {
+        "name": "S\u00fcrinamm"
+    },
+    "SS": {
+        "name": "S\u00f6dsudahn"
+    },
+    "ST": {
+        "name": "Zint Tommeh un Printschipe"
+    },
+    "SV": {
+        "name": "\u00c4l Slavadohr"
+    },
+    "SX": {
+        "name": "Zint Maarten"
+    },
+    "SY": {
+        "name": "S\u00fcrije"
+    },
+    "SZ": {
+        "name": "\u1e9ewaasiland"
+    },
+    "TA": {
+        "name": "Tristan da Cunja"
+    },
+    "TC": {
+        "name": "de Enselle Turks un Kaikos"
+    },
+    "TD": {
+        "name": "der Tschadd"
+    },
+    "TF": {
+        "name": "Franz\u00fc\u00fcsesche S\u00f6dsee-Enselle"
+    },
+    "TG": {
+        "name": "Toojo"
+    },
+    "TH": {
+        "name": "Tailand"
+    },
+    "TJ": {
+        "name": "Tadschikistahn"
+    },
+    "TK": {
+        "name": "Tokelau"
+    },
+    "TL": {
+        "name": "O\u00df-Timor"
+    },
+    "TM": {
+        "name": "Turkmenistahn"
+    },
+    "TN": {
+        "name": "Tuneesije"
+    },
+    "TO": {
+        "name": "Tongga"
+    },
+    "TR": {
+        "name": "de T\u00f6rkei"
+    },
+    "TT": {
+        "name": "Trinidad un Tob\u00e4hjo"
+    },
+    "TV": {
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "name": "Taiwan"
+    },
+    "TZ": {
+        "name": "Tansanija"
+    },
+    "UA": {
+        "name": "de Ukra\u2019iine"
+    },
+    "UG": {
+        "name": "Ujanda"
+    },
+    "UM": {
+        "name": "de Vereineschte Schtaate vun Am\u00e4rrika ier u\u00dferhallef jel\u00e4\u00e4je Enselsche"
+    },
+    "US": {
+        "name": "de vereineschte Schtaate vun Amm\u00e4rrika",
+        "short": "USA"
+    },
+    "UY": {
+        "name": "Urrujwai"
+    },
+    "UZ": {
+        "name": "U\u00dfbeekistahn"
+    },
+    "VA": {
+        "name": "der Vattikahn"
+    },
+    "VC": {
+        "name": "Zint Vinz\u00e4nz un de Jrenadines-Enselle"
+    },
+    "VE": {
+        "name": "Venezuela"
+    },
+    "VG": {
+        "name": "de brettesche Juffer-Enselle"
+    },
+    "VI": {
+        "name": "de amm\u00e4rrikahnesche Juffer-Enselle"
+    },
+    "VN": {
+        "name": "Vij\u00e4tnamm"
+    },
+    "VU": {
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "name": "Wallis un Futuna"
+    },
+    "WS": {
+        "name": "Sammoha"
+    },
+    "XK": {
+        "name": "Kosovo"
+    },
+    "YE": {
+        "name": "J\u00e4mme"
+    },
+    "YT": {
+        "name": "Majott"
+    },
+    "ZA": {
+        "name": "de Republik S\u00f6daffrika"
+    },
+    "ZM": {
+        "name": "Sambija"
+    },
+    "ZW": {
+        "name": "Simbabwe"
+    },
+    "ZZ": {
+        "name": "- J\u00e4hjend onbikannt -"
+    }
+}

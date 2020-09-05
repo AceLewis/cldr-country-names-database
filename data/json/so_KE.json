@@ -1,0 +1,893 @@
+{
+    "001": {
+        "name": "Dunida"
+    },
+    "002": {
+        "name": "Afrika"
+    },
+    "003": {
+        "name": "Waqooyi Ameerika"
+    },
+    "005": {
+        "name": "Koonfur Ameerika"
+    },
+    "009": {
+        "name": "Osheeniya"
+    },
+    "011": {
+        "name": "Galbeeka Afrika"
+    },
+    "013": {
+        "name": "Bartamaha Ameerika"
+    },
+    "014": {
+        "name": "Afrikada Bari"
+    },
+    "015": {
+        "name": "Waqooyiga Afrika"
+    },
+    "017": {
+        "name": "Afrikada Dhexe"
+    },
+    "018": {
+        "name": "Afrikada Koonfureed"
+    },
+    "019": {
+        "name": "Ameerikaas"
+    },
+    "021": {
+        "name": "Waqooyiga Ameerika"
+    },
+    "029": {
+        "name": "Karibiyaan"
+    },
+    "030": {
+        "name": "Aasiyada Bari"
+    },
+    "034": {
+        "name": "Aasiyada Koonfureed"
+    },
+    "035": {
+        "name": "Aasiyada Koonfur-galbeed"
+    },
+    "039": {
+        "name": "Yurubta Koonfureed"
+    },
+    "053": {
+        "name": "Austraalaasiya"
+    },
+    "054": {
+        "name": "Melaneesiya"
+    },
+    "057": {
+        "name": "Gobolka Aasiyada yar"
+    },
+    "061": {
+        "name": "Booliyneesiya"
+    },
+    "142": {
+        "name": "Aasiya"
+    },
+    "143": {
+        "name": "Bartamaha Aasiya"
+    },
+    "145": {
+        "name": "Aasiyada Galbeed"
+    },
+    "150": {
+        "name": "Yurub"
+    },
+    "151": {
+        "name": "Yurubta Bari"
+    },
+    "154": {
+        "name": "Yurubta Waqooyi"
+    },
+    "155": {
+        "name": "Yurubta Galbeed"
+    },
+    "202": {
+        "name": "Afrikada ka hooseysa Saxaraha"
+    },
+    "419": {
+        "name": "Laatiin Ameerika"
+    },
+    "AC": {
+        "name": "Jasiiradda Asensiyoon"
+    },
+    "AD": {
+        "name": "Andora"
+    },
+    "AE": {
+        "name": "Imaaraadka Carabta ee Midoobay"
+    },
+    "AF": {
+        "name": "Afgaanistaan"
+    },
+    "AG": {
+        "name": "Antigua & Barbuuda"
+    },
+    "AI": {
+        "name": "Anguula"
+    },
+    "AL": {
+        "name": "Albaaniya"
+    },
+    "AM": {
+        "name": "Armeeniya"
+    },
+    "AO": {
+        "name": "Angoola"
+    },
+    "AQ": {
+        "name": "Antaarktika"
+    },
+    "AR": {
+        "name": "Arjentiina"
+    },
+    "AS": {
+        "name": "Samowa Ameerika"
+    },
+    "AT": {
+        "name": "Awsteriya"
+    },
+    "AU": {
+        "name": "Awstaraaliya"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Jasiiradda Aland"
+    },
+    "AZ": {
+        "name": "Asarbajan"
+    },
+    "BA": {
+        "name": "Boosniya & Harsegofina"
+    },
+    "BB": {
+        "name": "Baarbadoos"
+    },
+    "BD": {
+        "name": "Bangladesh"
+    },
+    "BE": {
+        "name": "Biljam"
+    },
+    "BF": {
+        "name": "Burkiina Faaso"
+    },
+    "BG": {
+        "name": "Bulgaariya"
+    },
+    "BH": {
+        "name": "Baxreyn"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "Biniin"
+    },
+    "BL": {
+        "name": "St. Baathelemiy"
+    },
+    "BM": {
+        "name": "Barmuuda"
+    },
+    "BN": {
+        "name": "Buruneeya"
+    },
+    "BO": {
+        "name": "Boliifiya"
+    },
+    "BQ": {
+        "name": "Karibiyaan Nadarlands"
+    },
+    "BR": {
+        "name": "Baraasiil"
+    },
+    "BS": {
+        "name": "Bahaamas"
+    },
+    "BT": {
+        "name": "Buutan"
+    },
+    "BV": {
+        "name": "Buufet Island"
+    },
+    "BW": {
+        "name": "Botuswaana"
+    },
+    "BY": {
+        "name": "Belarus"
+    },
+    "BZ": {
+        "name": "Beliis"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CC": {
+        "name": "Jasiiradda Kookoos"
+    },
+    "CD": {
+        "name": "Jamhuuriyadda Dimuquraadiga Kongo",
+        "variant": "Jamhuuriyadda Dimuqaadiga Kongo"
+    },
+    "CF": {
+        "name": "Jamhuuriyadda Afrikada Dhexe"
+    },
+    "CG": {
+        "name": "Kongo",
+        "variant": "Jamhuuriyadda Kongo"
+    },
+    "CH": {
+        "name": "Swiiserlaand"
+    },
+    "CI": {
+        "name": "Ayfori Koost",
+        "variant": "Aayforikoost"
+    },
+    "CK": {
+        "name": "Jasiiradda Kook"
+    },
+    "CL": {
+        "name": "Jili"
+    },
+    "CM": {
+        "name": "Kaameruun"
+    },
+    "CN": {
+        "name": "Shiinaha"
+    },
+    "CO": {
+        "name": "Koloombiya"
+    },
+    "CP": {
+        "name": "Jasiiradda Kilibarton"
+    },
+    "CR": {
+        "name": "Kosta Riika"
+    },
+    "CU": {
+        "name": "Kuuba"
+    },
+    "CV": {
+        "name": "Jasiiradda Kayb Faarde"
+    },
+    "CW": {
+        "name": "Kurakaaw"
+    },
+    "CX": {
+        "name": "Jasiiradda Kirismas"
+    },
+    "CY": {
+        "name": "Qubrus"
+    },
+    "CZ": {
+        "name": "Jekiya",
+        "variant": "Jamhuuriyadda Jek"
+    },
+    "DE": {
+        "name": "Jarmal"
+    },
+    "DG": {
+        "name": "Diyeego Karsiya"
+    },
+    "DJ": {
+        "name": "Jabuuti"
+    },
+    "DK": {
+        "name": "Denmark"
+    },
+    "DM": {
+        "name": "Dominika"
+    },
+    "DO": {
+        "name": "Jamhuuriyaddda Dominika"
+    },
+    "DZ": {
+        "name": "Aljeeriya"
+    },
+    "EA": {
+        "name": "Seyuta & Meliila"
+    },
+    "EC": {
+        "name": "Ikuwadoor"
+    },
+    "EE": {
+        "name": "Estooniya"
+    },
+    "EG": {
+        "name": "Masar"
+    },
+    "EH": {
+        "name": "Saxaraha Galbeed"
+    },
+    "ER": {
+        "name": "Eritreeya"
+    },
+    "ES": {
+        "name": "Isbeyn"
+    },
+    "ET": {
+        "name": "Itoobiya"
+    },
+    "EU": {
+        "name": "Midowga Yurub"
+    },
+    "EZ": {
+        "name": "Yurusoon"
+    },
+    "FI": {
+        "name": "Finland"
+    },
+    "FJ": {
+        "name": "Fiji"
+    },
+    "FK": {
+        "name": "Jaziiradaha Fooklaan",
+        "variant": "Jasiiradaha Fookland"
+    },
+    "FM": {
+        "name": "Mikroneesiya"
+    },
+    "FO": {
+        "name": "Jasiiradda Faroo"
+    },
+    "FR": {
+        "name": "Faransiis"
+    },
+    "GA": {
+        "name": "Gaaboon"
+    },
+    "GB": {
+        "name": "Boqortooyada Midowday",
+        "short": "UK"
+    },
+    "GD": {
+        "name": "Giriinaada"
+    },
+    "GE": {
+        "name": "Joorjiya"
+    },
+    "GF": {
+        "name": "Faransiis Gini"
+    },
+    "GG": {
+        "name": "Guurnsey"
+    },
+    "GH": {
+        "name": "Gaana"
+    },
+    "GI": {
+        "name": "Gibraltar"
+    },
+    "GL": {
+        "name": "Greenland"
+    },
+    "GM": {
+        "name": "Gambiya"
+    },
+    "GN": {
+        "name": "Gini"
+    },
+    "GP": {
+        "name": "Guadeluub"
+    },
+    "GQ": {
+        "name": "Ekuwatooriyal Gini"
+    },
+    "GR": {
+        "name": "Giriig"
+    },
+    "GS": {
+        "name": "Jasiiradda Joorjiyada Koonfureed & Sandwij"
+    },
+    "GT": {
+        "name": "Guwaatamaala"
+    },
+    "GU": {
+        "name": "Guaam"
+    },
+    "GW": {
+        "name": "Gini-Bisaaw"
+    },
+    "GY": {
+        "name": "Guyana"
+    },
+    "HK": {
+        "name": "Hong Kong"
+    },
+    "HM": {
+        "name": "Jasiiradda Haad & MakDonald"
+    },
+    "HN": {
+        "name": "Honduras"
+    },
+    "HR": {
+        "name": "Korweeshiya"
+    },
+    "HT": {
+        "name": "Haiti"
+    },
+    "HU": {
+        "name": "Hangari"
+    },
+    "IC": {
+        "name": "Jasiiradda Kanari"
+    },
+    "ID": {
+        "name": "Indoneesiya"
+    },
+    "IE": {
+        "name": "Ayrlaand"
+    },
+    "IL": {
+        "name": "Israa\u02bciil"
+    },
+    "IM": {
+        "name": "Jasiiradda Isle of Man"
+    },
+    "IN": {
+        "name": "Hindiya"
+    },
+    "IO": {
+        "name": "Dhul xadeedka Badweynta Hindiya ee Biritishka"
+    },
+    "IQ": {
+        "name": "Ciraaq"
+    },
+    "IR": {
+        "name": "Iiraan"
+    },
+    "IS": {
+        "name": "Ayslaand"
+    },
+    "IT": {
+        "name": "Talyaani"
+    },
+    "JE": {
+        "name": "Jaarsey"
+    },
+    "JM": {
+        "name": "Jamaaika"
+    },
+    "JO": {
+        "name": "Urdun"
+    },
+    "JP": {
+        "name": "Jabaan"
+    },
+    "KE": {
+        "name": "Kenya"
+    },
+    "KG": {
+        "name": "Kirgistaan"
+    },
+    "KH": {
+        "name": "Kamboodiya"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Komooros"
+    },
+    "KN": {
+        "name": "St. Kitts & Nefis"
+    },
+    "KP": {
+        "name": "Kuuriyada Waqooyi"
+    },
+    "KR": {
+        "name": "Kuuriyada Koonfureed"
+    },
+    "KW": {
+        "name": "Kuwayt"
+    },
+    "KY": {
+        "name": "Cayman Islands"
+    },
+    "KZ": {
+        "name": "Kasaakhistaan"
+    },
+    "LA": {
+        "name": "Laos"
+    },
+    "LB": {
+        "name": "Lubnaan"
+    },
+    "LC": {
+        "name": "St. Lusia"
+    },
+    "LI": {
+        "name": "Liyjtensteyn"
+    },
+    "LK": {
+        "name": "Sirilaanka"
+    },
+    "LR": {
+        "name": "Laybeeriya"
+    },
+    "LS": {
+        "name": "Losooto"
+    },
+    "LT": {
+        "name": "Lituweeniya"
+    },
+    "LU": {
+        "name": "Luksemboorg"
+    },
+    "LV": {
+        "name": "Latfiya"
+    },
+    "LY": {
+        "name": "Liibya"
+    },
+    "MA": {
+        "name": "Morooko"
+    },
+    "MC": {
+        "name": "Moonako"
+    },
+    "MD": {
+        "name": "Moldofa"
+    },
+    "ME": {
+        "name": "Moontenegro"
+    },
+    "MF": {
+        "name": "St. Maartin"
+    },
+    "MG": {
+        "name": "Madagaskar"
+    },
+    "MH": {
+        "name": "Jasiiradda Maarshal"
+    },
+    "MK": {
+        "name": "Masedooniya Waqooyi"
+    },
+    "ML": {
+        "name": "Maali"
+    },
+    "MM": {
+        "name": "Miyanmar"
+    },
+    "MN": {
+        "name": "Mongooliya"
+    },
+    "MO": {
+        "name": "Makaaw"
+    },
+    "MP": {
+        "name": "Jasiiradda Waqooyiga Mariaana"
+    },
+    "MQ": {
+        "name": "Maartinik"
+    },
+    "MR": {
+        "name": "Muritaaniya"
+    },
+    "MS": {
+        "name": "Montserrat"
+    },
+    "MT": {
+        "name": "Maalta"
+    },
+    "MU": {
+        "name": "Mawrishiyaas"
+    },
+    "MV": {
+        "name": "Maaldiqeen"
+    },
+    "MW": {
+        "name": "Malaawi"
+    },
+    "MX": {
+        "name": "Meksiko"
+    },
+    "MY": {
+        "name": "Malaysia"
+    },
+    "MZ": {
+        "name": "Musambiik"
+    },
+    "NA": {
+        "name": "Namiibiya"
+    },
+    "NC": {
+        "name": "Jasiiradda Niyuu Kaledooniya"
+    },
+    "NE": {
+        "name": "Nayjer"
+    },
+    "NF": {
+        "name": "Jasiiradda Noorfolk"
+    },
+    "NG": {
+        "name": "Nayjeeriya"
+    },
+    "NI": {
+        "name": "Nikaraaguwa"
+    },
+    "NL": {
+        "name": "Nederlaands"
+    },
+    "NO": {
+        "name": "Noorweey"
+    },
+    "NP": {
+        "name": "Nebaal"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "Niyuusiilaand"
+    },
+    "OM": {
+        "name": "Cumaan"
+    },
+    "PA": {
+        "name": "Baanama"
+    },
+    "PE": {
+        "name": "Beeru"
+    },
+    "PF": {
+        "name": "Booliyneesiya Faransiiska"
+    },
+    "PG": {
+        "name": "Babua Niyuu Gini"
+    },
+    "PH": {
+        "name": "Filibiin"
+    },
+    "PK": {
+        "name": "Bakistaan"
+    },
+    "PL": {
+        "name": "Booland"
+    },
+    "PM": {
+        "name": "Saint Pierre and Miquelon"
+    },
+    "PN": {
+        "name": "Bitkairn"
+    },
+    "PR": {
+        "name": "Bueerto Riiko"
+    },
+    "PS": {
+        "name": "Falastiin Daanka galbeed iyo Qasa",
+        "short": "Falastiin"
+    },
+    "PT": {
+        "name": "Bortugaal"
+    },
+    "PW": {
+        "name": "Balaaw"
+    },
+    "PY": {
+        "name": "Baraguaay"
+    },
+    "QA": {
+        "name": "Qadar"
+    },
+    "QO": {
+        "name": "Dhulxeebeedka Osheeniya"
+    },
+    "RE": {
+        "name": "Riyuuniyon"
+    },
+    "RO": {
+        "name": "Rumaaniya"
+    },
+    "RS": {
+        "name": "Seerbiya"
+    },
+    "RU": {
+        "name": "Ruush"
+    },
+    "RW": {
+        "name": "Ruwanda"
+    },
+    "SA": {
+        "name": "Sacuudi Carabiya"
+    },
+    "SB": {
+        "name": "Jasiiradda Solomon"
+    },
+    "SC": {
+        "name": "Sishelis"
+    },
+    "SD": {
+        "name": "Suudaan"
+    },
+    "SE": {
+        "name": "Iswidhan"
+    },
+    "SG": {
+        "name": "Singaboor"
+    },
+    "SH": {
+        "name": "Saint Helena"
+    },
+    "SI": {
+        "name": "Islofeeniya"
+    },
+    "SJ": {
+        "name": "Jasiiradda Sfaldbaad & Jaan Mayen"
+    },
+    "SK": {
+        "name": "Islofaakiya"
+    },
+    "SL": {
+        "name": "Siraaliyoon"
+    },
+    "SM": {
+        "name": "San Marino"
+    },
+    "SN": {
+        "name": "Sinigaal"
+    },
+    "SO": {
+        "name": "Soomaaliya"
+    },
+    "SR": {
+        "name": "Surineym"
+    },
+    "SS": {
+        "name": "Koonfur Suudaan"
+    },
+    "ST": {
+        "name": "Sao Tome & Birincibal"
+    },
+    "SV": {
+        "name": "El Salfadoor"
+    },
+    "SX": {
+        "name": "Siint Maarteen"
+    },
+    "SY": {
+        "name": "Suuriya"
+    },
+    "SZ": {
+        "name": "Eswaatiini",
+        "variant": "Iswaasilaan"
+    },
+    "TA": {
+        "name": "Tiristan da Kunha"
+    },
+    "TC": {
+        "name": "Turks & Kaikos Island"
+    },
+    "TD": {
+        "name": "Jaad"
+    },
+    "TF": {
+        "name": "Dhul xadeedka Koonfureed ee Faransiiska"
+    },
+    "TG": {
+        "name": "Toogo"
+    },
+    "TH": {
+        "name": "Taylaand"
+    },
+    "TJ": {
+        "name": "Tajikistan"
+    },
+    "TK": {
+        "name": "Tokelaaw"
+    },
+    "TL": {
+        "name": "Timoor",
+        "variant": "Timoor Bari"
+    },
+    "TM": {
+        "name": "Turkmenistan"
+    },
+    "TN": {
+        "name": "Tuniisiya"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Turki"
+    },
+    "TT": {
+        "name": "Tirinidaad & Tobago"
+    },
+    "TV": {
+        "name": "Tufaalu"
+    },
+    "TW": {
+        "name": "Taywaan"
+    },
+    "TZ": {
+        "name": "Tansaaniya"
+    },
+    "UA": {
+        "name": "Yukrayn"
+    },
+    "UG": {
+        "name": "Ugaanda"
+    },
+    "UM": {
+        "name": "Jasiiradaha ka baxsan Maraykanka"
+    },
+    "UN": {
+        "name": "Qaramada Midoobay"
+    },
+    "US": {
+        "name": "Maraykanka"
+    },
+    "UY": {
+        "name": "Uruguwaay"
+    },
+    "UZ": {
+        "name": "Uusbakistaan"
+    },
+    "VA": {
+        "name": "Faatikaan"
+    },
+    "VC": {
+        "name": "St. Finsent & Girenadiins"
+    },
+    "VE": {
+        "name": "Fenisuweela"
+    },
+    "VG": {
+        "name": "Biritish Farjin Island"
+    },
+    "VI": {
+        "name": "U.S Fargin Island"
+    },
+    "VN": {
+        "name": "Fiyetnaam"
+    },
+    "VU": {
+        "name": "Fanuaatu"
+    },
+    "WF": {
+        "name": "Walis & Futuna"
+    },
+    "WS": {
+        "name": "Samoowa"
+    },
+    "XA": {
+        "name": "Shigshiga"
+    },
+    "XB": {
+        "name": "Pseudo-Bidi"
+    },
+    "XK": {
+        "name": "Koosofo"
+    },
+    "YE": {
+        "name": "Yaman"
+    },
+    "YT": {
+        "name": "Mayotte"
+    },
+    "ZA": {
+        "name": "Koonfur Afrika"
+    },
+    "ZM": {
+        "name": "Saambiya"
+    },
+    "ZW": {
+        "name": "Simbaabwe"
+    },
+    "ZZ": {
+        "name": "Gobol aan la aqoonin amase aan saxnayn"
+    }
+}

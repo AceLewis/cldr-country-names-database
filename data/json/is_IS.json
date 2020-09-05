@@ -1,0 +1,893 @@
+{
+    "001": {
+        "name": "Heimurinn"
+    },
+    "002": {
+        "name": "Afr\u00edka"
+    },
+    "003": {
+        "name": "Nor\u00f0ur-Amer\u00edka"
+    },
+    "005": {
+        "name": "Su\u00f0ur-Amer\u00edka"
+    },
+    "009": {
+        "name": "Eyja\u00e1lfa"
+    },
+    "011": {
+        "name": "Vestur-Afr\u00edka"
+    },
+    "013": {
+        "name": "Mi\u00f0-Amer\u00edka"
+    },
+    "014": {
+        "name": "Austur-Afr\u00edka"
+    },
+    "015": {
+        "name": "Nor\u00f0ur-Afr\u00edka"
+    },
+    "017": {
+        "name": "Mi\u00f0-Afr\u00edka"
+    },
+    "018": {
+        "name": "Su\u00f0urhluti Afr\u00edku"
+    },
+    "019": {
+        "name": "Amer\u00edka"
+    },
+    "021": {
+        "name": "Amer\u00edka nor\u00f0an Mexik\u00f3"
+    },
+    "029": {
+        "name": "Kar\u00edbahafi\u00f0"
+    },
+    "030": {
+        "name": "Austur-As\u00eda"
+    },
+    "034": {
+        "name": "Su\u00f0ur-As\u00eda"
+    },
+    "035": {
+        "name": "Su\u00f0austur-As\u00eda"
+    },
+    "039": {
+        "name": "Su\u00f0ur-Evr\u00f3pa"
+    },
+    "053": {
+        "name": "\u00c1stralas\u00eda"
+    },
+    "054": {
+        "name": "Melanes\u00eda"
+    },
+    "057": {
+        "name": "M\u00edkr\u00f3nes\u00edusv\u00e6\u00f0i\u00f0"
+    },
+    "061": {
+        "name": "P\u00f3l\u00fdnes\u00eda"
+    },
+    "142": {
+        "name": "As\u00eda"
+    },
+    "143": {
+        "name": "Mi\u00f0-As\u00eda"
+    },
+    "145": {
+        "name": "Vestur-As\u00eda"
+    },
+    "150": {
+        "name": "Evr\u00f3pa"
+    },
+    "151": {
+        "name": "Austur-Evr\u00f3pa"
+    },
+    "154": {
+        "name": "Nor\u00f0ur-Evr\u00f3pa"
+    },
+    "155": {
+        "name": "Vestur-Evr\u00f3pa"
+    },
+    "202": {
+        "name": "Afr\u00edka sunnan Sahara"
+    },
+    "419": {
+        "name": "R\u00f3manska Amer\u00edka"
+    },
+    "AC": {
+        "name": "Ascension-eyja"
+    },
+    "AD": {
+        "name": "Andorra"
+    },
+    "AE": {
+        "name": "Sameinu\u00f0u arab\u00edsku furstad\u00e6min"
+    },
+    "AF": {
+        "name": "Afganistan"
+    },
+    "AG": {
+        "name": "Ant\u00edgva og Barb\u00fada"
+    },
+    "AI": {
+        "name": "Angvilla"
+    },
+    "AL": {
+        "name": "Alban\u00eda"
+    },
+    "AM": {
+        "name": "Armen\u00eda"
+    },
+    "AO": {
+        "name": "Ang\u00f3la"
+    },
+    "AQ": {
+        "name": "Su\u00f0urskautslandi\u00f0"
+    },
+    "AR": {
+        "name": "Argent\u00edna"
+    },
+    "AS": {
+        "name": "Bandar\u00edska Sam\u00f3a"
+    },
+    "AT": {
+        "name": "Austurr\u00edki"
+    },
+    "AU": {
+        "name": "\u00c1stral\u00eda"
+    },
+    "AW": {
+        "name": "Ar\u00faba"
+    },
+    "AX": {
+        "name": "\u00c1landseyjar"
+    },
+    "AZ": {
+        "name": "Aserba\u00eddsjan"
+    },
+    "BA": {
+        "name": "Bosn\u00eda og Herseg\u00f3v\u00edna"
+    },
+    "BB": {
+        "name": "Barbados"
+    },
+    "BD": {
+        "name": "Bangladess"
+    },
+    "BE": {
+        "name": "Belg\u00eda"
+    },
+    "BF": {
+        "name": "B\u00fark\u00edna Fas\u00f3"
+    },
+    "BG": {
+        "name": "B\u00falgar\u00eda"
+    },
+    "BH": {
+        "name": "Barein"
+    },
+    "BI": {
+        "name": "B\u00far\u00fand\u00ed"
+    },
+    "BJ": {
+        "name": "Ben\u00edn"
+    },
+    "BL": {
+        "name": "Sankti Bart\u00f3l\u00f3meusareyjar"
+    },
+    "BM": {
+        "name": "Berm\u00fadaeyjar"
+    },
+    "BN": {
+        "name": "Br\u00fanei"
+    },
+    "BO": {
+        "name": "B\u00f3liv\u00eda"
+    },
+    "BQ": {
+        "name": "Kar\u00edbahafshluti Hollands"
+    },
+    "BR": {
+        "name": "Brasil\u00eda"
+    },
+    "BS": {
+        "name": "Bahamaeyjar"
+    },
+    "BT": {
+        "name": "B\u00fatan"
+    },
+    "BV": {
+        "name": "Bouveteyja"
+    },
+    "BW": {
+        "name": "Botsvana"
+    },
+    "BY": {
+        "name": "Hv\u00edta-R\u00fassland"
+    },
+    "BZ": {
+        "name": "Bel\u00eds"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CC": {
+        "name": "K\u00f3koseyjar (Keeling)"
+    },
+    "CD": {
+        "name": "Kong\u00f3-Kinshasa",
+        "variant": "Kong\u00f3 (L\u00fd\u00f0stj\u00f3rnarl\u00fd\u00f0veldi\u00f0)"
+    },
+    "CF": {
+        "name": "Mi\u00f0-Afr\u00edkul\u00fd\u00f0veldi\u00f0"
+    },
+    "CG": {
+        "name": "Kong\u00f3-Brazzaville",
+        "variant": "Kong\u00f3 (L\u00fd\u00f0veldi\u00f0)"
+    },
+    "CH": {
+        "name": "Sviss"
+    },
+    "CI": {
+        "name": "F\u00edlabeinsstr\u00f6ndin"
+    },
+    "CK": {
+        "name": "Cooks-eyjar"
+    },
+    "CL": {
+        "name": "S\u00edle"
+    },
+    "CM": {
+        "name": "Kamer\u00fan"
+    },
+    "CN": {
+        "name": "K\u00edna"
+    },
+    "CO": {
+        "name": "K\u00f3lumb\u00eda"
+    },
+    "CP": {
+        "name": "Clipperton-eyja"
+    },
+    "CR": {
+        "name": "Kostar\u00edka"
+    },
+    "CU": {
+        "name": "K\u00faba"
+    },
+    "CV": {
+        "name": "Gr\u00e6nh\u00f6f\u00f0aeyjar"
+    },
+    "CW": {
+        "name": "Curacao"
+    },
+    "CX": {
+        "name": "J\u00f3laey"
+    },
+    "CY": {
+        "name": "K\u00fdpur"
+    },
+    "CZ": {
+        "name": "T\u00e9kkland"
+    },
+    "DE": {
+        "name": "\u00de\u00fdskaland"
+    },
+    "DG": {
+        "name": "Diego Garcia"
+    },
+    "DJ": {
+        "name": "Dj\u00edb\u00fat\u00ed"
+    },
+    "DK": {
+        "name": "Danm\u00f6rk"
+    },
+    "DM": {
+        "name": "D\u00f3min\u00edka"
+    },
+    "DO": {
+        "name": "D\u00f3min\u00edska l\u00fd\u00f0veldi\u00f0"
+    },
+    "DZ": {
+        "name": "Als\u00edr"
+    },
+    "EA": {
+        "name": "Ceuta og Melilla"
+    },
+    "EC": {
+        "name": "Ekvador"
+    },
+    "EE": {
+        "name": "Eistland"
+    },
+    "EG": {
+        "name": "Egyptaland"
+    },
+    "EH": {
+        "name": "Vestur-Sahara"
+    },
+    "ER": {
+        "name": "Er\u00edtrea"
+    },
+    "ES": {
+        "name": "Sp\u00e1nn"
+    },
+    "ET": {
+        "name": "E\u00fe\u00ed\u00f3p\u00eda"
+    },
+    "EU": {
+        "name": "Evr\u00f3pusambandi\u00f0"
+    },
+    "EZ": {
+        "name": "Evrusv\u00e6\u00f0i\u00f0"
+    },
+    "FI": {
+        "name": "Finnland"
+    },
+    "FJ": {
+        "name": "F\u00eddj\u00edeyjar"
+    },
+    "FK": {
+        "name": "Falklandseyjar",
+        "variant": "Falklandseyjar (Malvinas)"
+    },
+    "FM": {
+        "name": "M\u00edkr\u00f3nes\u00eda"
+    },
+    "FO": {
+        "name": "F\u00e6reyjar"
+    },
+    "FR": {
+        "name": "Frakkland"
+    },
+    "GA": {
+        "name": "Gabon"
+    },
+    "GB": {
+        "name": "Bretland"
+    },
+    "GD": {
+        "name": "Grenada"
+    },
+    "GE": {
+        "name": "Georg\u00eda"
+    },
+    "GF": {
+        "name": "Franska Gv\u00e6jana"
+    },
+    "GG": {
+        "name": "Guernsey"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "G\u00edbraltar"
+    },
+    "GL": {
+        "name": "Gr\u00e6nland"
+    },
+    "GM": {
+        "name": "Gamb\u00eda"
+    },
+    "GN": {
+        "name": "G\u00ednea"
+    },
+    "GP": {
+        "name": "Gvadel\u00fapeyjar"
+    },
+    "GQ": {
+        "name": "Mi\u00f0baugs-G\u00ednea"
+    },
+    "GR": {
+        "name": "Grikkland"
+    },
+    "GS": {
+        "name": "Su\u00f0ur-Georg\u00eda og Su\u00f0ur-Sandv\u00edkureyjar"
+    },
+    "GT": {
+        "name": "Gvatemala"
+    },
+    "GU": {
+        "name": "Gvam"
+    },
+    "GW": {
+        "name": "G\u00ednea-Biss\u00e1"
+    },
+    "GY": {
+        "name": "Gv\u00e6jana"
+    },
+    "HK": {
+        "name": "s\u00e9rstj\u00f3rnarsv\u00e6\u00f0i\u00f0 Hong Kong",
+        "short": "Hong Kong"
+    },
+    "HM": {
+        "name": "Heard og McDonaldseyjar"
+    },
+    "HN": {
+        "name": "Hond\u00faras"
+    },
+    "HR": {
+        "name": "Kr\u00f3at\u00eda"
+    },
+    "HT": {
+        "name": "Ha\u00edt\u00ed"
+    },
+    "HU": {
+        "name": "Ungverjaland"
+    },
+    "IC": {
+        "name": "Kanar\u00edeyjar"
+    },
+    "ID": {
+        "name": "Ind\u00f3nes\u00eda"
+    },
+    "IE": {
+        "name": "\u00cdrland"
+    },
+    "IL": {
+        "name": "\u00cdsrael"
+    },
+    "IM": {
+        "name": "M\u00f6n"
+    },
+    "IN": {
+        "name": "Indland"
+    },
+    "IO": {
+        "name": "Bresku Indlandshafseyjar"
+    },
+    "IQ": {
+        "name": "\u00cdrak"
+    },
+    "IR": {
+        "name": "\u00cdran"
+    },
+    "IS": {
+        "name": "\u00cdsland"
+    },
+    "IT": {
+        "name": "\u00cdtal\u00eda"
+    },
+    "JE": {
+        "name": "Jersey"
+    },
+    "JM": {
+        "name": "Jama\u00edka"
+    },
+    "JO": {
+        "name": "J\u00f3rdan\u00eda"
+    },
+    "JP": {
+        "name": "Japan"
+    },
+    "KE": {
+        "name": "Ken\u00eda"
+    },
+    "KG": {
+        "name": "Kirgistan"
+    },
+    "KH": {
+        "name": "Kamb\u00f3d\u00eda"
+    },
+    "KI": {
+        "name": "K\u00edribat\u00ed"
+    },
+    "KM": {
+        "name": "K\u00f3moreyjar"
+    },
+    "KN": {
+        "name": "Sankti Kitts og Nevis"
+    },
+    "KP": {
+        "name": "Nor\u00f0ur-K\u00f3rea"
+    },
+    "KR": {
+        "name": "Su\u00f0ur-K\u00f3rea"
+    },
+    "KW": {
+        "name": "K\u00faveit"
+    },
+    "KY": {
+        "name": "Caymaneyjar"
+    },
+    "KZ": {
+        "name": "Kasakstan"
+    },
+    "LA": {
+        "name": "Laos"
+    },
+    "LB": {
+        "name": "L\u00edbanon"
+    },
+    "LC": {
+        "name": "Sankti L\u00fas\u00eda"
+    },
+    "LI": {
+        "name": "Liechtenstein"
+    },
+    "LK": {
+        "name": "Sr\u00ed Lanka"
+    },
+    "LR": {
+        "name": "L\u00edber\u00eda"
+    },
+    "LS": {
+        "name": "Les\u00f3t\u00f3"
+    },
+    "LT": {
+        "name": "Lith\u00e1en"
+    },
+    "LU": {
+        "name": "L\u00faxemborg"
+    },
+    "LV": {
+        "name": "Lettland"
+    },
+    "LY": {
+        "name": "L\u00edb\u00eda"
+    },
+    "MA": {
+        "name": "Marokk\u00f3"
+    },
+    "MC": {
+        "name": "M\u00f3nak\u00f3"
+    },
+    "MD": {
+        "name": "Mold\u00f3va"
+    },
+    "ME": {
+        "name": "Svartfjallaland"
+    },
+    "MF": {
+        "name": "Saint-Martin"
+    },
+    "MG": {
+        "name": "Madagaskar"
+    },
+    "MH": {
+        "name": "Marshalleyjar"
+    },
+    "MK": {
+        "name": "Nor\u00f0ur-Maked\u00f3n\u00eda"
+    },
+    "ML": {
+        "name": "Mal\u00ed"
+    },
+    "MM": {
+        "name": "Mjanmar (B\u00farma)"
+    },
+    "MN": {
+        "name": "Mong\u00f3l\u00eda"
+    },
+    "MO": {
+        "name": "s\u00e9rstj\u00f3rnarsv\u00e6\u00f0i\u00f0 Maka\u00f3",
+        "short": "Maka\u00f3"
+    },
+    "MP": {
+        "name": "Nor\u00f0ur-Mar\u00edanaeyjar"
+    },
+    "MQ": {
+        "name": "Martin\u00edk"
+    },
+    "MR": {
+        "name": "M\u00e1ritan\u00eda"
+    },
+    "MS": {
+        "name": "Montserrat"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "M\u00e1rit\u00edus"
+    },
+    "MV": {
+        "name": "Mald\u00edveyjar"
+    },
+    "MW": {
+        "name": "Malav\u00ed"
+    },
+    "MX": {
+        "name": "Mex\u00edk\u00f3"
+    },
+    "MY": {
+        "name": "Malas\u00eda"
+    },
+    "MZ": {
+        "name": "M\u00f3samb\u00edk"
+    },
+    "NA": {
+        "name": "Namib\u00eda"
+    },
+    "NC": {
+        "name": "N\u00fdja-Kaled\u00f3n\u00eda"
+    },
+    "NE": {
+        "name": "N\u00edger"
+    },
+    "NF": {
+        "name": "Norfolkeyja"
+    },
+    "NG": {
+        "name": "N\u00edger\u00eda"
+    },
+    "NI": {
+        "name": "N\u00edkaragva"
+    },
+    "NL": {
+        "name": "Holland"
+    },
+    "NO": {
+        "name": "Noregur"
+    },
+    "NP": {
+        "name": "Nepal"
+    },
+    "NR": {
+        "name": "N\u00e1r\u00fa"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "N\u00fdja-Sj\u00e1land"
+    },
+    "OM": {
+        "name": "\u00d3man"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Per\u00fa"
+    },
+    "PF": {
+        "name": "Franska P\u00f3l\u00fdnes\u00eda"
+    },
+    "PG": {
+        "name": "Pap\u00faa N\u00fdja-G\u00ednea"
+    },
+    "PH": {
+        "name": "Filippseyjar"
+    },
+    "PK": {
+        "name": "Pakistan"
+    },
+    "PL": {
+        "name": "P\u00f3lland"
+    },
+    "PM": {
+        "name": "Sankti Pierre og Miquelon"
+    },
+    "PN": {
+        "name": "Pitcairn-eyjar"
+    },
+    "PR": {
+        "name": "P\u00faert\u00f3 R\u00edk\u00f3"
+    },
+    "PS": {
+        "name": "Heimastj\u00f3rnarsv\u00e6\u00f0i Palest\u00ednumanna",
+        "short": "Palest\u00edna"
+    },
+    "PT": {
+        "name": "Port\u00fagal"
+    },
+    "PW": {
+        "name": "Pal\u00e1"
+    },
+    "PY": {
+        "name": "Paragv\u00e6"
+    },
+    "QA": {
+        "name": "Katar"
+    },
+    "QO": {
+        "name": "Ytri Eyja\u00e1lfa"
+    },
+    "RE": {
+        "name": "R\u00e9union"
+    },
+    "RO": {
+        "name": "R\u00famen\u00eda"
+    },
+    "RS": {
+        "name": "Serb\u00eda"
+    },
+    "RU": {
+        "name": "R\u00fassland"
+    },
+    "RW": {
+        "name": "R\u00faanda"
+    },
+    "SA": {
+        "name": "S\u00e1di-Arab\u00eda"
+    },
+    "SB": {
+        "name": "Sal\u00f3monseyjar"
+    },
+    "SC": {
+        "name": "Seychelles-eyjar"
+    },
+    "SD": {
+        "name": "S\u00fadan"
+    },
+    "SE": {
+        "name": "Sv\u00ed\u00fej\u00f3\u00f0"
+    },
+    "SG": {
+        "name": "Singap\u00far"
+    },
+    "SH": {
+        "name": "Sankti Helena"
+    },
+    "SI": {
+        "name": "Sl\u00f3ven\u00eda"
+    },
+    "SJ": {
+        "name": "Svalbar\u00f0i og Jan Mayen"
+    },
+    "SK": {
+        "name": "Sl\u00f3vak\u00eda"
+    },
+    "SL": {
+        "name": "S\u00ederra Le\u00f3ne"
+    },
+    "SM": {
+        "name": "San Mar\u00edn\u00f3"
+    },
+    "SN": {
+        "name": "Senegal"
+    },
+    "SO": {
+        "name": "S\u00f3mal\u00eda"
+    },
+    "SR": {
+        "name": "S\u00far\u00ednam"
+    },
+    "SS": {
+        "name": "Su\u00f0ur-S\u00fadan"
+    },
+    "ST": {
+        "name": "Sa\u00f3 T\u00f3me og Prins\u00edpe"
+    },
+    "SV": {
+        "name": "El Salvador"
+    },
+    "SX": {
+        "name": "Sankti Martin"
+    },
+    "SY": {
+        "name": "S\u00fdrland"
+    },
+    "SZ": {
+        "name": "Svas\u00edland"
+    },
+    "TA": {
+        "name": "Tristan da Cunha"
+    },
+    "TC": {
+        "name": "Turks- og Caicoseyjar"
+    },
+    "TD": {
+        "name": "Tsjad"
+    },
+    "TF": {
+        "name": "Fr\u00f6nsku su\u00f0l\u00e6gu landsv\u00e6\u00f0in"
+    },
+    "TG": {
+        "name": "T\u00f3g\u00f3"
+    },
+    "TH": {
+        "name": "Ta\u00edland"
+    },
+    "TJ": {
+        "name": "Tadsjikistan"
+    },
+    "TK": {
+        "name": "T\u00f3kel\u00e1"
+    },
+    "TL": {
+        "name": "T\u00edmor-Leste",
+        "variant": "Austur-T\u00edmor"
+    },
+    "TM": {
+        "name": "T\u00farkmenistan"
+    },
+    "TN": {
+        "name": "T\u00fanis"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Tyrkland"
+    },
+    "TT": {
+        "name": "Tr\u00ednidad og T\u00f3bag\u00f3"
+    },
+    "TV": {
+        "name": "T\u00faval\u00fa"
+    },
+    "TW": {
+        "name": "Ta\u00edvan"
+    },
+    "TZ": {
+        "name": "Tansan\u00eda"
+    },
+    "UA": {
+        "name": "\u00dakra\u00edna"
+    },
+    "UG": {
+        "name": "\u00daganda"
+    },
+    "UM": {
+        "name": "Sm\u00e1eyjar Bandar\u00edkjanna"
+    },
+    "UN": {
+        "name": "Sameinu\u00f0u \u00fej\u00f3\u00f0irnar",
+        "short": "S\u00de"
+    },
+    "US": {
+        "name": "Bandar\u00edkin",
+        "short": "BNA"
+    },
+    "UY": {
+        "name": "\u00dar\u00fagv\u00e6"
+    },
+    "UZ": {
+        "name": "\u00dasbekistan"
+    },
+    "VA": {
+        "name": "Vat\u00edkani\u00f0"
+    },
+    "VC": {
+        "name": "Sankti Vinsent og Grenad\u00edneyjar"
+    },
+    "VE": {
+        "name": "Venes\u00faela"
+    },
+    "VG": {
+        "name": "Bresku J\u00f3mfr\u00faaeyjar"
+    },
+    "VI": {
+        "name": "Bandar\u00edsku J\u00f3mfr\u00faaeyjar"
+    },
+    "VN": {
+        "name": "V\u00edetnam"
+    },
+    "VU": {
+        "name": "Van\u00faat\u00fa"
+    },
+    "WF": {
+        "name": "Wallis- og F\u00fat\u00fanaeyjar"
+    },
+    "WS": {
+        "name": "Sam\u00f3a"
+    },
+    "XA": {
+        "name": "gervihreimur"
+    },
+    "XB": {
+        "name": "gervista\u00f0ur"
+    },
+    "XK": {
+        "name": "K\u00f3s\u00f3v\u00f3"
+    },
+    "YE": {
+        "name": "Jemen"
+    },
+    "YT": {
+        "name": "Mayotte"
+    },
+    "ZA": {
+        "name": "Su\u00f0ur-Afr\u00edka"
+    },
+    "ZM": {
+        "name": "Samb\u00eda"
+    },
+    "ZW": {
+        "name": "Simbabve"
+    },
+    "ZZ": {
+        "name": "\u00d3\u00feekkt sv\u00e6\u00f0i"
+    }
+}

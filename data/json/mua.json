@@ -1,0 +1,671 @@
+{
+    "AD": {
+        "name": "andorra"
+    },
+    "AE": {
+        "name": "S\u01ddr Arabiya ma taini"
+    },
+    "AF": {
+        "name": "afghanista\u014b"
+    },
+    "AG": {
+        "name": "antiguan ne Barbuda"
+    },
+    "AI": {
+        "name": "anguiya"
+    },
+    "AL": {
+        "name": "albaniya"
+    },
+    "AM": {
+        "name": "armeniya"
+    },
+    "AO": {
+        "name": "angola"
+    },
+    "AR": {
+        "name": "argentiniya"
+    },
+    "AS": {
+        "name": "samoa Amerika"
+    },
+    "AT": {
+        "name": "austriya"
+    },
+    "AU": {
+        "name": "australiya"
+    },
+    "AW": {
+        "name": "aruba"
+    },
+    "AZ": {
+        "name": "azerbaija\u014b"
+    },
+    "BA": {
+        "name": "bosniya ne Herzegovina"
+    },
+    "BB": {
+        "name": "barbadiya"
+    },
+    "BD": {
+        "name": "bangladeshiya"
+    },
+    "BE": {
+        "name": "belgika"
+    },
+    "BF": {
+        "name": "burkina Faso"
+    },
+    "BG": {
+        "name": "bulgariya"
+    },
+    "BH": {
+        "name": "bahrai\u014b"
+    },
+    "BI": {
+        "name": "burundi"
+    },
+    "BJ": {
+        "name": "beni\u014b"
+    },
+    "BM": {
+        "name": "bermudiya"
+    },
+    "BN": {
+        "name": "bruniya"
+    },
+    "BO": {
+        "name": "boliviya"
+    },
+    "BR": {
+        "name": "brazilya"
+    },
+    "BS": {
+        "name": "bahamas"
+    },
+    "BT": {
+        "name": "buta\u014b"
+    },
+    "BW": {
+        "name": "botswana"
+    },
+    "BY": {
+        "name": "belarussiya"
+    },
+    "BZ": {
+        "name": "beliziya"
+    },
+    "CA": {
+        "name": "kanada"
+    },
+    "CD": {
+        "name": "S\u01ddr Kongo ma dii ne zair"
+    },
+    "CF": {
+        "name": "centrafrika"
+    },
+    "CG": {
+        "name": "kongo"
+    },
+    "CH": {
+        "name": "S\u01ddr Swiss"
+    },
+    "CI": {
+        "name": "ser Ivoiriya"
+    },
+    "CK": {
+        "name": "kook ma la\u014bne"
+    },
+    "CL": {
+        "name": "syili"
+    },
+    "CM": {
+        "name": "kameru\u014b"
+    },
+    "CN": {
+        "name": "syi\u014b"
+    },
+    "CO": {
+        "name": "kolombiya"
+    },
+    "CR": {
+        "name": "kosta Rika"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "kap ma la\u014bne"
+    },
+    "CY": {
+        "name": "Syipriya"
+    },
+    "CZ": {
+        "name": "S\u01ddr Syek"
+    },
+    "DE": {
+        "name": "Germaniya"
+    },
+    "DJ": {
+        "name": "Djibouti"
+    },
+    "DK": {
+        "name": "Da\u014bmark"
+    },
+    "DM": {
+        "name": "Dominik"
+    },
+    "DO": {
+        "name": "S\u01ddr Dominik ma lii"
+    },
+    "DZ": {
+        "name": "algeriya"
+    },
+    "EC": {
+        "name": "Ekwat\u01ddr"
+    },
+    "EE": {
+        "name": "Estoniya"
+    },
+    "EG": {
+        "name": "S\u01ddr Egypt"
+    },
+    "ER": {
+        "name": "S\u01ddr Eritre"
+    },
+    "ES": {
+        "name": "Espa\u014biya"
+    },
+    "ET": {
+        "name": "Etiopia"
+    },
+    "FI": {
+        "name": "S\u01ddr Finland"
+    },
+    "FJ": {
+        "name": "S\u01ddr Fiji"
+    },
+    "FK": {
+        "name": "S\u01ddr malouniya ma la\u014bne"
+    },
+    "FM": {
+        "name": "Micronesiya"
+    },
+    "FR": {
+        "name": "Franss\u01dd"
+    },
+    "GA": {
+        "name": "Gabo\u014b"
+    },
+    "GB": {
+        "name": "S\u01ddr Anglofo\u014b"
+    },
+    "GD": {
+        "name": "Grenad\u01dd"
+    },
+    "GE": {
+        "name": "Georgiya"
+    },
+    "GF": {
+        "name": "S\u01ddr Guyana ma Franss\u01dd"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "S\u01ddr Gibraltar"
+    },
+    "GL": {
+        "name": "S\u01ddr Groenland"
+    },
+    "GM": {
+        "name": "Gambiya"
+    },
+    "GN": {
+        "name": "Guine"
+    },
+    "GP": {
+        "name": "S\u01ddr Gwadeloup\u01dd"
+    },
+    "GQ": {
+        "name": "S\u01ddr Guine"
+    },
+    "GR": {
+        "name": "S\u01ddr Grek"
+    },
+    "GT": {
+        "name": "Gwatemala"
+    },
+    "GU": {
+        "name": "Gwam"
+    },
+    "GW": {
+        "name": "Guine ma Bissao"
+    },
+    "GY": {
+        "name": "Guyana"
+    },
+    "HN": {
+        "name": "S\u01ddr Honduras"
+    },
+    "HR": {
+        "name": "kroatiya"
+    },
+    "HT": {
+        "name": "S\u01ddr Haiti"
+    },
+    "HU": {
+        "name": "Hungriya"
+    },
+    "ID": {
+        "name": "Indonesiya"
+    },
+    "IE": {
+        "name": "S\u01ddr Ireland"
+    },
+    "IL": {
+        "name": "S\u01ddr Israel"
+    },
+    "IN": {
+        "name": "S\u01ddr Ind\u01dd"
+    },
+    "IO": {
+        "name": "anglofo\u014b ma Indiya"
+    },
+    "IQ": {
+        "name": "Irak"
+    },
+    "IR": {
+        "name": "Ira\u014b"
+    },
+    "IS": {
+        "name": "S\u01ddr Island"
+    },
+    "IT": {
+        "name": "Italiya"
+    },
+    "JM": {
+        "name": "Jamaika"
+    },
+    "JO": {
+        "name": "Jordaniya"
+    },
+    "JP": {
+        "name": "Japa\u014b"
+    },
+    "KE": {
+        "name": "S\u01ddr Kenya"
+    },
+    "KG": {
+        "name": "Kirgizsta\u014b"
+    },
+    "KH": {
+        "name": "kambodiya"
+    },
+    "KI": {
+        "name": "S\u01ddr Kiribati"
+    },
+    "KM": {
+        "name": "komora"
+    },
+    "KN": {
+        "name": "S\u01ddr Kristof ne Niev\u01dd"
+    },
+    "KP": {
+        "name": "S\u01ddr Kore fah s\u01dd\u014b"
+    },
+    "KR": {
+        "name": "S\u01ddr Kore nek\u01dds\u01dd\u014b"
+    },
+    "KW": {
+        "name": "S\u01ddr Kowait"
+    },
+    "KY": {
+        "name": "kayman ma la\u014bne"
+    },
+    "KZ": {
+        "name": "Kazaksta\u014b"
+    },
+    "LA": {
+        "name": "S\u01ddr Laos"
+    },
+    "LB": {
+        "name": "Liba\u014b"
+    },
+    "LC": {
+        "name": "S\u01ddr Lucia"
+    },
+    "LI": {
+        "name": "Licht\u01ddnstei\u014b"
+    },
+    "LK": {
+        "name": "S\u01ddr Lanka"
+    },
+    "LR": {
+        "name": "Liberiya"
+    },
+    "LS": {
+        "name": "S\u01ddr Lesotho"
+    },
+    "LT": {
+        "name": "Lituaniya"
+    },
+    "LU": {
+        "name": "S\u01ddr Luxemburg"
+    },
+    "LV": {
+        "name": "Letoniya"
+    },
+    "LY": {
+        "name": "Libiya"
+    },
+    "MA": {
+        "name": "Marok"
+    },
+    "MC": {
+        "name": "Monako"
+    },
+    "MD": {
+        "name": "Moldoviya"
+    },
+    "MG": {
+        "name": "Madagaskar"
+    },
+    "MH": {
+        "name": "S\u01ddr Marshall ma la\u014bne"
+    },
+    "ML": {
+        "name": "S\u01ddr Mali"
+    },
+    "MM": {
+        "name": "S\u01ddr Myanmar"
+    },
+    "MN": {
+        "name": "Mongoliya"
+    },
+    "MP": {
+        "name": "S\u01ddr Maria ma la\u014bne"
+    },
+    "MQ": {
+        "name": "Martinika"
+    },
+    "MR": {
+        "name": "Mauritaniya"
+    },
+    "MS": {
+        "name": "S\u01ddr Montserrat"
+    },
+    "MT": {
+        "name": "S\u01ddr Malta"
+    },
+    "MU": {
+        "name": "S\u01ddr Mauric\u01dd"
+    },
+    "MV": {
+        "name": "Maldiv\u01dd"
+    },
+    "MW": {
+        "name": "S\u01ddr Malawi"
+    },
+    "MX": {
+        "name": "Mexiko"
+    },
+    "MY": {
+        "name": "Malaysiya"
+    },
+    "MZ": {
+        "name": "Mozambika"
+    },
+    "NA": {
+        "name": "Namibiya"
+    },
+    "NC": {
+        "name": "Kaledoniya mafuu"
+    },
+    "NE": {
+        "name": "S\u01ddr Niger"
+    },
+    "NF": {
+        "name": "Norfolk ma la\u014bne"
+    },
+    "NG": {
+        "name": "Nigeriya"
+    },
+    "NI": {
+        "name": "Nikaragwa"
+    },
+    "NL": {
+        "name": "S\u01ddr ma kas\u01dd\u014b"
+    },
+    "NO": {
+        "name": "Norveg\u01dd"
+    },
+    "NP": {
+        "name": "S\u01ddr Nepal"
+    },
+    "NR": {
+        "name": "S\u01ddr Nauru"
+    },
+    "NU": {
+        "name": "Niwe"
+    },
+    "NZ": {
+        "name": "Zeland mafuu"
+    },
+    "OM": {
+        "name": "Oma\u014b"
+    },
+    "PA": {
+        "name": "S\u01ddr Panama"
+    },
+    "PE": {
+        "name": "Peru"
+    },
+    "PF": {
+        "name": "S\u01ddr Polynesiya ma Franss\u01dd"
+    },
+    "PG": {
+        "name": "Papuasiya Guine mafuu"
+    },
+    "PH": {
+        "name": "Filipi\u014b"
+    },
+    "PK": {
+        "name": "Pakista\u014b"
+    },
+    "PL": {
+        "name": "Polog\u014b"
+    },
+    "PM": {
+        "name": "S\u01ddr P\u01ddtar ne Mik\u01ddlon"
+    },
+    "PN": {
+        "name": "Pitkairn"
+    },
+    "PR": {
+        "name": "Porto Riko"
+    },
+    "PS": {
+        "name": "S\u01ddr Palestiniya"
+    },
+    "PT": {
+        "name": "S\u01ddr Portugal"
+    },
+    "PW": {
+        "name": "S\u01ddr Palau"
+    },
+    "PY": {
+        "name": "Paragwai"
+    },
+    "QA": {
+        "name": "Katar"
+    },
+    "RE": {
+        "name": "S\u01ddr Reunion"
+    },
+    "RO": {
+        "name": "Romaniya"
+    },
+    "RU": {
+        "name": "Russiya"
+    },
+    "RW": {
+        "name": "Rwanda"
+    },
+    "SA": {
+        "name": "S\u01ddr Arabiya"
+    },
+    "SB": {
+        "name": "S\u01ddr Salomon ma la\u014bne"
+    },
+    "SC": {
+        "name": "Saichel"
+    },
+    "SD": {
+        "name": "Suda\u014b"
+    },
+    "SE": {
+        "name": "S\u01ddr Sued"
+    },
+    "SG": {
+        "name": "Singapur"
+    },
+    "SH": {
+        "name": "S\u01ddr Helena"
+    },
+    "SI": {
+        "name": "Sloveniya"
+    },
+    "SK": {
+        "name": "Slovakiya"
+    },
+    "SL": {
+        "name": "Sierra Leon\u01dd"
+    },
+    "SM": {
+        "name": "S\u01ddr Marino"
+    },
+    "SN": {
+        "name": "Senegal"
+    },
+    "SO": {
+        "name": "Somaliya"
+    },
+    "SR": {
+        "name": "S\u01ddr Surinam"
+    },
+    "ST": {
+        "name": "Sao Tome ne Principe"
+    },
+    "SV": {
+        "name": "S\u01ddr Salvador"
+    },
+    "SY": {
+        "name": "Syria"
+    },
+    "SZ": {
+        "name": "S\u01ddr Swaziland"
+    },
+    "TC": {
+        "name": "Turkiya ne kaicos ma la\u014bne"
+    },
+    "TD": {
+        "name": "syad"
+    },
+    "TG": {
+        "name": "S\u01ddr Togo"
+    },
+    "TH": {
+        "name": "Tailand"
+    },
+    "TJ": {
+        "name": "Tajikista\u014b"
+    },
+    "TK": {
+        "name": "S\u01ddr Tokelau"
+    },
+    "TL": {
+        "name": "Timoriya"
+    },
+    "TM": {
+        "name": "Turkmenista\u014b"
+    },
+    "TN": {
+        "name": "Tunisiya"
+    },
+    "TO": {
+        "name": "S\u01ddr Tonga"
+    },
+    "TR": {
+        "name": "Turkiya"
+    },
+    "TT": {
+        "name": "Trinite ne Tobago"
+    },
+    "TV": {
+        "name": "S\u01ddr Tuvalu"
+    },
+    "TW": {
+        "name": "Taiwa\u014b"
+    },
+    "TZ": {
+        "name": "Tanzaniya"
+    },
+    "UA": {
+        "name": "Ukrai\u014b"
+    },
+    "UG": {
+        "name": "Uganda"
+    },
+    "US": {
+        "name": "Amerika"
+    },
+    "UY": {
+        "name": "Urugwai"
+    },
+    "UZ": {
+        "name": "Uzbekista\u014b"
+    },
+    "VA": {
+        "name": "Vatica\u014b"
+    },
+    "VC": {
+        "name": "S\u01ddr Vince\u014b ne Grenadi\u014b"
+    },
+    "VE": {
+        "name": "S\u01ddr Venezuela"
+    },
+    "VG": {
+        "name": "ser Anglofon ma la\u014bne"
+    },
+    "VI": {
+        "name": "S\u01ddr amerika ma la\u014bne"
+    },
+    "VN": {
+        "name": "S\u01ddr Vietnam"
+    },
+    "VU": {
+        "name": "S\u01ddr Vanuatu"
+    },
+    "WF": {
+        "name": "Wallis ne Futuna"
+    },
+    "WS": {
+        "name": "S\u01ddr Samoa"
+    },
+    "YE": {
+        "name": "Yeme\u014b"
+    },
+    "YT": {
+        "name": "Mayot"
+    },
+    "ZA": {
+        "name": "Afrika nek\u01dds\u01dd\u014b"
+    },
+    "ZM": {
+        "name": "Zambiya"
+    },
+    "ZW": {
+        "name": "Zimbabwe"
+    }
+}

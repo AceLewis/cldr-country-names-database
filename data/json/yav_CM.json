@@ -1,0 +1,668 @@
+{
+    "AD": {
+        "name": "A\u014bt\u00fala"
+    },
+    "AE": {
+        "name": "imil\u00e1at i paal\u00e1ap"
+    },
+    "AF": {
+        "name": "Afkanist\u00e1\u014b"
+    },
+    "AG": {
+        "name": "A\u014bt\u00edka na Palp\u00fata"
+    },
+    "AI": {
+        "name": "A\u014bk\u00edla"
+    },
+    "AL": {
+        "name": "Alpan\u00ed"
+    },
+    "AM": {
+        "name": "Alman\u00eda"
+    },
+    "AO": {
+        "name": "A\u014bk\u00fala"
+    },
+    "AR": {
+        "name": "Alsa\u014bt\u00edn"
+    },
+    "AS": {
+        "name": "S\u00e1mua u Amel\u00edka"
+    },
+    "AT": {
+        "name": "Otil\u00eds"
+    },
+    "AU": {
+        "name": "Otalal\u00ed"
+    },
+    "AW": {
+        "name": "Al\u00fapa"
+    },
+    "AZ": {
+        "name": "As\u025blpais\u00e1\u014b"
+    },
+    "BA": {
+        "name": "Pusin\u00ed-\u025blkof\u00edna"
+    },
+    "BB": {
+        "name": "Palpat\u00f3s"
+    },
+    "BD": {
+        "name": "Pa\u014bkalat\u025bs"
+    },
+    "BE": {
+        "name": "P\u025bls\u00edik"
+    },
+    "BF": {
+        "name": "Pulik\u00ednaf\u00e1s\u00f3"
+    },
+    "BG": {
+        "name": "Pulukal\u00edi"
+    },
+    "BH": {
+        "name": "Pal\u025b\u014b"
+    },
+    "BI": {
+        "name": "P\u00fal\u00fand\u00ed"
+    },
+    "BJ": {
+        "name": "Pen\u025b\u014b"
+    },
+    "BM": {
+        "name": "P\u025blm\u00fata"
+    },
+    "BN": {
+        "name": "Pulun\u00e9y"
+    },
+    "BO": {
+        "name": "Pol\u00edfia"
+    },
+    "BR": {
+        "name": "Piles\u00edl"
+    },
+    "BS": {
+        "name": "Pah\u00e1mas"
+    },
+    "BT": {
+        "name": "Puta\u014b"
+    },
+    "BW": {
+        "name": "Posu\u00e1na"
+    },
+    "BY": {
+        "name": "Pelal\u00fas"
+    },
+    "BZ": {
+        "name": "Pel\u00edse"
+    },
+    "CA": {
+        "name": "K\u00e1n\u00e1ta"
+    },
+    "CD": {
+        "name": "kit\u0254\u014b k\u00ed kong\u00f3"
+    },
+    "CF": {
+        "name": "Santalafil\u00edik"
+    },
+    "CG": {
+        "name": "Kong\u00f3"
+    },
+    "CH": {
+        "name": "suw\u00edis"
+    },
+    "CI": {
+        "name": "K\u00f3tifual\u025b"
+    },
+    "CK": {
+        "name": "K\u00fauke"
+    },
+    "CL": {
+        "name": "Sil\u00ed"
+    },
+    "CM": {
+        "name": "Kemel\u00fan"
+    },
+    "CN": {
+        "name": "S\u00edine"
+    },
+    "CO": {
+        "name": "K\u0254l\u0254\u0301mb\u00eda"
+    },
+    "CR": {
+        "name": "K\u00f3st\u00e1l\u00edka"
+    },
+    "CU": {
+        "name": "k\u00fapa"
+    },
+    "CV": {
+        "name": "K\u00e1pf\u025bl"
+    },
+    "CY": {
+        "name": "s\u00edpl\u025b"
+    },
+    "CZ": {
+        "name": "kit\u0254\u014b k\u00ed c\u025b\u0301k"
+    },
+    "DE": {
+        "name": "ns\u00e1man"
+    },
+    "DJ": {
+        "name": "s\u00edput\u00ed"
+    },
+    "DK": {
+        "name": "tanem\u00e1lk"
+    },
+    "DM": {
+        "name": "t\u00fam\u00fan\u00e9ke"
+    },
+    "DO": {
+        "name": "kit\u0254\u014b k\u00ed tumunik\u025b\u0301\u014b"
+    },
+    "DZ": {
+        "name": "Alsel\u00ed"
+    },
+    "EC": {
+        "name": "ekuat\u025b\u0301l"
+    },
+    "EE": {
+        "name": "\u025bstoni"
+    },
+    "EG": {
+        "name": "is\u00edpit"
+    },
+    "ER": {
+        "name": "elit\u00e9e"
+    },
+    "ES": {
+        "name": "pany\u00e1"
+    },
+    "ET": {
+        "name": "etiop\u00ed"
+    },
+    "FI": {
+        "name": "f\u025bnl\u00e1nd"
+    },
+    "FJ": {
+        "name": "f\u00edsi"
+    },
+    "FK": {
+        "name": "maluw\u00edn"
+    },
+    "FM": {
+        "name": "mikolones\u00ed"
+    },
+    "FR": {
+        "name": "felens\u00ed"
+    },
+    "GA": {
+        "name": "kap\u0254\u0301\u014b"
+    },
+    "GB": {
+        "name": "ingil\u00ed\u00eds"
+    },
+    "GD": {
+        "name": "kelen\u00e1at"
+    },
+    "GE": {
+        "name": "s\u0254ls\u00edi"
+    },
+    "GF": {
+        "name": "kuy\u00e1an u felens\u00ed"
+    },
+    "GH": {
+        "name": "kan\u00e1"
+    },
+    "GI": {
+        "name": "s\u00edlpalat\u00e1al"
+    },
+    "GL": {
+        "name": "kulu\u025bnl\u00e1nd"
+    },
+    "GM": {
+        "name": "kamb\u00edi"
+    },
+    "GN": {
+        "name": "kiin\u00e9"
+    },
+    "GP": {
+        "name": "kuatel\u00faup"
+    },
+    "GQ": {
+        "name": "kin\u00e9ekuatolial"
+    },
+    "GR": {
+        "name": "kil\u025b\u0301\u025bk"
+    },
+    "GT": {
+        "name": "kuatemal\u00e1"
+    },
+    "GU": {
+        "name": "kuami\u025b"
+    },
+    "GW": {
+        "name": "kiin\u00e9pisa\u00f3"
+    },
+    "GY": {
+        "name": "kuy\u00e1an"
+    },
+    "HN": {
+        "name": "\u0254nd\u00falas"
+    },
+    "HR": {
+        "name": "Kolowas\u00edi"
+    },
+    "HT": {
+        "name": "ay\u00edti"
+    },
+    "HU": {
+        "name": "\u0254ngil\u00ed"
+    },
+    "ID": {
+        "name": "\u025bndones\u00ed"
+    },
+    "IE": {
+        "name": "ilil\u00e1nd"
+    },
+    "IL": {
+        "name": "\u00edsilay\u025b\u0301l"
+    },
+    "IN": {
+        "name": "\u025b\u0301\u025bnd"
+    },
+    "IO": {
+        "name": "K\u0254\u0254\u0301m k\u00ed ndi\u00e1n yi ngil\u00eds"
+    },
+    "IQ": {
+        "name": "il\u00e1k"
+    },
+    "IR": {
+        "name": "il\u00e1\u014b"
+    },
+    "IS": {
+        "name": "isl\u00e1and"
+    },
+    "IT": {
+        "name": "ital\u00ed"
+    },
+    "JM": {
+        "name": "samay\u00edik"
+    },
+    "JO": {
+        "name": "s\u0254ltan\u00ed"
+    },
+    "JP": {
+        "name": "sap\u0254\u0301\u0254\u014b"
+    },
+    "KE": {
+        "name": "k\u00e9nia"
+    },
+    "KG": {
+        "name": "kilikisist\u00e1\u014b"
+    },
+    "KH": {
+        "name": "K\u00e1mb\u00f3se"
+    },
+    "KI": {
+        "name": "kilipat\u00ed"
+    },
+    "KM": {
+        "name": "K\u0254m\u0254\u0301\u0254l"
+    },
+    "KN": {
+        "name": "s\u025b\u0301\u014bkilist\u0254\u0301f eni\u025b\u0301f"
+    },
+    "KP": {
+        "name": "k\u0254l\u00e9 u mu\u025bn\u025b\u0301"
+    },
+    "KR": {
+        "name": "k\u0254l\u00e9 wu mb\u00e1t"
+    },
+    "KW": {
+        "name": "kow\u00e9et"
+    },
+    "KY": {
+        "name": "K\u00e1y\u00edman\u025b"
+    },
+    "KZ": {
+        "name": "kasaksit\u00e1\u014b"
+    },
+    "LA": {
+        "name": "law\u00f3s"
+    },
+    "LB": {
+        "name": "lip\u00e1\u014b"
+    },
+    "LC": {
+        "name": "s\u025b\u0301\u014bt\u025b\u0301lus\u00ed"
+    },
+    "LI": {
+        "name": "l\u00edst\u025b\u0301nsit\u00e1yin"
+    },
+    "LK": {
+        "name": "sil\u00edl\u00e1\u014bka"
+    },
+    "LR": {
+        "name": "lip\u00e9lia"
+    },
+    "LS": {
+        "name": "lesot\u00f3"
+    },
+    "LT": {
+        "name": "litiyan\u00ed"
+    },
+    "LU": {
+        "name": "liksamb\u00faul"
+    },
+    "LV": {
+        "name": "leton\u00ed"
+    },
+    "LY": {
+        "name": "lip\u00edi"
+    },
+    "MA": {
+        "name": "mal\u00f3ok"
+    },
+    "MC": {
+        "name": "monak\u00f3"
+    },
+    "MD": {
+        "name": "moltaf\u00ed"
+    },
+    "MG": {
+        "name": "matakask\u00e1al"
+    },
+    "MH": {
+        "name": "\u00edlmalas\u00e1al"
+    },
+    "ML": {
+        "name": "mal\u00ed"
+    },
+    "MM": {
+        "name": "mia\u014bm\u00e1al"
+    },
+    "MN": {
+        "name": "mongol\u00ed"
+    },
+    "MP": {
+        "name": "il maliyan\u025b u mu\u025bn\u025b\u0301"
+    },
+    "MQ": {
+        "name": "maltin\u00edik"
+    },
+    "MR": {
+        "name": "molitan\u00ed"
+    },
+    "MS": {
+        "name": "m\u0254\u014bsil\u00e1"
+    },
+    "MT": {
+        "name": "m\u00e1l\u025b\u0301t"
+    },
+    "MU": {
+        "name": "mol\u00eds"
+    },
+    "MV": {
+        "name": "malet\u00edif"
+    },
+    "MW": {
+        "name": "malaw\u00ed"
+    },
+    "MX": {
+        "name": "m\u025bks\u00edik"
+    },
+    "MY": {
+        "name": "males\u00ed"
+    },
+    "MZ": {
+        "name": "mosamb\u00edk"
+    },
+    "NA": {
+        "name": "namip\u00ed"
+    },
+    "NC": {
+        "name": "nuf\u025b\u0301l kaleton\u00ed"
+    },
+    "NE": {
+        "name": "nis\u025b\u0301\u025bl"
+    },
+    "NF": {
+        "name": "il n\u0254\u0301lf\u0254\u0301l\u0254k"
+    },
+    "NG": {
+        "name": "nis\u00e9lia"
+    },
+    "NI": {
+        "name": "nikalak\u00e1"
+    },
+    "NL": {
+        "name": "nitilil\u00e1and"
+    },
+    "NO": {
+        "name": "n\u0254lf\u025b\u0301\u025bs"
+    },
+    "NP": {
+        "name": "nep\u00e1al"
+    },
+    "NR": {
+        "name": "nawul\u00fa"
+    },
+    "NU": {
+        "name": "niyuw\u00e9"
+    },
+    "NZ": {
+        "name": "nuf\u025b\u0301l sel\u00e1and"
+    },
+    "OM": {
+        "name": "om\u00e1\u014b"
+    },
+    "PA": {
+        "name": "panam\u00e1"
+    },
+    "PE": {
+        "name": "pel\u00fa"
+    },
+    "PF": {
+        "name": "polines\u00ed u felens\u00ed"
+    },
+    "PG": {
+        "name": "papuas\u00ed nuf\u025b\u0301l kiin\u00e9"
+    },
+    "PH": {
+        "name": "filip\u00edin"
+    },
+    "PK": {
+        "name": "pakist\u00e1\u014b"
+    },
+    "PL": {
+        "name": "p\u0254l\u0254\u0301\u0254ny"
+    },
+    "PM": {
+        "name": "s\u025b\u0301\u014bpi\u025b\u0301l e mikel\u0254\u0301\u014b"
+    },
+    "PN": {
+        "name": "pitik\u025b\u0301\u025bl\u00edn\u025b\u0301"
+    },
+    "PR": {
+        "name": "p\u00f3l\u00f3tol\u00edko"
+    },
+    "PS": {
+        "name": "kit\u0254\u014b ki pal\u025bst\u00edin"
+    },
+    "PT": {
+        "name": "p\u0254ltuk\u00e1al"
+    },
+    "PW": {
+        "name": "palaw\u00fa"
+    },
+    "PY": {
+        "name": "palak\u00fa\u00e9"
+    },
+    "QA": {
+        "name": "kat\u00e1al"
+    },
+    "RE": {
+        "name": "elewuni\u0254\u0301\u014b"
+    },
+    "RO": {
+        "name": "uluman\u00ed"
+    },
+    "RU": {
+        "name": "ulus\u00ed"
+    },
+    "RW": {
+        "name": "ulu\u00e1nd\u00e1"
+    },
+    "SA": {
+        "name": "alap\u00edsawut\u00edit"
+    },
+    "SB": {
+        "name": "il salom\u0254\u0301\u014b"
+    },
+    "SC": {
+        "name": "ses\u025b\u0301\u025bl"
+    },
+    "SD": {
+        "name": "sut\u00e1a\u014b"
+    },
+    "SE": {
+        "name": "su\u025b\u0301t"
+    },
+    "SG": {
+        "name": "singap\u00faul"
+    },
+    "SH": {
+        "name": "s\u025b\u0301\u014bt\u025b\u0301 el\u025b\u0301\u025bn\u025b"
+    },
+    "SI": {
+        "name": "silofen\u00ed"
+    },
+    "SK": {
+        "name": "silofak\u00ed"
+    },
+    "SL": {
+        "name": "siel\u00e1ley\u0254\u0301\u0254n"
+    },
+    "SM": {
+        "name": "san mal\u00edno"
+    },
+    "SN": {
+        "name": "senek\u00e1al"
+    },
+    "SO": {
+        "name": "somal\u00ed"
+    },
+    "SR": {
+        "name": "sulin\u00e1am"
+    },
+    "ST": {
+        "name": "s\u00e1w\u00f3 tom\u00e9 e pelens\u00edpe"
+    },
+    "SV": {
+        "name": "salfat\u0254\u0301\u0254l"
+    },
+    "SZ": {
+        "name": "suasil\u00e1and"
+    },
+    "TC": {
+        "name": "t\u00faluk na k\u00e1yiik"
+    },
+    "TD": {
+        "name": "S\u00e1at"
+    },
+    "TG": {
+        "name": "tok\u00f3"
+    },
+    "TH": {
+        "name": "tayil\u00e1and"
+    },
+    "TJ": {
+        "name": "tasikist\u00e1a\u014b"
+    },
+    "TK": {
+        "name": "tokel\u00f3"
+    },
+    "TL": {
+        "name": "tim\u0254\u0301\u0254l u nip\u00e1l\u025b\u0301n"
+    },
+    "TM": {
+        "name": "tulukmenisit\u00e1a\u014b"
+    },
+    "TN": {
+        "name": "tunus\u00ed"
+    },
+    "TO": {
+        "name": "t\u0254\u0301\u014bka"
+    },
+    "TR": {
+        "name": "tuluk\u00edi"
+    },
+    "TT": {
+        "name": "tilinit\u00e1at na tup\u00e1k\u0254"
+    },
+    "TV": {
+        "name": "tufal\u00fa"
+    },
+    "TW": {
+        "name": "tayiw\u00e1an"
+    },
+    "TZ": {
+        "name": "ta\u014bsan\u00ed"
+    },
+    "UA": {
+        "name": "ukil\u025b\u0301\u025bn"
+    },
+    "UG": {
+        "name": "uk\u00e1nda"
+    },
+    "US": {
+        "name": "am\u00e1l\u00edka"
+    },
+    "UY": {
+        "name": "uluku\u00e9y"
+    },
+    "UZ": {
+        "name": "usupekist\u00e1a\u014b"
+    },
+    "VA": {
+        "name": "fatik\u00e1a\u014b"
+    },
+    "VC": {
+        "name": "s\u025b\u0301\u014b f\u025b\u014bs\u00e1\u014b elekelenat\u00edin"
+    },
+    "VE": {
+        "name": "fenesuwel\u00e1"
+    },
+    "VG": {
+        "name": "Filis\u00edin ungil\u00eds"
+    },
+    "VI": {
+        "name": "pindis\u00fal\u025b\u0301 pi am\u00e1l\u00edka"
+    },
+    "VN": {
+        "name": "fi\u025btn\u00e1am"
+    },
+    "VU": {
+        "name": "fanuat\u00fa"
+    },
+    "WF": {
+        "name": "wal\u00edis na fut\u00fana"
+    },
+    "WS": {
+        "name": "samow\u00e1"
+    },
+    "YE": {
+        "name": "y\u00e9m\u025bn"
+    },
+    "YT": {
+        "name": "may\u0254\u0301\u0254t"
+    },
+    "ZA": {
+        "name": "afil\u00ed mb\u00e1t\u025b\u0301"
+    },
+    "ZM": {
+        "name": "saamb\u00edi"
+    },
+    "ZW": {
+        "name": "simbapuw\u00e9"
+    }
+}

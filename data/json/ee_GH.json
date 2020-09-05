@@ -1,0 +1,870 @@
+{
+    "001": {
+        "name": "xexeme"
+    },
+    "002": {
+        "name": "Afrika nutome"
+    },
+    "003": {
+        "name": "Dziehe Amerika nutome"
+    },
+    "005": {
+        "name": "Anyiehe Amerika nutome"
+    },
+    "009": {
+        "name": "Oceania nutome"
+    },
+    "011": {
+        "name": "\u0194eto\u0256o\u0192el\u0254\u0192o Afrika nutome"
+    },
+    "013": {
+        "name": "Titina Amerika nutome"
+    },
+    "014": {
+        "name": "\u0194edze\u0192e Afrika nutome"
+    },
+    "015": {
+        "name": "Dziehe Afrika nutome"
+    },
+    "017": {
+        "name": "Titina Afrika nutome"
+    },
+    "018": {
+        "name": "Anyiehel\u0254\u0192o Afrika nutome"
+    },
+    "019": {
+        "name": "Amerika nutome"
+    },
+    "021": {
+        "name": "Dziehel\u0254\u0192o Amerika nutome"
+    },
+    "029": {
+        "name": "Karibbea nutome"
+    },
+    "030": {
+        "name": "\u0194edze\u0192e Asia nutome"
+    },
+    "034": {
+        "name": "Anyiehel\u0254\u0192o Asia nutome"
+    },
+    "035": {
+        "name": "Anyiehe \u0194edze\u0192e Afrika nutome"
+    },
+    "039": {
+        "name": "Anyiehel\u0254\u0192o Europa nutome"
+    },
+    "053": {
+        "name": "Australia kple New Zealand nutome"
+    },
+    "054": {
+        "name": "Melanesia nutome"
+    },
+    "057": {
+        "name": "Mikronesia"
+    },
+    "061": {
+        "name": "P\u0254linesia nutome"
+    },
+    "142": {
+        "name": "Asia nutome"
+    },
+    "143": {
+        "name": "Titina Asia nutome"
+    },
+    "145": {
+        "name": "\u0194eto\u0256o\u0192el\u0254\u0192o Asia nutome"
+    },
+    "150": {
+        "name": "Europa nutome"
+    },
+    "151": {
+        "name": "\u0194edze\u0192e Europa nutome"
+    },
+    "154": {
+        "name": "Dziehel\u0254\u0192o Europa nutome"
+    },
+    "155": {
+        "name": "\u0194eto\u0256o\u0192el\u0254\u0192o Europa nutome"
+    },
+    "419": {
+        "name": "Latin Amerika nutome"
+    },
+    "AC": {
+        "name": "Ascension \u0192udomekpo nutome"
+    },
+    "AD": {
+        "name": "Andorra nutome"
+    },
+    "AE": {
+        "name": "United Arab Emirates nutome"
+    },
+    "AF": {
+        "name": "Afghanistan nutome"
+    },
+    "AG": {
+        "name": "\u0301Antigua kple Barbuda nutome"
+    },
+    "AI": {
+        "name": "Anguilla nutome"
+    },
+    "AL": {
+        "name": "Albania nutome"
+    },
+    "AM": {
+        "name": "Armenia nutome"
+    },
+    "AO": {
+        "name": "Angola nutome"
+    },
+    "AQ": {
+        "name": "Antartica nutome"
+    },
+    "AR": {
+        "name": "Argentina nutome"
+    },
+    "AS": {
+        "name": "Amerika Samoa nutome"
+    },
+    "AT": {
+        "name": "Austria nutome"
+    },
+    "AU": {
+        "name": "Australia nutome"
+    },
+    "AW": {
+        "name": "Aruba nutome"
+    },
+    "AX": {
+        "name": "\u00c5land \u0192udomekpo nutome"
+    },
+    "AZ": {
+        "name": "Azerbaijan nutome"
+    },
+    "BA": {
+        "name": "Bosnia kple Herzergovina nutome"
+    },
+    "BB": {
+        "name": "Barbados nutome"
+    },
+    "BD": {
+        "name": "Bangladesh nutome"
+    },
+    "BE": {
+        "name": "Belgium nutome"
+    },
+    "BF": {
+        "name": "Burkina Faso nutome"
+    },
+    "BG": {
+        "name": "Bulgaria nutome"
+    },
+    "BH": {
+        "name": "Bahrain nutome"
+    },
+    "BI": {
+        "name": "Burundi nutome"
+    },
+    "BJ": {
+        "name": "Benin nutome"
+    },
+    "BL": {
+        "name": "Saint Barth\u00e9lemy nutome"
+    },
+    "BM": {
+        "name": "Bermuda nutome"
+    },
+    "BN": {
+        "name": "Brunei nutome"
+    },
+    "BO": {
+        "name": "Bolivia nutome"
+    },
+    "BQ": {
+        "name": "Karibbeat\u0254wo \u0192e Nedalan\u0256s nutome"
+    },
+    "BR": {
+        "name": "Brazil nutome"
+    },
+    "BS": {
+        "name": "Bahamas nutome"
+    },
+    "BT": {
+        "name": "Bhutan nutome"
+    },
+    "BV": {
+        "name": "Bouvet \u0192udomekpo nutome"
+    },
+    "BW": {
+        "name": "Botswana nutome"
+    },
+    "BY": {
+        "name": "Belarus nutome"
+    },
+    "BZ": {
+        "name": "Belize nutome"
+    },
+    "CA": {
+        "name": "Canada nutome"
+    },
+    "CC": {
+        "name": "Kokos (Kiling) fudomekpo nutome"
+    },
+    "CD": {
+        "name": "Kongo Kinshasa nutome",
+        "variant": "Kongo demokratik rep\u0254blik nutome"
+    },
+    "CF": {
+        "name": "Titina Afrika rep\u0254blik nutome"
+    },
+    "CG": {
+        "name": "Kongo Brazzaville nutome",
+        "variant": "Kongo rep\u0254blik nutome"
+    },
+    "CH": {
+        "name": "Switzerland nutome"
+    },
+    "CI": {
+        "name": "Kote d\u2019Ivoire nutome",
+        "variant": "Ivory Kost nutome"
+    },
+    "CK": {
+        "name": "Kook \u0192udomekpo nutome"
+    },
+    "CL": {
+        "name": "Tsile nutome"
+    },
+    "CM": {
+        "name": "Kamerun nutome"
+    },
+    "CN": {
+        "name": "Tsaina nutome"
+    },
+    "CO": {
+        "name": "Kolombia nutome"
+    },
+    "CP": {
+        "name": "Klipaton \u0192udomekpo nutome"
+    },
+    "CR": {
+        "name": "Kosta Rika nutome"
+    },
+    "CU": {
+        "name": "Kuba nutome"
+    },
+    "CV": {
+        "name": "Kape Verde nutome"
+    },
+    "CW": {
+        "name": "Kurakao nutome"
+    },
+    "CX": {
+        "name": "Kristmas \u0192udomekpo nutome"
+    },
+    "CY": {
+        "name": "Saiprus nutome"
+    },
+    "CZ": {
+        "name": "Ts\u025bk rep\u0254blik nutome"
+    },
+    "DE": {
+        "name": "Germania nutome"
+    },
+    "DG": {
+        "name": "Diego Garsia nutome"
+    },
+    "DJ": {
+        "name": "Dzibuti nutome"
+    },
+    "DK": {
+        "name": "Denmark nutome"
+    },
+    "DM": {
+        "name": "Dominika nutome"
+    },
+    "DO": {
+        "name": "Dominika rep\u0254blik nutome"
+    },
+    "DZ": {
+        "name": "Algeria nutome"
+    },
+    "EA": {
+        "name": "Keuta and Melilla nutome"
+    },
+    "EC": {
+        "name": "Ekuad\u0254 nutome"
+    },
+    "EE": {
+        "name": "Estonia nutome"
+    },
+    "EG": {
+        "name": "Egypte nutome"
+    },
+    "EH": {
+        "name": "\u0194eto\u0256o\u0192e Sahara nutome"
+    },
+    "ER": {
+        "name": "Eritrea nutome"
+    },
+    "ES": {
+        "name": "Spain nutome"
+    },
+    "ET": {
+        "name": "Etiopia nutome"
+    },
+    "EU": {
+        "name": "Europa W\u0254\u0256eka nutome"
+    },
+    "FI": {
+        "name": "Finland nutome"
+    },
+    "FJ": {
+        "name": "Fidzi nutome"
+    },
+    "FK": {
+        "name": "Falkland \u0192udomekpowo nutome",
+        "variant": "Falkland \u0192udomekpowo (Islas Malvinas) nutome"
+    },
+    "FM": {
+        "name": "Mikronesia nutome"
+    },
+    "FO": {
+        "name": "Faroe \u0192udomekpowo nutome"
+    },
+    "FR": {
+        "name": "France nutome"
+    },
+    "GA": {
+        "name": "Gab\u0254n nutome"
+    },
+    "GB": {
+        "name": "United Kingdom nutome"
+    },
+    "GD": {
+        "name": "Grenada nutome"
+    },
+    "GE": {
+        "name": "Georgia nutome"
+    },
+    "GF": {
+        "name": "Frentsi Gayana nutome"
+    },
+    "GG": {
+        "name": "Guernse nutome"
+    },
+    "GH": {
+        "name": "Ghana nutome"
+    },
+    "GI": {
+        "name": "Gibraltar nutome"
+    },
+    "GL": {
+        "name": "Grinland nutome"
+    },
+    "GM": {
+        "name": "Gambia nutome"
+    },
+    "GN": {
+        "name": "Guini nutome"
+    },
+    "GP": {
+        "name": "Guadelupe nutome"
+    },
+    "GQ": {
+        "name": "Ekuatorial Guini nutome"
+    },
+    "GR": {
+        "name": "Greece nutome"
+    },
+    "GS": {
+        "name": "Anyiehe Georgia kple Anyiehe Sandwich \u0192udomekpowo nutome"
+    },
+    "GT": {
+        "name": "Guatemala nutome"
+    },
+    "GU": {
+        "name": "Guam nutome"
+    },
+    "GW": {
+        "name": "Gini-Bisao nutome"
+    },
+    "GY": {
+        "name": "Guyanadu"
+    },
+    "HK": {
+        "name": "H\u0254ng K\u0254ng SAR Tsaina nutome",
+        "short": "H\u0254ng K\u0254ng nutome"
+    },
+    "HM": {
+        "name": "Heard kple Mcdonald \u0192udomekpowo nutome"
+    },
+    "HN": {
+        "name": "Hondurasdu"
+    },
+    "HR": {
+        "name": "Kroatsia nutome"
+    },
+    "HT": {
+        "name": "Haiti nutome"
+    },
+    "HU": {
+        "name": "Hungari nutome"
+    },
+    "IC": {
+        "name": "Kanari \u0192udomekpowo nutome"
+    },
+    "ID": {
+        "name": "Indonesia nutome"
+    },
+    "IE": {
+        "name": "Ireland nutome"
+    },
+    "IL": {
+        "name": "Israel nutome"
+    },
+    "IM": {
+        "name": "Aisle of Man nutome"
+    },
+    "IN": {
+        "name": "India nutome"
+    },
+    "IO": {
+        "name": "Britaint\u0254wo \u0192e india \u0192udome nutome"
+    },
+    "IQ": {
+        "name": "iraqduk\u0254"
+    },
+    "IR": {
+        "name": "Iran nutome"
+    },
+    "IS": {
+        "name": "Aiseland nutome"
+    },
+    "IT": {
+        "name": "Italia nutome"
+    },
+    "JE": {
+        "name": "Dz\u025bse nutome"
+    },
+    "JM": {
+        "name": "Dzamaika nutome"
+    },
+    "JO": {
+        "name": "Yordan nutome"
+    },
+    "JP": {
+        "name": "Dzapan nutome"
+    },
+    "KE": {
+        "name": "Kenya nutome"
+    },
+    "KG": {
+        "name": "Kirgizstan nutome"
+    },
+    "KH": {
+        "name": "Kambodia nutome"
+    },
+    "KI": {
+        "name": "Kiribati nutome"
+    },
+    "KM": {
+        "name": "Komoros nutome"
+    },
+    "KN": {
+        "name": "Saint Kitis kple Nevis nutome"
+    },
+    "KP": {
+        "name": "Dziehe Korea nutome"
+    },
+    "KR": {
+        "name": "Anyiehe Korea nutome"
+    },
+    "KW": {
+        "name": "Kuwait nutome"
+    },
+    "KY": {
+        "name": "Kayman \u0192udomekpowo nutome"
+    },
+    "KZ": {
+        "name": "Kazakstan nutome"
+    },
+    "LA": {
+        "name": "Laos nutome"
+    },
+    "LB": {
+        "name": "Leban\u0254n nutome"
+    },
+    "LC": {
+        "name": "Saint Lusia nutome"
+    },
+    "LI": {
+        "name": "Litsenstein nutome"
+    },
+    "LK": {
+        "name": "Sri Lanka nutome"
+    },
+    "LR": {
+        "name": "Liberia nutome"
+    },
+    "LS": {
+        "name": "L\u025bsoto nutome"
+    },
+    "LT": {
+        "name": "Lituania nutome"
+    },
+    "LU": {
+        "name": "Lazemb\u0254g nutome"
+    },
+    "LV": {
+        "name": "Latvia nutome"
+    },
+    "LY": {
+        "name": "Libya nutome"
+    },
+    "MA": {
+        "name": "Moroko nutome"
+    },
+    "MC": {
+        "name": "Monako nutome"
+    },
+    "MD": {
+        "name": "Moldova nutome"
+    },
+    "ME": {
+        "name": "Montenegro nutome"
+    },
+    "MF": {
+        "name": "Saint Martin nutome"
+    },
+    "MG": {
+        "name": "Madagaska nutome"
+    },
+    "MH": {
+        "name": "Marshal \u0192udomekpowo nutome"
+    },
+    "ML": {
+        "name": "Mali nutome"
+    },
+    "MM": {
+        "name": "Myanmar (Burma) nutome"
+    },
+    "MN": {
+        "name": "Mongolia nutome"
+    },
+    "MO": {
+        "name": "Macau SAR Tsaina nutome",
+        "short": "Macau nutome"
+    },
+    "MP": {
+        "name": "Dziehe Marina \u0192udomekpowo nutome"
+    },
+    "MQ": {
+        "name": "Martiniki nutome"
+    },
+    "MR": {
+        "name": "Mauritania nutome"
+    },
+    "MS": {
+        "name": "Montserrat nutome"
+    },
+    "MT": {
+        "name": "Malta nutome"
+    },
+    "MU": {
+        "name": "mauritiusduk\u0254"
+    },
+    "MV": {
+        "name": "maldivesduk\u0254"
+    },
+    "MW": {
+        "name": "Malawi nutome"
+    },
+    "MX": {
+        "name": "Mexico nutome"
+    },
+    "MY": {
+        "name": "Malaysia nutome"
+    },
+    "MZ": {
+        "name": "Mozambiki nutome"
+    },
+    "NA": {
+        "name": "Namibia nutome"
+    },
+    "NC": {
+        "name": "New Kaledonia nutome"
+    },
+    "NE": {
+        "name": "Niger nutome"
+    },
+    "NF": {
+        "name": "Norfolk \u0192udomekpo nutome"
+    },
+    "NG": {
+        "name": "Nigeria nutome"
+    },
+    "NI": {
+        "name": "Nicaraguaduk\u0254"
+    },
+    "NL": {
+        "name": "Netherlands nutome"
+    },
+    "NO": {
+        "name": "Norway nutome"
+    },
+    "NP": {
+        "name": "Nepal nutome"
+    },
+    "NR": {
+        "name": "Nauru nutome"
+    },
+    "NU": {
+        "name": "Niue nutome"
+    },
+    "NZ": {
+        "name": "New Zealand nutome"
+    },
+    "OM": {
+        "name": "Oman nutome"
+    },
+    "PA": {
+        "name": "Panama nutome"
+    },
+    "PE": {
+        "name": "Peru nutome"
+    },
+    "PF": {
+        "name": "Frentsi P\u0254linesia nutome"
+    },
+    "PG": {
+        "name": "Papua New Gini nutome"
+    },
+    "PH": {
+        "name": "Filipini nutome"
+    },
+    "PK": {
+        "name": "Pakistan nutome"
+    },
+    "PL": {
+        "name": "Poland nutome"
+    },
+    "PM": {
+        "name": "Saint Pierre kple Mikel\u0254n nutome"
+    },
+    "PN": {
+        "name": "Pitkairn \u0192udomekpo nutome"
+    },
+    "PR": {
+        "name": "Puerto Riko nutome"
+    },
+    "PS": {
+        "name": "Palestinia nutome"
+    },
+    "PT": {
+        "name": "Portugal nutome"
+    },
+    "PW": {
+        "name": "Palau nutome"
+    },
+    "PY": {
+        "name": "Paragua nutome"
+    },
+    "QA": {
+        "name": "Katar nutome"
+    },
+    "QO": {
+        "name": "Outlaying Oceania nutome"
+    },
+    "RE": {
+        "name": "R\u00e9union nutome"
+    },
+    "RO": {
+        "name": "Romania nutome"
+    },
+    "RS": {
+        "name": "Serbia nutome"
+    },
+    "RU": {
+        "name": "Russia nutome"
+    },
+    "RW": {
+        "name": "Rwanda nutome"
+    },
+    "SA": {
+        "name": "Saudi Arabia nutome"
+    },
+    "SB": {
+        "name": "Solomon \u0192udomekpowo nutome"
+    },
+    "SC": {
+        "name": "Sesh\u025bls nutome"
+    },
+    "SD": {
+        "name": "Sudan nutome"
+    },
+    "SE": {
+        "name": "Sweden nutome"
+    },
+    "SG": {
+        "name": "Singap\u0254r nutome"
+    },
+    "SH": {
+        "name": "Saint Helena nutome"
+    },
+    "SI": {
+        "name": "Slovenia nutome"
+    },
+    "SJ": {
+        "name": "Svalbard kple Yan Mayen nutome"
+    },
+    "SK": {
+        "name": "Slovakia nutome"
+    },
+    "SL": {
+        "name": "Sierra Leone nutome"
+    },
+    "SM": {
+        "name": "San Marino nutome"
+    },
+    "SN": {
+        "name": "Senegal nutome"
+    },
+    "SO": {
+        "name": "Somalia nutome"
+    },
+    "SR": {
+        "name": "Suriname nutome"
+    },
+    "SS": {
+        "name": "Anyiehe Sudan nutome"
+    },
+    "ST": {
+        "name": "S\u00e3o Tom\u00e9 kple Pr\u00edncipe nutome"
+    },
+    "SV": {
+        "name": "El Salvad\u0254 nutome"
+    },
+    "SX": {
+        "name": "Sint Maarten nutome"
+    },
+    "SY": {
+        "name": "Siria nutome"
+    },
+    "SZ": {
+        "name": "Swaziland nutome"
+    },
+    "TA": {
+        "name": "Tristan da Kunha nutome"
+    },
+    "TC": {
+        "name": "T\u025bks kple Kaikos \u0192udomekpowo nutome"
+    },
+    "TD": {
+        "name": "Tsad nutome"
+    },
+    "TF": {
+        "name": "Anyiehe Franseme nutome"
+    },
+    "TG": {
+        "name": "Togo nutome"
+    },
+    "TH": {
+        "name": "Thailand nutome"
+    },
+    "TJ": {
+        "name": "Tajikistan nutome"
+    },
+    "TK": {
+        "name": "Tokelau nutome"
+    },
+    "TL": {
+        "name": "Timor-Leste nutome",
+        "variant": "\u0194edze\u0192e Tim\u0254 nutome"
+    },
+    "TM": {
+        "name": "T\u025bkmenistan nutome"
+    },
+    "TN": {
+        "name": "Tunisia nutome"
+    },
+    "TO": {
+        "name": "Tonga nutome"
+    },
+    "TR": {
+        "name": "T\u025bki nutome"
+    },
+    "TT": {
+        "name": "Trinidad kple Tobago nutome"
+    },
+    "TV": {
+        "name": "Tuvalu nutome"
+    },
+    "TW": {
+        "name": "Taiwan nutome"
+    },
+    "TZ": {
+        "name": "Tanzania nutome"
+    },
+    "UA": {
+        "name": "Ukraine nutome"
+    },
+    "UG": {
+        "name": "Uganda nutome"
+    },
+    "UM": {
+        "name": "U.S. Minor Outlaying \u0192udomekpowo nutome"
+    },
+    "US": {
+        "name": "USA nutome"
+    },
+    "UY": {
+        "name": "uruguayduk\u0254"
+    },
+    "UZ": {
+        "name": "Uzbekistan nutome"
+    },
+    "VA": {
+        "name": "Vatikandu nutome"
+    },
+    "VC": {
+        "name": "Saint Vincent kple Grenadine nutome"
+    },
+    "VE": {
+        "name": "Venezuela nutome"
+    },
+    "VG": {
+        "name": "Britaint\u0254wo \u0192e Virgin \u0192udomekpowo nutome"
+    },
+    "VI": {
+        "name": "U.S. V\u025brgin \u0192udomekpowo nutome"
+    },
+    "VN": {
+        "name": "Vietnam nutome"
+    },
+    "VU": {
+        "name": "Vanuatu nutome"
+    },
+    "WF": {
+        "name": "Wallis kple Futuna nutome"
+    },
+    "WS": {
+        "name": "Samoa nutome"
+    },
+    "YE": {
+        "name": "Yemen nutome"
+    },
+    "YT": {
+        "name": "Mayotte nutome"
+    },
+    "ZA": {
+        "name": "Anyiehe Africa nutome"
+    },
+    "ZM": {
+        "name": "Zambia nutome"
+    },
+    "ZW": {
+        "name": "Zimbabwe nutome"
+    },
+    "ZZ": {
+        "name": "nutome manya"
+    }
+}

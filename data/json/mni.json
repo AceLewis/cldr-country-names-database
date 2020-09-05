@@ -1,0 +1,35 @@
+{
+    "BR": {
+        "name": "\u09ac\u09cd\u09b0\u09be\u099c\u09bf\u09b2"
+    },
+    "CN": {
+        "name": "\u099a\u09bf\u09a8\u09be"
+    },
+    "DE": {
+        "name": "\u099c\u09b0\u09cd\u09ae\u09a8\u09bf"
+    },
+    "FR": {
+        "name": "\u09ab\u09cd\u09b0\u09be\u09a8\u09cd\u09b8"
+    },
+    "GB": {
+        "name": "\u09af\u09bc\u09c1\u09a8\u09be\u0987\u099f\u09c7\u09a6 \u0995\u09bf\u0982\u09a6\u09ae"
+    },
+    "IN": {
+        "name": "\u0987\u09a8\u09cd\u09a6\u09bf\u09af\u09bc\u09be"
+    },
+    "IT": {
+        "name": "\u0987\u099f\u09be\u09b2\u09bf"
+    },
+    "JP": {
+        "name": "\u099c\u09be\u09aa\u09be\u09a8"
+    },
+    "RU": {
+        "name": "\u09b0\u09c1\u09b8\u09bf\u09af\u09bc\u09be"
+    },
+    "US": {
+        "name": "\u09af\u09bc\u09c1\u09a8\u09be\u0987\u099f\u09c7\u09a6 \u09b7\u09cd\u099f\u09c7\u099f\u09b8"
+    },
+    "ZZ": {
+        "name": "\u09ae\u09b6\u0995\u0996\u0982\u09a6\u09ac\u09be \u09b2\u09ae\u09a6\u09ae"
+    }
+}

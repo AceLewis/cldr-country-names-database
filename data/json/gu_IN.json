@@ -1,0 +1,897 @@
+{
+    "001": {
+        "name": "\u0ab5\u0abf\u0ab6\u0acd\u0ab5"
+    },
+    "002": {
+        "name": "\u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "003": {
+        "name": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "005": {
+        "name": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "009": {
+        "name": "\u0a93\u0ab6\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "011": {
+        "name": "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae\u0ac0 \u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "013": {
+        "name": "\u0aae\u0aa7\u0acd\u0aaf \u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "014": {
+        "name": "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0ac0\u0aaf \u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "015": {
+        "name": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0ac0 \u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "017": {
+        "name": "\u0aae\u0aa7\u0acd\u0aaf \u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "018": {
+        "name": "\u0ab8\u0aa7\u0ab0\u0acd\u0aa8 \u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "019": {
+        "name": "\u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "021": {
+        "name": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0ac0 \u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "029": {
+        "name": "\u0a95\u0ac7\u0ab0\u0abf\u0aac\u0abf\u0aaf\u0aa8"
+    },
+    "030": {
+        "name": "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0ac0\u0aaf \u0a8f\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "034": {
+        "name": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0a8f\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "035": {
+        "name": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3\u0aaa\u0ac2\u0ab0\u0acd\u0ab5 \u0a8f\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "039": {
+        "name": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0aaf\u0ac1\u0ab0\u0acb\u0aaa"
+    },
+    "053": {
+        "name": "\u0a93\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0ac7\u0ab2\u0ac7\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "054": {
+        "name": "\u0aae\u0ac7\u0ab2\u0abe\u0aa8\u0ac7\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "057": {
+        "name": "\u0aae\u0abe\u0a88\u0a95\u0acd\u0ab0\u0acb\u0aa8\u0ac7\u0ab6\u0abf\u0aaf\u0aa8 \u0a95\u0acd\u0ab7\u0ac7\u0aa4\u0acd\u0ab0"
+    },
+    "061": {
+        "name": "\u0aaa\u0acb\u0ab2\u0abf\u0aa8\u0ac7\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "142": {
+        "name": "\u0a8f\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "143": {
+        "name": "\u0aae\u0aa7\u0acd\u0aaf \u0a8f\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "145": {
+        "name": "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae\u0ac0 \u0a8f\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "150": {
+        "name": "\u0aaf\u0ac1\u0ab0\u0acb\u0aaa"
+    },
+    "151": {
+        "name": "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5\u0ac0\u0aaf \u0aaf\u0ac1\u0ab0\u0acb\u0aaa"
+    },
+    "154": {
+        "name": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0ac0\u0aaf \u0aaf\u0ac1\u0ab0\u0acb\u0aaa"
+    },
+    "155": {
+        "name": "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae\u0ac0 \u0aaf\u0ac1\u0ab0\u0acb\u0aaa"
+    },
+    "202": {
+        "name": "\u0ab8\u0aac-\u0ab8\u0ab9\u0abe\u0ab0\u0aa8 \u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "419": {
+        "name": "\u0ab2\u0ac7\u0a9f\u0abf\u0aa8 \u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "AC": {
+        "name": "\u0a8f\u0ab8\u0ac7\u0aa8\u0acd\u0ab6\u0aa8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "AD": {
+        "name": "\u0a8d\u0a82\u0aa1\u0acb\u0ab0\u0abe"
+    },
+    "AE": {
+        "name": "\u0aaf\u0ac1\u0aa8\u0abe\u0a87\u0a9f\u0ac7\u0aa1 \u0a86\u0ab0\u0aac \u0a85\u0aae\u0ac0\u0ab0\u0abe\u0aa4"
+    },
+    "AF": {
+        "name": "\u0a85\u0aab\u0a98\u0abe\u0aa8\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    },
+    "AG": {
+        "name": "\u0a8d\u0aa8\u0acd\u0a9f\u0abf\u0a97\u0ac1\u0a86 \u0a85\u0aa8\u0ac7 \u0aac\u0ab0\u0acd\u0aae\u0ac1\u0aa1\u0abe"
+    },
+    "AI": {
+        "name": "\u0a8d\u0a82\u0a97\u0acd\u0ab5\u0abf\u0ab2\u0abe"
+    },
+    "AL": {
+        "name": "\u0a85\u0ab2\u0acd\u0aac\u0ac7\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "AM": {
+        "name": "\u0a86\u0ab0\u0acd\u0aae\u0ac7\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "AO": {
+        "name": "\u0a85\u0a82\u0a97\u0acb\u0ab2\u0abe"
+    },
+    "AQ": {
+        "name": "\u0a8f\u0aa8\u0acd\u0a9f\u0abe\u0ab0\u0acd\u0a95\u0a9f\u0abf\u0a95\u0abe"
+    },
+    "AR": {
+        "name": "\u0a86\u0ab0\u0acd\u0a9c\u0ac7\u0aa8\u0acd\u0a9f\u0ac0\u0aa8\u0abe"
+    },
+    "AS": {
+        "name": "\u0a85\u0aae\u0ac7\u0ab0\u0abf\u0a95\u0aa8 \u0ab8\u0aae\u0acb\u0a86"
+    },
+    "AT": {
+        "name": "\u0a91\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0abf\u0aaf\u0abe"
+    },
+    "AU": {
+        "name": "\u0a91\u0ab8\u0acd\u0a9f\u0acd\u0ab0\u0ac7\u0ab2\u0abf\u0aaf\u0abe"
+    },
+    "AW": {
+        "name": "\u0a85\u0ab0\u0ac1\u0aac\u0abe"
+    },
+    "AX": {
+        "name": "\u0a91\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "AZ": {
+        "name": "\u0a85\u0a9d\u0ab0\u0aac\u0ac8\u0a9c\u0abe\u0aa8"
+    },
+    "BA": {
+        "name": "\u0aac\u0acb\u0ab8\u0acd\u0aa8\u0abf\u0aaf\u0abe \u0a85\u0aa8\u0ac7 \u0ab9\u0ab0\u0acd\u0a9d\u0ac7\u0a97\u0acb\u0ab5\u0abf\u0aa8\u0abe"
+    },
+    "BB": {
+        "name": "\u0aac\u0abe\u0ab0\u0aac\u0abe\u0aa1\u0acb\u0ab8"
+    },
+    "BD": {
+        "name": "\u0aac\u0abe\u0a82\u0a97\u0acd\u0ab2\u0abe\u0aa6\u0ac7\u0ab6"
+    },
+    "BE": {
+        "name": "\u0aac\u0ac7\u0ab2\u0acd\u0a9c\u0ac0\u0aaf\u0aae"
+    },
+    "BF": {
+        "name": "\u0aac\u0ac1\u0ab0\u0acd\u0a95\u0abf\u0aa8\u0abe \u0aab\u0abe\u0ab8\u0acb"
+    },
+    "BG": {
+        "name": "\u0aac\u0ab2\u0acd\u0a97\u0ac7\u0ab0\u0abf\u0aaf\u0abe"
+    },
+    "BH": {
+        "name": "\u0aac\u0ac7\u0ab9\u0ab0\u0ac0\u0aa8"
+    },
+    "BI": {
+        "name": "\u0aac\u0ac1\u0ab0\u0ac1\u0a82\u0aa1\u0ac0"
+    },
+    "BJ": {
+        "name": "\u0aac\u0ac7\u0aa8\u0abf\u0aa8"
+    },
+    "BL": {
+        "name": "\u0ab8\u0ac7\u0a82\u0a9f \u0aac\u0abe\u0ab0\u0acd\u0aa5\u0ac7\u0ab2\u0ac7\u0aae\u0ac0"
+    },
+    "BM": {
+        "name": "\u0aac\u0ab0\u0acd\u0aae\u0ac1\u0aa1\u0abe"
+    },
+    "BN": {
+        "name": "\u0aac\u0acd\u0ab0\u0ac1\u0aa8\u0ac7\u0a87"
+    },
+    "BO": {
+        "name": "\u0aac\u0acb\u0ab2\u0abf\u0ab5\u0abf\u0aaf\u0abe"
+    },
+    "BQ": {
+        "name": "\u0a95\u0ac7\u0ab0\u0ac7\u0aac\u0abf\u0aaf\u0aa8 \u0aa8\u0ac7\u0aa7\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0a9d"
+    },
+    "BR": {
+        "name": "\u0aac\u0acd\u0ab0\u0abe\u0a9d\u0abf\u0ab2"
+    },
+    "BS": {
+        "name": "\u0aac\u0ab9\u0abe\u0aae\u0abe\u0ab8"
+    },
+    "BT": {
+        "name": "\u0aad\u0ac2\u0a9f\u0abe\u0aa8"
+    },
+    "BV": {
+        "name": "\u0aac\u0acc\u0ab5\u0ac7\u0aa4 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "BW": {
+        "name": "\u0aac\u0acb\u0aa4\u0acd\u0ab8\u0acd\u0ab5\u0abe\u0aa8\u0abe"
+    },
+    "BY": {
+        "name": "\u0aac\u0ac7\u0ab2\u0abe\u0ab0\u0ac1\u0ab8"
+    },
+    "BZ": {
+        "name": "\u0aac\u0ac7\u0ab2\u0ac0\u0a9d"
+    },
+    "CA": {
+        "name": "\u0a95\u0ac7\u0aa8\u0ac7\u0aa1\u0abe"
+    },
+    "CC": {
+        "name": "\u0a95\u0acb\u0a95\u0acb\u0a9d (\u0a95\u0ac0\u0ab2\u0ac0\u0a82\u0a97) \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "CD": {
+        "name": "\u0a95\u0acb\u0a82\u0a97\u0acb - \u0a95\u0abf\u0a82\u0ab6\u0abe\u0ab8\u0abe",
+        "variant": "\u0a95\u0acb\u0a82\u0a97\u0acb (\u0aa1\u0ac0\u0a86\u0ab0\u0ab8\u0ac0)"
+    },
+    "CF": {
+        "name": "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f\u0acd\u0ab0\u0ab2 \u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0aa8 \u0ab0\u0abf\u0aaa\u0aac\u0acd\u0ab2\u0abf\u0a95"
+    },
+    "CG": {
+        "name": "\u0a95\u0acb\u0a82\u0a97\u0acb - \u0aac\u0acd\u0ab0\u0abe\u0a9d\u0abe\u0ab5\u0abf\u0ab2\u0ac7",
+        "variant": "\u0a95\u0acb\u0a82\u0a97\u0acb (\u0ab0\u0abf\u0aaa\u0aac\u0acd\u0ab2\u0abf\u0a95)"
+    },
+    "CH": {
+        "name": "\u0ab8\u0acd\u0ab5\u0abf\u0a9f\u0acd\u0a9d\u0ab0\u0acd\u0ab2\u0ac5\u0aa8\u0acd\u0aa1"
+    },
+    "CI": {
+        "name": "\u0a95\u0acb\u0a9f \u0aa1\u0ac0\u0a86\u0a87\u0ab5\u0ab0\u0ac0",
+        "variant": "\u0a86\u0a87\u0ab5\u0ab0\u0ac0 \u0a95\u0acb\u0ab8\u0acd\u0a9f"
+    },
+    "CK": {
+        "name": "\u0a95\u0ac1\u0a95 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "CL": {
+        "name": "\u0a9a\u0abf\u0ab2\u0ac0"
+    },
+    "CM": {
+        "name": "\u0a95\u0ac5\u0aae\u0ab0\u0ac2\u0aa8"
+    },
+    "CN": {
+        "name": "\u0a9a\u0ac0\u0aa8"
+    },
+    "CO": {
+        "name": "\u0a95\u0acb\u0ab2\u0aae\u0acd\u0aac\u0abf\u0aaf\u0abe"
+    },
+    "CP": {
+        "name": "\u0a95\u0acd\u0ab2\u0abf\u0aaa\u0ab0\u0a9f\u0aa8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "CR": {
+        "name": "\u0a95\u0acb\u0ab8\u0acd\u0a9f\u0abe \u0ab0\u0abf\u0a95\u0abe"
+    },
+    "CU": {
+        "name": "\u0a95\u0acd\u0aaf\u0ac1\u0aac\u0abe"
+    },
+    "CV": {
+        "name": "\u0a95\u0ac5\u0aaa \u0ab5\u0ab0\u0acd\u0aa1\u0ac7"
+    },
+    "CW": {
+        "name": "\u0a95\u0acd\u0aaf\u0ac1\u0ab0\u0abe\u0ab8\u0abe\u0a93"
+    },
+    "CX": {
+        "name": "\u0a95\u0acd\u0ab0\u0abf\u0ab8\u0aae\u0ab8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "CY": {
+        "name": "\u0ab8\u0abe\u0aaf\u0aaa\u0acd\u0ab0\u0ab8"
+    },
+    "CZ": {
+        "name": "\u0a9a\u0ac7\u0a95\u0ac0\u0aaf\u0abe",
+        "variant": "\u0a9a\u0ac7\u0a95 \u0ab0\u0abf\u0aaa\u0aac\u0acd\u0ab2\u0abf\u0a95"
+    },
+    "DE": {
+        "name": "\u0a9c\u0ab0\u0acd\u0aae\u0aa8\u0ac0"
+    },
+    "DG": {
+        "name": "\u0aa1\u0abf\u0a8f\u0a97\u0acb \u0a97\u0abe\u0ab0\u0ab8\u0abf\u0a86"
+    },
+    "DJ": {
+        "name": "\u0a9c\u0ac0\u0aac\u0acc\u0a9f\u0ac0"
+    },
+    "DK": {
+        "name": "\u0aa1\u0ac7\u0aa8\u0aae\u0abe\u0ab0\u0acd\u0a95"
+    },
+    "DM": {
+        "name": "\u0aa1\u0acb\u0aae\u0abf\u0aa8\u0abf\u0a95\u0abe"
+    },
+    "DO": {
+        "name": "\u0aa1\u0acb\u0aae\u0abf\u0aa8\u0abf\u0a95\u0aa8 \u0ab0\u0abf\u0aaa\u0aac\u0acd\u0ab2\u0abf\u0a95"
+    },
+    "DZ": {
+        "name": "\u0a85\u0ab2\u0acd\u0a9c\u0ac0\u0ab0\u0abf\u0aaf\u0abe"
+    },
+    "EA": {
+        "name": "\u0ab8\u0acd\u0aaf\u0ac1\u0a9f\u0abe \u0a85\u0aa8\u0ac7 \u0aae\u0ac7\u0ab2\u0abf\u0ab2\u0abe"
+    },
+    "EC": {
+        "name": "\u0a8f\u0a95\u0acd\u0ab5\u0abe\u0aa1\u0acb\u0ab0"
+    },
+    "EE": {
+        "name": "\u0a8f\u0ab8\u0acd\u0a9f\u0acb\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "EG": {
+        "name": "\u0a87\u0a9c\u0abf\u0aaa\u0acd\u0aa4"
+    },
+    "EH": {
+        "name": "\u0aaa\u0ab6\u0acd\u0a9a\u0abf\u0aae\u0ac0 \u0ab8\u0ab9\u0abe\u0ab0\u0abe"
+    },
+    "ER": {
+        "name": "\u0a8f\u0ab0\u0abf\u0a9f\u0acd\u0ab0\u0abf\u0aaf\u0abe"
+    },
+    "ES": {
+        "name": "\u0ab8\u0acd\u0aaa\u0ac7\u0aa8"
+    },
+    "ET": {
+        "name": "\u0a87\u0aa5\u0abf\u0a93\u0aaa\u0abf\u0aaf\u0abe"
+    },
+    "EU": {
+        "name": "\u0aaf\u0ac1\u0ab0\u0acb\u0aaa\u0abf\u0aaf\u0aa8 \u0ab8\u0a82\u0a98"
+    },
+    "EZ": {
+        "name": "\u0aaf\u0ac1\u0ab0\u0acb\u0a9d\u0acb\u0aa8"
+    },
+    "FI": {
+        "name": "\u0aab\u0abf\u0aa8\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "FJ": {
+        "name": "\u0aab\u0ac0\u0a9c\u0ac0"
+    },
+    "FK": {
+        "name": "\u0aab\u0ac9\u0a95\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8",
+        "variant": "\u0aab\u0ac9\u0a95\u0ab2\u0ac7\u0aa8\u0acd\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8 (\u0a86\u0a87\u0ab2\u0abe\u0ab8 \u0aae\u0abe\u0ab2\u0ab5\u0abf\u0aa8\u0abe\u0ab8)"
+    },
+    "FM": {
+        "name": "\u0aae\u0abe\u0a87\u0a95\u0acd\u0ab0\u0acb\u0aa8\u0ac7\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "FO": {
+        "name": "\u0aab\u0ac7\u0ab0\u0acb \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "FR": {
+        "name": "\u0aab\u0acd\u0ab0\u0abe\u0a82\u0ab8"
+    },
+    "GA": {
+        "name": "\u0a97\u0ac7\u0aac\u0aa8"
+    },
+    "GB": {
+        "name": "\u0aaf\u0ac1\u0aa8\u0abe\u0a87\u0a9f\u0ac7\u0aa1 \u0a95\u0abf\u0a82\u0a97\u0aa1\u0aae",
+        "short": "\u0aaf\u0ac1.\u0a95\u0ac7."
+    },
+    "GD": {
+        "name": "\u0a97\u0acd\u0ab0\u0ac7\u0aa8\u0ac7\u0aa1\u0abe"
+    },
+    "GE": {
+        "name": "\u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c\u0abf\u0aaf\u0abe"
+    },
+    "GF": {
+        "name": "\u0aab\u0acd\u0ab0\u0ac7\u0a82\u0a9a \u0a97\u0aaf\u0abe\u0aa8\u0abe"
+    },
+    "GG": {
+        "name": "\u0a97\u0acd\u0ab5\u0ac7\u0ab0\u0acd\u0aa8\u0ab8\u0ac7"
+    },
+    "GH": {
+        "name": "\u0a98\u0abe\u0aa8\u0abe"
+    },
+    "GI": {
+        "name": "\u0a9c\u0ac0\u0aac\u0acd\u0ab0\u0abe\u0ab2\u0acd\u0a9f\u0ab0"
+    },
+    "GL": {
+        "name": "\u0a97\u0acd\u0ab0\u0ac0\u0aa8\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "GM": {
+        "name": "\u0a97\u0ac7\u0aae\u0acd\u0aac\u0abf\u0aaf\u0abe"
+    },
+    "GN": {
+        "name": "\u0a97\u0abf\u0aa8\u0ac0"
+    },
+    "GP": {
+        "name": "\u0a97\u0acd\u0ab5\u0abe\u0aa1\u0ac7\u0ab2\u0acb\u0aaa"
+    },
+    "GQ": {
+        "name": "\u0a87\u0a95\u0acd\u0ab5\u0ac7\u0a9f\u0acb\u0ab0\u0abf\u0aaf\u0ab2 \u0a97\u0abf\u0aa8\u0ac0"
+    },
+    "GR": {
+        "name": "\u0a97\u0acd\u0ab0\u0ac0\u0ab8"
+    },
+    "GS": {
+        "name": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c\u0abf\u0aaf\u0abe \u0a85\u0aa8\u0ac7 \u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0ab8\u0ac7\u0aa8\u0acd\u0aa1\u0ab5\u0abf\u0a9a \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "GT": {
+        "name": "\u0a97\u0acd\u0ab5\u0abe\u0a9f\u0ac7\u0aae\u0abe\u0ab2\u0abe"
+    },
+    "GU": {
+        "name": "\u0a97\u0acd\u0ab5\u0abe\u0aae"
+    },
+    "GW": {
+        "name": "\u0a97\u0abf\u0aa8\u0ac0-\u0aac\u0abf\u0ab8\u0abe\u0a89"
+    },
+    "GY": {
+        "name": "\u0a97\u0aaf\u0abe\u0aa8\u0abe"
+    },
+    "HK": {
+        "name": "\u0ab9\u0acb\u0a82\u0a97\u0a95\u0acb\u0a82\u0a97 SAR \u0a9a\u0ac0\u0aa8",
+        "short": "\u0ab9\u0acb\u0a82\u0a97\u0a95\u0acb\u0a82\u0a97"
+    },
+    "HM": {
+        "name": "\u0ab9\u0ab0\u0acd\u0aa1 \u0a85\u0aa8\u0ac7 \u0aae\u0ac7\u0a95\u0aa1\u0acb\u0aa8\u0abe\u0ab2\u0acd\u0aa1 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "HN": {
+        "name": "\u0ab9\u0acb\u0aa8\u0acd\u0aa1\u0ac1\u0ab0\u0ab8"
+    },
+    "HR": {
+        "name": "\u0a95\u0acd\u0ab0\u0acb\u0a8f\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "HT": {
+        "name": "\u0ab9\u0ac8\u0aa4\u0abf"
+    },
+    "HU": {
+        "name": "\u0ab9\u0a82\u0a97\u0ac7\u0ab0\u0ac0"
+    },
+    "IC": {
+        "name": "\u0a95\u0ac5\u0aa8\u0ac7\u0ab0\u0ac0 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "ID": {
+        "name": "\u0a87\u0aa8\u0acd\u0aa1\u0acb\u0aa8\u0ac7\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "IE": {
+        "name": "\u0a86\u0aaf\u0ab0\u0acd\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "IL": {
+        "name": "\u0a87\u0a9d\u0ab0\u0abe\u0a87\u0ab2"
+    },
+    "IM": {
+        "name": "\u0a86\u0a87\u0ab2 \u0a91\u0aab \u0aae\u0ac7\u0aa8"
+    },
+    "IN": {
+        "name": "\u0aad\u0abe\u0ab0\u0aa4"
+    },
+    "IO": {
+        "name": "\u0aac\u0acd\u0ab0\u0abf\u0a9f\u0abf\u0ab6 \u0a87\u0aa8\u0acd\u0aa1\u0abf\u0aaf\u0aa8 \u0a93\u0ab6\u0aa8 \u0a9f\u0ac7\u0ab0\u0abf\u0a9f\u0ab0\u0ac0"
+    },
+    "IQ": {
+        "name": "\u0a87\u0ab0\u0abe\u0a95"
+    },
+    "IR": {
+        "name": "\u0a88\u0ab0\u0abe\u0aa8"
+    },
+    "IS": {
+        "name": "\u0a86\u0a87\u0ab8\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "IT": {
+        "name": "\u0a87\u0a9f\u0abe\u0ab2\u0ac0"
+    },
+    "JE": {
+        "name": "\u0a9c\u0ab0\u0acd\u0ab8\u0ac0"
+    },
+    "JM": {
+        "name": "\u0a9c\u0aae\u0ac8\u0a95\u0abe"
+    },
+    "JO": {
+        "name": "\u0a9c\u0acb\u0ab0\u0acd\u0aa1\u0aa8"
+    },
+    "JP": {
+        "name": "\u0a9c\u0abe\u0aaa\u0abe\u0aa8"
+    },
+    "KE": {
+        "name": "\u0a95\u0ac7\u0aa8\u0acd\u0aaf\u0abe"
+    },
+    "KG": {
+        "name": "\u0a95\u0abf\u0ab0\u0acd\u0a97\u0abf\u0a9d\u0acd\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    },
+    "KH": {
+        "name": "\u0a95\u0a82\u0aac\u0acb\u0aa1\u0abf\u0aaf\u0abe"
+    },
+    "KI": {
+        "name": "\u0a95\u0abf\u0ab0\u0abf\u0aac\u0abe\u0a9f\u0ac0"
+    },
+    "KM": {
+        "name": "\u0a95\u0acb\u0aae\u0acb\u0ab0\u0ab8"
+    },
+    "KN": {
+        "name": "\u0ab8\u0ac7\u0a82\u0a9f \u0a95\u0abf\u0a9f\u0acd\u0ab8 \u0a85\u0aa8\u0ac7 \u0aa8\u0ac7\u0ab5\u0abf\u0ab8"
+    },
+    "KP": {
+        "name": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0a95\u0acb\u0ab0\u0abf\u0aaf\u0abe"
+    },
+    "KR": {
+        "name": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0a95\u0acb\u0ab0\u0abf\u0aaf\u0abe"
+    },
+    "KW": {
+        "name": "\u0a95\u0ac1\u0ab5\u0ac8\u0aa4"
+    },
+    "KY": {
+        "name": "\u0a95\u0ac7\u0aae\u0ac7\u0aa8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "KZ": {
+        "name": "\u0a95\u0a9d\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    },
+    "LA": {
+        "name": "\u0ab2\u0abe\u0a93\u0ab8"
+    },
+    "LB": {
+        "name": "\u0ab2\u0ac7\u0aac\u0aa8\u0acb\u0aa8"
+    },
+    "LC": {
+        "name": "\u0ab8\u0ac7\u0a82\u0a9f \u0ab2\u0ac1\u0ab8\u0abf\u0aaf\u0abe"
+    },
+    "LI": {
+        "name": "\u0ab2\u0ac8\u0a9a\u0a9f\u0ac7\u0a82\u0ab8\u0acd\u0a9f\u0ac7\u0a87\u0aa8"
+    },
+    "LK": {
+        "name": "\u0ab6\u0acd\u0ab0\u0ac0\u0ab2\u0a82\u0a95\u0abe"
+    },
+    "LR": {
+        "name": "\u0ab2\u0abe\u0a87\u0aac\u0ac7\u0ab0\u0abf\u0aaf\u0abe"
+    },
+    "LS": {
+        "name": "\u0ab2\u0ac7\u0ab8\u0acb\u0aa5\u0acb"
+    },
+    "LT": {
+        "name": "\u0ab2\u0abf\u0aa5\u0ac1\u0a86\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "LU": {
+        "name": "\u0ab2\u0a95\u0acd\u0a9d\u0aae\u0aac\u0ab0\u0acd\u0a97"
+    },
+    "LV": {
+        "name": "\u0ab2\u0abe\u0aa4\u0acd\u0ab5\u0abf\u0aaf\u0abe"
+    },
+    "LY": {
+        "name": "\u0ab2\u0abf\u0aac\u0abf\u0aaf\u0abe"
+    },
+    "MA": {
+        "name": "\u0aae\u0acb\u0ab0\u0acb\u0a95\u0acd\u0a95\u0acb"
+    },
+    "MC": {
+        "name": "\u0aae\u0acb\u0aa8\u0abe\u0a95\u0acb"
+    },
+    "MD": {
+        "name": "\u0aae\u0acb\u0ab2\u0aa1\u0acb\u0ab5\u0abe"
+    },
+    "ME": {
+        "name": "\u0aae\u0ac9\u0aa8\u0acd\u0a9f\u0ac7\u0aa8\u0ac7\u0a97\u0acd\u0ab0\u0acb"
+    },
+    "MF": {
+        "name": "\u0ab8\u0ac7\u0a82\u0a9f \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0abf\u0aa8"
+    },
+    "MG": {
+        "name": "\u0aae\u0ac7\u0aa1\u0abe\u0a97\u0abe\u0ab8\u0acd\u0a95\u0ab0"
+    },
+    "MH": {
+        "name": "\u0aae\u0abe\u0ab0\u0acd\u0ab6\u0ab2 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "MK": {
+        "name": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0 \u0aae\u0ac7\u0ab8\u0ac7\u0aa1\u0acb\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "ML": {
+        "name": "\u0aae\u0abe\u0ab2\u0ac0"
+    },
+    "MM": {
+        "name": "\u0aae\u0acd\u0aaf\u0abe\u0a82\u0aae\u0abe\u0ab0 (\u0aac\u0ab0\u0acd\u0aae\u0abe)"
+    },
+    "MN": {
+        "name": "\u0aae\u0a82\u0a97\u0acb\u0ab2\u0abf\u0aaf\u0abe"
+    },
+    "MO": {
+        "name": "\u0aae\u0a95\u0abe\u0a89 SAR \u0a9a\u0ac0\u0aa8",
+        "short": "\u0aae\u0a95\u0abe\u0a89"
+    },
+    "MP": {
+        "name": "\u0a89\u0aa4\u0acd\u0aa4\u0ab0\u0ac0 \u0aae\u0abe\u0ab0\u0abf\u0aaf\u0abe\u0aa8\u0abe \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "MQ": {
+        "name": "\u0aae\u0abe\u0ab0\u0acd\u0a9f\u0ac0\u0aa8\u0ac0\u0a95"
+    },
+    "MR": {
+        "name": "\u0aae\u0acc\u0ab0\u0abf\u0a9f\u0abe\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "MS": {
+        "name": "\u0aae\u0acb\u0a82\u0a9f\u0ab8\u0ac7\u0ab0\u0abe\u0aa4"
+    },
+    "MT": {
+        "name": "\u0aae\u0abe\u0ab2\u0acd\u0a9f\u0abe"
+    },
+    "MU": {
+        "name": "\u0aae\u0acb\u0ab0\u0abf\u0ab6\u0abf\u0aaf\u0ab8"
+    },
+    "MV": {
+        "name": "\u0aae\u0abe\u0ab2\u0aa6\u0abf\u0ab5\u0acd\u0ab8"
+    },
+    "MW": {
+        "name": "\u0aae\u0abe\u0ab2\u0abe\u0ab5\u0ac0"
+    },
+    "MX": {
+        "name": "\u0aae\u0ac7\u0a95\u0acd\u0ab8\u0abf\u0a95\u0acb"
+    },
+    "MY": {
+        "name": "\u0aae\u0ab2\u0ac7\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "MZ": {
+        "name": "\u0aae\u0acb\u0a9d\u0abe\u0aae\u0acd\u0aac\u0abf\u0a95"
+    },
+    "NA": {
+        "name": "\u0aa8\u0abe\u0aae\u0abf\u0aac\u0abf\u0aaf\u0abe"
+    },
+    "NC": {
+        "name": "\u0aa8\u0acd\u0aaf\u0ac1 \u0ab8\u0ac7\u0ab2\u0ac7\u0aa1\u0acb\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "NE": {
+        "name": "\u0aa8\u0abe\u0a87\u0a9c\u0ab0"
+    },
+    "NF": {
+        "name": "\u0aa8\u0acb\u0ab0\u0aab\u0acb\u0a95 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "NG": {
+        "name": "\u0aa8\u0abe\u0a87\u0a9c\u0ac7\u0ab0\u0abf\u0aaf\u0abe"
+    },
+    "NI": {
+        "name": "\u0aa8\u0abf\u0a95\u0abe\u0ab0\u0abe\u0a97\u0ac1\u0a86"
+    },
+    "NL": {
+        "name": "\u0aa8\u0ac7\u0aa7\u0ab0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "NO": {
+        "name": "\u0aa8\u0ac9\u0ab0\u0acd\u0ab5\u0ac7"
+    },
+    "NP": {
+        "name": "\u0aa8\u0ac7\u0aaa\u0abe\u0ab3"
+    },
+    "NR": {
+        "name": "\u0aa8\u0acc\u0ab0\u0ac1"
+    },
+    "NU": {
+        "name": "\u0aa8\u0ac0\u0aaf\u0ac1"
+    },
+    "NZ": {
+        "name": "\u0aa8\u0acd\u0aaf\u0ac1\u0a9d\u0ac0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "OM": {
+        "name": "\u0a93\u0aae\u0abe\u0aa8"
+    },
+    "PA": {
+        "name": "\u0aaa\u0aa8\u0abe\u0aae\u0abe"
+    },
+    "PE": {
+        "name": "\u0aaa\u0ac7\u0ab0\u0ac1"
+    },
+    "PF": {
+        "name": "\u0aab\u0acd\u0ab0\u0ac7\u0a82\u0a9a \u0aaa\u0acb\u0ab2\u0abf\u0aa8\u0ac7\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "PG": {
+        "name": "\u0aaa\u0abe\u0aaa\u0ac1\u0a86 \u0aa8\u0acd\u0aaf\u0ac2 \u0a97\u0abf\u0aa8\u0ac0"
+    },
+    "PH": {
+        "name": "\u0aab\u0abf\u0ab2\u0abf\u0aaa\u0abf\u0aa8\u0acd\u0ab8"
+    },
+    "PK": {
+        "name": "\u0aaa\u0abe\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    },
+    "PL": {
+        "name": "\u0aaa\u0acb\u0ab2\u0ac7\u0a82\u0aa1"
+    },
+    "PM": {
+        "name": "\u0ab8\u0ac7\u0a82\u0a9f \u0aaa\u0ac0\u0a8f\u0ab0\u0ac0 \u0a85\u0aa8\u0ac7 \u0aae\u0abf\u0a95\u0acd\u0aaf\u0ac1\u0ab2\u0acb\u0aa8"
+    },
+    "PN": {
+        "name": "\u0aaa\u0ac0\u0a9f\u0a95\u0ac8\u0ab0\u0acd\u0aa8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "PR": {
+        "name": "\u0aaa\u0acd\u0aaf\u0ac1\u0a85\u0ab0\u0acd\u0a9f\u0acb \u0ab0\u0abf\u0a95\u0acb"
+    },
+    "PS": {
+        "name": "\u0aaa\u0ac7\u0ab2\u0ac7\u0ab8\u0acd\u0a9f\u0abf\u0aa8\u0abf\u0aaf\u0aa8 \u0a9f\u0ac7\u0ab0\u0abf\u0a9f\u0ab0\u0ac0",
+        "short": "\u0aaa\u0ac7\u0ab2\u0ac7\u0ab8\u0acd\u0a9f\u0abe\u0a87\u0aa8"
+    },
+    "PT": {
+        "name": "\u0aaa\u0acb\u0ab0\u0acd\u0a9f\u0ac1\u0a97\u0ab2"
+    },
+    "PW": {
+        "name": "\u0aaa\u0ab2\u0abe\u0a89"
+    },
+    "PY": {
+        "name": "\u0aaa\u0ac7\u0ab0\u0abe\u0a97\u0acd\u0ab5\u0ac7"
+    },
+    "QA": {
+        "name": "\u0a95\u0aa4\u0abe\u0ab0"
+    },
+    "QO": {
+        "name": "\u0a86\u0a89\u0a9f\u0ab2\u0abe\u0a88\u0aa8\u0acd\u0a97 \u0a93\u0ab6\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "RE": {
+        "name": "\u0ab0\u0ac0\u0aaf\u0ac1\u0aa8\u0abf\u0aaf\u0aa8"
+    },
+    "RO": {
+        "name": "\u0ab0\u0acb\u0aae\u0abe\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "RS": {
+        "name": "\u0ab8\u0ab0\u0acd\u0aac\u0abf\u0aaf\u0abe"
+    },
+    "RU": {
+        "name": "\u0ab0\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "RW": {
+        "name": "\u0ab0\u0ab5\u0abe\u0a82\u0aa1\u0abe"
+    },
+    "SA": {
+        "name": "\u0ab8\u0abe\u0a89\u0aa6\u0ac0 \u0a85\u0ab0\u0ac7\u0aac\u0abf\u0aaf\u0abe"
+    },
+    "SB": {
+        "name": "\u0ab8\u0acb\u0ab2\u0acb\u0aae\u0aa8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "SC": {
+        "name": "\u0ab8\u0ac7\u0ab6\u0ac7\u0ab2\u0acd\u0ab8"
+    },
+    "SD": {
+        "name": "\u0ab8\u0ac1\u0aa6\u0abe\u0aa8"
+    },
+    "SE": {
+        "name": "\u0ab8\u0acd\u0ab5\u0ac0\u0aa1\u0aa8"
+    },
+    "SG": {
+        "name": "\u0ab8\u0abf\u0a82\u0a97\u0abe\u0aaa\u0ac1\u0ab0"
+    },
+    "SH": {
+        "name": "\u0ab8\u0ac7\u0a82\u0a9f \u0ab9\u0ac7\u0ab2\u0ac7\u0aa8\u0abe"
+    },
+    "SI": {
+        "name": "\u0ab8\u0acd\u0ab2\u0acb\u0ab5\u0ac7\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "SJ": {
+        "name": "\u0ab8\u0acd\u0ab5\u0abe\u0ab2\u0aac\u0ab0\u0acd\u0aa1 \u0a85\u0aa8\u0ac7 \u0a9c\u0ac7\u0aa8 \u0aae\u0ac7\u0aaf\u0aa8"
+    },
+    "SK": {
+        "name": "\u0ab8\u0acd\u0ab2\u0acb\u0ab5\u0ac7\u0a95\u0abf\u0aaf\u0abe"
+    },
+    "SL": {
+        "name": "\u0ab8\u0ac0\u0a8f\u0ab0\u0abe \u0ab2\u0ac7\u0a93\u0aa8"
+    },
+    "SM": {
+        "name": "\u0ab8\u0ac5\u0aa8 \u0aae\u0ac7\u0ab0\u0abf\u0aa8\u0acb"
+    },
+    "SN": {
+        "name": "\u0ab8\u0ac7\u0aa8\u0ac7\u0a97\u0ab2"
+    },
+    "SO": {
+        "name": "\u0ab8\u0acb\u0aae\u0abe\u0ab2\u0abf\u0aaf\u0abe"
+    },
+    "SR": {
+        "name": "\u0ab8\u0ac1\u0ab0\u0ac0\u0aa8\u0abe\u0aae"
+    },
+    "SS": {
+        "name": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0ab8\u0ac1\u0aa6\u0abe\u0aa8"
+    },
+    "ST": {
+        "name": "\u0ab8\u0abe\u0a93 \u0a9f\u0ac9\u0aae \u0a85\u0aa8\u0ac7 \u0aaa\u0acd\u0ab0\u0abf\u0a82\u0ab8\u0abf\u0aaa\u0ac7"
+    },
+    "SV": {
+        "name": "\u0a8f\u0ab2 \u0ab8\u0ac7\u0ab2\u0acd\u0ab5\u0abe\u0aa1\u0acb\u0ab0"
+    },
+    "SX": {
+        "name": "\u0ab8\u0abf\u0a82\u0a9f \u0aae\u0abe\u0ab0\u0acd\u0a9f\u0ac7\u0aa8"
+    },
+    "SY": {
+        "name": "\u0ab8\u0ac0\u0ab0\u0abf\u0aaf\u0abe"
+    },
+    "SZ": {
+        "name": "\u0a8f\u0ab8\u0acd\u0ab5\u0abe\u0a9f\u0ac0\u0aa8\u0ac0",
+        "variant": "\u0ab8\u0acd\u0ab5\u0abe\u0a9d\u0ac0\u0ab2\u0ac7\u0aa8\u0acd\u0aa1"
+    },
+    "TA": {
+        "name": "\u0aa4\u0acd\u0ab0\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8 \u0aa6\u0abe \u0a95\u0ac1\u0aa8\u0acd\u0ab9\u0abe"
+    },
+    "TC": {
+        "name": "\u0aa4\u0ac1\u0ab0\u0acd\u0a95\u0acd\u0ab8 \u0a85\u0aa8\u0ac7 \u0a95\u0ac7\u0a95\u0acb\u0a9d \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "TD": {
+        "name": "\u0a9a\u0abe\u0aa1"
+    },
+    "TF": {
+        "name": "\u0aab\u0acd\u0ab0\u0ac7\u0a82\u0a9a \u0ab8\u0aa7\u0ab0\u0acd\u0aa8 \u0a9f\u0ac7\u0ab0\u0abf\u0a9f\u0ab0\u0ac0\u0a9d"
+    },
+    "TG": {
+        "name": "\u0a9f\u0acb\u0a97\u0acb"
+    },
+    "TH": {
+        "name": "\u0aa5\u0abe\u0a87\u0ab2\u0ac7\u0a82\u0aa1"
+    },
+    "TJ": {
+        "name": "\u0aa4\u0abe\u0a9c\u0ac0\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    },
+    "TK": {
+        "name": "\u0a9f\u0acb\u0a95\u0ac7\u0ab2\u0abe\u0a89"
+    },
+    "TL": {
+        "name": "\u0aa4\u0abf\u0aae\u0acb\u0ab0-\u0ab2\u0ac7\u0ab8\u0acd\u0aa4\u0ac7",
+        "variant": "\u0aaa\u0ac2\u0ab0\u0acd\u0ab5 \u0aa4\u0abf\u0aae\u0acb\u0ab0"
+    },
+    "TM": {
+        "name": "\u0aa4\u0ac1\u0ab0\u0acd\u0a95\u0aae\u0ac7\u0aa8\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    },
+    "TN": {
+        "name": "\u0a9f\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab6\u0abf\u0aaf\u0abe"
+    },
+    "TO": {
+        "name": "\u0a9f\u0acb\u0a82\u0a97\u0abe"
+    },
+    "TR": {
+        "name": "\u0aa4\u0ac1\u0ab0\u0acd\u0a95\u0ac0"
+    },
+    "TT": {
+        "name": "\u0a9f\u0acd\u0ab0\u0abf\u0aa8\u0ac0\u0aa6\u0abe\u0aa6 \u0a85\u0aa8\u0ac7 \u0a9f\u0acb\u0aac\u0ac7\u0a97\u0acb"
+    },
+    "TV": {
+        "name": "\u0aa4\u0ac1\u0ab5\u0abe\u0ab2\u0ac1"
+    },
+    "TW": {
+        "name": "\u0aa4\u0abe\u0a87\u0ab5\u0abe\u0aa8"
+    },
+    "TZ": {
+        "name": "\u0aa4\u0abe\u0a82\u0a9d\u0abe\u0aa8\u0abf\u0aaf\u0abe"
+    },
+    "UA": {
+        "name": "\u0aaf\u0ac1\u0a95\u0acd\u0ab0\u0ac7\u0aa8"
+    },
+    "UG": {
+        "name": "\u0aaf\u0ac1\u0a97\u0abe\u0a82\u0aa1\u0abe"
+    },
+    "UM": {
+        "name": "\u0aaf\u0ac1.\u0a8f\u0ab8. \u0a86\u0a89\u0a9f\u0ab2\u0abe\u0a87\u0aa8\u0abf\u0a82\u0a97 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "UN": {
+        "name": "\u0ab8\u0a82\u0aaf\u0ac1\u0a95\u0acd\u0aa4 \u0ab0\u0abe\u0ab7\u0acd\u0a9f\u0acd\u0ab0",
+        "short": "\u0aaf\u0ac2\u0a8f\u0aa8"
+    },
+    "US": {
+        "name": "\u0aaf\u0ac1\u0aa8\u0abe\u0a87\u0a9f\u0ac7\u0aa1 \u0ab8\u0acd\u0a9f\u0ac7\u0a9f\u0acd\u0ab8",
+        "short": "\u0aaf\u0ac1.\u0a8f\u0ab8."
+    },
+    "UY": {
+        "name": "\u0a89\u0ab0\u0ac1\u0a97\u0acd\u0ab5\u0ac7"
+    },
+    "UZ": {
+        "name": "\u0a89\u0a9d\u0acd\u0aac\u0ac7\u0a95\u0abf\u0ab8\u0acd\u0aa4\u0abe\u0aa8"
+    },
+    "VA": {
+        "name": "\u0ab5\u0ac7\u0a9f\u0abf\u0a95\u0aa8 \u0ab8\u0abf\u0a9f\u0ac0"
+    },
+    "VC": {
+        "name": "\u0ab8\u0ac7\u0a82\u0a9f \u0ab5\u0abf\u0aa8\u0acd\u0ab8\u0ac7\u0a82\u0a9f \u0a85\u0aa8\u0ac7 \u0a97\u0acd\u0ab0\u0ac7\u0aa8\u0ac7\u0aa1\u0abe\u0a87\u0a82\u0ab8"
+    },
+    "VE": {
+        "name": "\u0ab5\u0ac7\u0aa8\u0ac7\u0a9d\u0ac1\u0a8f\u0ab2\u0abe"
+    },
+    "VG": {
+        "name": "\u0aac\u0acd\u0ab0\u0abf\u0a9f\u0abf\u0ab6 \u0ab5\u0ab0\u0acd\u0a9c\u0abf\u0aa8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "VI": {
+        "name": "\u0aaf\u0ac1\u0a8f\u0ab8 \u0ab5\u0ab0\u0acd\u0a9c\u0abf\u0aa8 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    },
+    "VN": {
+        "name": "\u0ab5\u0abf\u0aaf\u0ac7\u0aa4\u0aa8\u0abe\u0aae"
+    },
+    "VU": {
+        "name": "\u0ab5\u0abe\u0aa8\u0ac1\u0a86\u0aa4\u0ac1"
+    },
+    "WF": {
+        "name": "\u0ab5\u0ac9\u0ab2\u0abf\u0ab8 \u0a85\u0aa8\u0ac7 \u0aab\u0acd\u0aaf\u0ac1\u0a9a\u0ac1\u0aa8\u0abe"
+    },
+    "WS": {
+        "name": "\u0ab8\u0aae\u0acb\u0a86"
+    },
+    "XA": {
+        "name": "\u0ab8\u0acd\u0aaf\u0ac1\u0aa1\u0acb-\u0a8d\u0a95\u0acd\u0ab8\u0aa8\u0acd\u0a9f"
+    },
+    "XB": {
+        "name": "\u0ab8\u0acd\u0aaf\u0ac1\u0aa1\u0acb-\u0aa6\u0acd\u0ab5\u0abf\u0aa6\u0abf\u0ab6"
+    },
+    "XK": {
+        "name": "\u0a95\u0acb\u0ab8\u0acb\u0ab5\u0acb"
+    },
+    "YE": {
+        "name": "\u0aaf\u0aae\u0aa8"
+    },
+    "YT": {
+        "name": "\u0aae\u0ac7\u0aaf\u0acb\u0a9f"
+    },
+    "ZA": {
+        "name": "\u0aa6\u0a95\u0acd\u0ab7\u0abf\u0aa3 \u0a86\u0aab\u0acd\u0ab0\u0abf\u0a95\u0abe"
+    },
+    "ZM": {
+        "name": "\u0a9d\u0abe\u0aae\u0acd\u0aac\u0abf\u0aaf\u0abe"
+    },
+    "ZW": {
+        "name": "\u0a9d\u0abf\u0aae\u0acd\u0aac\u0abe\u0aac\u0acd\u0ab5\u0ac7"
+    },
+    "ZZ": {
+        "name": "\u0a85\u0a9c\u0acd\u0a9e\u0abe\u0aa4 \u0aaa\u0acd\u0ab0\u0aa6\u0ac7\u0ab6"
+    }
+}

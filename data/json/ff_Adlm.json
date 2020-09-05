@@ -1,0 +1,723 @@
+{
+    "001": {
+        "name": "\ud83a\udd00\ud83a\udd23\ud83a\udd35\ud83a\udd32\ud83a\udd22"
+    },
+    "002": {
+        "name": "\ud83a\udd00\ud83a\udd2c\ud83a\udd2a\ud83a\udd2d\ud83a\udd33"
+    },
+    "009": {
+        "name": "\ud83a\udd0c\ud83a\udd27\ud83a\udd2d\ud83a\udd34\ud83a\udd22\ud83a\udd32\ud83a\udd2d\ud83a\udd45"
+    },
+    "019": {
+        "name": "\ud83a\udd00\ud83a\udd25\ud83a\udd2b\ud83a\udd2a\ud83a\udd2d\ud83a\udd33"
+    },
+    "142": {
+        "name": "\ud83a\udd00\ud83a\udd44\ud83a\udd27\ud83a\udd2d\ud83a\udd34\ud83a\udd22"
+    },
+    "150": {
+        "name": "\ud83a\udd13\ud83a\udd2a\ud83a\udd2e\ud83a\udd28\ud83a\udd46\ud83a\udd22"
+    },
+    "AD": {
+        "name": "Anndoora"
+    },
+    "AE": {
+        "name": "Emiraat Araab Denntu\u0257e"
+    },
+    "AF": {
+        "name": "Afganistaan"
+    },
+    "AG": {
+        "name": "Antiguwaa e Barbudaa"
+    },
+    "AI": {
+        "name": "Anngiyaa"
+    },
+    "AL": {
+        "name": "Albanii"
+    },
+    "AM": {
+        "name": "Armenii"
+    },
+    "AO": {
+        "name": "\ud83a\udd00\ud83a\udd32\ud83a\udd3a\ud83a\udd2e\ud83a\udd24\ud83a\udd22\ud83a\udd44"
+    },
+    "AR": {
+        "name": "Arjantiin"
+    },
+    "AS": {
+        "name": "Samowa Amerik"
+    },
+    "AT": {
+        "name": "Otiriis"
+    },
+    "AU": {
+        "name": "Ostaraalii"
+    },
+    "AW": {
+        "name": "Aruuba"
+    },
+    "AZ": {
+        "name": "Ajerbayjaan"
+    },
+    "BA": {
+        "name": "Bosnii Hersegowiin"
+    },
+    "BB": {
+        "name": "Barbadoos"
+    },
+    "BD": {
+        "name": "Banglaadees"
+    },
+    "BE": {
+        "name": "Beljik"
+    },
+    "BF": {
+        "name": "\ud83a\udd04\ud83a\udd35\ud83a\udd2a\ud83a\udd33\ud83a\udd2d\ud83a\udd32\ud83a\udd22 \ud83a\udd0a\ud83a\udd22\ud83a\udd27\ud83a\udd2e\ud83a\udd45"
+    },
+    "BG": {
+        "name": "Bulgarii"
+    },
+    "BH": {
+        "name": "Bahreyn"
+    },
+    "BI": {
+        "name": "\ud83a\udd04\ud83a\udd35\ud83a\udd2a\ud83a\udd35\ud83a\udd32\ud83a\udd23\ud83a\udd2d"
+    },
+    "BJ": {
+        "name": "\ud83a\udd04\ud83a\udd2b\ud83a\udd32\ud83a\udd2b\ud83a\udd32"
+    },
+    "BM": {
+        "name": "Bermudaa"
+    },
+    "BN": {
+        "name": "Burnaay"
+    },
+    "BO": {
+        "name": "Boliwii"
+    },
+    "BR": {
+        "name": "Beresiil"
+    },
+    "BS": {
+        "name": "Bahamaas"
+    },
+    "BT": {
+        "name": "Butaan"
+    },
+    "BW": {
+        "name": "\u202e\ud83a\udd04\ud83a\udd2e\ud83a\udd3c\ud83a\udd27\ud83a\udd35\ud83a\udd31\ud83a\udd22\ud83a\udd44\ud83a\udd32\ud83a\udd22"
+    },
+    "BY": {
+        "name": "Belaruus"
+    },
+    "BZ": {
+        "name": "Beliise"
+    },
+    "CA": {
+        "name": "\ud83a\udd11\ud83a\udd22\ud83a\udd32\ud83a\udd22\ud83a\udd23\ud83a\udd22\ud83a\udd44"
+    },
+    "CD": {
+        "name": "\ud83a\udd11\ud83a\udd2e\ud83a\udd32\ud83a\udd3a\ud83a\udd2e - \ud83a\udd11\ud83a\udd2d\ud83a\udd32\ud83a\udd27\ud83a\udd22\ud83a\udd27\ud83a\udd22",
+        "variant": "\ud83a\udd10\ud83a\udd23\ud83a\udd2b\ud83a\udd32\ud83a\udd23\ud83a\udd2d \ud83a\udd01\ud83a\udd2b\ud83a\udd25\ud83a\udd2e\ud83a\udd33\ud83a\udd2a\ud83a\udd22\ud83a\udd44\ud83a\udd33\ud83a\udd35 \ud83a\udd11\ud83a\udd2e\ud83a\udd32\ud83a\udd3a\ud83a\udd2e"
+    },
+    "CF": {
+        "name": "\ud83a\udd00\ud83a\udd2c\ud83a\udd2a\ud83a\udd2d\ud83a\udd33\ud83a\udd2d \ud83a\udd1a\ud83a\udd35\ud83a\udd25\ud83a\udd26\ud83a\udd2e\ud83a\udd45\ud83a\udd2a\ud83a\udd2d"
+    },
+    "CG": {
+        "name": "\ud83a\udd11\ud83a\udd2e\ud83a\udd32\ud83a\udd3a\ud83a\udd2e - \ud83a\udd04\ud83a\udd2a\ud83a\udd22\ud83a\udd41\ud83a\udd22\ud83a\udd3e\ud83a\udd2d\ud83a\udd24",
+        "variant": "\ud83a\udd10\ud83a\udd23\ud83a\udd2b\ud83a\udd32\ud83a\udd23\ud83a\udd2d \ud83a\udd11\ud83a\udd2e\ud83a\udd32\ud83a\udd3a\ud83a\udd2e"
+    },
+    "CH": {
+        "name": "Suwiis"
+    },
+    "CI": {
+        "name": "\ud83a\udd11\ud83a\udd2e\ud83a\udd3c\ud83a\udd23\ud83a\udd2d\ud83a\udd3e\ud83a\udd22\ud83a\udd44\ud83a\udd2a"
+    },
+    "CK": {
+        "name": "Duu\u0257e Kuuk"
+    },
+    "CL": {
+        "name": "Cilii"
+    },
+    "CM": {
+        "name": "\ud83a\udd11\ud83a\udd22\ud83a\udd25\ud83a\udd22\ud83a\udd2a\ud83a\udd35\ud83a\udd45\ud83a\udd32"
+    },
+    "CN": {
+        "name": "Siin"
+    },
+    "CO": {
+        "name": "Kolombiya"
+    },
+    "CR": {
+        "name": "Kosta Rikaa"
+    },
+    "CU": {
+        "name": "Kubaa"
+    },
+    "CV": {
+        "name": "\ud83a\udd11\ud83a\udd22\ud83a\udd44\ud83a\udd26\ud83a\udd2e \ud83a\udd1c\ud83a\udd2b\ud83a\udd2a\ud83a\udd23\ud83a\udd2b"
+    },
+    "CY": {
+        "name": "Siipar"
+    },
+    "CZ": {
+        "name": "Ndenndaandi Cek"
+    },
+    "DE": {
+        "name": "Almaa\u00f1"
+    },
+    "DJ": {
+        "name": "\ud83a\udd14\ud83a\udd2d\ud83a\udd26\ud83a\udd35\ud83a\udd45\ud83a\udd3c\ud83a\udd2d"
+    },
+    "DK": {
+        "name": "Danmark"
+    },
+    "DM": {
+        "name": "Dominika"
+    },
+    "DO": {
+        "name": "Ndenndanndi Dominika"
+    },
+    "DZ": {
+        "name": "\ud83a\udd00\ud83a\udd24\ud83a\udd36\ud83a\udd22\ud83a\udd2a\ud83a\udd2d\ud83a\udd45"
+    },
+    "EA": {
+        "name": "\ud83a\udd05\ud83a\udd2d\ud83a\udd3c\ud83a\udd46\ud83a\udd22 & \ud83a\udd03\ud83a\udd2b\ud83a\udd24\ud83a\udd2d\ud83a\udd24\ud83a\udd22"
+    },
+    "EC": {
+        "name": "Ekuwatoor"
+    },
+    "EE": {
+        "name": "Estoni"
+    },
+    "EG": {
+        "name": "\ud83a\udd03\ud83a\udd2d\ud83a\udd27\ud83a\udd2d\ud83a\udd2a\ud83a\udd22"
+    },
+    "EH": {
+        "name": "\ud83a\udd05\ud83a\udd22\ud83a\udd44\ud83a\udd38\ud83a\udd22\ud83a\udd2a\ud83a\udd22 \ud83a\udd16\ud83a\udd2d\ud83a\udd45\ud83a\udd32\ud83a\udd22\ud83a\udd44\ud83a\udd2a\ud83a\udd2d"
+    },
+    "ER": {
+        "name": "\ud83a\udd09\ud83a\udd2a\ud83a\udd2d\ud83a\udd45\ud83a\udd3c\ud83a\udd2b\ud83a\udd2a\ud83a\udd2b"
+    },
+    "ES": {
+        "name": "\ud83a\udd0b\ud83a\udd27\ud83a\udd28\ud83a\udd22\ud83a\udd32\ud83a\udd2d\ud83a\udd34\ud83a\udd22"
+    },
+    "ET": {
+        "name": "\ud83a\udd00\ud83a\udd26\ud83a\udd22\ud83a\udd27\ud83a\udd2d\ud83a\udd32\ud83a\udd2d\ud83a\udd45"
+    },
+    "EU": {
+        "name": "\ud83a\udd11\ud83a\udd22\ud83a\udd31\ud83a\udd3c\ud83a\udd22\ud83a\udd24 \ud83a\udd13\ud83a\udd2a\ud83a\udd2e\ud83a\udd28\ud83a\udd46\ud83a\udd22"
+    },
+    "EZ": {
+        "name": "\ud83a\udd0a\ud83a\udd2d\ud83a\udd2a\ud83a\udd24\ud83a\udd22 \ud83a\udd13\ud83a\udd2a\ud83a\udd2e\ud83a\udd45"
+    },
+    "FI": {
+        "name": "Fenland"
+    },
+    "FJ": {
+        "name": "Fijji"
+    },
+    "FK": {
+        "name": "Duu\u0257e Falkland"
+    },
+    "FM": {
+        "name": "Mikoronesii"
+    },
+    "FR": {
+        "name": "\ud83a\udd0a\ud83a\udd22\ud83a\udd2a\ud83a\udd22\ud83a\udd32\ud83a\udd27\ud83a\udd2d"
+    },
+    "GA": {
+        "name": "\ud83a\udd18\ud83a\udd22\ud83a\udd26\ud83a\udd2e\ud83a\udd32"
+    },
+    "GB": {
+        "name": "Laamateeri Rentundi"
+    },
+    "GD": {
+        "name": "Garnaad"
+    },
+    "GE": {
+        "name": "Jeorgii"
+    },
+    "GF": {
+        "name": "Giyaan Farayse"
+    },
+    "GG": {
+        "name": "\ud83a\udd18\ud83a\udd22\ud83a\udd34\ud83a\udd2a\ud83a\udd22\ud83a\udd32\ud83a\udd27\ud83a\udd2d\ud83a\udd45"
+    },
+    "GH": {
+        "name": "\ud83a\udd18\ud83a\udd22\ud83a\udd32\ud83a\udd22"
+    },
+    "GI": {
+        "name": "\ud83a\udd14\ud83a\udd2d\ud83a\udd26\ud83a\udd2a\ud83a\udd22\ud83a\udd24\ud83a\udd3c\ud83a\udd22\ud83a\udd44"
+    },
+    "GL": {
+        "name": "Gorwendland"
+    },
+    "GM": {
+        "name": "\ud83a\udd18\ud83a\udd22\ud83a\udd25\ud83a\udd26\ud83a\udd2d\ud83a\udd34\ud83a\udd22"
+    },
+    "GN": {
+        "name": "\ud83a\udd18\ud83a\udd2d\ud83a\udd32\ud83a\udd2b"
+    },
+    "GP": {
+        "name": "Gwaadalup"
+    },
+    "GQ": {
+        "name": "\ud83a\udd18\ud83a\udd2d\ud83a\udd32\ud83a\udd2b \ud83a\udd15\ud83a\udd22\ud83a\udd33\ud83a\udd22\ud83a\udd32\ud83a\udd3c\ud83a\udd2b\ud83a\udd45\ud83a\udd2a\ud83a\udd2d"
+    },
+    "GR": {
+        "name": "Gerees"
+    },
+    "GT": {
+        "name": "Gwaatemalaa"
+    },
+    "GU": {
+        "name": "Guwam"
+    },
+    "GW": {
+        "name": "\ud83a\udd18\ud83a\udd2d\ud83a\udd32\ud83a\udd2b-\ud83a\udd04\ud83a\udd2d\ud83a\udd27\ud83a\udd22\ud83a\udd31\ud83a\udd2e\ud83a\udd45"
+    },
+    "GY": {
+        "name": "Giyaan"
+    },
+    "HN": {
+        "name": "Onnduraas"
+    },
+    "HR": {
+        "name": "Korwasii"
+    },
+    "HT": {
+        "name": "Haytii"
+    },
+    "HU": {
+        "name": "Onngiri"
+    },
+    "IC": {
+        "name": "\ud83a\udd05\ud83a\udd35\ud83a\udd2a\ud83a\udd2d\ud83a\udd45\ud83a\udd2a\ud83a\udd2b-\ud83a\udd11\ud83a\udd22\ud83a\udd32\ud83a\udd22\ud83a\udd2a\ud83a\udd2d\ud83a\udd45"
+    },
+    "ID": {
+        "name": "Enndonesii"
+    },
+    "IE": {
+        "name": "Irlannda"
+    },
+    "IL": {
+        "name": "Israa\u2019iila"
+    },
+    "IN": {
+        "name": "Enndo"
+    },
+    "IO": {
+        "name": "\ud83a\udd1a\ud83a\udd35\ud83a\udd25\ud83a\udd26\ud83a\udd2b\ud83a\udd2a\ud83a\udd2b \ud83a\udd04\ud83a\udd2a\ud83a\udd2d\ud83a\udd3c\ud83a\udd22\ud83a\udd32\ud83a\udd2d\ud83a\udd32\ud83a\udd33\ud83a\udd2e\ud83a\udd45\ud83a\udd2a\ud83a\udd2b \ud83a\udd00\ud83a\udd2c\ud83a\udd2a\ud83a\udd2d\ud83a\udd33\ud83a\udd2d"
+    },
+    "IQ": {
+        "name": "Iraak"
+    },
+    "IR": {
+        "name": "Iraan"
+    },
+    "IS": {
+        "name": "Islannda"
+    },
+    "IT": {
+        "name": "Itali"
+    },
+    "JM": {
+        "name": "Jamayka"
+    },
+    "JO": {
+        "name": "Jordani"
+    },
+    "JP": {
+        "name": "Sapoo"
+    },
+    "KE": {
+        "name": "\ud83a\udd11\ud83a\udd2b\ud83a\udd32\ud83a\udd2d\ud83a\udd34\ud83a\udd22\ud83a\udd44"
+    },
+    "KG": {
+        "name": "Kirgistaan"
+    },
+    "KH": {
+        "name": "Kambodso"
+    },
+    "KI": {
+        "name": "Kiribari"
+    },
+    "KM": {
+        "name": "\ud83a\udd11\ud83a\udd2e\ud83a\udd25\ud83a\udd2e\ud83a\udd45\ud83a\udd2a\ud83a\udd2e"
+    },
+    "KN": {
+        "name": "Sent Kits e Newis"
+    },
+    "KP": {
+        "name": "Koree Rewo"
+    },
+    "KR": {
+        "name": "Koree Worgo"
+    },
+    "KW": {
+        "name": "Kuweyti"
+    },
+    "KY": {
+        "name": "Duu\u0257e Kaymaa"
+    },
+    "KZ": {
+        "name": "Kasakstaan"
+    },
+    "LA": {
+        "name": "Lawoos"
+    },
+    "LB": {
+        "name": "Libaa"
+    },
+    "LC": {
+        "name": "Sent Lusiyaa"
+    },
+    "LI": {
+        "name": "Lincenstayn"
+    },
+    "LK": {
+        "name": "Siri Lanka"
+    },
+    "LR": {
+        "name": "\ud83a\udd02\ud83a\udd22\ud83a\udd26\ud83a\udd2d\ud83a\udd2a\ud83a\udd2d\ud83a\udd34\ud83a\udd22\ud83a\udd44"
+    },
+    "LS": {
+        "name": "\ud83a\udd02\ud83a\udd2b\ud83a\udd27\ud83a\udd2e\ud83a\udd3c\ud83a\udd2e\ud83a\udd45"
+    },
+    "LT": {
+        "name": "Lituaanii"
+    },
+    "LU": {
+        "name": "Liksembuur"
+    },
+    "LV": {
+        "name": "Letonii"
+    },
+    "LY": {
+        "name": "\ud83a\udd02\ud83a\udd2d\ud83a\udd26\ud83a\udd2d\ud83a\udd34\ud83a\udd22\ud83a\udd44"
+    },
+    "MA": {
+        "name": "\ud83a\udd03\ud83a\udd22\ud83a\udd2a\ud83a\udd2e\ud83a\udd45\ud83a\udd33"
+    },
+    "MC": {
+        "name": "\ud83a\udd03\ud83a\udd2e\ud83a\udd32\ud83a\udd22\ud83a\udd33\ud83a\udd2e\ud83a\udd45"
+    },
+    "MD": {
+        "name": "Moldawii"
+    },
+    "MG": {
+        "name": "\ud83a\udd03\ud83a\udd22\ud83a\udd23\ud83a\udd22\ud83a\udd3a\ud83a\udd22\ud83a\udd27\ud83a\udd33\ud83a\udd22\ud83a\udd44\ud83a\udd2a"
+    },
+    "MH": {
+        "name": "Duu\u0257e Marsaal"
+    },
+    "ML": {
+        "name": "\ud83a\udd03\ud83a\udd22\ud83a\udd44\ud83a\udd24\ud83a\udd2d"
+    },
+    "MM": {
+        "name": "Miyamaar"
+    },
+    "MN": {
+        "name": "Monngolii"
+    },
+    "MP": {
+        "name": "Duu\u0257e Mariyaana Rewo"
+    },
+    "MQ": {
+        "name": "Martinik"
+    },
+    "MR": {
+        "name": "\ud83a\udd03\ud83a\udd2e\ud83a\udd2a\ud83a\udd3c\ud83a\udd22\ud83a\udd32\ud83a\udd2d\ud83a\udd45"
+    },
+    "MS": {
+        "name": "Monseraat"
+    },
+    "MT": {
+        "name": "Malte"
+    },
+    "MU": {
+        "name": "\ud83a\udd03\ud83a\udd2e\ud83a\udd2a\ud83a\udd2d\ud83a\udd45\ud83a\udd27\ud83a\udd2d"
+    },
+    "MV": {
+        "name": "Maldiiwe"
+    },
+    "MW": {
+        "name": "\ud83a\udd03\ud83a\udd22\ud83a\udd24\ud83a\udd22\ud83a\udd31\ud83a\udd2d\ud83a\udd45"
+    },
+    "MX": {
+        "name": "Meksik"
+    },
+    "MY": {
+        "name": "Malesii"
+    },
+    "MZ": {
+        "name": "\ud83a\udd03\ud83a\udd2e\ud83a\udd27\ud83a\udd22\ud83a\udd25\ud83a\udd26\ud83a\udd2d\ud83a\udd45\ud83a\udd33"
+    },
+    "NA": {
+        "name": "\ud83a\udd10\ud83a\udd22\ud83a\udd25\ud83a\udd2d\ud83a\udd45\ud83a\udd26\ud83a\udd2d\ud83a\udd34\ud83a\udd22\ud83a\udd44"
+    },
+    "NC": {
+        "name": "Nuwel Kaledonii"
+    },
+    "NE": {
+        "name": "\ud83a\udd10\ud83a\udd2d\ud83a\udd45\ud83a\udd36\ud83a\udd2b\ud83a\udd2a"
+    },
+    "NF": {
+        "name": "Duu\u0257e Norfolk"
+    },
+    "NG": {
+        "name": "\ud83a\udd10\ud83a\udd22\ud83a\udd36\ud83a\udd2b\ud83a\udd2a\ud83a\udd2d\ud83a\udd34\ud83a\udd22\ud83a\udd44"
+    },
+    "NI": {
+        "name": "Nikaraguwaa"
+    },
+    "NL": {
+        "name": "Nederlannda"
+    },
+    "NO": {
+        "name": "Norwees"
+    },
+    "NP": {
+        "name": "Nepaal"
+    },
+    "NR": {
+        "name": "Nawuru"
+    },
+    "NU": {
+        "name": "Niuwe"
+    },
+    "NZ": {
+        "name": "Nuwel Selannda"
+    },
+    "OM": {
+        "name": "Omaan"
+    },
+    "PA": {
+        "name": "Panamaa"
+    },
+    "PE": {
+        "name": "Peru"
+    },
+    "PF": {
+        "name": "Polinesii Farayse"
+    },
+    "PG": {
+        "name": "Papuwaa Nuwel Gine"
+    },
+    "PH": {
+        "name": "Filipiin"
+    },
+    "PK": {
+        "name": "Pakistaan"
+    },
+    "PL": {
+        "name": "\ud83a\udd06\ud83a\udd2e\ud83a\udd24\ud83a\udd22\ud83a\udd32\ud83a\udd23"
+    },
+    "PM": {
+        "name": "See Piyeer e Mikeloo"
+    },
+    "PN": {
+        "name": "Pitkern"
+    },
+    "PR": {
+        "name": "Porto Rikoo"
+    },
+    "PS": {
+        "name": "Palestiin Sisjordani e Gaasaa"
+    },
+    "PT": {
+        "name": "Purtugaal"
+    },
+    "PW": {
+        "name": "Palawu"
+    },
+    "PY": {
+        "name": "Paraguwaay"
+    },
+    "QA": {
+        "name": "Kataar"
+    },
+    "RE": {
+        "name": "\ud83a\udd08\ud83a\udd2b\ud83a\udd45\ud83a\udd32\ud83a\udd2d\ud83a\udd34\ud83a\udd2e\ud83a\udd32"
+    },
+    "RO": {
+        "name": "Rumanii"
+    },
+    "RU": {
+        "name": "Riisii"
+    },
+    "RW": {
+        "name": "\ud83a\udd08\ud83a\udd35\ud83a\udd31\ud83a\udd22\ud83a\udd32\ud83a\udd23\ud83a\udd22\ud83a\udd44"
+    },
+    "SA": {
+        "name": "Arabii Sawdit"
+    },
+    "SB": {
+        "name": "Duu\u0257e Solomon"
+    },
+    "SC": {
+        "name": "\ud83a\udd05\ud83a\udd2b\ud83a\udd34\ud83a\udd2d\ud83a\udd27\ud83a\udd2b\ud83a\udd24"
+    },
+    "SD": {
+        "name": "\ud83a\udd05\ud83a\udd35\ud83a\udd23\ud83a\udd22\ud83a\udd44\ud83a\udd32"
+    },
+    "SE": {
+        "name": "Suweed"
+    },
+    "SG": {
+        "name": "Sinngapuur"
+    },
+    "SH": {
+        "name": "\ud83a\udd05\ud83a\udd2b\ud83a\udd32-\ud83a\udd16\ud83a\udd2b\ud83a\udd24\ud83a\udd2b\ud83a\udd32\ud83a\udd22\ud83a\udd44"
+    },
+    "SI": {
+        "name": "Slowenii"
+    },
+    "SK": {
+        "name": "Slowakii"
+    },
+    "SL": {
+        "name": "\ud83a\udd05\ud83a\udd22\ud83a\udd2a\ud83a\udd22\ud83a\udd24\ud83a\udd2e\ud83a\udd32"
+    },
+    "SM": {
+        "name": "See Maree"
+    },
+    "SN": {
+        "name": "\ud83a\udd05\ud83a\udd2b\ud83a\udd32\ud83a\udd2b\ud83a\udd3a\ud83a\udd22\ud83a\udd44\ud83a\udd24"
+    },
+    "SO": {
+        "name": "\ud83a\udd05\ud83a\udd35\ud83a\udd45\ud83a\udd25\ud83a\udd22\ud83a\udd44\ud83a\udd24\ud83a\udd2d"
+    },
+    "SR": {
+        "name": "Surinaam"
+    },
+    "SS": {
+        "name": "\ud83a\udd05\ud83a\udd35\ud83a\udd23\ud83a\udd22\ud83a\udd44\ud83a\udd32 \ud83a\udd02\ud83a\udd2b\ud83a\udd27\ud83a\udd24\ud83a\udd2b\ud83a\udd34\ud83a\udd2a\ud83a\udd2d"
+    },
+    "ST": {
+        "name": "\ud83a\udd05\ud83a\udd22\ud83a\udd31\ud83a\udd35 \ud83a\udd1a\ud83a\udd35\ud83a\udd25\ud83a\udd2b\ud83a\udd45 & \ud83a\udd06\ud83a\udd2b\ud83a\udd2a\ud83a\udd2b\ud83a\udd32\ud83a\udd27\ud83a\udd2d\ud83a\udd28\ud83a\udd2b"
+    },
+    "SV": {
+        "name": "El Salwador"
+    },
+    "SY": {
+        "name": "Sirii"
+    },
+    "SZ": {
+        "name": "\ud83a\udd09\ud83a\udd27\ud83a\udd31\ud83a\udd22\ud83a\udd3c\ud83a\udd2d\ud83a\udd32\ud83a\udd2d",
+        "variant": "\ud83a\udd05\ud83a\udd35\ud83a\udd31\ud83a\udd22\ud83a\udd44\ud83a\udd27\ud83a\udd2d\ud83a\udd24\ud83a\udd2b\ud83a\udd34\ud83a\udd23\ud83a\udd2d"
+    },
+    "TC": {
+        "name": "Duu\u0257e Turke e Keikoos"
+    },
+    "TD": {
+        "name": "\ud83a\udd15\ud83a\udd22\ud83a\udd44\ud83a\udd23"
+    },
+    "TF": {
+        "name": "\ud83a\udd1a\ud83a\udd35\ud83a\udd25\ud83a\udd26\ud83a\udd2b \ud83a\udd02\ud83a\udd2b\ud83a\udd27\ud83a\udd24\ud83a\udd2b\ud83a\udd34\ud83a\udd36\ud83a\udd2b \ud83a\udd0a\ud83a\udd2a\ud83a\udd22\ud83a\udd32\ud83a\udd27\ud83a\udd2d"
+    },
+    "TG": {
+        "name": "\ud83a\udd1a\ud83a\udd2e\ud83a\udd3a\ud83a\udd2e"
+    },
+    "TH": {
+        "name": "Taylannda"
+    },
+    "TJ": {
+        "name": "Tajikistaan"
+    },
+    "TK": {
+        "name": "Tokelaaw"
+    },
+    "TL": {
+        "name": "Timoor Fu\u0257naange"
+    },
+    "TM": {
+        "name": "Turkmenistaan"
+    },
+    "TN": {
+        "name": "\ud83a\udd1a\ud83a\udd35\ud83a\udd32\ud83a\udd2d\ud83a\udd45\ud83a\udd27\ud83a\udd22"
+    },
+    "TO": {
+        "name": "Tonngaa"
+    },
+    "TR": {
+        "name": "Turkii"
+    },
+    "TT": {
+        "name": "Tirnidaad e Tobaago"
+    },
+    "TV": {
+        "name": "Tuwaluu"
+    },
+    "TW": {
+        "name": "Taywaan"
+    },
+    "TZ": {
+        "name": "\ud83a\udd1a\ud83a\udd22\ud83a\udd32\ud83a\udd27\ud83a\udd22\ud83a\udd32\ud83a\udd2d\ud83a\udd45"
+    },
+    "UA": {
+        "name": "Ukereen"
+    },
+    "UG": {
+        "name": "\ud83a\udd13\ud83a\udd3a\ud83a\udd22\ud83a\udd32\ud83a\udd23\ud83a\udd22\ud83a\udd44"
+    },
+    "UN": {
+        "name": "\ud83a\udd11\ud83a\udd22\ud83a\udd31\ud83a\udd3c\ud83a\udd22\ud83a\udd24 \ud83a\udd18\ud83a\udd2b\ud83a\udd32\ud83a\udd23\ud83a\udd2d\ud83a\udd45\ud83a\udd36\ud83a\udd2d \ud83a\udd00\ud83a\udd23\ud83a\udd35\ud83a\udd32\ud83a\udd22"
+    },
+    "US": {
+        "name": "Dowlaaji Dentu\u0257i Amerik",
+        "short": "\ud83a\udd01\ud83a\udd02\ud83a\udd00"
+    },
+    "UY": {
+        "name": "Uruguwaay"
+    },
+    "UZ": {
+        "name": "Usbekistaan"
+    },
+    "VA": {
+        "name": "Dowla Waticaan"
+    },
+    "VC": {
+        "name": "See Weesaa e Garnadiin"
+    },
+    "VE": {
+        "name": "Wenesuwelaa"
+    },
+    "VG": {
+        "name": "duu\u0257e kecce britanii"
+    },
+    "VI": {
+        "name": "Duu\u0257e Kecce Amerik"
+    },
+    "VN": {
+        "name": "Wiyetnaam"
+    },
+    "VU": {
+        "name": "Wanuwaatuu"
+    },
+    "WF": {
+        "name": "Walis e Futuna"
+    },
+    "WS": {
+        "name": "Samowaa"
+    },
+    "YE": {
+        "name": "Yemen"
+    },
+    "YT": {
+        "name": "\ud83a\udd03\ud83a\udd22\ud83a\udd34\ud83a\udd2e\ud83a\udd45\ud83a\udd3c\ud83a\udd35"
+    },
+    "ZA": {
+        "name": "\ud83a\udd00\ud83a\udd2c\ud83a\udd2a\ud83a\udd2d\ud83a\udd33\ud83a\udd22 \ud83a\udd02\ud83a\udd2b\ud83a\udd27\ud83a\udd24\ud83a\udd2b\ud83a\udd34\ud83a\udd2a\ud83a\udd2d"
+    },
+    "ZM": {
+        "name": "\ud83a\udd1f\ud83a\udd22\ud83a\udd25\ud83a\udd26\ud83a\udd2d\ud83a\udd34\ud83a\udd22"
+    },
+    "ZW": {
+        "name": "\ud83a\udd1f\ud83a\udd2d\ud83a\udd25\ud83a\udd26\ud83a\udd22\ud83a\udd44\ud83a\udd25\ud83a\udd35\ud83a\udd34\ud83a\udd22"
+    },
+    "ZZ": {
+        "name": "\ud83a\udd02\ud83a\udd22\ud83a\udd2a\ud83a\udd22\ud83a\udd24 \ud83a\udd00\ud83a\udd27-\ud83a\udd22\ud83a\udd32\ud83a\udd23\ud83a\udd22\ud83a\udd44\ud83a\udd32\ud83a\udd3a\ud83a\udd22\ud83a\udd24"
+    }
+}

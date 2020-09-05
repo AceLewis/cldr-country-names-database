@@ -1,0 +1,662 @@
+{
+    "AD": {
+        "name": "\u00c0\u014bd\u0254\u0302r"
+    },
+    "AE": {
+        "name": "\u00c0dn\u00e0 i Bil\u0254\u0300\u014b bi Ar\u0101b\u00ec\u00e0"
+    },
+    "AF": {
+        "name": "\u00c0fg\u00e0n\u00ecst\u00e2\u014b"
+    },
+    "AG": {
+        "name": "\u00c0\u014btig\u00e0 \u0253\u0254 B\u00e0rbud\u00e0"
+    },
+    "AI": {
+        "name": "\u00c0\u014bgiy\u00e0"
+    },
+    "AL": {
+        "name": "\u00c0lban\u00ec\u00e0"
+    },
+    "AM": {
+        "name": "\u00c0rmen\u00ec\u00e0"
+    },
+    "AO": {
+        "name": "\u00c0\u014bgol\u00e0"
+    },
+    "AR": {
+        "name": "\u00c0rg\u00e0\u014btin\u00e0"
+    },
+    "AT": {
+        "name": "\u00d2str\u01d0k"
+    },
+    "AU": {
+        "name": "\u00d2stral\u00ec\u00e0"
+    },
+    "AW": {
+        "name": "\u00c0rub\u00e0"
+    },
+    "AZ": {
+        "name": "\u00c0z\u025b\u0300rbaj\u00e0\u014b"
+    },
+    "BA": {
+        "name": "B\u00f2hni\u00e0 \u0190rz\u00e8g\u00f2vin\u00e0"
+    },
+    "BB": {
+        "name": "B\u00e0rbad\u00f2"
+    },
+    "BD": {
+        "name": "B\u00e0\u014bgl\u00e0d\u025b\u0302s"
+    },
+    "BE": {
+        "name": "B\u025blgy\u00f9m"
+    },
+    "BF": {
+        "name": "B\u00f9rk\u00ecn\u00e0 Fas\u00f2"
+    },
+    "BG": {
+        "name": "B\u00f9lgar\u00ec\u00e0"
+    },
+    "BH": {
+        "name": "B\u00e0ra\u00ecn"
+    },
+    "BI": {
+        "name": "B\u00f9rund\u00ec"
+    },
+    "BJ": {
+        "name": "B\u00e8n\u025b\u0302\u014b"
+    },
+    "BM": {
+        "name": "B\u025b\u0300rmud\u00e0"
+    },
+    "BN": {
+        "name": "Brunei"
+    },
+    "BO": {
+        "name": "B\u00f2liv\u00ec\u00e0"
+    },
+    "BR": {
+        "name": "Br\u00e0s\u00eel"
+    },
+    "BS": {
+        "name": "B\u00e0ham\u00e0s"
+    },
+    "BT": {
+        "name": "B\u00f9t\u00e2n"
+    },
+    "BW": {
+        "name": "B\u00f2ds\u00f9an\u00e0"
+    },
+    "BY": {
+        "name": "B\u00e8lar\u00f9s"
+    },
+    "BZ": {
+        "name": "B\u00e8l\u00ees"
+    },
+    "CA": {
+        "name": "K\u00e0nad\u00e0"
+    },
+    "CD": {
+        "name": "K\u00f2\u014bgo \u00eck\u025b\u014bi"
+    },
+    "CF": {
+        "name": "\u014a\u0300\u025bm Afr\u012bk\u00e0"
+    },
+    "CG": {
+        "name": "K\u00f2\u014bgo"
+    },
+    "CH": {
+        "name": "S\u00f9w\u00ees"
+    },
+    "CI": {
+        "name": "M\u00e0\u014b mi Nj\u0254\u0302k"
+    },
+    "CK": {
+        "name": "B\u00ec\u00f2n bi Kook"
+    },
+    "CL": {
+        "name": "K\u00ecl\u00ee"
+    },
+    "CM": {
+        "name": "K\u00e0m\u025b\u0300r\u00fbn"
+    },
+    "CN": {
+        "name": "Kin\u00e0"
+    },
+    "CO": {
+        "name": "K\u0254\u0300l\u0254mb\u00ec\u00e0"
+    },
+    "CR": {
+        "name": "K\u00f2st\u00e0 Rik\u00e0"
+    },
+    "CU": {
+        "name": "Kub\u00e0"
+    },
+    "CV": {
+        "name": "Kabw\u025b\u1dc6r"
+    },
+    "CY": {
+        "name": "Kipr\u00f2"
+    },
+    "DE": {
+        "name": "Jam\u00e2n"
+    },
+    "DJ": {
+        "name": "J\u00ecbut\u00ec"
+    },
+    "DK": {
+        "name": "D\u00e0nm\u00e2rk"
+    },
+    "DM": {
+        "name": "D\u00f2mn\u00eek"
+    },
+    "DO": {
+        "name": "D\u00f2mnik\u00e0"
+    },
+    "DZ": {
+        "name": "\u00c0lger\u00ec\u00e0"
+    },
+    "EC": {
+        "name": "\u00c8kw\u00e0tor\u00ec\u00e0"
+    },
+    "EE": {
+        "name": "\u00c8ston\u00ec\u00e0"
+    },
+    "EG": {
+        "name": "\u00c8g\u00eept\u00f2"
+    },
+    "ER": {
+        "name": "\u00c8r\u00ectr\u011b\u00e0"
+    },
+    "ES": {
+        "name": "P\u00e0nya"
+    },
+    "ET": {
+        "name": "\u00c8t\u00ecop\u00ec\u00e0"
+    },
+    "FI": {
+        "name": "F\u00ecnl\u00e2nd"
+    },
+    "FJ": {
+        "name": "Fiji"
+    },
+    "FK": {
+        "name": "B\u00ec\u00f2n bi Falkland"
+    },
+    "FM": {
+        "name": "M\u00eckr\u00f2nes\u00ec\u00e0"
+    },
+    "FR": {
+        "name": "P\u00f9l\u00e0si / F\u025b\u0300l\u025b\u0300nsi /"
+    },
+    "GA": {
+        "name": "G\u00e0b\u0254\u0302\u014b"
+    },
+    "GB": {
+        "name": "\u00c0dn\u00e0 i L\u0254\u0302\u014b"
+    },
+    "GD": {
+        "name": "Gr\u00e8nad\u00e0"
+    },
+    "GE": {
+        "name": "G\u00e8\u0254rg\u00ec\u00e0"
+    },
+    "GF": {
+        "name": "G\u00f9yan\u00e0 P\u00f9l\u00e0si"
+    },
+    "GH": {
+        "name": "Gan\u00e0"
+    },
+    "GI": {
+        "name": "G\u00eclbr\u00e0t\u00e2r"
+    },
+    "GL": {
+        "name": "Gr\u01d0nl\u00e0nd"
+    },
+    "GM": {
+        "name": "G\u00e0mbi\u00e0"
+    },
+    "GN": {
+        "name": "G\u00ecn\u00ea"
+    },
+    "GP": {
+        "name": "Gw\u00e0d\u00e8l\u00fbp"
+    },
+    "GQ": {
+        "name": "G\u00ecne \u00c8kw\u00e0tor\u00ec\u00e0"
+    },
+    "GR": {
+        "name": "Gr\u01d0ky\u00e0"
+    },
+    "GT": {
+        "name": "Gw\u00e0t\u00e8mal\u00e0"
+    },
+    "GU": {
+        "name": "G\u00f9\u00e2m"
+    },
+    "GW": {
+        "name": "G\u00ecne B\u00ecs\u00e0\u00f4"
+    },
+    "GY": {
+        "name": "G\u00f9yan\u00e0"
+    },
+    "HN": {
+        "name": "\u0186\u0300\u014bdur\u00e0s"
+    },
+    "HR": {
+        "name": "Kr\u00f2as\u00ec\u00e0"
+    },
+    "HT": {
+        "name": "\u00c0it\u00ec"
+    },
+    "HU": {
+        "name": "\u0186\u0300\u014bgri\u00ec"
+    },
+    "ID": {
+        "name": "Ind\u00f2n\u00e8si\u00e0"
+    },
+    "IE": {
+        "name": "\u00ccrl\u00e2nd"
+    },
+    "IL": {
+        "name": "Isr\u00e0\u025b\u0302l"
+    },
+    "IN": {
+        "name": "Ind\u00ec\u00e0"
+    },
+    "IO": {
+        "name": "B\u00ect\u00e8k bi \u014agis\u00ec i T\u016by\u025b \u012and\u00ec\u00e0"
+    },
+    "IQ": {
+        "name": "\u00ccr\u00e2k"
+    },
+    "IR": {
+        "name": "\u00ccr\u00e2\u014b"
+    },
+    "IS": {
+        "name": "\u00ccsland\u00ec\u00e0"
+    },
+    "IT": {
+        "name": "\u00cctal\u00ec\u00e0"
+    },
+    "JM": {
+        "name": "J\u00e0m\u00e0ik\u00e0"
+    },
+    "JO": {
+        "name": "Y\u0254\u0300rdani\u00e0"
+    },
+    "KE": {
+        "name": "Ken\u00ec\u00e0"
+    },
+    "KG": {
+        "name": "K\u00ecrg\u00ecz\u00ecst\u00e0\u014b"
+    },
+    "KH": {
+        "name": "K\u00e0mbod\u00ec\u00e0"
+    },
+    "KI": {
+        "name": "K\u00ecr\u00ecbat\u00ec"
+    },
+    "KM": {
+        "name": "K\u0254\u0300m\u0254\u0302r"
+    },
+    "KN": {
+        "name": "N\u00fbmpubi K\u00eets n\u00ec Nev\u00ecs"
+    },
+    "KP": {
+        "name": "K\u0254\u0300re \u00ec \u014a\u0300\u0254mb\u0254k"
+    },
+    "KR": {
+        "name": "K\u0254\u0300re \u00ec \u014a\u0300w\u025b\u0300lmb\u0254k"
+    },
+    "KW": {
+        "name": "K\u00f2w\u00eat"
+    },
+    "KY": {
+        "name": "B\u00ec\u00f2n bi Kaym\u00e0n"
+    },
+    "KZ": {
+        "name": "K\u00e0z\u00e0kst\u00e2\u014b"
+    },
+    "LA": {
+        "name": "L\u00e0\u00f4s"
+    },
+    "LB": {
+        "name": "L\u00e8ban\u00f2n"
+    },
+    "LC": {
+        "name": "N\u00fbmpubi Lus\u00ec"
+    },
+    "LI": {
+        "name": "Ligst\u025bnt\u00e0n"
+    },
+    "LK": {
+        "name": "Sr\u00ecla\u014bk\u00e0"
+    },
+    "LR": {
+        "name": "L\u00ecber\u00ec\u00e0"
+    },
+    "LS": {
+        "name": "Les\u00f2t\u00f2"
+    },
+    "LT": {
+        "name": "L\u00ect\u00f9an\u00ec\u00e0"
+    },
+    "LU": {
+        "name": "L\u00f9gs\u00e0mb\u00fbr"
+    },
+    "LV": {
+        "name": "L\u00e0dvi\u00e0"
+    },
+    "LY": {
+        "name": "Lib\u00ec\u00e0"
+    },
+    "MA": {
+        "name": "M\u00e0rok\u00f2"
+    },
+    "MC": {
+        "name": "M\u00f2nak\u00f2"
+    },
+    "MD": {
+        "name": "Moldav\u00ec\u00e0"
+    },
+    "MG": {
+        "name": "M\u00e0d\u00e0g\u00e0sk\u00e2r"
+    },
+    "MH": {
+        "name": "B\u00ec\u00f2n bi Marc\u00e0l"
+    },
+    "ML": {
+        "name": "M\u00e0li"
+    },
+    "MM": {
+        "name": "My\u00e0nm\u00e2r"
+    },
+    "MN": {
+        "name": "M\u00f2\u014bgol\u00ec\u00e0"
+    },
+    "MP": {
+        "name": "B\u00ec\u00f2n bi Mar\u00ecan\u00e0 \u014b\u0300\u0254mb\u0254k"
+    },
+    "MQ": {
+        "name": "M\u00e0rt\u00ecn\u00eek"
+    },
+    "MR": {
+        "name": "M\u00f2r\u00ectan\u00ec\u00e0"
+    },
+    "MS": {
+        "name": "M\u0254\u0300\u014bser\u00e0t"
+    },
+    "MT": {
+        "name": "Malt\u00e0"
+    },
+    "MU": {
+        "name": "M\u00f2r\u00ees"
+    },
+    "MV": {
+        "name": "M\u00e0ld\u00eef"
+    },
+    "MW": {
+        "name": "M\u00e0l\u00e0wi"
+    },
+    "MX": {
+        "name": "M\u025b\u0300gs\u00eek"
+    },
+    "MY": {
+        "name": "M\u00e0l\u025b\u0300s\u00ec\u00e0"
+    },
+    "MZ": {
+        "name": "M\u00f2s\u00e0mb\u00eek"
+    },
+    "NA": {
+        "name": "N\u00e0mib\u00ec\u00e0"
+    },
+    "NC": {
+        "name": "K\u00e0l\u00e8don\u00ec\u00e0 Y\u0254\u0300nd\u0254"
+    },
+    "NE": {
+        "name": "N\u00ecj\u025b\u0302r"
+    },
+    "NF": {
+        "name": "\u00d2n i N\u0254rf\u0254\u0302k"
+    },
+    "NG": {
+        "name": "N\u00ecger\u00ec\u00e0"
+    },
+    "NI": {
+        "name": "N\u00eck\u00e0ragw\u00e0"
+    },
+    "NL": {
+        "name": "\u01f8l\u025bndi"
+    },
+    "NO": {
+        "name": "N\u0254\u0300rveg\u00ec\u00e0"
+    },
+    "NP": {
+        "name": "N\u00e8p\u00e2l"
+    },
+    "NR": {
+        "name": "Ner\u00f9"
+    },
+    "NU": {
+        "name": "N\u00ecu\u025b\u0300"
+    },
+    "NZ": {
+        "name": "S\u00ecl\u00e2nd Y\u0254\u0300nd\u0254"
+    },
+    "OM": {
+        "name": "\u00d2m\u00e2n"
+    },
+    "PA": {
+        "name": "P\u00e0n\u00e0ma"
+    },
+    "PE": {
+        "name": "P\u00e8r\u00fb"
+    },
+    "PF": {
+        "name": "P\u00f2l\u00ecnes\u00ec\u00e0 P\u00f9l\u00e0si"
+    },
+    "PG": {
+        "name": "G\u00ecne \u00ec P\u00e0pu"
+    },
+    "PH": {
+        "name": "F\u00ecl\u00ecp\u00een"
+    },
+    "PK": {
+        "name": "P\u00e0k\u00ecst\u00e2n"
+    },
+    "PL": {
+        "name": "P\u00f2l\u00e0nd"
+    },
+    "PM": {
+        "name": "N\u00fbmpubi Petr\u00f2 n\u00ec Mik\u00e8l\u00f4n"
+    },
+    "PN": {
+        "name": "P\u00ecdka\u00ecrn"
+    },
+    "PR": {
+        "name": "P\u0254\u0300rt\u00f2 Rik\u00f2"
+    },
+    "PS": {
+        "name": "P\u00e0l\u025b\u0300htin\u00e0 Hy\u0254\u0300\u014bg n\u00ec Gaz\u00e0"
+    },
+    "PT": {
+        "name": "P\u0254\u0300t\u0254k\u00ec"
+    },
+    "PW": {
+        "name": "P\u00e0la\u00f9"
+    },
+    "PY": {
+        "name": "P\u00e0r\u00e0gw\u00ea"
+    },
+    "QA": {
+        "name": "K\u00e0t\u00e2r"
+    },
+    "RE": {
+        "name": "R\u00e8uny\u0254\u0302\u014b"
+    },
+    "RO": {
+        "name": "R\u00f9man\u00ec\u00e0"
+    },
+    "RU": {
+        "name": "Rusl\u00e0nd"
+    },
+    "RW": {
+        "name": "R\u00f9and\u00e0"
+    },
+    "SA": {
+        "name": "S\u00e0udi \u00c0rab\u00ec\u00e0"
+    },
+    "SB": {
+        "name": "B\u00ec\u00f2n bi Sal\u014dm\u00f2"
+    },
+    "SC": {
+        "name": "S\u00e8s\u025b\u0302l"
+    },
+    "SD": {
+        "name": "S\u00f9d\u00e2\u014b"
+    },
+    "SE": {
+        "name": "Swed\u025b\u0300n"
+    },
+    "SG": {
+        "name": "S\u00ec\u014bg\u00e0p\u00fbr"
+    },
+    "SH": {
+        "name": "N\u00fbmpubi \u0190l\u0113n\u00e0"
+    },
+    "SI": {
+        "name": "Sl\u00f2van\u00ec\u00e0"
+    },
+    "SK": {
+        "name": "Sl\u00f2vak\u00ec\u00e0"
+    },
+    "SL": {
+        "name": "Si\u00e8ra L\u00e8\u0254\u0302n"
+    },
+    "SM": {
+        "name": "N\u00fbmpubi M\u0101at\u00ecn"
+    },
+    "SN": {
+        "name": "S\u00e8n\u00e8g\u00e2l"
+    },
+    "SO": {
+        "name": "S\u00f2mal\u00ec\u00e0"
+    },
+    "SR": {
+        "name": "S\u00f9rin\u00e2m"
+    },
+    "ST": {
+        "name": "S\u00e0o T\u00f2me \u0253\u0254 Pr\u025b\u0300\u014bcip\u00e8"
+    },
+    "SV": {
+        "name": "S\u00e0lv\u00e0d\u0254\u0302r"
+    },
+    "SY": {
+        "name": "Sir\u00ec\u00e0"
+    },
+    "SZ": {
+        "name": "Sw\u00e0z\u00ecl\u00e2nd"
+    },
+    "TC": {
+        "name": "B\u00ec\u00f2n bi T\u00fbrks n\u00ec Kalk\u00f2s"
+    },
+    "TD": {
+        "name": "C\u00e2d"
+    },
+    "TG": {
+        "name": "T\u00f2go"
+    },
+    "TH": {
+        "name": "Tayl\u00e0nd"
+    },
+    "TJ": {
+        "name": "T\u00e0j\u00eck\u00ecsta\u014b"
+    },
+    "TK": {
+        "name": "T\u00f2k\u00e8la\u00f2"
+    },
+    "TL": {
+        "name": "T\u00ecm\u0254\u0302r l\u00eck\u00f2l"
+    },
+    "TM": {
+        "name": "T\u00f9rgm\u00e8n\u00ecst\u00e2n"
+    },
+    "TN": {
+        "name": "T\u00f9nis\u00ec\u00e0"
+    },
+    "TO": {
+        "name": "T\u0254\u014bg\u00e0"
+    },
+    "TR": {
+        "name": "T\u00f9rk\u00e2y"
+    },
+    "TT": {
+        "name": "Tr\u00ecnid\u00e0d \u0253\u0254 T\u00f2bag\u00f2"
+    },
+    "TV": {
+        "name": "T\u00f9v\u00e0l\u00f9"
+    },
+    "TW": {
+        "name": "T\u00e0yw\u00e2n"
+    },
+    "TZ": {
+        "name": "T\u00e0nz\u00e0ni\u00e0"
+    },
+    "UA": {
+        "name": "\u00d9kr\u025b\u030cn"
+    },
+    "UG": {
+        "name": "\u00d9gand\u00e0"
+    },
+    "US": {
+        "name": "\u00c0dn\u00e0 i Bil\u0254\u0300\u014b bi Amerk\u00e0"
+    },
+    "UY": {
+        "name": "\u00d9r\u00f9gw\u00eay"
+    },
+    "UZ": {
+        "name": "\u00d9zb\u00e8k\u00ecst\u00e2n"
+    },
+    "VA": {
+        "name": "V\u00e0t\u00eck\u00e2\u014b"
+    },
+    "VC": {
+        "name": "N\u00fbmpubi V\u025b\u0302\u014bs\u00e2\u014b n\u00ec gr\u00e8n\u00e0d\u00een"
+    },
+    "VE": {
+        "name": "V\u00e8n\u00e8z\u00f9el\u00e0"
+    },
+    "VG": {
+        "name": "B\u00ec\u00f2n bi k\u0254nji bi \u014agis\u00ec"
+    },
+    "VI": {
+        "name": "B\u00ec\u00f2n bi k\u0254nji bi U.S."
+    },
+    "VN": {
+        "name": "V\u00ec\u025b\u0300dn\u00e2m"
+    },
+    "VU": {
+        "name": "V\u00e0n\u00f9at\u00f9"
+    },
+    "WF": {
+        "name": "W\u00e0l\u00ees n\u00ec F\u00f9tun\u00e0"
+    },
+    "WS": {
+        "name": "S\u00e0mo\u00e0"
+    },
+    "YE": {
+        "name": "Y\u00e8m\u025b\u0302n"
+    },
+    "YT": {
+        "name": "M\u00e0y\u0254\u0302t"
+    },
+    "ZA": {
+        "name": "\u00c0fr\u01d0k\u00e0 S\u0254\u0300"
+    },
+    "ZM": {
+        "name": "Z\u00e0mbi\u00e0"
+    },
+    "ZW": {
+        "name": "Z\u00ecmb\u00e0bw\u00ea"
+    }
+}

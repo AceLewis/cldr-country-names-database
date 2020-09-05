@@ -1,0 +1,886 @@
+{
+    "001": {
+        "name": "Duniya"
+    },
+    "002": {
+        "name": "Afirka"
+    },
+    "003": {
+        "name": "North America"
+    },
+    "005": {
+        "name": "South America"
+    },
+    "009": {
+        "name": "Oceania"
+    },
+    "011": {
+        "name": "Afirka ta Yamma"
+    },
+    "013": {
+        "name": "Central America"
+    },
+    "014": {
+        "name": "Afirka ta Gabas"
+    },
+    "015": {
+        "name": "Arewacin Africa"
+    },
+    "017": {
+        "name": "Afirka ta Tsakiya"
+    },
+    "018": {
+        "name": "Kudancin Afirka"
+    },
+    "019": {
+        "name": "nahiyoyin Amurka"
+    },
+    "021": {
+        "name": "Arewacin Amurka"
+    },
+    "029": {
+        "name": "Caribbean"
+    },
+    "030": {
+        "name": "Gabashin Asiya"
+    },
+    "034": {
+        "name": "kudancin Asiya"
+    },
+    "035": {
+        "name": "Kudu Maso Gabashin Asiya"
+    },
+    "039": {
+        "name": "Kudancin Turai"
+    },
+    "053": {
+        "name": "Tsibarai na Austraila da New Zealand da ma\u0199ota"
+    },
+    "054": {
+        "name": "Tsibirai na New Guinea da Fiji da ma\u0199ota"
+    },
+    "057": {
+        "name": "Yankin Micronesia"
+    },
+    "061": {
+        "name": "tsibiri"
+    },
+    "142": {
+        "name": "Asiya"
+    },
+    "143": {
+        "name": "Asiya ta Tsakiya"
+    },
+    "145": {
+        "name": "Yammacin Asiya"
+    },
+    "150": {
+        "name": "Turai"
+    },
+    "151": {
+        "name": "Gabashin Turai"
+    },
+    "154": {
+        "name": "Arewacin Turai"
+    },
+    "155": {
+        "name": "Yammacin Turai"
+    },
+    "202": {
+        "name": "Sub-Saharan Africa"
+    },
+    "419": {
+        "name": "Latin America"
+    },
+    "AC": {
+        "name": "Tsibirin Ascension"
+    },
+    "AD": {
+        "name": "Andora"
+    },
+    "AE": {
+        "name": "Ha\u0257a\u0257\u0257iyar Daular Larabawa"
+    },
+    "AF": {
+        "name": "Afaganistan"
+    },
+    "AG": {
+        "name": "Antigwa da Barbuba"
+    },
+    "AI": {
+        "name": "Angila"
+    },
+    "AL": {
+        "name": "Albaniya"
+    },
+    "AM": {
+        "name": "Armeniya"
+    },
+    "AO": {
+        "name": "Angola"
+    },
+    "AQ": {
+        "name": "Antatika"
+    },
+    "AR": {
+        "name": "Arjantiniya"
+    },
+    "AS": {
+        "name": "Samowa Ta Amurka"
+    },
+    "AT": {
+        "name": "Ostiriya"
+    },
+    "AU": {
+        "name": "Ostareliya"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Tsibirai na \u00c5land"
+    },
+    "AZ": {
+        "name": "Azarbaijan"
+    },
+    "BA": {
+        "name": "Bosniya Harzagobina"
+    },
+    "BB": {
+        "name": "Barbadas"
+    },
+    "BD": {
+        "name": "Bangiladas"
+    },
+    "BE": {
+        "name": "Belgiyom"
+    },
+    "BF": {
+        "name": "Burkina Faso"
+    },
+    "BG": {
+        "name": "Bulgariya"
+    },
+    "BH": {
+        "name": "Baharan"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "Binin"
+    },
+    "BL": {
+        "name": "St. Barth\u00e9lemy"
+    },
+    "BM": {
+        "name": "Barmuda"
+    },
+    "BN": {
+        "name": "Burune"
+    },
+    "BO": {
+        "name": "Bolibiya"
+    },
+    "BQ": {
+        "name": "Caribbean Netherlands"
+    },
+    "BR": {
+        "name": "Birazil"
+    },
+    "BS": {
+        "name": "Bahamas"
+    },
+    "BT": {
+        "name": "Butan"
+    },
+    "BV": {
+        "name": "Tsibirin Bouvet"
+    },
+    "BW": {
+        "name": "Baswana"
+    },
+    "BY": {
+        "name": "Belarus"
+    },
+    "BZ": {
+        "name": "Beliz"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CC": {
+        "name": "Tsibirai Cocos (Keeling)"
+    },
+    "CD": {
+        "name": "Jamhuriyar Dimokura\u0257iyyar Kongo",
+        "variant": "Kongo (DRC)"
+    },
+    "CF": {
+        "name": "Jamhuriyar Afirka Ta Tsakiya"
+    },
+    "CG": {
+        "name": "Kongo",
+        "variant": "Jamhuriyar Kongo"
+    },
+    "CH": {
+        "name": "Suwizalan"
+    },
+    "CI": {
+        "name": "Aibari Kwas"
+    },
+    "CK": {
+        "name": "Tsibiran Kuku"
+    },
+    "CL": {
+        "name": "Cayile"
+    },
+    "CM": {
+        "name": "Kamaru"
+    },
+    "CN": {
+        "name": "Sin"
+    },
+    "CO": {
+        "name": "Kolambiya"
+    },
+    "CP": {
+        "name": "Tsibirin Clipperton"
+    },
+    "CR": {
+        "name": "Kwasta Rika"
+    },
+    "CU": {
+        "name": "Kyuba"
+    },
+    "CV": {
+        "name": "Tsibiran Kap Barde"
+    },
+    "CW": {
+        "name": "Kasar Cura\u00e7ao"
+    },
+    "CX": {
+        "name": "Tsibirin Kirsmati"
+    },
+    "CY": {
+        "name": "Sifurus"
+    },
+    "CZ": {
+        "name": "Jamhuriyar Cak"
+    },
+    "DE": {
+        "name": "Jamus"
+    },
+    "DG": {
+        "name": "Tsibirn Diego Garcia"
+    },
+    "DJ": {
+        "name": "Jibuti"
+    },
+    "DK": {
+        "name": "Danmark"
+    },
+    "DM": {
+        "name": "Dominika"
+    },
+    "DO": {
+        "name": "Jamhuriyar Dominika"
+    },
+    "DZ": {
+        "name": "Aljeriya"
+    },
+    "EA": {
+        "name": "Ceuta & Melilla"
+    },
+    "EC": {
+        "name": "Ekwador"
+    },
+    "EE": {
+        "name": "Estoniya"
+    },
+    "EG": {
+        "name": "Misira"
+    },
+    "EH": {
+        "name": "Yammacin Sahara"
+    },
+    "ER": {
+        "name": "Eritireya"
+    },
+    "ES": {
+        "name": "Sipen"
+    },
+    "ET": {
+        "name": "Habasha"
+    },
+    "EU": {
+        "name": "Tarayyar Turai"
+    },
+    "EZ": {
+        "name": "Sashin Turai"
+    },
+    "FI": {
+        "name": "Finlan"
+    },
+    "FJ": {
+        "name": "Fiji"
+    },
+    "FK": {
+        "name": "Tsibiran Falkilan"
+    },
+    "FM": {
+        "name": "Mikuronesiya"
+    },
+    "FO": {
+        "name": "Tsibirai na Faroe"
+    },
+    "FR": {
+        "name": "Faransa"
+    },
+    "GA": {
+        "name": "Gabon"
+    },
+    "GB": {
+        "name": "Biritaniya"
+    },
+    "GD": {
+        "name": "Girnada"
+    },
+    "GE": {
+        "name": "Jiwarjiya"
+    },
+    "GF": {
+        "name": "Gini Ta Faransa"
+    },
+    "GG": {
+        "name": "Yankin Guernsey"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "Jibaraltar"
+    },
+    "GL": {
+        "name": "Grinlan"
+    },
+    "GM": {
+        "name": "Gambiya"
+    },
+    "GN": {
+        "name": "Gini"
+    },
+    "GP": {
+        "name": "Gwadaluf"
+    },
+    "GQ": {
+        "name": "Gini Ta Ikwaita"
+    },
+    "GR": {
+        "name": "Girka"
+    },
+    "GS": {
+        "name": "Kudancin Geogia da Kudancin Tsibirin Sandiwic"
+    },
+    "GT": {
+        "name": "Gwatamala"
+    },
+    "GU": {
+        "name": "Gwam"
+    },
+    "GW": {
+        "name": "Gini Bisau"
+    },
+    "GY": {
+        "name": "Guyana"
+    },
+    "HK": {
+        "name": "Hong Kong Babban Birnin Kasar Chana"
+    },
+    "HM": {
+        "name": "Tsibirin Heard da McDonald"
+    },
+    "HN": {
+        "name": "Honduras"
+    },
+    "HR": {
+        "name": "Kurowaishiya"
+    },
+    "HT": {
+        "name": "Haiti"
+    },
+    "HU": {
+        "name": "Hungari"
+    },
+    "IC": {
+        "name": "Canary Islands"
+    },
+    "ID": {
+        "name": "Indunusiya"
+    },
+    "IE": {
+        "name": "Ayalan"
+    },
+    "IL": {
+        "name": "Izira\u02bcila"
+    },
+    "IM": {
+        "name": "Isle na Mutum"
+    },
+    "IN": {
+        "name": "Indiya"
+    },
+    "IO": {
+        "name": "Yankin Birtaniya Na Tekun Indiya"
+    },
+    "IQ": {
+        "name": "Ira\u0199i"
+    },
+    "IR": {
+        "name": "Iran"
+    },
+    "IS": {
+        "name": "Aisalan"
+    },
+    "IT": {
+        "name": "Italiya"
+    },
+    "JE": {
+        "name": "Kasar Jersey"
+    },
+    "JM": {
+        "name": "Jamaika"
+    },
+    "JO": {
+        "name": "Jordan"
+    },
+    "JP": {
+        "name": "J\u00e0p\u00e2n"
+    },
+    "KE": {
+        "name": "Kenya"
+    },
+    "KG": {
+        "name": "Kirgizistan"
+    },
+    "KH": {
+        "name": "Kambodiya"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Kwamoras"
+    },
+    "KN": {
+        "name": "San Kiti Da Nebis"
+    },
+    "KP": {
+        "name": "Koriya Ta Arewa"
+    },
+    "KR": {
+        "name": "Koriya Ta Kudu"
+    },
+    "KW": {
+        "name": "Kwiyat"
+    },
+    "KY": {
+        "name": "Tsibiran Kaiman"
+    },
+    "KZ": {
+        "name": "Kazakistan"
+    },
+    "LA": {
+        "name": "Lawas"
+    },
+    "LB": {
+        "name": "Labanan"
+    },
+    "LC": {
+        "name": "San Lusiya"
+    },
+    "LI": {
+        "name": "Licansitan"
+    },
+    "LK": {
+        "name": "Siri Lanka"
+    },
+    "LR": {
+        "name": "Laberiya"
+    },
+    "LS": {
+        "name": "Lesoto"
+    },
+    "LT": {
+        "name": "Lituweniya"
+    },
+    "LU": {
+        "name": "Lukusambur"
+    },
+    "LV": {
+        "name": "latibiya"
+    },
+    "LY": {
+        "name": "Libiya"
+    },
+    "MA": {
+        "name": "Maroko"
+    },
+    "MC": {
+        "name": "Monako"
+    },
+    "MD": {
+        "name": "Maldoba"
+    },
+    "ME": {
+        "name": "Mantanegara"
+    },
+    "MF": {
+        "name": "St. Martin"
+    },
+    "MG": {
+        "name": "Madagaskar"
+    },
+    "MH": {
+        "name": "Tsibiran Marshal"
+    },
+    "MK": {
+        "name": "Macedonia ta Arewa"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Burma, Miyamar"
+    },
+    "MN": {
+        "name": "Mangoliya"
+    },
+    "MO": {
+        "name": "Babban Birnin Mulki na Chana"
+    },
+    "MP": {
+        "name": "Tsibiran Mariyana Na Arewa"
+    },
+    "MQ": {
+        "name": "Martinik"
+    },
+    "MR": {
+        "name": "Moritaniya"
+    },
+    "MS": {
+        "name": "Manserati"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Moritus"
+    },
+    "MV": {
+        "name": "Maldibi"
+    },
+    "MW": {
+        "name": "Malawi"
+    },
+    "MX": {
+        "name": "Makasiko"
+    },
+    "MY": {
+        "name": "Malaisiya"
+    },
+    "MZ": {
+        "name": "Mozambik"
+    },
+    "NA": {
+        "name": "Namibiya"
+    },
+    "NC": {
+        "name": "Kaledoniya Sabuwa"
+    },
+    "NE": {
+        "name": "Nijar"
+    },
+    "NF": {
+        "name": "Tsibirin Narfalk"
+    },
+    "NG": {
+        "name": "Najeriya"
+    },
+    "NI": {
+        "name": "Nikaraguwa"
+    },
+    "NL": {
+        "name": "Holan"
+    },
+    "NO": {
+        "name": "Norwe"
+    },
+    "NP": {
+        "name": "Nefal"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niyu"
+    },
+    "NZ": {
+        "name": "Nuzilan"
+    },
+    "OM": {
+        "name": "Oman"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Feru"
+    },
+    "PF": {
+        "name": "Folinesiya Ta Faransa"
+    },
+    "PG": {
+        "name": "Papuwa Nugini"
+    },
+    "PH": {
+        "name": "Filipin"
+    },
+    "PK": {
+        "name": "Pakistan"
+    },
+    "PL": {
+        "name": "Polan"
+    },
+    "PM": {
+        "name": "San Piyar Da Mikelan"
+    },
+    "PN": {
+        "name": "Pitakarin"
+    },
+    "PR": {
+        "name": "Porto Riko"
+    },
+    "PS": {
+        "name": "Palas\u0257inu"
+    },
+    "PT": {
+        "name": "Portugal"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "Faragwai"
+    },
+    "QA": {
+        "name": "Katar"
+    },
+    "QO": {
+        "name": "Bakin Teku"
+    },
+    "RE": {
+        "name": "Rawuniyan"
+    },
+    "RO": {
+        "name": "Romaniya"
+    },
+    "RS": {
+        "name": "Sabiya"
+    },
+    "RU": {
+        "name": "Rasha"
+    },
+    "RW": {
+        "name": "Ruwanda"
+    },
+    "SA": {
+        "name": "Saudiyya"
+    },
+    "SB": {
+        "name": "Tsibiran Salaman"
+    },
+    "SC": {
+        "name": "Seychelles"
+    },
+    "SD": {
+        "name": "Sudan"
+    },
+    "SE": {
+        "name": "Suwedan"
+    },
+    "SG": {
+        "name": "Singapur"
+    },
+    "SH": {
+        "name": "San Helena"
+    },
+    "SI": {
+        "name": "Sulobeniya"
+    },
+    "SJ": {
+        "name": "Svalbard da Jan Mayen"
+    },
+    "SK": {
+        "name": "Sulobakiya"
+    },
+    "SL": {
+        "name": "Salewo"
+    },
+    "SM": {
+        "name": "San Marino"
+    },
+    "SN": {
+        "name": "Sanigal"
+    },
+    "SO": {
+        "name": "Somaliya"
+    },
+    "SR": {
+        "name": "Suriname"
+    },
+    "SS": {
+        "name": "Sudan ta kudu"
+    },
+    "ST": {
+        "name": "Sawo Tome Da Paransip"
+    },
+    "SV": {
+        "name": "El Salbador"
+    },
+    "SX": {
+        "name": "Sint Maarten"
+    },
+    "SY": {
+        "name": "Sham, Siriya"
+    },
+    "SZ": {
+        "name": "Eswatini"
+    },
+    "TA": {
+        "name": "Tritan da Kunha"
+    },
+    "TC": {
+        "name": "Turkis Da Tsibiran Kaikwas"
+    },
+    "TD": {
+        "name": "Cadi"
+    },
+    "TF": {
+        "name": "Yankin Faransi ta Kudu"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "Tailan"
+    },
+    "TJ": {
+        "name": "Tajikistan"
+    },
+    "TK": {
+        "name": "Takelau"
+    },
+    "TL": {
+        "name": "Timor Ta Gabas"
+    },
+    "TM": {
+        "name": "Turkumenistan"
+    },
+    "TN": {
+        "name": "Tunisiya"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Turkiyya"
+    },
+    "TT": {
+        "name": "Tirinidad Da Tobago"
+    },
+    "TV": {
+        "name": "Tubalu"
+    },
+    "TW": {
+        "name": "Taiwan"
+    },
+    "TZ": {
+        "name": "Tanzaniya"
+    },
+    "UA": {
+        "name": "Yukaran"
+    },
+    "UG": {
+        "name": "Yuganda"
+    },
+    "UM": {
+        "name": "Rukunin Tsibirin U.S"
+    },
+    "UN": {
+        "name": "Majalisar Dinkin Duniya"
+    },
+    "US": {
+        "name": "Amurka"
+    },
+    "UY": {
+        "name": "Yurigwai"
+    },
+    "UZ": {
+        "name": "Uzubekistan"
+    },
+    "VA": {
+        "name": "Batikan"
+    },
+    "VC": {
+        "name": "San Binsan Da Girnadin"
+    },
+    "VE": {
+        "name": "Benezuwela"
+    },
+    "VG": {
+        "name": "Tsibirin Birjin Na Birtaniya"
+    },
+    "VI": {
+        "name": "Tsibiran Birjin Ta Amurka"
+    },
+    "VN": {
+        "name": "Biyetinam"
+    },
+    "VU": {
+        "name": "Banuwatu"
+    },
+    "WF": {
+        "name": "Walis Da Futuna"
+    },
+    "WS": {
+        "name": "Samoa"
+    },
+    "XA": {
+        "name": "Gogewar Kwalwa"
+    },
+    "XB": {
+        "name": "Gano wani abu ta hanyar amfani da fasaha"
+    },
+    "XK": {
+        "name": "Kasar Kosovo"
+    },
+    "YE": {
+        "name": "Yamal"
+    },
+    "YT": {
+        "name": "Mayoti"
+    },
+    "ZA": {
+        "name": "Afirka Ta Kudu"
+    },
+    "ZM": {
+        "name": "Zambiya"
+    },
+    "ZW": {
+        "name": "Zimbabuwe"
+    },
+    "ZZ": {
+        "name": "Yanki da ba a sani ba"
+    }
+}

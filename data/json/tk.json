@@ -1,0 +1,895 @@
+{
+    "001": {
+        "name": "D\u00fcn\u00fd\u00e4"
+    },
+    "002": {
+        "name": "Afrika"
+    },
+    "003": {
+        "name": "Demirgazyk Amerika"
+    },
+    "005": {
+        "name": "G\u00fcnorta Amerika"
+    },
+    "009": {
+        "name": "Okeani\u00fda"
+    },
+    "011": {
+        "name": "G\u00fcnbatar Afrika"
+    },
+    "013": {
+        "name": "Orta Amerika"
+    },
+    "014": {
+        "name": "G\u00fcndogar Afrika"
+    },
+    "015": {
+        "name": "Demirgazyk Afrika"
+    },
+    "017": {
+        "name": "Orta Afrika"
+    },
+    "018": {
+        "name": "Afrikany\u0148 g\u00fcnorta sebitleri"
+    },
+    "019": {
+        "name": "Amerika"
+    },
+    "021": {
+        "name": "Amerikany\u0148 demirgazyk \u00fdurtlary"
+    },
+    "029": {
+        "name": "Karib basse\u00fdni"
+    },
+    "030": {
+        "name": "G\u00fcndogar Azi\u00fda"
+    },
+    "034": {
+        "name": "G\u00fcnorta Azi\u00fda"
+    },
+    "035": {
+        "name": "G\u00fcnorta-g\u00fcndogar Azi\u00fda"
+    },
+    "039": {
+        "name": "G\u00fcnorta \u00ddewropa"
+    },
+    "053": {
+        "name": "Awstralazi\u00fda"
+    },
+    "054": {
+        "name": "Melanezi\u00fda"
+    },
+    "057": {
+        "name": "Mikronezi\u00fda sebti"
+    },
+    "061": {
+        "name": "Polinezi\u00fda"
+    },
+    "142": {
+        "name": "Azi\u00fda"
+    },
+    "143": {
+        "name": "Merkezi Azi\u00fda"
+    },
+    "145": {
+        "name": "G\u00fcnbatar Azi\u00fda"
+    },
+    "150": {
+        "name": "\u00ddewropa"
+    },
+    "151": {
+        "name": "G\u00fcndogar \u00ddewropa"
+    },
+    "154": {
+        "name": "Demirgazyk \u00ddewropa"
+    },
+    "155": {
+        "name": "G\u00fcnbatar \u00ddewropa"
+    },
+    "202": {
+        "name": "Saharadan a\u015fakdaky Afrika"
+    },
+    "419": {
+        "name": "Latyn Amerikasy"
+    },
+    "AC": {
+        "name": "Be\u00fdgeli\u015f adasy"
+    },
+    "AD": {
+        "name": "Andorra"
+    },
+    "AE": {
+        "name": "Birle\u015fen Arap Emirlikleri"
+    },
+    "AF": {
+        "name": "Owganystan"
+    },
+    "AG": {
+        "name": "Antigua we Barbuda"
+    },
+    "AI": {
+        "name": "Angil\u00fda"
+    },
+    "AL": {
+        "name": "Albani\u00fda"
+    },
+    "AM": {
+        "name": "Ermenistan"
+    },
+    "AO": {
+        "name": "Angola"
+    },
+    "AQ": {
+        "name": "Antarktika"
+    },
+    "AR": {
+        "name": "Argentina"
+    },
+    "AS": {
+        "name": "Amerikan Samoasy"
+    },
+    "AT": {
+        "name": "Awstri\u00fda"
+    },
+    "AU": {
+        "name": "Awstrali\u00fda"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Aland adalary"
+    },
+    "AZ": {
+        "name": "Azerba\u00fdjan"
+    },
+    "BA": {
+        "name": "Bosni\u00fda we Gersegowina"
+    },
+    "BB": {
+        "name": "Barbados"
+    },
+    "BD": {
+        "name": "Banglade\u015f"
+    },
+    "BE": {
+        "name": "Belgi\u00fda"
+    },
+    "BF": {
+        "name": "Burkina-Faso"
+    },
+    "BG": {
+        "name": "Bolgari\u00fda"
+    },
+    "BH": {
+        "name": "Bahre\u00fdn"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "Benin"
+    },
+    "BL": {
+        "name": "Sen-Bartelemi"
+    },
+    "BM": {
+        "name": "Bermuda"
+    },
+    "BN": {
+        "name": "Brune\u00fd"
+    },
+    "BO": {
+        "name": "Boliwi\u00fda"
+    },
+    "BQ": {
+        "name": "Karib Niderlandlary"
+    },
+    "BR": {
+        "name": "Brazili\u00fda"
+    },
+    "BS": {
+        "name": "Bagama adalary"
+    },
+    "BT": {
+        "name": "Butan"
+    },
+    "BV": {
+        "name": "Buwe adasy"
+    },
+    "BW": {
+        "name": "Botswana"
+    },
+    "BY": {
+        "name": "Belarus"
+    },
+    "BZ": {
+        "name": "Beliz"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CC": {
+        "name": "Kokos (Kiling) adalary"
+    },
+    "CD": {
+        "name": "Kongo - Kin\u015fasa",
+        "variant": "Kongo (KDR)"
+    },
+    "CF": {
+        "name": "Merkezi Afrika Respublikasy"
+    },
+    "CG": {
+        "name": "Kongo - Brazzawil",
+        "variant": "Kongo (Respublika)"
+    },
+    "CH": {
+        "name": "\u015ewe\u00fdsari\u00fda"
+    },
+    "CI": {
+        "name": "Kot-d\u2019Iwuar",
+        "variant": "\u015eirma\u00fdy kenar"
+    },
+    "CK": {
+        "name": "Kuk adalary"
+    },
+    "CL": {
+        "name": "\u00c7ili"
+    },
+    "CM": {
+        "name": "Kamerun"
+    },
+    "CN": {
+        "name": "Hyta\u00fd"
+    },
+    "CO": {
+        "name": "Kolumbi\u00fda"
+    },
+    "CP": {
+        "name": "Klipperton adasy"
+    },
+    "CR": {
+        "name": "Kosta-Rika"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "Kabo-Werde"
+    },
+    "CW": {
+        "name": "K\u00fdurasao"
+    },
+    "CX": {
+        "name": "Ro\u017edestwo adasy"
+    },
+    "CY": {
+        "name": "Kipr"
+    },
+    "CZ": {
+        "name": "\u00c7ehi\u00fda",
+        "variant": "\u00c7eh Respublikasy"
+    },
+    "DE": {
+        "name": "Germani\u00fda"
+    },
+    "DG": {
+        "name": "Di\u00fdego-Garsi\u00fda"
+    },
+    "DJ": {
+        "name": "Jibuti"
+    },
+    "DK": {
+        "name": "Dani\u00fda"
+    },
+    "DM": {
+        "name": "Dominika"
+    },
+    "DO": {
+        "name": "Dominikan Respublikasy"
+    },
+    "DZ": {
+        "name": "Al\u017eir"
+    },
+    "EA": {
+        "name": "Seuta we Melil\u00fda"
+    },
+    "EC": {
+        "name": "Ekwador"
+    },
+    "EE": {
+        "name": "Estoni\u00fda"
+    },
+    "EG": {
+        "name": "M\u00fcs\u00fcr"
+    },
+    "EH": {
+        "name": "G\u00fcnbatar Sahara"
+    },
+    "ER": {
+        "name": "Eritre\u00fda"
+    },
+    "ES": {
+        "name": "Ispani\u00fda"
+    },
+    "ET": {
+        "name": "Efiopi\u00fda"
+    },
+    "EU": {
+        "name": "\u00ddewropa Bilele\u015figi"
+    },
+    "EZ": {
+        "name": "\u00ddewro sebiti"
+    },
+    "FI": {
+        "name": "Finl\u00fdandi\u00fda"
+    },
+    "FJ": {
+        "name": "Fiji"
+    },
+    "FK": {
+        "name": "Folklend adalary",
+        "variant": "Folklend (Malwina) adalary"
+    },
+    "FM": {
+        "name": "Mikronezi\u00fda"
+    },
+    "FO": {
+        "name": "Farer adalary"
+    },
+    "FR": {
+        "name": "Fransi\u00fda"
+    },
+    "GA": {
+        "name": "Gabon"
+    },
+    "GB": {
+        "name": "Birle\u015fen Paty\u015falyk"
+    },
+    "GD": {
+        "name": "Grenada"
+    },
+    "GE": {
+        "name": "Gruzi\u00fda"
+    },
+    "GF": {
+        "name": "Fransuz Gwianasy"
+    },
+    "GG": {
+        "name": "Gernsi"
+    },
+    "GH": {
+        "name": "Gana"
+    },
+    "GI": {
+        "name": "Gibraltar"
+    },
+    "GL": {
+        "name": "Grenlandi\u00fda"
+    },
+    "GM": {
+        "name": "Gambi\u00fda"
+    },
+    "GN": {
+        "name": "Gwine\u00fda"
+    },
+    "GP": {
+        "name": "Gwadelupa"
+    },
+    "GQ": {
+        "name": "Ekwatorial Gwine\u00fda"
+    },
+    "GR": {
+        "name": "Gresi\u00fda"
+    },
+    "GS": {
+        "name": "G\u00fcnorta Georgi\u00fda we G\u00fcnorta Sendwi\u00e7 adasy"
+    },
+    "GT": {
+        "name": "Gwatemala"
+    },
+    "GU": {
+        "name": "Guam"
+    },
+    "GW": {
+        "name": "Gwine\u00fda-Bisau"
+    },
+    "GY": {
+        "name": "Ga\u00fdana"
+    },
+    "HK": {
+        "name": "Gonkong AAS Hyta\u00fd",
+        "short": "Gonkong"
+    },
+    "HM": {
+        "name": "Herd we Makdonald adalary"
+    },
+    "HN": {
+        "name": "Gonduras"
+    },
+    "HR": {
+        "name": "Horwati\u00fda"
+    },
+    "HT": {
+        "name": "Gaiti"
+    },
+    "HU": {
+        "name": "Wengri\u00fda"
+    },
+    "IC": {
+        "name": "Kanar adalary"
+    },
+    "ID": {
+        "name": "Indonezi\u00fda"
+    },
+    "IE": {
+        "name": "Irlandi\u00fda"
+    },
+    "IL": {
+        "name": "Ysra\u00fdyl"
+    },
+    "IM": {
+        "name": "Men adasy"
+    },
+    "IN": {
+        "name": "Hindistan"
+    },
+    "IO": {
+        "name": "Britani\u00fdany\u0148 Hindi okeanyndaky territori\u00fdalary"
+    },
+    "IQ": {
+        "name": "Yrak"
+    },
+    "IR": {
+        "name": "E\u00fdran"
+    },
+    "IS": {
+        "name": "Islandi\u00fda"
+    },
+    "IT": {
+        "name": "Itali\u00fda"
+    },
+    "JE": {
+        "name": "Jersi"
+    },
+    "JM": {
+        "name": "\u00ddama\u00fdka"
+    },
+    "JO": {
+        "name": "Iordani\u00fda"
+    },
+    "JP": {
+        "name": "\u00ddaponi\u00fda"
+    },
+    "KE": {
+        "name": "Keni\u00fda"
+    },
+    "KG": {
+        "name": "Gyrgyzystan"
+    },
+    "KH": {
+        "name": "Kamboja"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Komor adalary"
+    },
+    "KN": {
+        "name": "Sent-Kits we Newis"
+    },
+    "KP": {
+        "name": "Demirgazyk Kore\u00fda"
+    },
+    "KR": {
+        "name": "G\u00fcnorta Kore\u00fda"
+    },
+    "KW": {
+        "name": "Kuwe\u00fdt"
+    },
+    "KY": {
+        "name": "Ka\u00fdman adalary"
+    },
+    "KZ": {
+        "name": "Gazagystan"
+    },
+    "LA": {
+        "name": "Laos"
+    },
+    "LB": {
+        "name": "Liwan"
+    },
+    "LC": {
+        "name": "Sent-L\u00fdusi\u00fda"
+    },
+    "LI": {
+        "name": "Lihten\u015fte\u00fdn"
+    },
+    "LK": {
+        "name": "\u015eri-Lanka"
+    },
+    "LR": {
+        "name": "Liberi\u00fda"
+    },
+    "LS": {
+        "name": "Lesoto"
+    },
+    "LT": {
+        "name": "Litwa"
+    },
+    "LU": {
+        "name": "L\u00fduksemburg"
+    },
+    "LV": {
+        "name": "Latwi\u00fda"
+    },
+    "LY": {
+        "name": "Liwi\u00fda"
+    },
+    "MA": {
+        "name": "Marokko"
+    },
+    "MC": {
+        "name": "Monako"
+    },
+    "MD": {
+        "name": "Moldowa"
+    },
+    "ME": {
+        "name": "Montenegro"
+    },
+    "MF": {
+        "name": "Sen-Marten"
+    },
+    "MG": {
+        "name": "Madagaskar"
+    },
+    "MH": {
+        "name": "Mar\u015fall adalary"
+    },
+    "MK": {
+        "name": "Demirgazyk Makedoni\u00fda"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "M\u00fdanma (Burma)"
+    },
+    "MN": {
+        "name": "Mongoli\u00fda"
+    },
+    "MO": {
+        "name": "Makau AAS Hyta\u00fd",
+        "short": "Makao"
+    },
+    "MP": {
+        "name": "Demirgazyk Mariana adalary"
+    },
+    "MQ": {
+        "name": "Martinika"
+    },
+    "MR": {
+        "name": "Mawritani\u00fda"
+    },
+    "MS": {
+        "name": "Monserrat"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Mawriki\u00fd"
+    },
+    "MV": {
+        "name": "Maldiwler"
+    },
+    "MW": {
+        "name": "Malawi"
+    },
+    "MX": {
+        "name": "Meksika"
+    },
+    "MY": {
+        "name": "Mala\u00fdzi\u00fda"
+    },
+    "MZ": {
+        "name": "Mozambik"
+    },
+    "NA": {
+        "name": "Namibi\u00fda"
+    },
+    "NC": {
+        "name": "T\u00e4ze Kaledoni\u00fda"
+    },
+    "NE": {
+        "name": "Niger"
+    },
+    "NF": {
+        "name": "Norfolk adasy"
+    },
+    "NG": {
+        "name": "Nigeri\u00fda"
+    },
+    "NI": {
+        "name": "Nikaragua"
+    },
+    "NL": {
+        "name": "Niderlandlar"
+    },
+    "NO": {
+        "name": "Norwegi\u00fda"
+    },
+    "NP": {
+        "name": "Nepal"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "T\u00e4ze Zelandi\u00fda"
+    },
+    "OM": {
+        "name": "Oman"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Peru"
+    },
+    "PF": {
+        "name": "Fransuz Polinezi\u00fdasy"
+    },
+    "PG": {
+        "name": "Papua - T\u00e4ze Gwine\u00fda"
+    },
+    "PH": {
+        "name": "Filippinler"
+    },
+    "PK": {
+        "name": "Pakistan"
+    },
+    "PL": {
+        "name": "Pol\u015fa"
+    },
+    "PM": {
+        "name": "Sen-P\u00fder we Mikelon"
+    },
+    "PN": {
+        "name": "Pitkern adalary"
+    },
+    "PR": {
+        "name": "Puerto-Riko"
+    },
+    "PS": {
+        "name": "Palestina territori\u00fdasy",
+        "short": "Palestina"
+    },
+    "PT": {
+        "name": "Portugali\u00fda"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "Paragwa\u00fd"
+    },
+    "QA": {
+        "name": "Katar"
+    },
+    "QO": {
+        "name": "Da\u015fky Okeani\u00fda"
+    },
+    "RE": {
+        "name": "Re\u00fdun\u00fdon"
+    },
+    "RO": {
+        "name": "Rumyni\u00fda"
+    },
+    "RS": {
+        "name": "Serbi\u00fda"
+    },
+    "RU": {
+        "name": "Russi\u00fda"
+    },
+    "RW": {
+        "name": "Ruanda"
+    },
+    "SA": {
+        "name": "Saud Arabystany"
+    },
+    "SB": {
+        "name": "Solomon adalary"
+    },
+    "SC": {
+        "name": "Se\u00fd\u015fel adalary"
+    },
+    "SD": {
+        "name": "Sudan"
+    },
+    "SE": {
+        "name": "\u015ewesi\u00fda"
+    },
+    "SG": {
+        "name": "Singapur"
+    },
+    "SH": {
+        "name": "Keramatly \u00ddelena adasy"
+    },
+    "SI": {
+        "name": "Sloweni\u00fda"
+    },
+    "SJ": {
+        "name": "\u015episbergen we \u00ddan-Ma\u00fden"
+    },
+    "SK": {
+        "name": "Slowaki\u00fda"
+    },
+    "SL": {
+        "name": "S\u00fderra-Leone"
+    },
+    "SM": {
+        "name": "San-Marino"
+    },
+    "SN": {
+        "name": "Senegal"
+    },
+    "SO": {
+        "name": "Somali"
+    },
+    "SR": {
+        "name": "Surinam"
+    },
+    "SS": {
+        "name": "G\u00fcnorta Sudan"
+    },
+    "ST": {
+        "name": "San-Tome we Prinsipi"
+    },
+    "SV": {
+        "name": "Salwador"
+    },
+    "SX": {
+        "name": "Sint-Marten"
+    },
+    "SY": {
+        "name": "Siri\u00fda"
+    },
+    "SZ": {
+        "name": "Eswatini",
+        "variant": "Swazilend"
+    },
+    "TA": {
+        "name": "Tristan-da-Kun\u00fda"
+    },
+    "TC": {
+        "name": "Terks we Ka\u00fdkos adalary"
+    },
+    "TD": {
+        "name": "\u00c7ad"
+    },
+    "TF": {
+        "name": "Fransuz g\u00fcnorta territori\u00fdalary"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "Ta\u00fdland"
+    },
+    "TJ": {
+        "name": "T\u00e4jigistan"
+    },
+    "TK": {
+        "name": "Tokelau"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "variant": "G\u00fcndogar Timor"
+    },
+    "TM": {
+        "name": "T\u00fcrkmenistan"
+    },
+    "TN": {
+        "name": "Tunis"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "T\u00fcrki\u00fde"
+    },
+    "TT": {
+        "name": "Trinidad we Tobago"
+    },
+    "TV": {
+        "name": "Tuwalu"
+    },
+    "TW": {
+        "name": "Ta\u00fdwan"
+    },
+    "TZ": {
+        "name": "Tanzani\u00fda"
+    },
+    "UA": {
+        "name": "Ukraina"
+    },
+    "UG": {
+        "name": "Uganda"
+    },
+    "UM": {
+        "name": "AB\u015e-ny\u0148 da\u015farky adalary"
+    },
+    "UN": {
+        "name": "Birle\u015fen Milletler Guramasy"
+    },
+    "US": {
+        "name": "Amerikany\u0148 Birle\u015fen \u015etatlary",
+        "short": "AB\u015e"
+    },
+    "UY": {
+        "name": "Urugwa\u00fd"
+    },
+    "UZ": {
+        "name": "\u00d6zbegistan"
+    },
+    "VA": {
+        "name": "Watikan"
+    },
+    "VC": {
+        "name": "Sent-Winsent we Grenadinler"
+    },
+    "VE": {
+        "name": "Wenesuela"
+    },
+    "VG": {
+        "name": "Britan Wirgin adalary"
+    },
+    "VI": {
+        "name": "AB\u015e-ny\u0148 Wirgin adalary"
+    },
+    "VN": {
+        "name": "W\u00fdetnam"
+    },
+    "VU": {
+        "name": "Wanuatu"
+    },
+    "WF": {
+        "name": "Uollis we Futuna"
+    },
+    "WS": {
+        "name": "Samoa"
+    },
+    "XA": {
+        "name": "psewdo-\u015fiweler"
+    },
+    "XB": {
+        "name": "psewdo-bidi"
+    },
+    "XK": {
+        "name": "Kosowo"
+    },
+    "YE": {
+        "name": "\u00ddemen"
+    },
+    "YT": {
+        "name": "Ma\u00fdotta"
+    },
+    "ZA": {
+        "name": "G\u00fcnorta Afrika"
+    },
+    "ZM": {
+        "name": "Zambi\u00fda"
+    },
+    "ZW": {
+        "name": "Zimbabwe"
+    },
+    "ZZ": {
+        "name": "N\u00e4belli sebit"
+    }
+}

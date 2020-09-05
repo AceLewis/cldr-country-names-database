@@ -1,0 +1,35 @@
+{
+    "BR": {
+        "name": "Brasil"
+    },
+    "CN": {
+        "name": "Tiongkok"
+    },
+    "DE": {
+        "name": "J\u00e9rman"
+    },
+    "FR": {
+        "name": "Prancis"
+    },
+    "GB": {
+        "name": "Inggris Raya"
+    },
+    "IN": {
+        "name": "India"
+    },
+    "IT": {
+        "name": "Italia"
+    },
+    "JP": {
+        "name": "Jepang"
+    },
+    "RU": {
+        "name": "Rusia"
+    },
+    "US": {
+        "name": "Am\u00e9rika Sarikat"
+    },
+    "ZZ": {
+        "name": "Wilayah Teu Dipikaterang"
+    }
+}

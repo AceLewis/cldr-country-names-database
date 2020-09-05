@@ -1,0 +1,891 @@
+{
+    "001": {
+        "name": "Uwa"
+    },
+    "002": {
+        "name": "Afrika"
+    },
+    "003": {
+        "name": "Mpaghara Ugwu Amer\u1ecbka"
+    },
+    "005": {
+        "name": "Mpaghara Mgbada Ugwu America"
+    },
+    "009": {
+        "name": "Oceania"
+    },
+    "011": {
+        "name": "Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Afr\u1ecbka"
+    },
+    "013": {
+        "name": "Etiti America"
+    },
+    "014": {
+        "name": "Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Afr\u1ecbka"
+    },
+    "015": {
+        "name": "Mpaghara Ugwu Afr\u1ecbka"
+    },
+    "017": {
+        "name": "Etiti Afr\u1ecbka"
+    },
+    "018": {
+        "name": "Mpaghara Mgbada Ugwu Afr\u1ecbka"
+    },
+    "019": {
+        "name": "Amer\u1ecbka"
+    },
+    "021": {
+        "name": "Mpaghara Ugwu America"
+    },
+    "029": {
+        "name": "Onye Carrabean"
+    },
+    "030": {
+        "name": "Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Asia"
+    },
+    "034": {
+        "name": "Mpaghara Mgbada Ugwu Asia"
+    },
+    "035": {
+        "name": "Mpaghara Mgbada Ugwu Asia d\u1ecb na \u1eccw\u1ee5wa Anyanw\u1ee5"
+    },
+    "039": {
+        "name": "Mpaghara Mgbada Ugwu Europe"
+    },
+    "053": {
+        "name": "Australasia"
+    },
+    "054": {
+        "name": "Melanesia"
+    },
+    "057": {
+        "name": "Mpaghara Micronesian"
+    },
+    "061": {
+        "name": "Polynesia"
+    },
+    "142": {
+        "name": "Asia"
+    },
+    "143": {
+        "name": "Etiti Asia"
+    },
+    "145": {
+        "name": "Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Asia"
+    },
+    "150": {
+        "name": "Europe"
+    },
+    "151": {
+        "name": "Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Europe"
+    },
+    "154": {
+        "name": "Mpaghara Ugwu Europe"
+    },
+    "155": {
+        "name": "Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Europe"
+    },
+    "202": {
+        "name": "Sub-Saharan Afr\u1ecbka"
+    },
+    "419": {
+        "name": "Latin America"
+    },
+    "AC": {
+        "name": "Ascension Island"
+    },
+    "AD": {
+        "name": "Andorra"
+    },
+    "AE": {
+        "name": "Obodo United Arab Emirates"
+    },
+    "AF": {
+        "name": "Mba Afghanistan"
+    },
+    "AG": {
+        "name": "Antigua & Barbuda"
+    },
+    "AI": {
+        "name": "Anguilla"
+    },
+    "AL": {
+        "name": "Albania"
+    },
+    "AM": {
+        "name": "Obodo Armenia"
+    },
+    "AO": {
+        "name": "Angola"
+    },
+    "AQ": {
+        "name": "Antarctica"
+    },
+    "AR": {
+        "name": "Argentina"
+    },
+    "AS": {
+        "name": "American Samoa"
+    },
+    "AT": {
+        "name": "Austria"
+    },
+    "AU": {
+        "name": "Australia"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Agwaetiti Aland"
+    },
+    "AZ": {
+        "name": "Obodo Azerbaijan"
+    },
+    "BA": {
+        "name": "Bosnia & Herzegovina"
+    },
+    "BB": {
+        "name": "Barbados"
+    },
+    "BD": {
+        "name": "Obodo Bangladesh"
+    },
+    "BE": {
+        "name": "Belgium"
+    },
+    "BF": {
+        "name": "Burkina Faso"
+    },
+    "BG": {
+        "name": "Bulgaria"
+    },
+    "BH": {
+        "name": "Obodo Bahrain"
+    },
+    "BI": {
+        "name": "Burundi"
+    },
+    "BJ": {
+        "name": "Binin"
+    },
+    "BL": {
+        "name": "St. Barth\u00e9lemy"
+    },
+    "BM": {
+        "name": "Bemuda"
+    },
+    "BN": {
+        "name": "Brunei"
+    },
+    "BO": {
+        "name": "Bolivia"
+    },
+    "BQ": {
+        "name": "Caribbean Netherlands"
+    },
+    "BR": {
+        "name": "Mba Brazil"
+    },
+    "BS": {
+        "name": "Bahamas"
+    },
+    "BT": {
+        "name": "Obodo Bhutan"
+    },
+    "BV": {
+        "name": "Agwaetiti Bouvet"
+    },
+    "BW": {
+        "name": "Botswana"
+    },
+    "BY": {
+        "name": "Belarus"
+    },
+    "BZ": {
+        "name": "Belize"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CC": {
+        "name": "Agwaetiti Cocos (Keeling)"
+    },
+    "CD": {
+        "name": "Congo - Kinshasa",
+        "variant": "Congo (DRC)"
+    },
+    "CF": {
+        "name": "Central African Republik"
+    },
+    "CG": {
+        "name": "Congo",
+        "variant": "Congo (Republik)"
+    },
+    "CH": {
+        "name": "Switzerland"
+    },
+    "CI": {
+        "name": "C\u00f4te d\u2019Ivoire",
+        "variant": "Ivory Coast"
+    },
+    "CK": {
+        "name": "Agwaetiti Cook"
+    },
+    "CL": {
+        "name": "Chile"
+    },
+    "CM": {
+        "name": "Cameroon"
+    },
+    "CN": {
+        "name": "Mba China"
+    },
+    "CO": {
+        "name": "Colombia"
+    },
+    "CP": {
+        "name": "Agwaetiti Clipperton"
+    },
+    "CR": {
+        "name": "Kosta Rika"
+    },
+    "CU": {
+        "name": "Cuba"
+    },
+    "CV": {
+        "name": "Cape Verde"
+    },
+    "CW": {
+        "name": "Kurakao"
+    },
+    "CX": {
+        "name": "Agwaetiti Christmas"
+    },
+    "CY": {
+        "name": "Obodo Cyprus"
+    },
+    "CZ": {
+        "name": "Czechia",
+        "variant": "Czech Republik"
+    },
+    "DE": {
+        "name": "Mba Germany"
+    },
+    "DG": {
+        "name": "Diego Garcia"
+    },
+    "DJ": {
+        "name": "Djibouti"
+    },
+    "DK": {
+        "name": "Denmark"
+    },
+    "DM": {
+        "name": "Dominika"
+    },
+    "DO": {
+        "name": "Dominican Republik"
+    },
+    "DZ": {
+        "name": "Algeria"
+    },
+    "EA": {
+        "name": "Ceuta & Melilla"
+    },
+    "EC": {
+        "name": "Ecuador"
+    },
+    "EE": {
+        "name": "Estonia"
+    },
+    "EG": {
+        "name": "Egypt"
+    },
+    "EH": {
+        "name": "\u1eccd\u1ecbda Anyanw\u1ee5 Sahara"
+    },
+    "ER": {
+        "name": "Eritrea"
+    },
+    "ES": {
+        "name": "Spain"
+    },
+    "ET": {
+        "name": "Ethiopia"
+    },
+    "EU": {
+        "name": "Otu nzuk\u1ecd mba Europe"
+    },
+    "EZ": {
+        "name": "Gburugburu Euro"
+    },
+    "FI": {
+        "name": "Finland"
+    },
+    "FJ": {
+        "name": "Fiji"
+    },
+    "FK": {
+        "name": "Agwaetiti Falkland"
+    },
+    "FM": {
+        "name": "Micronesia"
+    },
+    "FO": {
+        "name": "Agwaetiti Faroe"
+    },
+    "FR": {
+        "name": "Mba France"
+    },
+    "GA": {
+        "name": "Gabon"
+    },
+    "GB": {
+        "name": "Mba United Kingdom",
+        "short": "UK"
+    },
+    "GD": {
+        "name": "Grenada"
+    },
+    "GE": {
+        "name": "Obodo Georgia"
+    },
+    "GF": {
+        "name": "Frenchi Guiana"
+    },
+    "GG": {
+        "name": "Guernsey"
+    },
+    "GH": {
+        "name": "Ghana"
+    },
+    "GI": {
+        "name": "Gibraltar"
+    },
+    "GL": {
+        "name": "Greenland"
+    },
+    "GM": {
+        "name": "Gambia"
+    },
+    "GN": {
+        "name": "Guinea"
+    },
+    "GP": {
+        "name": "Guadeloupe"
+    },
+    "GQ": {
+        "name": "Equatorial Guinea"
+    },
+    "GR": {
+        "name": "Greece"
+    },
+    "GS": {
+        "name": "South Georgia na Agwaetiti South Sandwich"
+    },
+    "GT": {
+        "name": "Guatemala"
+    },
+    "GU": {
+        "name": "Guam"
+    },
+    "GW": {
+        "name": "Guinea-Bissau"
+    },
+    "GY": {
+        "name": "Guyana"
+    },
+    "HK": {
+        "name": "Honk Kong mba nwere ndozi p\u1ee5r\u1ee5 iche n\u2019obodo China"
+    },
+    "HM": {
+        "name": "Agwaetiti Heard na Agwaetiti McDonald"
+    },
+    "HN": {
+        "name": "Honduras"
+    },
+    "HR": {
+        "name": "Croatia"
+    },
+    "HT": {
+        "name": "Hati"
+    },
+    "HU": {
+        "name": "Hungary"
+    },
+    "IC": {
+        "name": "Agwaetiti Kanar\u1ecb"
+    },
+    "ID": {
+        "name": "Indonesia"
+    },
+    "IE": {
+        "name": "Ireland"
+    },
+    "IL": {
+        "name": "Obodo Israel"
+    },
+    "IM": {
+        "name": "Isle of Man"
+    },
+    "IN": {
+        "name": "Mba India"
+    },
+    "IO": {
+        "name": "British Indian Ocean Territory"
+    },
+    "IQ": {
+        "name": "Obodo Iraq"
+    },
+    "IR": {
+        "name": "Obodo Iran"
+    },
+    "IS": {
+        "name": "Iceland"
+    },
+    "IT": {
+        "name": "Mba Italy"
+    },
+    "JE": {
+        "name": "Jersey"
+    },
+    "JM": {
+        "name": "Jamaika"
+    },
+    "JO": {
+        "name": "Obodo Jordan"
+    },
+    "JP": {
+        "name": "Mba Japan"
+    },
+    "KE": {
+        "name": "Kenya"
+    },
+    "KG": {
+        "name": "Obodo Kyrgyzstan"
+    },
+    "KH": {
+        "name": "Cambodia"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Comorosu"
+    },
+    "KN": {
+        "name": "St. Kitts & Nevis"
+    },
+    "KP": {
+        "name": "Mba Ugwu Korea"
+    },
+    "KR": {
+        "name": "Mba South Korea"
+    },
+    "KW": {
+        "name": "Obodo Kuwait"
+    },
+    "KY": {
+        "name": "Agwaetiti Cayman"
+    },
+    "KZ": {
+        "name": "Obodo Kazakhstan"
+    },
+    "LA": {
+        "name": "Laos"
+    },
+    "LB": {
+        "name": "Obodo Lebanon"
+    },
+    "LC": {
+        "name": "St. Lucia"
+    },
+    "LI": {
+        "name": "Liechtenstein"
+    },
+    "LK": {
+        "name": "Obodo Sri Lanka"
+    },
+    "LR": {
+        "name": "Liberia"
+    },
+    "LS": {
+        "name": "Lesotho"
+    },
+    "LT": {
+        "name": "Lithuania"
+    },
+    "LU": {
+        "name": "Luxembourg"
+    },
+    "LV": {
+        "name": "Latvia"
+    },
+    "LY": {
+        "name": "Libyia"
+    },
+    "MA": {
+        "name": "Morocco"
+    },
+    "MC": {
+        "name": "Monaco"
+    },
+    "MD": {
+        "name": "Moldova"
+    },
+    "ME": {
+        "name": "Montenegro"
+    },
+    "MF": {
+        "name": "St. Martin"
+    },
+    "MG": {
+        "name": "Madagaskar"
+    },
+    "MH": {
+        "name": "Agwaetiti Marshall"
+    },
+    "MK": {
+        "name": "North Macedonia"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Myanmar (Burma)"
+    },
+    "MN": {
+        "name": "Obodo Mongolia"
+    },
+    "MO": {
+        "name": "Obodo Macao nwere ndozi p\u1ee5r\u1ee5 iche na mba China"
+    },
+    "MP": {
+        "name": "Agwaetiti Northern Mariana"
+    },
+    "MQ": {
+        "name": "Martinique"
+    },
+    "MR": {
+        "name": "Mauritania"
+    },
+    "MS": {
+        "name": "Montserrat"
+    },
+    "MT": {
+        "name": "Malta"
+    },
+    "MU": {
+        "name": "Mauritius"
+    },
+    "MV": {
+        "name": "Maldivesa"
+    },
+    "MW": {
+        "name": "Malawi"
+    },
+    "MX": {
+        "name": "Mexico"
+    },
+    "MY": {
+        "name": "Malaysia"
+    },
+    "MZ": {
+        "name": "Mozambik"
+    },
+    "NA": {
+        "name": "Namibia"
+    },
+    "NC": {
+        "name": "New Caledonia"
+    },
+    "NE": {
+        "name": "Niger"
+    },
+    "NF": {
+        "name": "Agwaetiti Norfolk"
+    },
+    "NG": {
+        "name": "Na\u1ecbj\u1ecbr\u1ecba"
+    },
+    "NI": {
+        "name": "Nicaragua"
+    },
+    "NL": {
+        "name": "Netherlands"
+    },
+    "NO": {
+        "name": "Norway"
+    },
+    "NP": {
+        "name": "Obodo Nepal"
+    },
+    "NR": {
+        "name": "Nauru"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "New Zealand"
+    },
+    "OM": {
+        "name": "Obodo Oman"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Peru"
+    },
+    "PF": {
+        "name": "Frenchi Polynesia"
+    },
+    "PG": {
+        "name": "Papua New Guinea"
+    },
+    "PH": {
+        "name": "Philippines"
+    },
+    "PK": {
+        "name": "Obodo Pakistan"
+    },
+    "PL": {
+        "name": "Poland"
+    },
+    "PM": {
+        "name": "St. Pierre & Miquelon"
+    },
+    "PN": {
+        "name": "Agwaetiti Pitcairn"
+    },
+    "PR": {
+        "name": "Puerto Rico"
+    },
+    "PS": {
+        "name": "Obodo d\u1ecb iche iche d\u1ecb n\u2019okpuru mba Palestine"
+    },
+    "PT": {
+        "name": "Portugal"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "Paraguay"
+    },
+    "QA": {
+        "name": "Obodo Qatar"
+    },
+    "QO": {
+        "name": "Outlying Oceania"
+    },
+    "RE": {
+        "name": "R\u00e9union"
+    },
+    "RO": {
+        "name": "Romania"
+    },
+    "RS": {
+        "name": "Serbia"
+    },
+    "RU": {
+        "name": "Mba Russia"
+    },
+    "RW": {
+        "name": "Rwanda"
+    },
+    "SA": {
+        "name": "Obodo Saudi Arabia"
+    },
+    "SB": {
+        "name": "Agwaetiti Solomon"
+    },
+    "SC": {
+        "name": "Seychelles"
+    },
+    "SD": {
+        "name": "Sudan"
+    },
+    "SE": {
+        "name": "Sweden"
+    },
+    "SG": {
+        "name": "Singapore"
+    },
+    "SH": {
+        "name": "St. Helena"
+    },
+    "SI": {
+        "name": "Slovenia"
+    },
+    "SJ": {
+        "name": "Svalbard & Jan Mayen"
+    },
+    "SK": {
+        "name": "Slovakia"
+    },
+    "SL": {
+        "name": "Sierra Leone"
+    },
+    "SM": {
+        "name": "San Marino"
+    },
+    "SN": {
+        "name": "Senegal"
+    },
+    "SO": {
+        "name": "Somalia"
+    },
+    "SR": {
+        "name": "Suriname"
+    },
+    "SS": {
+        "name": "South Sudan"
+    },
+    "ST": {
+        "name": "S\u00e3o Tom\u00e9 & Pr\u00edncipe"
+    },
+    "SV": {
+        "name": "El Salvador"
+    },
+    "SX": {
+        "name": "Sint Maarten"
+    },
+    "SY": {
+        "name": "Obodo Syria"
+    },
+    "SZ": {
+        "name": "Eswatini",
+        "variant": "Swaziland"
+    },
+    "TA": {
+        "name": "Tristan da Cunha"
+    },
+    "TC": {
+        "name": "Agwaetiti Turks na Caicos"
+    },
+    "TD": {
+        "name": "Chad"
+    },
+    "TF": {
+        "name": "\u1ee4m\u1ee5 ngalaba Frenchi Southern"
+    },
+    "TG": {
+        "name": "Togo"
+    },
+    "TH": {
+        "name": "Thailand"
+    },
+    "TJ": {
+        "name": "Obodo Tajikistan"
+    },
+    "TK": {
+        "name": "Tokelau"
+    },
+    "TL": {
+        "name": "Timor-Leste",
+        "variant": "East Timor"
+    },
+    "TM": {
+        "name": "Obodo Turkmenistan"
+    },
+    "TN": {
+        "name": "Tunisia"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "Obodo Turkey"
+    },
+    "TT": {
+        "name": "Trinidad & Tobago"
+    },
+    "TV": {
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "name": "Obodo Taiwan"
+    },
+    "TZ": {
+        "name": "Tanzania"
+    },
+    "UA": {
+        "name": "Ukraine"
+    },
+    "UG": {
+        "name": "Uganda"
+    },
+    "UM": {
+        "name": "Obere Agwaetiti D\u1ecb Na Mp\u1ee5ga U.S"
+    },
+    "UN": {
+        "name": "Mba \u1ee4wa Jik\u1ecdr\u1ecd \u1eccn\u1ee5"
+    },
+    "US": {
+        "name": "Mba United States"
+    },
+    "UY": {
+        "name": "Uruguay"
+    },
+    "UZ": {
+        "name": "Obodo Uzbekistan"
+    },
+    "VA": {
+        "name": "Vatican City"
+    },
+    "VC": {
+        "name": "St. Vincent & Grenadines"
+    },
+    "VE": {
+        "name": "Venezuela"
+    },
+    "VG": {
+        "name": "Agwaetiti British Virgin"
+    },
+    "VI": {
+        "name": "Agwaetiti Virgin nke US"
+    },
+    "VN": {
+        "name": "Vietnam"
+    },
+    "VU": {
+        "name": "Vanuatu"
+    },
+    "WF": {
+        "name": "Wallis & Futuna"
+    },
+    "WS": {
+        "name": "Samoa"
+    },
+    "XA": {
+        "name": "Pseudo-Accents"
+    },
+    "XB": {
+        "name": "Pseudo-Bidi"
+    },
+    "XK": {
+        "name": "Kosovo"
+    },
+    "YE": {
+        "name": "Obodo Yemen"
+    },
+    "YT": {
+        "name": "Mayotte"
+    },
+    "ZA": {
+        "name": "South Africa"
+    },
+    "ZM": {
+        "name": "Zambia"
+    },
+    "ZW": {
+        "name": "Zimbabwe"
+    },
+    "ZZ": {
+        "name": "Mpaghara Amagh\u1ecb"
+    }
+}

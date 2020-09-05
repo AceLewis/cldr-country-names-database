@@ -1,0 +1,883 @@
+{
+    "001": {
+        "name": "Ama\u1e0dal"
+    },
+    "002": {
+        "name": "Tafriqt"
+    },
+    "003": {
+        "name": "Tamrikt n ugafa"
+    },
+    "005": {
+        "name": "Tamrikt n un\u1e93ul"
+    },
+    "009": {
+        "name": "Usyanya"
+    },
+    "011": {
+        "name": "Tafriqt n umalu"
+    },
+    "013": {
+        "name": "Tamrikt Talemmast"
+    },
+    "014": {
+        "name": "Tafriqt n usammar"
+    },
+    "015": {
+        "name": "Tafriqt n ugafa"
+    },
+    "017": {
+        "name": "Tafriqt talemmast"
+    },
+    "018": {
+        "name": "Tafriqt n un\u1e93ul"
+    },
+    "019": {
+        "name": "Timrikin"
+    },
+    "021": {
+        "name": "Tamrikt Tagafayent"
+    },
+    "029": {
+        "name": "Ka\u1e5bayib"
+    },
+    "030": {
+        "name": "Asya n usammar"
+    },
+    "034": {
+        "name": "Asya n un\u1e93ul"
+    },
+    "035": {
+        "name": "Asya n un\u1e93ul asammar"
+    },
+    "039": {
+        "name": "Turuft n un\u1e93ul"
+    },
+    "053": {
+        "name": "Ust\u1e5basya"
+    },
+    "054": {
+        "name": "Milanizya"
+    },
+    "057": {
+        "name": "Tamna\u1e0dt n Mik\u1e5bunizya"
+    },
+    "061": {
+        "name": "Pulinizya"
+    },
+    "142": {
+        "name": "Asya"
+    },
+    "143": {
+        "name": "Asya talemmast"
+    },
+    "145": {
+        "name": "Asya n umalu"
+    },
+    "150": {
+        "name": "Turuft"
+    },
+    "151": {
+        "name": "Turuft n usammar"
+    },
+    "154": {
+        "name": "Turuft n ugafa"
+    },
+    "155": {
+        "name": "Turuft n umalu"
+    },
+    "419": {
+        "name": "Tamrikt tala\u1e6dinit"
+    },
+    "AC": {
+        "name": "Tigzirt n A\u1e63unsyun"
+    },
+    "AD": {
+        "name": "Undura"
+    },
+    "AE": {
+        "name": "Tigeldunin Yedduklen Ta\u025brabin"
+    },
+    "AF": {
+        "name": "Af\u0263anistan"
+    },
+    "AG": {
+        "name": "Untiga d Barbuda"
+    },
+    "AI": {
+        "name": "Ungiya"
+    },
+    "AL": {
+        "name": "Lalbani"
+    },
+    "AM": {
+        "name": "Arminya"
+    },
+    "AO": {
+        "name": "Ungula"
+    },
+    "AQ": {
+        "name": "Anta\u1e5bktik"
+    },
+    "AR": {
+        "name": "Arjuntin"
+    },
+    "AS": {
+        "name": "Samwa Tamarikanit"
+    },
+    "AT": {
+        "name": "Ustriya"
+    },
+    "AU": {
+        "name": "Ustrali"
+    },
+    "AW": {
+        "name": "Aruba"
+    },
+    "AX": {
+        "name": "Tigzirin n Aland"
+    },
+    "AZ": {
+        "name": "Azrabijan"
+    },
+    "BA": {
+        "name": "Busna d Hersek"
+    },
+    "BB": {
+        "name": "Barbadus"
+    },
+    "BD": {
+        "name": "Bangladac"
+    },
+    "BE": {
+        "name": "Bel\u01e7ik"
+    },
+    "BF": {
+        "name": "Burkina Fasu"
+    },
+    "BG": {
+        "name": "Bulgari"
+    },
+    "BH": {
+        "name": "Ba\u1e25rin"
+    },
+    "BI": {
+        "name": "Burandi"
+    },
+    "BJ": {
+        "name": "Binin"
+    },
+    "BL": {
+        "name": "Sant Ba\u1e5btilimi"
+    },
+    "BM": {
+        "name": "Bermuda"
+    },
+    "BN": {
+        "name": "Bruney"
+    },
+    "BO": {
+        "name": "Bulivi"
+    },
+    "BQ": {
+        "name": "Huland n Ka\u1e5bayib"
+    },
+    "BR": {
+        "name": "Brizil"
+    },
+    "BS": {
+        "name": "Bahamas"
+    },
+    "BT": {
+        "name": "Bhutan"
+    },
+    "BV": {
+        "name": "Tigzirin n Buvet"
+    },
+    "BW": {
+        "name": "Bustwana"
+    },
+    "BY": {
+        "name": "Bilarus"
+    },
+    "BZ": {
+        "name": "Biliz"
+    },
+    "CA": {
+        "name": "Kanada"
+    },
+    "CC": {
+        "name": "Tigzirin n Kukus"
+    },
+    "CD": {
+        "name": "Tigduda Tagdudant n Kungu",
+        "variant": "Tagduda Tamegdayt n Kungu"
+    },
+    "CF": {
+        "name": "Tigduda n Tefriqt Talemmast"
+    },
+    "CG": {
+        "name": "Kungu",
+        "variant": "Kungu (Tagduda)"
+    },
+    "CH": {
+        "name": "Swis"
+    },
+    "CI": {
+        "name": "Ku\u1e6d Divwar",
+        "variant": "Ku\u1e6d-D-Ivwa\u1e5b - 2 -"
+    },
+    "CK": {
+        "name": "Tigzirin n Kuk"
+    },
+    "CL": {
+        "name": "Cili"
+    },
+    "CM": {
+        "name": "Kamirun"
+    },
+    "CN": {
+        "name": "Lacin"
+    },
+    "CO": {
+        "name": "Kulumbi"
+    },
+    "CP": {
+        "name": "Tigzirt n Klipir\u1e6dun"
+    },
+    "CR": {
+        "name": "Kusta Rika"
+    },
+    "CU": {
+        "name": "Kuba"
+    },
+    "CV": {
+        "name": "Tigzirin n yixef azegzaw"
+    },
+    "CW": {
+        "name": "Ku\u1e5ba\u1e63aw"
+    },
+    "CX": {
+        "name": "Tigzrin n Kristma\u1e63"
+    },
+    "CY": {
+        "name": "Cipr"
+    },
+    "CZ": {
+        "name": "\u010c\u010dek",
+        "variant": "Tagduda n \u010cik"
+    },
+    "DE": {
+        "name": "Lalman"
+    },
+    "DG": {
+        "name": "Digu Ga\u1e5bsya"
+    },
+    "DJ": {
+        "name": "\u01e6ibuti"
+    },
+    "DK": {
+        "name": "Denmark"
+    },
+    "DM": {
+        "name": "Duminik"
+    },
+    "DO": {
+        "name": "Tigduda Taduminikit"
+    },
+    "DZ": {
+        "name": "Lezzayer"
+    },
+    "EA": {
+        "name": "Sebta d Melilla"
+    },
+    "EC": {
+        "name": "Ikwa\u1e6dur"
+    },
+    "EE": {
+        "name": "Istunya"
+    },
+    "EG": {
+        "name": "Ma\u1e63r"
+    },
+    "EH": {
+        "name": "Se\u1e25ra n umalu"
+    },
+    "ER": {
+        "name": "Iritiria"
+    },
+    "ES": {
+        "name": "Spanya"
+    },
+    "ET": {
+        "name": "Utyupi"
+    },
+    "EU": {
+        "name": "Tiddukla n Turuft"
+    },
+    "EZ": {
+        "name": "Tamna\u1e0dt n Turuft"
+    },
+    "FI": {
+        "name": "Finlund"
+    },
+    "FJ": {
+        "name": "Fiji"
+    },
+    "FK": {
+        "name": "Tigzirin n Falkland",
+        "variant": "Tigzirin n Falkland (Islas Malvinas)"
+    },
+    "FM": {
+        "name": "Mikrunizya"
+    },
+    "FO": {
+        "name": "Tigzirin n Fa\u1e5bwi"
+    },
+    "FR": {
+        "name": "Fransa"
+    },
+    "GA": {
+        "name": "Gabun"
+    },
+    "GB": {
+        "name": "Tagelda Yedduklen",
+        "short": "Tag.Yed"
+    },
+    "GD": {
+        "name": "Grunad"
+    },
+    "GE": {
+        "name": "Jiyurji"
+    },
+    "GF": {
+        "name": "\u0194ana tafransist"
+    },
+    "GG": {
+        "name": "Girnizi"
+    },
+    "GH": {
+        "name": "\u0194ana"
+    },
+    "GI": {
+        "name": "Jibraltar"
+    },
+    "GL": {
+        "name": "Grunland"
+    },
+    "GM": {
+        "name": "Gambya"
+    },
+    "GN": {
+        "name": "\u0194inya"
+    },
+    "GP": {
+        "name": "Gwadalupi"
+    },
+    "GQ": {
+        "name": "\u0194inya Tasebgast"
+    },
+    "GR": {
+        "name": "Lagris"
+    },
+    "GS": {
+        "name": "Tigzirin n Jyu\u1e5bjya n Unzul akked Sandwi\u010d n Un\u1e93ul"
+    },
+    "GT": {
+        "name": "Gwatimala"
+    },
+    "GU": {
+        "name": "Gwam"
+    },
+    "GW": {
+        "name": "\u0194inya-Bisaw"
+    },
+    "GY": {
+        "name": "Guwana"
+    },
+    "HK": {
+        "name": "Tamna\u1e6d Taqbu\u1e5bt Tacinwat n Hung Kung",
+        "short": "Hung Kung"
+    },
+    "HM": {
+        "name": "Tigzirin Heard akked McDonald"
+    },
+    "HN": {
+        "name": "Hunduras"
+    },
+    "HR": {
+        "name": "Kerwasya"
+    },
+    "HT": {
+        "name": "Hayti"
+    },
+    "HU": {
+        "name": "Hungri"
+    },
+    "IC": {
+        "name": "Tigzirin Tikana\u1e5biyin"
+    },
+    "ID": {
+        "name": "Indunizi"
+    },
+    "IE": {
+        "name": "Lirlund"
+    },
+    "IL": {
+        "name": "Izrayil"
+    },
+    "IM": {
+        "name": "Tigzirt n Man"
+    },
+    "IN": {
+        "name": "Lhend"
+    },
+    "IO": {
+        "name": "Akal Aglizi deg Ugaraw Ahendi"
+    },
+    "IQ": {
+        "name": "L\u025biraq"
+    },
+    "IR": {
+        "name": "Iran"
+    },
+    "IS": {
+        "name": "Island"
+    },
+    "IT": {
+        "name": "\u1e6celyan"
+    },
+    "JE": {
+        "name": "Ji\u1e5bzi"
+    },
+    "JM": {
+        "name": "Jamyika"
+    },
+    "JO": {
+        "name": "Lajurdani"
+    },
+    "JP": {
+        "name": "Jappu"
+    },
+    "KE": {
+        "name": "Kinya"
+    },
+    "KG": {
+        "name": "Kirigistan"
+    },
+    "KH": {
+        "name": "Cambudya"
+    },
+    "KI": {
+        "name": "Kiribati"
+    },
+    "KM": {
+        "name": "Kumur"
+    },
+    "KN": {
+        "name": "San Kits d Nivis"
+    },
+    "KP": {
+        "name": "Kurya, Ufella"
+    },
+    "KR": {
+        "name": "Kurya, Wadda"
+    },
+    "KW": {
+        "name": "Kuwayt"
+    },
+    "KY": {
+        "name": "Tigzirin n Kamyan"
+    },
+    "KZ": {
+        "name": "Kazaxistan"
+    },
+    "LA": {
+        "name": "Laws"
+    },
+    "LB": {
+        "name": "Lubnan"
+    },
+    "LC": {
+        "name": "San Lu\u010dya"
+    },
+    "LI": {
+        "name": "Layctenstan"
+    },
+    "LK": {
+        "name": "Sri Lanka"
+    },
+    "LR": {
+        "name": "Libirya"
+    },
+    "LS": {
+        "name": "Lizu\u1e6du"
+    },
+    "LT": {
+        "name": "Li\u1e6dwanya"
+    },
+    "LU": {
+        "name": "Luksamburg"
+    },
+    "LV": {
+        "name": "Latvia"
+    },
+    "LY": {
+        "name": "Libya"
+    },
+    "MA": {
+        "name": "Lmerruk"
+    },
+    "MC": {
+        "name": "Munaku"
+    },
+    "MD": {
+        "name": "Muldabi"
+    },
+    "ME": {
+        "name": "Muntinigru"
+    },
+    "MF": {
+        "name": "San Ma\u1e5btan"
+    },
+    "MG": {
+        "name": "Mada\u0263ecqer"
+    },
+    "MH": {
+        "name": "Tigzirin n Marcal"
+    },
+    "ML": {
+        "name": "Mali"
+    },
+    "MM": {
+        "name": "Myanmar"
+    },
+    "MN": {
+        "name": "Mungulya"
+    },
+    "MO": {
+        "name": "Tamna\u1e6d Tudbilt Tuzzigt tacenwit n Makaw",
+        "short": "Makaw"
+    },
+    "MP": {
+        "name": "Tigzirin n Maryan Ufella"
+    },
+    "MQ": {
+        "name": "Martinik"
+    },
+    "MR": {
+        "name": "Muri\u1e6danya"
+    },
+    "MS": {
+        "name": "Munsirat"
+    },
+    "MT": {
+        "name": "Mal\u1e6d"
+    },
+    "MU": {
+        "name": "Muris"
+    },
+    "MV": {
+        "name": "Maldib"
+    },
+    "MW": {
+        "name": "Malawi"
+    },
+    "MX": {
+        "name": "Meksik"
+    },
+    "MY": {
+        "name": "Malizya"
+    },
+    "MZ": {
+        "name": "Muzembiq"
+    },
+    "NA": {
+        "name": "Namibya"
+    },
+    "NC": {
+        "name": "Kalidunya Tamaynut"
+    },
+    "NE": {
+        "name": "Nijer"
+    },
+    "NF": {
+        "name": "Tigzirin Tinawfukin"
+    },
+    "NG": {
+        "name": "Nijirya"
+    },
+    "NI": {
+        "name": "Nikaragwa"
+    },
+    "NL": {
+        "name": "Timura-Yessakesren"
+    },
+    "NO": {
+        "name": "Nurvij"
+    },
+    "NP": {
+        "name": "Nipal"
+    },
+    "NR": {
+        "name": "Nuru"
+    },
+    "NU": {
+        "name": "Niwi"
+    },
+    "NZ": {
+        "name": "Ziland Tamaynut"
+    },
+    "OM": {
+        "name": "\u0190uman"
+    },
+    "PA": {
+        "name": "Panam"
+    },
+    "PE": {
+        "name": "Piru"
+    },
+    "PF": {
+        "name": "Pulunizi tafransist"
+    },
+    "PG": {
+        "name": "\u0194inya Tamaynut Tapaput"
+    },
+    "PH": {
+        "name": "Filipin"
+    },
+    "PK": {
+        "name": "Pakistan"
+    },
+    "PL": {
+        "name": "Pulund"
+    },
+    "PM": {
+        "name": "San Pyar d Miklun"
+    },
+    "PN": {
+        "name": "Pitkarin"
+    },
+    "PR": {
+        "name": "Purtu Riku"
+    },
+    "PS": {
+        "name": "Falis\u1e6din d \u0194ezza",
+        "short": "Falis\u1e6din"
+    },
+    "PT": {
+        "name": "Purtugal"
+    },
+    "PW": {
+        "name": "Palu"
+    },
+    "PY": {
+        "name": "Paragway"
+    },
+    "QA": {
+        "name": "Qa\u1e6dar"
+    },
+    "QO": {
+        "name": "Timna\u1e0din ibe\u025bden n Tusyanit"
+    },
+    "RE": {
+        "name": "Timlilit"
+    },
+    "RO": {
+        "name": "Rumani"
+    },
+    "RS": {
+        "name": "\u1e62irbya"
+    },
+    "RU": {
+        "name": "Rrus"
+    },
+    "RW": {
+        "name": "Ruwanda"
+    },
+    "SA": {
+        "name": "Su\u025budiya Ta\u025brabt"
+    },
+    "SB": {
+        "name": "Tigzirin n Sulumun"
+    },
+    "SC": {
+        "name": "Seycel"
+    },
+    "SD": {
+        "name": "Sudan"
+    },
+    "SE": {
+        "name": "Swid"
+    },
+    "SG": {
+        "name": "Singafur"
+    },
+    "SH": {
+        "name": "Sant Ilina"
+    },
+    "SI": {
+        "name": "Sluvinya"
+    },
+    "SJ": {
+        "name": "Svalvard d Jan Mayen"
+    },
+    "SK": {
+        "name": "Sluvakya"
+    },
+    "SL": {
+        "name": "Sira Lyun"
+    },
+    "SM": {
+        "name": "San Marinu"
+    },
+    "SN": {
+        "name": "Sinigal"
+    },
+    "SO": {
+        "name": "\u1e62umal"
+    },
+    "SR": {
+        "name": "Surinam"
+    },
+    "SS": {
+        "name": "Sudan n un\u1e93ul"
+    },
+    "ST": {
+        "name": "Saw Tumi d Pransip"
+    },
+    "SV": {
+        "name": "Salvadur"
+    },
+    "SX": {
+        "name": "San Ma\u1e5btan(Tamna\u1e0dt tahulandit)"
+    },
+    "SY": {
+        "name": "Surya"
+    },
+    "SZ": {
+        "name": "Swazilund"
+    },
+    "TA": {
+        "name": "Tristan da Kunha"
+    },
+    "TC": {
+        "name": "\u1e6curk d Tegzirin n Kaykus"
+    },
+    "TD": {
+        "name": "\u010cad"
+    },
+    "TF": {
+        "name": "Timura n umalu tif\u1e5bansisiyin"
+    },
+    "TG": {
+        "name": "\u1e6cugu"
+    },
+    "TH": {
+        "name": "\u1e6cayland"
+    },
+    "TJ": {
+        "name": "Tajikistan"
+    },
+    "TK": {
+        "name": "\u1e6cuklu"
+    },
+    "TL": {
+        "name": "Tumur Asamar",
+        "variant": "Timur-n-usammar"
+    },
+    "TM": {
+        "name": "\u1e6curkmanistan"
+    },
+    "TN": {
+        "name": "Tunes"
+    },
+    "TO": {
+        "name": "\u1e6cunga"
+    },
+    "TR": {
+        "name": "\u1e6curk"
+    },
+    "TT": {
+        "name": "\u1e6crindad d \u1e6cubagu"
+    },
+    "TV": {
+        "name": "\u1e6cuvalu"
+    },
+    "TW": {
+        "name": "\u1e6caywan"
+    },
+    "TZ": {
+        "name": "\u1e6canzanya"
+    },
+    "UA": {
+        "name": "Ukran"
+    },
+    "UG": {
+        "name": "U\u0263anda"
+    },
+    "UM": {
+        "name": "Tigzirin ibe\u025bden n Marikan"
+    },
+    "UN": {
+        "name": "Timura Idduklen"
+    },
+    "US": {
+        "name": "WDM",
+        "short": "US"
+    },
+    "UY": {
+        "name": "Urugway"
+    },
+    "UZ": {
+        "name": "Uzbaxistan"
+    },
+    "VA": {
+        "name": "Awanek n Vatikan"
+    },
+    "VC": {
+        "name": "San Vansu d Grunadin"
+    },
+    "VE": {
+        "name": "Venzwila"
+    },
+    "VG": {
+        "name": "Tigzirin Tiverjiniyin Tigliziyin"
+    },
+    "VI": {
+        "name": "W.D. Tigzirin n Virginya"
+    },
+    "VN": {
+        "name": "Vye\u1e6dnam"
+    },
+    "VU": {
+        "name": "Vanwatu"
+    },
+    "WF": {
+        "name": "Wallis d Futuna"
+    },
+    "WS": {
+        "name": "Samwa"
+    },
+    "XK": {
+        "name": "Ku\u1e63uvu"
+    },
+    "YE": {
+        "name": "Lyamen"
+    },
+    "YT": {
+        "name": "Mayu\u1e6d"
+    },
+    "ZA": {
+        "name": "Tafriqt Wadda"
+    },
+    "ZM": {
+        "name": "Zambya"
+    },
+    "ZW": {
+        "name": "Zimbabwi"
+    },
+    "ZZ": {
+        "name": "Timna\u1e0din Tirussinin"
+    }
+}

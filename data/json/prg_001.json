@@ -1,0 +1,298 @@
+{
+    "001": {
+        "name": "sw\u012btai"
+    },
+    "002": {
+        "name": "Afrika"
+    },
+    "003": {
+        "name": "Z\u0113imanam\u0113rika"
+    },
+    "005": {
+        "name": "Pussideinanam\u0113rika"
+    },
+    "019": {
+        "name": "Am\u0113rika"
+    },
+    "142": {
+        "name": "\u0100zija"
+    },
+    "150": {
+        "name": "Eur\u014dpa"
+    },
+    "AD": {
+        "name": "And\u014dra"
+    },
+    "AG": {
+        "name": "Ant\u012bgwa be Barb\u016bda"
+    },
+    "AL": {
+        "name": "Alb\u0101nija"
+    },
+    "AR": {
+        "name": "Argent\u012bnija"
+    },
+    "AT": {
+        "name": "\u0100ustrar\u012bki"
+    },
+    "AU": {
+        "name": "Austr\u0101lija"
+    },
+    "BA": {
+        "name": "B\u014dsnija be Erceg\u014dwina"
+    },
+    "BB": {
+        "name": "Barb\u0101das"
+    },
+    "BE": {
+        "name": "Belgija"
+    },
+    "BG": {
+        "name": "Bulg\u0101rija"
+    },
+    "BO": {
+        "name": "B\u014dliwija"
+    },
+    "BR": {
+        "name": "Braz\u012blija"
+    },
+    "BS": {
+        "name": "Bah\u0101mai"
+    },
+    "BY": {
+        "name": "Kr\u0113iwa"
+    },
+    "BZ": {
+        "name": "Bel\u012bzi"
+    },
+    "CA": {
+        "name": "K\u0101nada"
+    },
+    "CH": {
+        "name": "\u0160w\u0113ici"
+    },
+    "CL": {
+        "name": "\u010c\u012bli"
+    },
+    "CN": {
+        "name": "K\u012bna"
+    },
+    "CO": {
+        "name": "K\u014dlumbija"
+    },
+    "CR": {
+        "name": "Costa Rica"
+    },
+    "CU": {
+        "name": "K\u016bba"
+    },
+    "CZ": {
+        "name": "\u010cekkija"
+    },
+    "DE": {
+        "name": "Miksk\u0101tauta"
+    },
+    "DK": {
+        "name": "D\u0101nanmarki"
+    },
+    "DM": {
+        "name": "D\u014dminika"
+    },
+    "DO": {
+        "name": "D\u014dminikas Republ\u012bki"
+    },
+    "EC": {
+        "name": "Ekwad\u014drs"
+    },
+    "EE": {
+        "name": "Estantauta"
+    },
+    "ES": {
+        "name": "\u0160p\u0101nija"
+    },
+    "FI": {
+        "name": "S\u014dmija"
+    },
+    "FO": {
+        "name": "Far\u0113irai"
+    },
+    "FR": {
+        "name": "Prankr\u012bki"
+    },
+    "GB": {
+        "name": "Debabrit\u0101nija",
+        "short": "DB"
+    },
+    "GD": {
+        "name": "Gren\u0101da"
+    },
+    "GF": {
+        "name": "Pranc\u014dziska Guj\u0101na"
+    },
+    "GI": {
+        "name": "Gibr\u0101ltars"
+    },
+    "GL": {
+        "name": "Gr\u0113nlandan"
+    },
+    "GR": {
+        "name": "Gr\u0113kantauta"
+    },
+    "GT": {
+        "name": "Gwatem\u0101la"
+    },
+    "GY": {
+        "name": "Guj\u0101na"
+    },
+    "HN": {
+        "name": "H\u014dnduras"
+    },
+    "HR": {
+        "name": "Kru\u0101tija"
+    },
+    "HT": {
+        "name": "Ha\u012bti"
+    },
+    "HU": {
+        "name": "Ungrai"
+    },
+    "ID": {
+        "name": "Ind\u014dnezija"
+    },
+    "IN": {
+        "name": "\u012andija"
+    },
+    "IS": {
+        "name": "\u012aslandan"
+    },
+    "IT": {
+        "name": "W\u0101lkija"
+    },
+    "JM": {
+        "name": "Jam\u0101ika"
+    },
+    "JP": {
+        "name": "Jap\u0101nija"
+    },
+    "KR": {
+        "name": "Pussideinank\u014dreja"
+    },
+    "LI": {
+        "name": "L\u012bchten\u0161teinan"
+    },
+    "LT": {
+        "name": "La\u012btawa"
+    },
+    "LU": {
+        "name": "Luksemburgan"
+    },
+    "LV": {
+        "name": "Lattawa"
+    },
+    "MC": {
+        "name": "M\u014dnak\u014d"
+    },
+    "MD": {
+        "name": "M\u014dldawija"
+    },
+    "ME": {
+        "name": "M\u014dntenegran"
+    },
+    "MT": {
+        "name": "M\u0101lta"
+    },
+    "MX": {
+        "name": "Meksiku"
+    },
+    "NI": {
+        "name": "Nikar\u0101gwa"
+    },
+    "NO": {
+        "name": "N\u014drwigai"
+    },
+    "NZ": {
+        "name": "Nawaz\u0113landan"
+    },
+    "PA": {
+        "name": "Pan\u0101ma"
+    },
+    "PE": {
+        "name": "Per\u016b"
+    },
+    "PL": {
+        "name": "P\u014dli"
+    },
+    "PT": {
+        "name": "P\u014drtugalin"
+    },
+    "PW": {
+        "name": "Palau"
+    },
+    "PY": {
+        "name": "Paragw\u0101js"
+    },
+    "RO": {
+        "name": "Rum\u0101nija"
+    },
+    "RS": {
+        "name": "Serbija"
+    },
+    "RU": {
+        "name": "Russi"
+    },
+    "SA": {
+        "name": "Sa\u016bdi Ar\u0101bija"
+    },
+    "SE": {
+        "name": "\u0160w\u0113dija"
+    },
+    "SI": {
+        "name": "Sl\u014dwenija"
+    },
+    "SK": {
+        "name": "Sl\u014dwakei"
+    },
+    "SM": {
+        "name": "San Marin\u014d"
+    },
+    "SR": {
+        "name": "Surin\u0101ms"
+    },
+    "SV": {
+        "name": "El Salvad\u014drs"
+    },
+    "TH": {
+        "name": "T\u0101ilandan"
+    },
+    "TR": {
+        "name": "Turk\u0101ja"
+    },
+    "TT": {
+        "name": "Trinid\u0101ds be Tobag\u014d"
+    },
+    "TW": {
+        "name": "Taiw\u0101ns"
+    },
+    "UA": {
+        "name": "Ukr\u0101ini"
+    },
+    "US": {
+        "name": "Pera\u012bnintas W\u0101lstis",
+        "short": "PW"
+    },
+    "UY": {
+        "name": "Urugw\u0101js"
+    },
+    "VE": {
+        "name": "Venezu\u0113la"
+    },
+    "XK": {
+        "name": "K\u014dsawa"
+    },
+    "ZA": {
+        "name": "Pussideinanafrika"
+    },
+    "ZZ": {
+        "name": "niwaist\u0101 regi\u014dni"
+    }
+}

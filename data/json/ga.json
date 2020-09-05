@@ -1,0 +1,896 @@
+{
+    "001": {
+        "name": "an Domhan"
+    },
+    "002": {
+        "name": "an Afraic"
+    },
+    "003": {
+        "name": "Meirice\u00e1 Thuaidh"
+    },
+    "005": {
+        "name": "Meirice\u00e1 Theas"
+    },
+    "009": {
+        "name": "an Aig\u00e9ine"
+    },
+    "011": {
+        "name": "Iarthar na hAfraice"
+    },
+    "013": {
+        "name": "Meirice\u00e1 L\u00e1ir"
+    },
+    "014": {
+        "name": "Oirthear na hAfraice"
+    },
+    "015": {
+        "name": "Tuaisceart na hAfraice"
+    },
+    "017": {
+        "name": "an Afraic L\u00e1ir"
+    },
+    "018": {
+        "name": "Deisceart na hAfraice"
+    },
+    "019": {
+        "name": "Cr\u00edocha Mheirice\u00e1"
+    },
+    "021": {
+        "name": "Tuaisceart Mheirice\u00e1"
+    },
+    "029": {
+        "name": "an Mhuir Chairib"
+    },
+    "030": {
+        "name": "Oirthear na h\u00c1ise"
+    },
+    "034": {
+        "name": "Deisceart na h\u00c1ise"
+    },
+    "035": {
+        "name": "Oirdheisceart na h\u00c1ise"
+    },
+    "039": {
+        "name": "Deisceart na hEorpa"
+    },
+    "053": {
+        "name": "an Astral\u00e1ise"
+    },
+    "054": {
+        "name": "an Mheilin\u00e9is"
+    },
+    "057": {
+        "name": "an R\u00e9igi\u00fan Micrin\u00e9iseach"
+    },
+    "061": {
+        "name": "an Pholain\u00e9is"
+    },
+    "142": {
+        "name": "an \u00c1ise"
+    },
+    "143": {
+        "name": "an \u00c1ise L\u00e1ir"
+    },
+    "145": {
+        "name": "Iarthar na h\u00c1ise"
+    },
+    "150": {
+        "name": "an Eoraip"
+    },
+    "151": {
+        "name": "Oirthear na hEorpa"
+    },
+    "154": {
+        "name": "Tuaisceart na hEorpa"
+    },
+    "155": {
+        "name": "Iarthar na hEorpa"
+    },
+    "202": {
+        "name": "an Afraic fho-Shah\u00e1rach"
+    },
+    "419": {
+        "name": "Meirice\u00e1 Laidineach"
+    },
+    "AC": {
+        "name": "Oile\u00e1n na Deascabh\u00e1la"
+    },
+    "AD": {
+        "name": "And\u00f3ra"
+    },
+    "AE": {
+        "name": "Aontas na n\u00c9im\u00edr\u00edochta\u00ed Arabacha"
+    },
+    "AF": {
+        "name": "an Afganast\u00e1in"
+    },
+    "AG": {
+        "name": "Antigua agus Barb\u00fada"
+    },
+    "AI": {
+        "name": "Anga\u00edle"
+    },
+    "AL": {
+        "name": "an Alb\u00e1in"
+    },
+    "AM": {
+        "name": "an Airm\u00e9in"
+    },
+    "AO": {
+        "name": "Ang\u00f3la"
+    },
+    "AQ": {
+        "name": "an Antartaice"
+    },
+    "AR": {
+        "name": "an Airgint\u00edn"
+    },
+    "AS": {
+        "name": "Sam\u00f3 Mheirice\u00e1"
+    },
+    "AT": {
+        "name": "an Ostair"
+    },
+    "AU": {
+        "name": "an Astr\u00e1il"
+    },
+    "AW": {
+        "name": "Ar\u00faba"
+    },
+    "AX": {
+        "name": "Oile\u00e1in \u00c5land"
+    },
+    "AZ": {
+        "name": "an Asarbaise\u00e1in"
+    },
+    "BA": {
+        "name": "an Bhoisnia agus an Heirseagaiv\u00e9in"
+    },
+    "BB": {
+        "name": "Barbad\u00f3s"
+    },
+    "BD": {
+        "name": "an Bhanglaid\u00e9is"
+    },
+    "BE": {
+        "name": "an Bheilg"
+    },
+    "BF": {
+        "name": "Buirc\u00edne Fas\u00f3"
+    },
+    "BG": {
+        "name": "an Bhulg\u00e1ir"
+    },
+    "BH": {
+        "name": "Bair\u00e9in"
+    },
+    "BI": {
+        "name": "an Bhur\u00fain"
+    },
+    "BJ": {
+        "name": "Beinin"
+    },
+    "BL": {
+        "name": "Saint Barth\u00e9lemy"
+    },
+    "BM": {
+        "name": "Beirmi\u00fada"
+    },
+    "BN": {
+        "name": "Br\u00fain\u00e9"
+    },
+    "BO": {
+        "name": "an Bholaiv"
+    },
+    "BQ": {
+        "name": "an \u00cdsilt\u00edr Chairibeach"
+    },
+    "BR": {
+        "name": "an Bhrasa\u00edl"
+    },
+    "BS": {
+        "name": "na Bah\u00e1ma\u00ed"
+    },
+    "BT": {
+        "name": "an Bh\u00fat\u00e1in"
+    },
+    "BV": {
+        "name": "Oile\u00e1n Bouvet"
+    },
+    "BW": {
+        "name": "an Bhotsu\u00e1in"
+    },
+    "BY": {
+        "name": "an Bhealar\u00fais"
+    },
+    "BZ": {
+        "name": "an Bheil\u00eds"
+    },
+    "CA": {
+        "name": "Ceanada"
+    },
+    "CC": {
+        "name": "Oile\u00e1in Cocos (Keeling)"
+    },
+    "CD": {
+        "name": "Poblacht Dhaonlathach an Chong\u00f3",
+        "variant": "an Cong\u00f3 (PDC)"
+    },
+    "CF": {
+        "name": "Poblacht na hAfraice L\u00e1ir"
+    },
+    "CG": {
+        "name": "an Cong\u00f3",
+        "variant": "an Cong\u00f3 (Poblacht)"
+    },
+    "CH": {
+        "name": "an Eilv\u00e9is"
+    },
+    "CI": {
+        "name": "an C\u00f3sta Eabhair",
+        "variant": "C\u00f4te d\u2019Ivoire"
+    },
+    "CK": {
+        "name": "Oile\u00e1in Cook"
+    },
+    "CL": {
+        "name": "an tSile"
+    },
+    "CM": {
+        "name": "Camar\u00fan"
+    },
+    "CN": {
+        "name": "an tS\u00edn"
+    },
+    "CO": {
+        "name": "an Chol\u00f3im"
+    },
+    "CP": {
+        "name": "Oile\u00e1n Clipperton"
+    },
+    "CR": {
+        "name": "C\u00f3sta R\u00edce"
+    },
+    "CU": {
+        "name": "C\u00faba"
+    },
+    "CV": {
+        "name": "Rinn Verde"
+    },
+    "CW": {
+        "name": "Cura\u00e7ao"
+    },
+    "CX": {
+        "name": "Oile\u00e1n na Nollag"
+    },
+    "CY": {
+        "name": "an Chipir"
+    },
+    "CZ": {
+        "name": "an tSeicia",
+        "variant": "Poblacht na Seice"
+    },
+    "DE": {
+        "name": "an Ghearm\u00e1in"
+    },
+    "DG": {
+        "name": "Diego Garcia"
+    },
+    "DJ": {
+        "name": "Djibouti"
+    },
+    "DK": {
+        "name": "an Danmhairg"
+    },
+    "DM": {
+        "name": "Doiminice"
+    },
+    "DO": {
+        "name": "an Phoblacht Dhoiminiceach"
+    },
+    "DZ": {
+        "name": "an Ailg\u00e9ir"
+    },
+    "EA": {
+        "name": "Ceuta agus Melilla"
+    },
+    "EC": {
+        "name": "Eacuad\u00f3r"
+    },
+    "EE": {
+        "name": "an East\u00f3in"
+    },
+    "EG": {
+        "name": "an \u00c9igipt"
+    },
+    "EH": {
+        "name": "an Sah\u00e1ra Thiar"
+    },
+    "ER": {
+        "name": "an Eiritr\u00e9"
+    },
+    "ES": {
+        "name": "an Sp\u00e1inn"
+    },
+    "ET": {
+        "name": "an Aet\u00f3ip"
+    },
+    "EU": {
+        "name": "an tAontas Eorpach"
+    },
+    "EZ": {
+        "name": "Limist\u00e9ar an euro"
+    },
+    "FI": {
+        "name": "an Fhionlainn"
+    },
+    "FJ": {
+        "name": "Fids\u00ed"
+    },
+    "FK": {
+        "name": "Oile\u00e1in Fh\u00e1clainne",
+        "variant": "Oile\u00e1in Fh\u00e1clainne (Islas Malvinas)"
+    },
+    "FM": {
+        "name": "an Mhicrin\u00e9is"
+    },
+    "FO": {
+        "name": "Oile\u00e1in Fhar\u00f3"
+    },
+    "FR": {
+        "name": "an Fhrainc"
+    },
+    "GA": {
+        "name": "an Ghab\u00fain"
+    },
+    "GB": {
+        "name": "an R\u00edocht Aontaithe",
+        "short": "RA"
+    },
+    "GD": {
+        "name": "Grean\u00e1da"
+    },
+    "GE": {
+        "name": "an tSeoirsia"
+    },
+    "GF": {
+        "name": "Gu\u00e1in na Fraince"
+    },
+    "GG": {
+        "name": "Geansa\u00ed"
+    },
+    "GH": {
+        "name": "G\u00e1na"
+    },
+    "GI": {
+        "name": "Giobr\u00e1ltar"
+    },
+    "GL": {
+        "name": "an Ghraonlainn"
+    },
+    "GM": {
+        "name": "an Ghaimbia"
+    },
+    "GN": {
+        "name": "an Ghuine"
+    },
+    "GP": {
+        "name": "Guadal\u00faip"
+    },
+    "GQ": {
+        "name": "an Ghuine Mhe\u00e1nchiorclach"
+    },
+    "GR": {
+        "name": "an Ghr\u00e9ig"
+    },
+    "GS": {
+        "name": "an tSeoirsia Theas agus Oile\u00e1in Sandwich Theas"
+    },
+    "GT": {
+        "name": "Guatamala"
+    },
+    "GU": {
+        "name": "Guam"
+    },
+    "GW": {
+        "name": "Guine Bissau"
+    },
+    "GY": {
+        "name": "an Ghu\u00e1in"
+    },
+    "HK": {
+        "name": "S.R.R. na S\u00edne Hong Cong",
+        "short": "Hong Cong"
+    },
+    "HM": {
+        "name": "Oile\u00e1n Heard agus Oile\u00e1in McDonald"
+    },
+    "HN": {
+        "name": "Hond\u00faras"
+    },
+    "HR": {
+        "name": "an Chr\u00f3it"
+    },
+    "HT": {
+        "name": "H\u00e1\u00edt\u00ed"
+    },
+    "HU": {
+        "name": "an Ung\u00e1ir"
+    },
+    "IC": {
+        "name": "na hOile\u00e1in Chan\u00e1racha"
+    },
+    "ID": {
+        "name": "an Indin\u00e9is"
+    },
+    "IE": {
+        "name": "\u00c9ire"
+    },
+    "IL": {
+        "name": "Iosrael"
+    },
+    "IM": {
+        "name": "Oile\u00e1n Mhanann"
+    },
+    "IN": {
+        "name": "an India"
+    },
+    "IO": {
+        "name": "Cr\u00edoch Aig\u00e9an Indiach na Breataine"
+    },
+    "IQ": {
+        "name": "an Iar\u00e1ic"
+    },
+    "IR": {
+        "name": "an Iar\u00e1in"
+    },
+    "IS": {
+        "name": "an \u00cdoslainn"
+    },
+    "IT": {
+        "name": "an Iod\u00e1il"
+    },
+    "JE": {
+        "name": "Geirs\u00ed"
+    },
+    "JM": {
+        "name": "Iam\u00e1ice"
+    },
+    "JO": {
+        "name": "an Iord\u00e1in"
+    },
+    "JP": {
+        "name": "an tSeap\u00e1in"
+    },
+    "KE": {
+        "name": "an Ch\u00e9inia"
+    },
+    "KG": {
+        "name": "an Chirgeast\u00e1in"
+    },
+    "KH": {
+        "name": "an Chamb\u00f3id"
+    },
+    "KI": {
+        "name": "Cireabait\u00ed"
+    },
+    "KM": {
+        "name": "Oile\u00e1in Chom\u00f3ra"
+    },
+    "KN": {
+        "name": "San Cr\u00edost\u00f3ir-Nimheas"
+    },
+    "KP": {
+        "name": "an Ch\u00f3ir\u00e9 Thuaidh"
+    },
+    "KR": {
+        "name": "an Ch\u00f3ir\u00e9 Theas"
+    },
+    "KW": {
+        "name": "Cu\u00e1it"
+    },
+    "KY": {
+        "name": "Oile\u00e1in Cayman"
+    },
+    "KZ": {
+        "name": "an Chasacst\u00e1in"
+    },
+    "LA": {
+        "name": "Laos"
+    },
+    "LB": {
+        "name": "an Liob\u00e1in"
+    },
+    "LC": {
+        "name": "Saint Lucia"
+    },
+    "LI": {
+        "name": "Lichtinst\u00e9in"
+    },
+    "LK": {
+        "name": "Sr\u00ed Lanca"
+    },
+    "LR": {
+        "name": "an Lib\u00e9ir"
+    },
+    "LS": {
+        "name": "Leos\u00f3ta"
+    },
+    "LT": {
+        "name": "an Liotu\u00e1in"
+    },
+    "LU": {
+        "name": "Lucsamburg"
+    },
+    "LV": {
+        "name": "an Laitvia"
+    },
+    "LY": {
+        "name": "an Libia"
+    },
+    "MA": {
+        "name": "Marac\u00f3"
+    },
+    "MC": {
+        "name": "Monac\u00f3"
+    },
+    "MD": {
+        "name": "an Mhold\u00f3iv"
+    },
+    "ME": {
+        "name": "Montain\u00e9agr\u00f3"
+    },
+    "MF": {
+        "name": "Saint-Martin"
+    },
+    "MG": {
+        "name": "Madagascar"
+    },
+    "MH": {
+        "name": "Oile\u00e1in Marshall"
+    },
+    "MK": {
+        "name": "an Mhacad\u00f3in Thuaidh"
+    },
+    "ML": {
+        "name": "Mail\u00ed"
+    },
+    "MM": {
+        "name": "Maenmar (Burma)"
+    },
+    "MN": {
+        "name": "an Mhong\u00f3il"
+    },
+    "MO": {
+        "name": "S.R.R. na S\u00edne Macao",
+        "short": "Macao"
+    },
+    "MP": {
+        "name": "na hOile\u00e1in Mh\u00e1irianacha Thuaidh"
+    },
+    "MQ": {
+        "name": "Martinique"
+    },
+    "MR": {
+        "name": "an Mh\u00e1rat\u00e1in"
+    },
+    "MS": {
+        "name": "Montsarat"
+    },
+    "MT": {
+        "name": "M\u00e1lta"
+    },
+    "MU": {
+        "name": "Oile\u00e1n Mhuir\u00eds"
+    },
+    "MV": {
+        "name": "Oile\u00e1in Mhaild\u00edve"
+    },
+    "MW": {
+        "name": "an Mhal\u00e1iv"
+    },
+    "MX": {
+        "name": "Meicsiceo"
+    },
+    "MY": {
+        "name": "an Mhalaeisia"
+    },
+    "MZ": {
+        "name": "M\u00f3saimb\u00edc"
+    },
+    "NA": {
+        "name": "an Namaib"
+    },
+    "NC": {
+        "name": "an Nua-Chalad\u00f3in"
+    },
+    "NE": {
+        "name": "an N\u00edgir"
+    },
+    "NF": {
+        "name": "Oile\u00e1n Norfolk"
+    },
+    "NG": {
+        "name": "an Nig\u00e9ir"
+    },
+    "NI": {
+        "name": "Nicearagua"
+    },
+    "NL": {
+        "name": "an \u00cdsilt\u00edr"
+    },
+    "NO": {
+        "name": "an Iorua"
+    },
+    "NP": {
+        "name": "Neipeal"
+    },
+    "NR": {
+        "name": "N\u00e1r\u00fa"
+    },
+    "NU": {
+        "name": "Niue"
+    },
+    "NZ": {
+        "name": "an Nua-Sh\u00e9alainn"
+    },
+    "OM": {
+        "name": "\u00d3man"
+    },
+    "PA": {
+        "name": "Panama"
+    },
+    "PE": {
+        "name": "Peiri\u00fa"
+    },
+    "PF": {
+        "name": "Polain\u00e9is na Fraince"
+    },
+    "PG": {
+        "name": "Nua-Ghuine Phapua"
+    },
+    "PH": {
+        "name": "na hOile\u00e1in Fhilip\u00edneacha"
+    },
+    "PK": {
+        "name": "an Phacast\u00e1in"
+    },
+    "PL": {
+        "name": "an Pholainn"
+    },
+    "PM": {
+        "name": "San Pierre agus Miquelon"
+    },
+    "PN": {
+        "name": "Oile\u00e1in Pitcairn"
+    },
+    "PR": {
+        "name": "P\u00f3rt\u00f3 R\u00edce"
+    },
+    "PS": {
+        "name": "na Cr\u00edocha Palaist\u00edneacha",
+        "short": "an Phalaist\u00edn"
+    },
+    "PT": {
+        "name": "an Phortaing\u00e9il"
+    },
+    "PW": {
+        "name": "Oile\u00e1in Palau"
+    },
+    "PY": {
+        "name": "Paragua"
+    },
+    "QA": {
+        "name": "Catar"
+    },
+    "QO": {
+        "name": "an Aig\u00e9ine Imeallach"
+    },
+    "RE": {
+        "name": "R\u00e9union"
+    },
+    "RO": {
+        "name": "an R\u00f3m\u00e1in"
+    },
+    "RS": {
+        "name": "an tSeirbia"
+    },
+    "RU": {
+        "name": "an R\u00fais"
+    },
+    "RW": {
+        "name": "Ruanda"
+    },
+    "SA": {
+        "name": "an Araib Sh\u00e1dach"
+    },
+    "SB": {
+        "name": "Oile\u00e1in Sholom\u00f3n"
+    },
+    "SC": {
+        "name": "na S\u00e9is\u00e9il"
+    },
+    "SD": {
+        "name": "an tS\u00fad\u00e1in"
+    },
+    "SE": {
+        "name": "an tSualainn"
+    },
+    "SG": {
+        "name": "Singeap\u00f3r"
+    },
+    "SH": {
+        "name": "San H\u00e9ilin"
+    },
+    "SI": {
+        "name": "an tSl\u00f3iv\u00e9in"
+    },
+    "SJ": {
+        "name": "Svalbard agus Jan Mayen"
+    },
+    "SK": {
+        "name": "an tSl\u00f3vaic"
+    },
+    "SL": {
+        "name": "Siarra Leon"
+    },
+    "SM": {
+        "name": "San Mair\u00edne"
+    },
+    "SN": {
+        "name": "an tSeineag\u00e1il"
+    },
+    "SO": {
+        "name": "an tSom\u00e1il"
+    },
+    "SR": {
+        "name": "Suranam"
+    },
+    "SS": {
+        "name": "an tS\u00fad\u00e1in Theas"
+    },
+    "ST": {
+        "name": "S\u00e3o Tom\u00e9 agus Pr\u00edncipe"
+    },
+    "SV": {
+        "name": "an tSalvad\u00f3ir"
+    },
+    "SX": {
+        "name": "Sint Maarten"
+    },
+    "SY": {
+        "name": "an tSiria"
+    },
+    "SZ": {
+        "name": "eSuait\u00edn\u00ed",
+        "variant": "an tSuasalainn"
+    },
+    "TA": {
+        "name": "Tristan da Cunha"
+    },
+    "TC": {
+        "name": "Oile\u00e1in na dTurcach agus Caicos"
+    },
+    "TD": {
+        "name": "Sead"
+    },
+    "TF": {
+        "name": "Cr\u00edocha Francacha Dheisceart an Domhain"
+    },
+    "TG": {
+        "name": "T\u00f3ga"
+    },
+    "TH": {
+        "name": "an T\u00e9alainn"
+    },
+    "TJ": {
+        "name": "an T\u00e1ids\u00edceast\u00e1in"
+    },
+    "TK": {
+        "name": "T\u00f3cal\u00e1"
+    },
+    "TL": {
+        "name": "T\u00edom\u00f3r Thoir"
+    },
+    "TM": {
+        "name": "an Tuircm\u00e9anast\u00e1in"
+    },
+    "TN": {
+        "name": "an T\u00fain\u00e9is"
+    },
+    "TO": {
+        "name": "Tonga"
+    },
+    "TR": {
+        "name": "an Tuirc"
+    },
+    "TT": {
+        "name": "Oile\u00e1n na Tr\u00edon\u00f3ide agus Tob\u00e1ga"
+    },
+    "TV": {
+        "name": "Tuvalu"
+    },
+    "TW": {
+        "name": "an T\u00e9av\u00e1in"
+    },
+    "TZ": {
+        "name": "an Tans\u00e1in"
+    },
+    "UA": {
+        "name": "an \u00dacr\u00e1in"
+    },
+    "UG": {
+        "name": "Uganda"
+    },
+    "UM": {
+        "name": "Oile\u00e1in Imeallacha S.A.M."
+    },
+    "UN": {
+        "name": "na N\u00e1isi\u00fain Aontaithe",
+        "short": "NA"
+    },
+    "US": {
+        "name": "St\u00e1it Aontaithe Mheirice\u00e1",
+        "short": "SAM"
+    },
+    "UY": {
+        "name": "Uragua"
+    },
+    "UZ": {
+        "name": "an \u00daisb\u00e9iceast\u00e1in"
+    },
+    "VA": {
+        "name": "Cathair na Vatac\u00e1ine"
+    },
+    "VC": {
+        "name": "San Uinseann agus na Grean\u00e1id\u00edn\u00ed"
+    },
+    "VE": {
+        "name": "Veinis\u00e9ala"
+    },
+    "VG": {
+        "name": "Oile\u00e1in Bhriotanacha na Maighdean"
+    },
+    "VI": {
+        "name": "Oile\u00e1in Mheirice\u00e1nacha na Maighdean"
+    },
+    "VN": {
+        "name": "V\u00edtneam"
+    },
+    "VU": {
+        "name": "Vanuat\u00fa"
+    },
+    "WF": {
+        "name": "Vail\u00eds agus Fut\u00fana"
+    },
+    "WS": {
+        "name": "Sam\u00f3"
+    },
+    "XA": {
+        "name": "Br\u00e9agdhiaicritic\u00ed"
+    },
+    "XB": {
+        "name": "Br\u00e9ag-Bidi"
+    },
+    "XK": {
+        "name": "an Chosaiv"
+    },
+    "YE": {
+        "name": "\u00c9imin"
+    },
+    "YT": {
+        "name": "Mayotte"
+    },
+    "ZA": {
+        "name": "an Afraic Theas"
+    },
+    "ZM": {
+        "name": "an tSaimbia"
+    },
+    "ZW": {
+        "name": "an tSiomb\u00e1ib"
+    },
+    "ZZ": {
+        "name": "R\u00e9igi\u00fan Anaithnid"
+    }
+}

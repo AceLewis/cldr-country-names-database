@@ -1,0 +1,38 @@
+{
+    "BR": {
+        "name": "Brazil"
+    },
+    "CN": {
+        "name": "China"
+    },
+    "DE": {
+        "name": "Germany"
+    },
+    "ET": {
+        "name": "Itoophiyaa"
+    },
+    "FR": {
+        "name": "France"
+    },
+    "GB": {
+        "name": "United Kingdom"
+    },
+    "IN": {
+        "name": "India"
+    },
+    "IT": {
+        "name": "Italy"
+    },
+    "JP": {
+        "name": "Japan"
+    },
+    "KE": {
+        "name": "Keeniyaa"
+    },
+    "RU": {
+        "name": "Russia"
+    },
+    "US": {
+        "name": "United States"
+    }
+}

@@ -1,0 +1,671 @@
+{
+    "AD": {
+        "name": "And\u00f3ra"
+    },
+    "AE": {
+        "name": "\u0244temi wa K\u0268ar\u00e1abu"
+    },
+    "AF": {
+        "name": "Afuganisit\u00e1ani"
+    },
+    "AG": {
+        "name": "Antig\u00faua na Barib\u00fauda"
+    },
+    "AI": {
+        "name": "Angu\u00edila"
+    },
+    "AL": {
+        "name": "Alub\u00e1nia"
+    },
+    "AM": {
+        "name": "Arim\u00e9nia"
+    },
+    "AO": {
+        "name": "Ang\u00f3ola"
+    },
+    "AR": {
+        "name": "Ajent\u00edina"
+    },
+    "AS": {
+        "name": "Sam\u00f3oa ya Amer\u0268\u0301ka"
+    },
+    "AT": {
+        "name": "\u00c1usitiria"
+    },
+    "AU": {
+        "name": "Ausiter\u00e9elia"
+    },
+    "AW": {
+        "name": "Ar\u00fauba"
+    },
+    "AZ": {
+        "name": "Azabaj\u00e1ani"
+    },
+    "BA": {
+        "name": "B\u00f3sinia"
+    },
+    "BB": {
+        "name": "Babad\u00f3osi"
+    },
+    "BD": {
+        "name": "Bangalad\u00e9eshi"
+    },
+    "BE": {
+        "name": "\u0244belig\u00ediji"
+    },
+    "BF": {
+        "name": "Bukinaf\u00e1aso"
+    },
+    "BG": {
+        "name": "Buligar\u00eda"
+    },
+    "BH": {
+        "name": "Bahar\u00e9eni"
+    },
+    "BI": {
+        "name": "Bur\u00faundi"
+    },
+    "BJ": {
+        "name": "Ben\u00edini"
+    },
+    "BM": {
+        "name": "Berim\u00fauda"
+    },
+    "BN": {
+        "name": "Burun\u00e9ei"
+    },
+    "BO": {
+        "name": "Bol\u00edvia"
+    },
+    "BR": {
+        "name": "Bras\u00edili"
+    },
+    "BS": {
+        "name": "Bah\u00e1ama"
+    },
+    "BT": {
+        "name": "But\u00e1ani"
+    },
+    "BW": {
+        "name": "Botisw\u00e1ana"
+    },
+    "BY": {
+        "name": "Belar\u00fausi"
+    },
+    "BZ": {
+        "name": "Bel\u00edise"
+    },
+    "CA": {
+        "name": "K\u00e1nada"
+    },
+    "CD": {
+        "name": "Jamuh\u00fauri ya K\u0268demokuras\u00eda ya K\u00f3ongo"
+    },
+    "CF": {
+        "name": "Juh\u00fauri ya Af\u0268r\u0268ka ya kat\u0268 kat\u0268"
+    },
+    "CG": {
+        "name": "K\u00f3ongo"
+    },
+    "CH": {
+        "name": "Usw\u00edisi"
+    },
+    "CI": {
+        "name": "Ivori Kositi"
+    },
+    "CK": {
+        "name": "Vis\u00ediwa vya K\u00fauku"
+    },
+    "CL": {
+        "name": "Ch\u00edile"
+    },
+    "CM": {
+        "name": "Kamer\u00fauni"
+    },
+    "CN": {
+        "name": "Ch\u00edina"
+    },
+    "CO": {
+        "name": "Kol\u00f3mbia"
+    },
+    "CR": {
+        "name": "K\u00f3sita R\u0268\u0301\u0268ka"
+    },
+    "CU": {
+        "name": "Ky\u00fauba"
+    },
+    "CV": {
+        "name": "Kepuv\u00e9ede"
+    },
+    "CY": {
+        "name": "Kupur\u00f3osi"
+    },
+    "CZ": {
+        "name": "Jamuh\u00fauri ya Ch\u00e9eki"
+    },
+    "DE": {
+        "name": "\u0244jerum\u00e1ani"
+    },
+    "DJ": {
+        "name": "Jib\u00fauti"
+    },
+    "DK": {
+        "name": "Denimaki"
+    },
+    "DM": {
+        "name": "Dom\u00edn\u0268ka"
+    },
+    "DO": {
+        "name": "Jamuh\u00fauri ya Domin\u0268ka"
+    },
+    "DZ": {
+        "name": "Alij\u00e9ria"
+    },
+    "EC": {
+        "name": "\u00cdkwado"
+    },
+    "EE": {
+        "name": "Eston\u00eda"
+    },
+    "EG": {
+        "name": "M\u00edsiri"
+    },
+    "ER": {
+        "name": "Eriterea"
+    },
+    "ES": {
+        "name": "Hisip\u00e1nia"
+    },
+    "ET": {
+        "name": "\u0244hab\u00e9eshi"
+    },
+    "FI": {
+        "name": "Uf\u00edini"
+    },
+    "FJ": {
+        "name": "F\u00ediji"
+    },
+    "FK": {
+        "name": "Vis\u00ediwa vya Fakulandi"
+    },
+    "FM": {
+        "name": "Mikiron\u00e9sia"
+    },
+    "FR": {
+        "name": "\u0244far\u00e1ansa"
+    },
+    "GA": {
+        "name": "Gab\u00f3oni"
+    },
+    "GB": {
+        "name": "\u0244\u0268nger\u00e9esa"
+    },
+    "GD": {
+        "name": "Giren\u00e1ada"
+    },
+    "GE": {
+        "name": "J\u00f3jia"
+    },
+    "GF": {
+        "name": "Gwiy\u00e1ana y\u0289 \u0244far\u00e1ansa"
+    },
+    "GH": {
+        "name": "G\u00e1ana"
+    },
+    "GI": {
+        "name": "Jibur\u00e1lita"
+    },
+    "GL": {
+        "name": "Girinil\u00e1andi"
+    },
+    "GM": {
+        "name": "G\u00e1mbia"
+    },
+    "GN": {
+        "name": "G\u00edine"
+    },
+    "GP": {
+        "name": "Gwadel\u00faupe"
+    },
+    "GQ": {
+        "name": "G\u00edine Ikw\u00e9eta"
+    },
+    "GR": {
+        "name": "Ugir\u00edki"
+    },
+    "GT": {
+        "name": "Gwatem\u00e1ala"
+    },
+    "GU": {
+        "name": "Gwani"
+    },
+    "GW": {
+        "name": "G\u00edine Bis\u00e1au"
+    },
+    "GY": {
+        "name": "Guy\u00e1ana"
+    },
+    "HN": {
+        "name": "Hondur\u00e1asi"
+    },
+    "HR": {
+        "name": "Kor\u00e9shia"
+    },
+    "HT": {
+        "name": "Ha\u00editi"
+    },
+    "HU": {
+        "name": "Hung\u00e1ria"
+    },
+    "ID": {
+        "name": "Indon\u00e9sia"
+    },
+    "IE": {
+        "name": "Ayal\u00e1andi"
+    },
+    "IL": {
+        "name": "Isira\u00e9eli"
+    },
+    "IN": {
+        "name": "\u00cdndia"
+    },
+    "IO": {
+        "name": "\u0197s\u0268 y\u0289 \u0244\u0268nger\u00e9esa irivii ra H\u00edindi"
+    },
+    "IQ": {
+        "name": "Ir\u00e1aki"
+    },
+    "IR": {
+        "name": "\u0244aj\u00e9emi"
+    },
+    "IS": {
+        "name": "Aisil\u00e1andi"
+    },
+    "IT": {
+        "name": "It\u00e1lia"
+    },
+    "JM": {
+        "name": "Jam\u00e1ika"
+    },
+    "JO": {
+        "name": "J\u00f3dani"
+    },
+    "JP": {
+        "name": "Jap\u00e1ani"
+    },
+    "KE": {
+        "name": "K\u00e9enya"
+    },
+    "KG": {
+        "name": "Kirigisit\u00e1ani"
+    },
+    "KH": {
+        "name": "Kamb\u00f3dia"
+    },
+    "KI": {
+        "name": "Kirib\u00e1ati"
+    },
+    "KM": {
+        "name": "Kom\u00f3oro"
+    },
+    "KN": {
+        "name": "M\u0289takat\u00edifu kitisi na Nev\u00edisi"
+    },
+    "KP": {
+        "name": "Kor\u00e9a y\u0289 \u0289t\u0289r\u0289ko"
+    },
+    "KR": {
+        "name": "Kor\u00e9a ya Saame"
+    },
+    "KW": {
+        "name": "K\u0289w\u00e1iti"
+    },
+    "KY": {
+        "name": "Vis\u00ediwa vya Kayimani"
+    },
+    "KZ": {
+        "name": "Kazakasit\u00e1ani"
+    },
+    "LA": {
+        "name": "La\u00f3osi"
+    },
+    "LB": {
+        "name": "Leban\u00f3oni"
+    },
+    "LC": {
+        "name": "M\u0289takat\u00edifu Lus\u00edia"
+    },
+    "LI": {
+        "name": "Lishent\u00e9eni"
+    },
+    "LK": {
+        "name": "Siril\u00e1anka"
+    },
+    "LR": {
+        "name": "Liib\u00e9ria"
+    },
+    "LS": {
+        "name": "Les\u00f3oto"
+    },
+    "LT": {
+        "name": "Lisu\u00e1nia"
+    },
+    "LU": {
+        "name": "Lasemb\u00e1agi"
+    },
+    "LV": {
+        "name": "Lativia"
+    },
+    "LY": {
+        "name": "L\u00edbia"
+    },
+    "MA": {
+        "name": "Mor\u00f3oko"
+    },
+    "MC": {
+        "name": "Mon\u00e1ako"
+    },
+    "MD": {
+        "name": "Molid\u00f3ova"
+    },
+    "MG": {
+        "name": "Buk\u00edini"
+    },
+    "MH": {
+        "name": "Vis\u00ediwa vya Marish\u00e1ali"
+    },
+    "ML": {
+        "name": "M\u00e1ali"
+    },
+    "MM": {
+        "name": "Mi\u00e1ama"
+    },
+    "MN": {
+        "name": "Mong\u00f3lia"
+    },
+    "MP": {
+        "name": "Visiwa vya Mariana vya Kaskazini"
+    },
+    "MQ": {
+        "name": "Maritin\u00ediki"
+    },
+    "MR": {
+        "name": "Morit\u00e1nia"
+    },
+    "MS": {
+        "name": "Monter\u00e1ati"
+    },
+    "MT": {
+        "name": "M\u00e1lita"
+    },
+    "MU": {
+        "name": "Mor\u00edisi"
+    },
+    "MV": {
+        "name": "Mod\u00edivu"
+    },
+    "MW": {
+        "name": "Mal\u00e1awi"
+    },
+    "MX": {
+        "name": "Mekisiko"
+    },
+    "MY": {
+        "name": "Male\u00edsia"
+    },
+    "MZ": {
+        "name": "Musumb\u00ediji"
+    },
+    "NA": {
+        "name": "Nam\u00edbia"
+    },
+    "NC": {
+        "name": "Kaled\u00f3nia Ifya"
+    },
+    "NE": {
+        "name": "N\u00edija"
+    },
+    "NF": {
+        "name": "Kis\u00ediwa cha Nofif\u00f3oki"
+    },
+    "NG": {
+        "name": "Niij\u00e9ria"
+    },
+    "NI": {
+        "name": "Nikar\u00e1g\u0289a"
+    },
+    "NL": {
+        "name": "\u0244hol\u00e1anzi"
+    },
+    "NO": {
+        "name": "Norwe"
+    },
+    "NP": {
+        "name": "Nep\u00e1ali"
+    },
+    "NR": {
+        "name": "Na\u00fauru"
+    },
+    "NU": {
+        "name": "Ni\u00faue"
+    },
+    "NZ": {
+        "name": "Nyuz\u00edlandi"
+    },
+    "OM": {
+        "name": "\u00d3mani"
+    },
+    "PA": {
+        "name": "Pan\u00e1ama"
+    },
+    "PE": {
+        "name": "P\u00e9eru"
+    },
+    "PF": {
+        "name": "Polin\u00e9sia y\u0289 \u0244far\u00e1ansa"
+    },
+    "PG": {
+        "name": "Pap\u00faua"
+    },
+    "PH": {
+        "name": "Ufilip\u00edino"
+    },
+    "PK": {
+        "name": "Pakisit\u00e1ani"
+    },
+    "PL": {
+        "name": "P\u00f3landi"
+    },
+    "PM": {
+        "name": "M\u0289takat\u00edifu Pe\u00e9teri na M\u0268ka\u00e9eli"
+    },
+    "PN": {
+        "name": "Patika\u00edrini"
+    },
+    "PR": {
+        "name": "Pwetor\u0268\u0301\u0268ko"
+    },
+    "PS": {
+        "name": "Mweemberera wa k\u0289mweeri wa G\u00e1aza"
+    },
+    "PT": {
+        "name": "\u0244r\u00e9eno"
+    },
+    "PW": {
+        "name": "Pal\u00e1au"
+    },
+    "PY": {
+        "name": "Paragu\u00e1ai"
+    },
+    "QA": {
+        "name": "Kat\u00e1ari"
+    },
+    "RE": {
+        "name": "Reyuni\u00f3oni"
+    },
+    "RO": {
+        "name": "Roman\u00edia"
+    },
+    "RU": {
+        "name": "Ur\u00fausi"
+    },
+    "RW": {
+        "name": "Rw\u00e1anda"
+    },
+    "SA": {
+        "name": "Saud\u00edia Arab\u00edia"
+    },
+    "SB": {
+        "name": "Vis\u00ediwa vya Solom\u00f3oni"
+    },
+    "SC": {
+        "name": "Shelish\u00e9eli"
+    },
+    "SD": {
+        "name": "Sud\u00e1ani"
+    },
+    "SE": {
+        "name": "Usw\u00edidi"
+    },
+    "SG": {
+        "name": "Singapoo"
+    },
+    "SH": {
+        "name": "M\u0289takat\u00edifu Hel\u00e9ena"
+    },
+    "SI": {
+        "name": "Sulov\u00e9nia"
+    },
+    "SK": {
+        "name": "Sulov\u00e1akia"
+    },
+    "SL": {
+        "name": "Serale\u00f3oni"
+    },
+    "SM": {
+        "name": "Samar\u00edino"
+    },
+    "SN": {
+        "name": "Seneg\u00e1ali"
+    },
+    "SO": {
+        "name": "Som\u00e1lia"
+    },
+    "SR": {
+        "name": "Surin\u00e1amu"
+    },
+    "ST": {
+        "name": "Sao T\u00f3ome na Pirinsipe"
+    },
+    "SV": {
+        "name": "Elisalivado"
+    },
+    "SY": {
+        "name": "S\u00edria"
+    },
+    "SZ": {
+        "name": "\u0244sw\u00e1azi"
+    },
+    "TC": {
+        "name": "Vis\u00ediwa vya Tur\u00ediki na Ka\u00ediko"
+    },
+    "TD": {
+        "name": "Ch\u00e1adi"
+    },
+    "TG": {
+        "name": "T\u00f3ogo"
+    },
+    "TH": {
+        "name": "T\u00e1ilandi"
+    },
+    "TJ": {
+        "name": "Tajikisit\u00e1ani"
+    },
+    "TK": {
+        "name": "Tokel\u00e1au"
+    },
+    "TL": {
+        "name": "Tim\u00f3ori yi It\u0289\u0289mba"
+    },
+    "TM": {
+        "name": "Uturukimenisit\u00e1ani"
+    },
+    "TN": {
+        "name": "Tun\u00edsia"
+    },
+    "TO": {
+        "name": "T\u00f3onga"
+    },
+    "TR": {
+        "name": "Utur\u00fauki"
+    },
+    "TT": {
+        "name": "Tirin\u00edida ya Tob\u00e1ago"
+    },
+    "TV": {
+        "name": "Tuv\u00e1alu"
+    },
+    "TW": {
+        "name": "Taiw\u00e1ani"
+    },
+    "TZ": {
+        "name": "Taansan\u00eda"
+    },
+    "UA": {
+        "name": "\u0244k\u0268r\u00e9eni"
+    },
+    "UG": {
+        "name": "\u0244g\u00e1anda"
+    },
+    "US": {
+        "name": "Amer\u0268ka"
+    },
+    "UY": {
+        "name": "Urugu\u00e1ai"
+    },
+    "UZ": {
+        "name": "Usibekisit\u00e1ani"
+    },
+    "VA": {
+        "name": "Vatik\u00e1ani"
+    },
+    "VC": {
+        "name": "M\u0289takat\u00edifu Vis\u00e9enti na Gernad\u00edini"
+    },
+    "VE": {
+        "name": "Venezu\u00e9ela"
+    },
+    "VG": {
+        "name": "Vis\u00ediwa vya Vig\u00edini vya \u0244\u0268nger\u00e9esa"
+    },
+    "VI": {
+        "name": "Vis\u00ediwa vya Vig\u00edini vya Amer\u0268\u0301ka"
+    },
+    "VN": {
+        "name": "Vietin\u00e1amu"
+    },
+    "VU": {
+        "name": "Vanu\u00e1atu"
+    },
+    "WF": {
+        "name": "Wal\u00edisi na Fut\u00fauna"
+    },
+    "WS": {
+        "name": "Sam\u00f3oa"
+    },
+    "YE": {
+        "name": "Y\u00e9meni"
+    },
+    "YT": {
+        "name": "May\u00f3ote"
+    },
+    "ZA": {
+        "name": "Af\u0268r\u0268ka ya Saame"
+    },
+    "ZM": {
+        "name": "S\u00e1mbia"
+    },
+    "ZW": {
+        "name": "Simb\u00e1abwe"
+    }
+}

@@ -1,0 +1,671 @@
+{
+    "AD": {
+        "name": "Huandola"
+    },
+    "AE": {
+        "name": "Hufalme dza Hihalabu"
+    },
+    "AF": {
+        "name": "Huafuganistani"
+    },
+    "AG": {
+        "name": "Huantigua na Hubarubuda"
+    },
+    "AI": {
+        "name": "Huanguila"
+    },
+    "AL": {
+        "name": "Hualbania"
+    },
+    "AM": {
+        "name": "Huamenia"
+    },
+    "AO": {
+        "name": "Huangola"
+    },
+    "AR": {
+        "name": "Huajendina"
+    },
+    "AS": {
+        "name": "Husamoa ya Humalekani"
+    },
+    "AT": {
+        "name": "Huastlia"
+    },
+    "AU": {
+        "name": "Huaustlalia"
+    },
+    "AW": {
+        "name": "Hualuba"
+    },
+    "AZ": {
+        "name": "Huazabajani"
+    },
+    "BA": {
+        "name": "Hubosinia na Huhezegovina"
+    },
+    "BB": {
+        "name": "Hubabadosi"
+    },
+    "BD": {
+        "name": "Hubangaladeshi"
+    },
+    "BE": {
+        "name": "Huubelgiji"
+    },
+    "BF": {
+        "name": "Hubukinafaso"
+    },
+    "BG": {
+        "name": "Hubulgaria"
+    },
+    "BH": {
+        "name": "Hubahaleni"
+    },
+    "BI": {
+        "name": "Huburundi"
+    },
+    "BJ": {
+        "name": "Hubenini"
+    },
+    "BM": {
+        "name": "Hubelmuda"
+    },
+    "BN": {
+        "name": "Hubrunei"
+    },
+    "BO": {
+        "name": "Hubolivia"
+    },
+    "BR": {
+        "name": "Hublazili"
+    },
+    "BS": {
+        "name": "Hubahama"
+    },
+    "BT": {
+        "name": "Hubutani"
+    },
+    "BW": {
+        "name": "Hubotiswana"
+    },
+    "BY": {
+        "name": "Hubelalusi"
+    },
+    "BZ": {
+        "name": "Hubelize"
+    },
+    "CA": {
+        "name": "Hukanada"
+    },
+    "CD": {
+        "name": "Ijamhuri ya Hidemokrasi ya Hukongo"
+    },
+    "CF": {
+        "name": "Ijamhuri ya Afrika ya Pagati"
+    },
+    "CG": {
+        "name": "Hukongo"
+    },
+    "CH": {
+        "name": "Huuswisi"
+    },
+    "CI": {
+        "name": "Hukodivaa"
+    },
+    "CK": {
+        "name": "Ifisima fya Kook"
+    },
+    "CL": {
+        "name": "Huchile"
+    },
+    "CM": {
+        "name": "Hukameruni"
+    },
+    "CN": {
+        "name": "Huchina"
+    },
+    "CO": {
+        "name": "Hukolombia"
+    },
+    "CR": {
+        "name": "Hukostarika"
+    },
+    "CU": {
+        "name": "Hukuba"
+    },
+    "CV": {
+        "name": "Hukepuvede"
+    },
+    "CY": {
+        "name": "Hukuprosi"
+    },
+    "CZ": {
+        "name": "Ijamhuri ya Cheki"
+    },
+    "DE": {
+        "name": "Huujerumani"
+    },
+    "DJ": {
+        "name": "Hujibuti"
+    },
+    "DK": {
+        "name": "Hudenmaki"
+    },
+    "DM": {
+        "name": "Hudominika"
+    },
+    "DO": {
+        "name": "Ijamhuri ya Hudominika"
+    },
+    "DZ": {
+        "name": "Hualjelia"
+    },
+    "EC": {
+        "name": "Huekwado"
+    },
+    "EE": {
+        "name": "Huestonia"
+    },
+    "EG": {
+        "name": "Humisri"
+    },
+    "ER": {
+        "name": "Hueritrea"
+    },
+    "ES": {
+        "name": "Huhispania"
+    },
+    "ET": {
+        "name": "Huuhabeshi"
+    },
+    "FI": {
+        "name": "Huufini"
+    },
+    "FJ": {
+        "name": "Hufiji"
+    },
+    "FK": {
+        "name": "Ifisima fya Falkland"
+    },
+    "FM": {
+        "name": "Humikronesia"
+    },
+    "FR": {
+        "name": "Huufaransa"
+    },
+    "GA": {
+        "name": "Hugaboni"
+    },
+    "GB": {
+        "name": "Huuingereza"
+    },
+    "GD": {
+        "name": "Hugrenada"
+    },
+    "GE": {
+        "name": "Hujojia"
+    },
+    "GF": {
+        "name": "Hugwiyana ya Huufaransa"
+    },
+    "GH": {
+        "name": "Hughana"
+    },
+    "GI": {
+        "name": "Hujiblalta"
+    },
+    "GL": {
+        "name": "Hujinlandi"
+    },
+    "GM": {
+        "name": "Hugambia"
+    },
+    "GN": {
+        "name": "Hujine"
+    },
+    "GP": {
+        "name": "Hugwadelupe"
+    },
+    "GQ": {
+        "name": "Huginekweta"
+    },
+    "GR": {
+        "name": "Huugiliki"
+    },
+    "GT": {
+        "name": "Hugwatemala"
+    },
+    "GU": {
+        "name": "Hugwam"
+    },
+    "GW": {
+        "name": "Huginebisau"
+    },
+    "GY": {
+        "name": "Huguyana"
+    },
+    "HN": {
+        "name": "Huhondulasi"
+    },
+    "HR": {
+        "name": "Hukorasia"
+    },
+    "HT": {
+        "name": "Huhaiti"
+    },
+    "HU": {
+        "name": "Huhungalia"
+    },
+    "ID": {
+        "name": "Huindonesia"
+    },
+    "IE": {
+        "name": "Huayalandi"
+    },
+    "IL": {
+        "name": "Huislaheli"
+    },
+    "IN": {
+        "name": "Huindia"
+    },
+    "IO": {
+        "name": "Ulubali lwa Hubahari ya Hindi lwa Huingereza"
+    },
+    "IQ": {
+        "name": "Huilaki"
+    },
+    "IR": {
+        "name": "Huuajemi"
+    },
+    "IS": {
+        "name": "Huaislandi"
+    },
+    "IT": {
+        "name": "Huitalia"
+    },
+    "JM": {
+        "name": "Hujamaika"
+    },
+    "JO": {
+        "name": "Huyolodani"
+    },
+    "JP": {
+        "name": "Hujapani"
+    },
+    "KE": {
+        "name": "Hukenya"
+    },
+    "KG": {
+        "name": "Hukiligizistani"
+    },
+    "KH": {
+        "name": "Hukambodia"
+    },
+    "KI": {
+        "name": "Hukilibati"
+    },
+    "KM": {
+        "name": "Hukomoro"
+    },
+    "KN": {
+        "name": "Husantakitzi na Hunevis"
+    },
+    "KP": {
+        "name": "Hukolea Kaskazini"
+    },
+    "KR": {
+        "name": "Hukolea Kusini"
+    },
+    "KW": {
+        "name": "Hukuwaiti"
+    },
+    "KY": {
+        "name": "Ifisima fya Kayman"
+    },
+    "KZ": {
+        "name": "Hukazakistani"
+    },
+    "LA": {
+        "name": "Hulaosi"
+    },
+    "LB": {
+        "name": "Hulebanoni"
+    },
+    "LC": {
+        "name": "Husantalusia"
+    },
+    "LI": {
+        "name": "Hulishenteni"
+    },
+    "LK": {
+        "name": "Husirilanka"
+    },
+    "LR": {
+        "name": "Hulibelia"
+    },
+    "LS": {
+        "name": "Hulesoto"
+    },
+    "LT": {
+        "name": "Hulitwania"
+    },
+    "LU": {
+        "name": "Hulasembagi"
+    },
+    "LV": {
+        "name": "Hulativia"
+    },
+    "LY": {
+        "name": "Hulibiya"
+    },
+    "MA": {
+        "name": "Humoloko"
+    },
+    "MC": {
+        "name": "Humonako"
+    },
+    "MD": {
+        "name": "Humoldova"
+    },
+    "MG": {
+        "name": "Hubukini"
+    },
+    "MH": {
+        "name": "Ifisima fya Marshal"
+    },
+    "ML": {
+        "name": "Humali"
+    },
+    "MM": {
+        "name": "Humyama"
+    },
+    "MN": {
+        "name": "Humongolia"
+    },
+    "MP": {
+        "name": "Ifisima fya Mariana fya Hukaskazini"
+    },
+    "MQ": {
+        "name": "Humartiniki"
+    },
+    "MR": {
+        "name": "Humolitania"
+    },
+    "MS": {
+        "name": "Humontserrati"
+    },
+    "MT": {
+        "name": "Humalta"
+    },
+    "MU": {
+        "name": "Humolisi"
+    },
+    "MV": {
+        "name": "Humodivu"
+    },
+    "MW": {
+        "name": "Humalawi"
+    },
+    "MX": {
+        "name": "Humeksiko"
+    },
+    "MY": {
+        "name": "Humalesia"
+    },
+    "MZ": {
+        "name": "Humusumbiji"
+    },
+    "NA": {
+        "name": "Hunamibia"
+    },
+    "NC": {
+        "name": "Hunyukaledonia"
+    },
+    "NE": {
+        "name": "Hunijeli"
+    },
+    "NF": {
+        "name": "Ihisima sha Norfok"
+    },
+    "NG": {
+        "name": "Hunijelia"
+    },
+    "NI": {
+        "name": "Hunikaragwa"
+    },
+    "NL": {
+        "name": "Huuholanzi"
+    },
+    "NO": {
+        "name": "Hunolwe"
+    },
+    "NP": {
+        "name": "Hunepali"
+    },
+    "NR": {
+        "name": "Hunauru"
+    },
+    "NU": {
+        "name": "Huniue"
+    },
+    "NZ": {
+        "name": "Hunyuzilandi"
+    },
+    "OM": {
+        "name": "Huomani"
+    },
+    "PA": {
+        "name": "Hupanama"
+    },
+    "PE": {
+        "name": "Hupelu"
+    },
+    "PF": {
+        "name": "Hupolinesia ya Huufaransa"
+    },
+    "PG": {
+        "name": "Hupapua"
+    },
+    "PH": {
+        "name": "Hufilipino"
+    },
+    "PK": {
+        "name": "Hupakistani"
+    },
+    "PL": {
+        "name": "Hupolandi"
+    },
+    "PM": {
+        "name": "Husantapieri na Humikeloni"
+    },
+    "PN": {
+        "name": "Hupitkaini"
+    },
+    "PR": {
+        "name": "Hupwetoriko"
+    },
+    "PS": {
+        "name": "Ulubali lwa Magharibi nu Gaza wa Hupalestina"
+    },
+    "PT": {
+        "name": "Huuleno"
+    },
+    "PW": {
+        "name": "Hupalau"
+    },
+    "PY": {
+        "name": "Hupalagwai"
+    },
+    "QA": {
+        "name": "Hukatali"
+    },
+    "RE": {
+        "name": "Huliyunioni"
+    },
+    "RO": {
+        "name": "Hulomania"
+    },
+    "RU": {
+        "name": "Huulusi"
+    },
+    "RW": {
+        "name": "Hulwanda"
+    },
+    "SA": {
+        "name": "Husaudi"
+    },
+    "SB": {
+        "name": "Ifisima fya Solomon"
+    },
+    "SC": {
+        "name": "Hushelisheli"
+    },
+    "SD": {
+        "name": "Husudani"
+    },
+    "SE": {
+        "name": "Huuswidi"
+    },
+    "SG": {
+        "name": "Husingapoo"
+    },
+    "SH": {
+        "name": "Husantahelena"
+    },
+    "SI": {
+        "name": "Huslovenia"
+    },
+    "SK": {
+        "name": "Huslovakia"
+    },
+    "SL": {
+        "name": "Husiela Lioni"
+    },
+    "SM": {
+        "name": "Husamalino"
+    },
+    "SN": {
+        "name": "Husenegali"
+    },
+    "SO": {
+        "name": "Husomalia"
+    },
+    "SR": {
+        "name": "Husurinamu"
+    },
+    "ST": {
+        "name": "Husaotome na Huprinsipe"
+    },
+    "SV": {
+        "name": "Huelsavado"
+    },
+    "SY": {
+        "name": "Husilia"
+    },
+    "SZ": {
+        "name": "Huuswazi"
+    },
+    "TC": {
+        "name": "Ifisima fya Turki na Kaiko"
+    },
+    "TD": {
+        "name": "Huchadi"
+    },
+    "TG": {
+        "name": "Hutogo"
+    },
+    "TH": {
+        "name": "Hutailandi"
+    },
+    "TJ": {
+        "name": "Hutajikistani"
+    },
+    "TK": {
+        "name": "Hutokelau"
+    },
+    "TL": {
+        "name": "Hutimori ya Mashariki"
+    },
+    "TM": {
+        "name": "Huuturukimenistani"
+    },
+    "TN": {
+        "name": "Hutunisia"
+    },
+    "TO": {
+        "name": "Hutonga"
+    },
+    "TR": {
+        "name": "Huuturuki"
+    },
+    "TT": {
+        "name": "Hutrinad na Hutobago"
+    },
+    "TV": {
+        "name": "Hutuvalu"
+    },
+    "TW": {
+        "name": "Hutaiwani"
+    },
+    "TZ": {
+        "name": "Hutanzania"
+    },
+    "UA": {
+        "name": "Huukraini"
+    },
+    "UG": {
+        "name": "Huuganda"
+    },
+    "US": {
+        "name": "Humalekani"
+    },
+    "UY": {
+        "name": "Huulugwai"
+    },
+    "UZ": {
+        "name": "Huuzibekistani"
+    },
+    "VA": {
+        "name": "Huvatikani"
+    },
+    "VC": {
+        "name": "Husantavisenti na Hugrenadini"
+    },
+    "VE": {
+        "name": "Huvenezuela"
+    },
+    "VG": {
+        "name": "Ifisima fya Virgin fya Huingereza"
+    },
+    "VI": {
+        "name": "Ifisima fya Virgin fya Humelekani"
+    },
+    "VN": {
+        "name": "Huvietinamu"
+    },
+    "VU": {
+        "name": "Huvanuatu"
+    },
+    "WF": {
+        "name": "Huwalis na Hufutuna"
+    },
+    "WS": {
+        "name": "Husamoa"
+    },
+    "YE": {
+        "name": "Huyemeni"
+    },
+    "YT": {
+        "name": "Humayotte"
+    },
+    "ZA": {
+        "name": "Huafrika iya Hukusini"
+    },
+    "ZM": {
+        "name": "Huzambia"
+    },
+    "ZW": {
+        "name": "Huzimbabwe"
+    }
+}
